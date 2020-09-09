@@ -5,20 +5,51 @@ const answerButton = document.querySelector(".answerSubmit");
 const startButton = document.querySelector(".startSubmit");
 const correctCount = document.querySelector(".correctCount");
 const wrongCount = document.querySelector(".wrongCount");
+const timer = document.querySelector(".timer");
+const instructions = document.querySelector(".instructions");
 
 const wrongAudio = new Audio("sounds/wrong.mp3");
 const correctAudio = new Audio("sounds/correct.mp3");
 const awesomeAudio = new Audio("sounds/awesome.mp3");
+const timesUpAudio = new Audio("sounds/timesUp.m4a");
 
 startButton.addEventListener("click", start);
 answerButton.addEventListener("click", checkAnswer);
 let num1, num2;
 let correctAnswers = 0;
 let wrongAnswers = 0;
+const MAXIMUM_TIME_SECONDS = 20;
+const TIMER_UPDATE_INTERFAL_SECONDS = 0.1;
+let startTime;
+let playing = false;
+
+function updateTimer() {
+  const timePassedSeconds = (new Date() - startTime) / 1000;
+  const timeRemainingSeconds = Math.max(
+    0,
+    MAXIMUM_TIME_SECONDS - timePassedSeconds
+  );
+  timer.innerText = `${Math.floor(timeRemainingSeconds * 10) / 10}`;
+  if (timeRemainingSeconds <= 0) {
+    return endGame();
+  }
+  setTimeout(updateTimer, TIMER_UPDATE_INTERFAL_SECONDS * 1000);
+}
+
+function endGame() {
+  playing = false;
+  timesUpAudio.play();
+  const value = `Congratulations, you got ${correctAnswers} right!  Play again and try to beat it!`;
+  instructions.innerText = value;
+  console.log(`set instructions inner text to ${value}`);
+}
 
 function start() {
+  playing = true;
   correctAnswers = 0;
   wrongAnswers = 0;
+  startTime = new Date();
+  updateTimer();
   regenerate();
 }
 
@@ -35,6 +66,9 @@ function updateScore() {
 }
 
 function checkAnswer() {
+  if (!playing) {
+    return;
+  }
   const value = answer.value;
   if (value == num1 + num2) {
     result.innerText = "correct";
