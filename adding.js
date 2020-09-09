@@ -18,7 +18,7 @@ answerButton.addEventListener("click", checkAnswer);
 let num1, num2;
 let correctAnswers = 0;
 let wrongAnswers = 0;
-const MAXIMUM_TIME_SECONDS = 20;
+const MAXIMUM_TIME_SECONDS = 60;
 const TIMER_UPDATE_INTERFAL_SECONDS = 0.1;
 let startTime;
 let playing = false;
