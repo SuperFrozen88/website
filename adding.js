@@ -15,6 +15,7 @@ const timesUpAudio = new Audio("sounds/timesUp.m4a");
 
 startButton.addEventListener("click", start);
 answerButton.addEventListener("click", checkAnswer);
+answer.addEventListener("keydown", answerKeyPress);
 let num1, num2;
 let correctAnswers = 0;
 let wrongAnswers = 0;
@@ -51,6 +52,7 @@ function start() {
   startTime = new Date();
   updateTimer();
   regenerate();
+  answer.focus();
 }
 
 function regenerate() {
@@ -63,6 +65,13 @@ function regenerate() {
 function updateScore() {
   correctCount.innerText = `Correct: ${correctAnswers}`;
   wrongCount.innerText = `Wrong: ${wrongAnswers}`;
+}
+
+function answerKeyPress(e) {
+  // check if enter was pressed
+  if (e.key === "Enter") {
+    checkAnswer();
+  }
 }
 
 function checkAnswer() {
@@ -93,6 +102,7 @@ function checkAnswer() {
   }
   answer.value = "";
   updateScore();
+  answer.focus();
 }
 
 function fadeAudio(sound) {
