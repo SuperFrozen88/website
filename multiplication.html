@@ -1,0 +1,67 @@
+<html>
+  <div
+    class="game"
+    style="
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      padding-top: 100px;
+    "
+  >
+    <p
+      class="instructions"
+      style="color: rgb(9 222 245); font-size: 30px; align-self: center"
+    >
+      When you click Start you will have 100 seconds to answer as many questions
+      as possible.
+    </p>
+    <div
+      class="score"
+      style="display: flex; flex-direction: row; width: 50%; align-self: center"
+    >
+      <p
+        class="correctCount"
+        style="flex: 1; font-size: 50px; color: green"
+      ></p>
+      <p
+        class="timer"
+        ,
+        style="flex: 1; font-size: 50px; text-align: center; color: #5a8cff"
+      ></p>
+      <p
+        class="wrongCount"
+        style="flex: 1; font-size: 50px; color: red; text-align: right"
+      ></p>
+    </div>
+
+    <button
+      class="startSubmit"
+      style="width: 50%; align-self: center; font-size: 50px"
+    >
+      Start
+    </button>
+    <p class="question" style="align-self: center; font-size: 50px"></p>
+    <div class="form" style="align-self: center">
+      <label for="answerField" style="color: rgb(255, 85, 224); font-size: 50px"
+        >Answer:
+      </label>
+      <input
+        type="text"
+        id="answerField"
+        class="answerField"
+        style="background-color: rgb(170, 254, 195); font-size: 50px"
+      />
+      <input
+        type="submit"
+        value="Submit"
+        class="answerSubmit"
+        style="font-size: 50px; -webkit-appearance: none"
+      />
+    </div>
+    <p
+      class="result"
+      style="width: 100%; text-align: center; font-size: 120; margin: 20px"
+    ></p>
+  </div>
+  <script src="multiplication.js"></script>
+</html>
