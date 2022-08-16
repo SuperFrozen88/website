@@ -1,4 +1,10 @@
 <html>
+  <head>
+    <style>
+      .digits {background-color: lime;}
+    </style>
+  </head>
+  <body>
   <div
     class="game"
     style="
@@ -58,28 +64,33 @@
         style="font-size: 50px; -webkit-appearance: none"
       />
     </div>
+    <div style="display:flex; flex-direction:row; width: 100%; align-items: center">
+    <div className="digitsContainer">
     <div style="display:flex; flex-direction: row">
       <button className="digits" id="b1" value="1">1</button>
-  <button className="digits" id="b2" value="2">2</button>
-  <button className="digits" id="b3" value="3">3</button>
+      <button className="digits" id="b2" value="2">2</button>
+      <button className="digits" id="b3" value="3">3</button>
     </div>
     <div style="display:flex; flex-direction: row">
-  <button className="digits" id="b4" value="4">4</button>
-  <button className="digits" id="b5" value="5">5</button>
-  <button className="digits" id="b6" value="6">6</button>
+      <button className="digits" id="b4" value="4">4</button>
+      <button className="digits" id="b5" value="5">5</button>
+      <button className="digits" id="b6" value="6">6</button>
     </div>
     <div style="display:flex; flex-direction: row">
-  <button className="digits" id="b7" value="7">7</button>
-  <button className="digits" id="b8" value="8">8</button>
-  <button className="digits" id="b9" value="9">9</button>
+      <button className="digits" id="b7" value="7">7</button>
+      <button className="digits" id="b8" value="8">8</button>
+      <button className="digits" id="b9" value="9">9</button>
     </div>
     <div style="display:flex; flex-direction: row">
-  <button className="digits" id="b0" value="0">0</button>
+      <button className="digits" id="b0" value="0">0</button>
     </div>
+   </div>
+   </div>
     <p
       class="result"
       style="width: 100%; text-align: center; font-size: 120; margin: 20px"
     ></p>
   </div>
   <script src="multiplication.js"></script>
+  </body>
 </html>
