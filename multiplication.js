@@ -16,6 +16,8 @@ const timesUpAudio = new Audio("sounds/timesUp.m4a");
 startButton.addEventListener("click", start);
 answerButton.addEventListener("click", checkAnswer);
 answer.addEventListener("keydown", answerKeyPress);
+toggleDigitsVisibility(false);
+
 let num1, num2;
 let correctAnswers = 0;
 let wrongAnswers = 0;
@@ -37,15 +39,25 @@ function updateTimer() {
   setTimeout(updateTimer, TIMER_UPDATE_INTERFAL_SECONDS * 1000);
 }
 
+function toggleDigitsVisibility(visible) {
+  if (visible === true) {
+    document.getElementById('digitsContainer').style['display'] = 'flex';
+  } else {
+    document.getElementById('digitsContainer').style['display'] = 'None';
+}
+
+
 function endGame() {
   playing = false;
   timesUpAudio.play();
   const value = `Congratulations, you got ${correctAnswers} right!  Play again and try to beat it!`;
   instructions.innerText = value;
   console.log(`set instructions inner text to ${value}`);
+  toggleDigitisVisibility(false);
 }
 
 function start() {
+  toggleDigitisVisibility(true);
   playing = true;
   correctAnswers = 0;
   wrongAnswers = 0;
