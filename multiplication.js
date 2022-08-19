@@ -22,7 +22,7 @@ let num1, num2;
 let correctAnswers = 0;
 let wrongAnswers = 0;
 const MAXIMUM_TIME_SECONDS = 100;
-const TIMER_UPDATE_INTERFAL_SECONDS = 0.1;
+const TIMER_UPDATE_INTERVAL_SECONDS = 0.1;
 let startTime;
 let playing = false;
 
@@ -36,7 +36,7 @@ function updateTimer() {
   if (timeRemainingSeconds <= 0) {
     return endGame();
   }
-  setTimeout(updateTimer, TIMER_UPDATE_INTERFAL_SECONDS * 1000);
+  setTimeout(updateTimer, TIMER_UPDATE_INTERVAL_SECONDS * 1000);
 }
 
 function toggleDigitsVisibility(visible) {
@@ -45,8 +45,9 @@ function toggleDigitsVisibility(visible) {
     console.log('toggleDigitsVisibility : setting digitsContainer display style to block');
     document.getElementById('digitsContainer').style['display'] = 'block';
   } else {
-        console.log('toggleDigitsVisibility : setting digitsContainer display style to None');
+    console.log('toggleDigitsVisibility : setting digitsContainer display style to None');
     document.getElementById('digitsContainer').style['display'] = 'None';
+  }
 }
 
 
