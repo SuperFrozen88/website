@@ -41,8 +41,10 @@ function updateTimer() {
 
 function toggleDigitsVisibility(visible) {
   if (visible === true) {
+    console.log('toggleDigitsVisibility : setting digitsContainer display style to flex');
     document.getElementById('digitsContainer').style['display'] = 'flex';
   } else {
+        console.log('toggleDigitsVisibility : setting digitsContainer display style to None');
     document.getElementById('digitsContainer').style['display'] = 'None';
 }
 
