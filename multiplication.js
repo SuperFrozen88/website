@@ -40,6 +40,7 @@ function updateTimer() {
 }
 
 function toggleDigitsVisibility(visible) {
+  console.log('toggleDigitsVisibility : called');
   if (visible === true) {
     console.log('toggleDigitsVisibility : setting digitsContainer display style to block');
     document.getElementById('digitsContainer').style['display'] = 'block';
@@ -50,16 +51,16 @@ function toggleDigitsVisibility(visible) {
 
 
 function endGame() {
+  toggleDigitsVisibility(false);
   playing = false;
   timesUpAudio.play();
   const value = `Congratulations, you got ${correctAnswers} right!  Play again and try to beat it!`;
   instructions.innerText = value;
   console.log(`set instructions inner text to ${value}`);
-  toggleDigitisVisibility(false);
 }
 
 function start() {
-  toggleDigitisVisibility(true);
+  toggleDigitsVisibility(true);
   playing = true;
   correctAnswers = 0;
   wrongAnswers = 0;
