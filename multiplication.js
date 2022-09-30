@@ -21,7 +21,7 @@ toggleDigitsVisibility(false);
 let num1, num2;
 let correctAnswers = 0;
 let wrongAnswers = 0;
-const MAXIMUM_TIME_SECONDS = 100;
+const MAXIMUM_TIME_SECONDS = 300;
 const TIMER_UPDATE_INTERVAL_SECONDS = 0.1;
 let startTime;
 let playing = false;
@@ -72,8 +72,8 @@ function start() {
 }
 
 function regenerate() {
-  num1 = Math.floor(Math.random() * 10) + 1;
-  num2 = Math.floor(Math.random() * 10) + 1;
+  num1 = Math.floor(Math.random() * 12) + 1;
+  num2 = Math.floor(Math.random() * 12) + 1;
   question.innerText = `${num1} * ${num2}`;
   updateScore();
 }
