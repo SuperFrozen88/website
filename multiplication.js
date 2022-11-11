@@ -98,6 +98,8 @@ function checkAnswer(checkForWrongAnswers) {
   }
   const value = answer.value;
   let shouldClearValue = false;
+  console.log(`checkAnswer called with checkForWrongAnswers=${checkForWrongAnswers}`);
+  
   if (value == num1 * num2) {
     result.innerText = "correct";
     result.style.color = "black";
@@ -107,6 +109,7 @@ function checkAnswer(checkForWrongAnswers) {
     correctAnswers += 1;
     correctAudio.play();
     shouldClearValue = true;
+    console.log('correct!');
   } else if (value === "Emily") {
     showResult("EMILY IS AWESOME", "purple");
     awesomeAudio.currentTime = 4;
@@ -124,6 +127,7 @@ function checkAnswer(checkForWrongAnswers) {
   }
   if (shouldClearValue) {    
     answer.value = "";
+    console.log('clearing value');
   }
   updateScore();
   answer.focus();
