@@ -86,15 +86,18 @@ function updateScore() {
 function answerKeyPress(e) {
   // check if enter was pressed
   if (e.key === "Enter") {
-    checkAnswer();
+    checkAnswer(true);
+  } else {
+    checkAnswer(false);
   }
 }
 
-function checkAnswer() {
+function checkAnswer(checkForWrongAnswers) {
   if (!playing) {
     return;
   }
   const value = answer.value;
+  let shouldClearValue = false;
   if (value == num1 * num2) {
     result.innerText = "correct";
     result.style.color = "black";
@@ -103,6 +106,7 @@ function checkAnswer() {
     showResult("CORRECT", "green");
     correctAnswers += 1;
     correctAudio.play();
+    shouldClearValue = true;
   } else if (value === "Emily") {
     showResult("EMILY IS AWESOME", "purple");
     awesomeAudio.currentTime = 4;
@@ -111,12 +115,16 @@ function checkAnswer() {
       fadeAudio(awesomeAudio);
     };
     setInterval(stopAwesome, 3000);
-  } else {
+    shouldClearValue = true;
+  } else if (checkForWrongAnswers === true) {
     wrongAnswers += 1;
     showResult("WRONG", "red");
     wrongAudio.play();
+    shouldClearValue = true;
   }
-  answer.value = "";
+  if (shouldClearValue) {    
+    answer.value = "";
+  }
   updateScore();
   answer.focus();
 }
