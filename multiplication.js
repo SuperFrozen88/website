@@ -15,7 +15,7 @@ const timesUpAudio = new Audio("sounds/timesUp.m4a");
 
 startButton.addEventListener("click", start);
 answerButton.addEventListener("click", checkAnswer);
-answer.addEventListener("keydown", answerKeyPress);
+answer.addEventListener("keyup", answerKeyPress);
 toggleDigitsVisibility(false);
 
 let num1, num2;
@@ -98,7 +98,7 @@ function checkAnswer(checkForWrongAnswers) {
   }
   const value = answer.value;
   let shouldClearValue = false;
-  console.log(`checkAnswer called with checkForWrongAnswers=${checkForWrongAnswers}`);
+  console.log(`checkAnswer called with on keyup checkForWrongAnswers=${checkForWrongAnswers}`);
   
   if (value == num1 * num2) {
     result.innerText = "correct";
