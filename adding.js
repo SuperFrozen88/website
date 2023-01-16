@@ -15,14 +15,23 @@ const timesUpAudio = new Audio("sounds/timesUp.m4a");
 
 startButton.addEventListener("click", start);
 answerButton.addEventListener("click", checkAnswer);
-answer.addEventListener("keydown", answerKeyPress);
+answer.addEventListener("keyup", answerKeyPress);
 let num1, num2;
 let correctAnswers = 0;
 let wrongAnswers = 0;
-const MAXIMUM_TIME_SECONDS = 60;
+const MAXIMUM_TIME_SECONDS = 120;
 const TIMER_UPDATE_INTERFAL_SECONDS = 0.1;
 let startTime;
 let playing = false;
+let numbersToInclude = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12];
+
+function updateNumbersToInclude() {
+  const numbers = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12];
+  numbersToInclude = numbers.map(n => {
+    const checkbox = document.querySelector(`#n${n}`);
+    return checkbox?.checked ? n : null;
+  }).filter(n => n !== null)
+}
 
 function updateTimer() {
   const timePassedSeconds = (new Date() - startTime) / 1000;
@@ -46,6 +55,7 @@ function endGame() {
 }
 
 function start() {
+  updateNumbersToInclude();
   playing = true;
   correctAnswers = 0;
   wrongAnswers = 0;
@@ -56,8 +66,11 @@ function start() {
 }
 
 function regenerate() {
-  num1 = Math.floor(Math.random() * 10) + 1;
+  num1 = numbersToInclude[Math.floor(Math.random() * numbersToInclude.length)];
   num2 = Math.floor(Math.random() * 10) + 1;
+  if (Math.random() > 0.5) {
+    [num1, num2] = [num2, num1];
+  }
   question.innerText = `${num1} + ${num2}`;
   updateScore();
 }
@@ -70,15 +83,20 @@ function updateScore() {
 function answerKeyPress(e) {
   // check if enter was pressed
   if (e.key === "Enter") {
-    checkAnswer();
+    checkAnswer(true);
+  } else {
+    checkAnswer(false);
   }
 }
 
-function checkAnswer() {
+function checkAnswer(checkForWrongAnswers) {
   if (!playing) {
     return;
   }
+
   const value = answer.value;
+  let shouldClearValue = false;
+
   if (value == num1 + num2) {
     result.innerText = "correct";
     result.style.color = "black";
@@ -87,6 +105,7 @@ function checkAnswer() {
     showResult("CORRECT", "green");
     correctAnswers += 1;
     correctAudio.play();
+    shouldClearValue = true;
   } else if (value === "Emily") {
     showResult("EMILY IS AWESOME", "pink");
     awesomeAudio.currentTime = 4;
@@ -95,12 +114,16 @@ function checkAnswer() {
       fadeAudio(awesomeAudio);
     };
     setInterval(stopAwesome, 3000);
-  } else {
+    shouldClearValue = true;
+  } else if (checkForWrongAnswers === true) {
     wrongAnswers += 1;
     showResult("WRONG", "red");
     wrongAudio.play();
+    shouldClearValue = true;
   }
-  answer.value = "";
+  if (shouldClearValue === true) {
+    answer.value = "";
+  }
   updateScore();
   answer.focus();
 }
