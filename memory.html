@@ -5,9 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Memory Card Game</title>
     <style>
+        #game-board {
+            display: flex;
+            flex-wrap: wrap;
+            width: 600px;
+            margin: 0 auto;
+        }
         .card {
             width: 100px;
             height: 150px;
+            margin: 5px;
             perspective: 1000px;
             cursor: pointer;
         }
@@ -44,17 +51,39 @@
     </style>
 </head>
 <body>
-    <div class="card" id="card">
-        <div class="card-inner">
-            <div class="card-face card-back">?</div>
-            <div class="card-face card-front">A</div>
-        </div>
-    </div>
+    <div id="game-board"></div>
 
     <script>
-        const card = document.getElementById('card');
-        card.addEventListener('click', () => {
-            card.classList.toggle('flipped');
+        const gameBoard = document.getElementById('game-board');
+        const cardValues = ['A', 'u', 'd', 'r', 'e', 'y'];
+        let cards = [...cardValues, ...cardValues];
+
+        // Fisher-Yates shuffle algorithm
+        function shuffle(array) {
+            for (let i = array.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [array[i], array[j]] = [array[j], array[i]];
+            }
+            return array;
+        }
+
+        // Shuffle the cards
+        cards = shuffle(cards);
+
+        // Create card elements
+        cards.forEach((value, index) => {
+            const card = document.createElement('div');
+            card.className = 'card';
+            card.innerHTML = `
+                <div class="card-inner">
+                    <div class="card-face card-back">?</div>
+                    <div class="card-face card-front">${value}</div>
+                </div>
+            `;
+            card.addEventListener('click', () => {
+                card.classList.toggle('flipped');
+            });
+            gameBoard.appendChild(card);
         });
     </script>
 </body>
