@@ -24,7 +24,7 @@
       class="instructions"
       style="color: rgb(9 222 245); font-size: 30px; align-self: center"
     >
-      When you click Start you will have 5 minutes to answer as many questions
+      When you click Start you will have 2 minutes to answer as many questions
       as possible.
     </p>
     <div
@@ -89,6 +89,8 @@
     </div>
     <div style="display:flex; flex-direction: row">
       <button class="digits" id="b0" value="0">0</button>
+      <button class="digits" id="clear" value="clear" style="background-color: orange;">Clear</button>
+      <button class="digits" id="backspace" value="backspace" style="background-color: yellow;">⌫</button>
     </div>
    </div>
    </div>
@@ -96,6 +98,96 @@
       class="result"
       style="width: 100%; text-align: center; font-size: 120; margin: 20px"
     ></p>
+    
+    <!-- Number Selector -->
+    <div class="numberSelector" style="
+      width: 80%; 
+      align-self: center; 
+      background-color: rgba(255, 255, 255, 0.9); 
+      padding: 20px; 
+      border-radius: 10px; 
+      margin-top: 30px;
+    ">
+      <h3 style="text-align: center; color: #333; margin-bottom: 20px;">
+        Select Numbers to Include (1-12):
+      </h3>
+      <div style="
+        display: grid; 
+        grid-template-columns: repeat(6, 1fr); 
+        gap: 15px; 
+        justify-items: center;
+      ">
+        <label style="display: flex; flex-direction: column; align-items: center; color: #333;">
+          <input type="checkbox" id="num1" value="1" style="margin-bottom: 5px; transform: scale(1.5);">
+          <span style="font-size: 18px; font-weight: bold;">1</span>
+        </label>
+        <label style="display: flex; flex-direction: column; align-items: center; color: #333;">
+          <input type="checkbox" id="num2" value="2" style="margin-bottom: 5px; transform: scale(1.5);">
+          <span style="font-size: 18px; font-weight: bold;">2</span>
+        </label>
+        <label style="display: flex; flex-direction: column; align-items: center; color: #333;">
+          <input type="checkbox" id="num3" value="3" style="margin-bottom: 5px; transform: scale(1.5);">
+          <span style="font-size: 18px; font-weight: bold;">3</span>
+        </label>
+        <label style="display: flex; flex-direction: column; align-items: center; color: #333;">
+          <input type="checkbox" id="num4" value="4" style="margin-bottom: 5px; transform: scale(1.5);">
+          <span style="font-size: 18px; font-weight: bold;">4</span>
+        </label>
+        <label style="display: flex; flex-direction: column; align-items: center; color: #333;">
+          <input type="checkbox" id="num5" value="5" style="margin-bottom: 5px; transform: scale(1.5);">
+          <span style="font-size: 18px; font-weight: bold;">5</span>
+        </label>
+        <label style="display: flex; flex-direction: column; align-items: center; color: #333;">
+          <input type="checkbox" id="num6" value="6" style="margin-bottom: 5px; transform: scale(1.5);">
+          <span style="font-size: 18px; font-weight: bold;">6</span>
+        </label>
+        <label style="display: flex; flex-direction: column; align-items: center; color: #333;">
+          <input type="checkbox" id="num7" value="7" style="margin-bottom: 5px; transform: scale(1.5);">
+          <span style="font-size: 18px; font-weight: bold;">7</span>
+        </label>
+        <label style="display: flex; flex-direction: column; align-items: center; color: #333;">
+          <input type="checkbox" id="num8" value="8" style="margin-bottom: 5px; transform: scale(1.5);">
+          <span style="font-size: 18px; font-weight: bold;">8</span>
+        </label>
+        <label style="display: flex; flex-direction: column; align-items: center; color: #333;">
+          <input type="checkbox" id="num9" value="9" style="margin-bottom: 5px; transform: scale(1.5);">
+          <span style="font-size: 18px; font-weight: bold;">9</span>
+        </label>
+        <label style="display: flex; flex-direction: column; align-items: center; color: #333;">
+          <input type="checkbox" id="num10" value="10" style="margin-bottom: 5px; transform: scale(1.5);">
+          <span style="font-size: 18px; font-weight: bold;">10</span>
+        </label>
+        <label style="display: flex; flex-direction: column; align-items: center; color: #333;">
+          <input type="checkbox" id="num11" value="11" style="margin-bottom: 5px; transform: scale(1.5);">
+          <span style="font-size: 18px; font-weight: bold;">11</span>
+        </label>
+        <label style="display: flex; flex-direction: column; align-items: center; color: #333;">
+          <input type="checkbox" id="num12" value="12" style="margin-bottom: 5px; transform: scale(1.5);">
+          <span style="font-size: 18px; font-weight: bold;">12</span>
+        </label>
+      </div>
+      <div style="text-align: center; margin-top: 15px;">
+        <button id="selectAll" style="
+          background-color: #4CAF50; 
+          color: white; 
+          padding: 10px 20px; 
+          border: none; 
+          border-radius: 5px; 
+          cursor: pointer; 
+          margin-right: 10px;
+          font-size: 16px;
+        ">Select All</button>
+        <button id="selectNone" style="
+          background-color: #f44336; 
+          color: white; 
+          padding: 10px 20px; 
+          border: none; 
+          border-radius: 5px; 
+          cursor: pointer;
+          font-size: 16px;
+        ">Select None</button>
+      </div>
+    </div>
   </div>
   <script src="multiplication.js"></script>
   </body>
