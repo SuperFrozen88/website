@@ -1,19 +1,19 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang=en>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset=UTF-8>
+    <meta name=viewport" content="width=device-width, initial-scale=1.0">
     <title>Memory Card Game</title>
     <style>
         #game-board {
             display: flex;
             flex-wrap: wrap;
-            width: 600px;
-            margin: 0 auto;
+            width: 600;
+            margin: 0
         }
         .card {
-            width: 100px;
-            height: 150px;
+            width: 300px;
+            height: 300px;
             margin: 5px;
             perspective: 1000px;
             cursor: pointer;
@@ -35,18 +35,22 @@
             display: flex;
             justify-content: center;
             align-items: center;
-            font-size: 24px;
             border: 2px solid #000;
             border-radius: 5px;
+            overflow: hidden;
         }
         .card-back {
-            background-color: #007bff;
-            color: white;
+            background-image: url('images/memory_game/back.png');
+            background-size: cover;
+            background-position: center;
         }
         .card-front {
-            background-color: white;
-            color: #007bff;
+            background-size: cover;
+            background-position: center;
             transform: rotateY(180deg);
+        }
+        .card.matched {
+            cursor: default;
         }
     </style>
 </head>
@@ -55,8 +59,12 @@
 
     <script>
         const gameBoard = document.getElementById('game-board');
-        const cardValues = ['A', 'u', 'd', 'r', 'e', 'y'];
-        let cards = [...cardValues, ...cardValues];
+        const cardImages = ['red.png', 'blue.png', 'green.png', 'yellow.png', 'orange.png', 'purple.png'];
+        let cards = [...cardImages, ...cardImages];
+        
+        // Game state variables
+        let flippedCards = [];
+        let canFlip = true;
 
         // Fisher-Yates shuffle algorithm
         function shuffle(array) {
@@ -70,18 +78,57 @@
         // Shuffle the cards
         cards = shuffle(cards);
 
+        // Function to check if two cards match
+        function checkMatch() {
+            if (flippedCards.length === 2) {
+                const [card1, card2] = flippedCards;
+                const image1 = card1.querySelector('.card-front').style.backgroundImage;
+                const image2 = card2.querySelector('.card-front').style.backgroundImage;
+                
+                if (image1 === image2) {
+                    // Match found - keep cards flipped
+                    card1.classList.add('matched');
+                    card2.classList.add('matched');
+                    flippedCards = [];
+                    canFlip = true;
+                } else {
+                    // No match - flip cards back after a delay
+                    canFlip = false;
+                    setTimeout(() => {
+                        card1.classList.remove('flipped');
+                        card2.classList.remove('flipped');
+                        flippedCards = [];
+                        canFlip = true;
+                    }, 1000);
+                }
+            }
+        }
+
         // Create card elements
-        cards.forEach((value, index) => {
+        cards.forEach((imageName, index) => {
             const card = document.createElement('div');
             card.className = 'card';
             card.innerHTML = `
                 <div class="card-inner">
-                    <div class="card-face card-back">?</div>
-                    <div class="card-face card-front">${value}</div>
+                    <div class="card-face card-back"></div>
+                    <div class="card-face card-front" style="background-image: url('images/memory_game/${imageName}')"></div>
                 </div>
             `;
             card.addEventListener('click', () => {
-                card.classList.toggle('flipped');
+                // Only allow flipping if card is not already flipped, matched, or if we're waiting
+                if (!card.classList.contains('flipped') && 
+                    !card.classList.contains('matched') && 
+                    canFlip && 
+                    flippedCards.length < 2) {
+                    
+                    card.classList.add('flipped');
+                    flippedCards.push(card);
+                    
+                    // Check for match when two cards are flipped
+                    if (flippedCards.length === 2) {
+                        checkMatch();
+                    }
+                }
             });
             gameBoard.appendChild(card);
         });
