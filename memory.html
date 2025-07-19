@@ -1,32 +1,44 @@
 <!DOCTYPE html>
-<html lang=en>
+<html lang="en">
 <head>
-    <meta charset=UTF-8>
-    <meta name=viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Memory Card Game</title>
     <style>
-        #game-board {
-            display: flex;
-            flex-wrap: wrap;
-            width: 600;
-            margin: 0
+        body {
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            overflow: hidden;
+            background-color: #f0f0f0;
+            font-family: Arial, sans-serif;
         }
+        
+        #game-board {
+            display: grid;
+            width: 100vw;
+            height: 100vh;
+            box-sizing: border-box;
+            justify-content: center;
+            align-content: center;
+        }
+        
         .card {
-            width: 300px;
-            height: 300px;
-            margin: 5px;
             perspective: 1000px;
             cursor: pointer;
         }
+        
         .card-inner {
             width: 100%;
             height: 100%;
             transition: transform 0.6s;
             transform-style: preserve-3d;
         }
+        
         .card.flipped .card-inner {
             transform: rotateY(180deg);
         }
+        
         .card-face {
             position: absolute;
             width: 100%;
@@ -35,22 +47,29 @@
             display: flex;
             justify-content: center;
             align-items: center;
-            border: 2px solid #000;
-            border-radius: 5px;
+            border: 2px solid #333;
+            border-radius: 8px;
             overflow: hidden;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
         }
+        
         .card-back {
             background-image: url('images/memory_game/back.png');
             background-size: cover;
             background-position: center;
         }
+        
         .card-front {
-            background-size: cover;
+            background-size: contain;
             background-position: center;
+            background-repeat: no-repeat;
+            background-color: white;
             transform: rotateY(180deg);
         }
+        
         .card.matched {
             cursor: default;
+            opacity: 0.8;
         }
     </style>
 </head>
@@ -59,12 +78,17 @@
 
     <script>
         const gameBoard = document.getElementById('game-board');
-        const cardImages = ['red.png', 'blue.png', 'green.png', 'yellow.png', 'orange.png', 'purple.png'];
+        const cardImages = ['red.png', 'blue.png', 'green.png', 'yellow.png', 'orange.png', 'purple.png', 'dancing.jpg', 'dancing2.png', 'gymnastics.jpeg', 'gymnastics2.jpeg', 'soccer.jpg', 'soccer2.png', 'softball.jpeg', 'softball2.jpeg', 'softball3.png', 'taekwondo.jpg', 'taekwondo2.png'];
         let cards = [...cardImages, ...cardImages];
         
         // Game state variables
         let flippedCards = [];
         let canFlip = true;
+        
+        // Audio elements
+        const goodJobAudio = new Audio('sounds/audrey-good_job.m4a');
+        const awwManAudio = new Audio('sounds/audrey-aww_man.m4a');
+        const youWonAudio = new Audio('sounds/audrey-you_won.m4a');
 
         // Fisher-Yates shuffle algorithm
         function shuffle(array) {
@@ -77,6 +101,12 @@
 
         // Shuffle the cards
         cards = shuffle(cards);
+
+        // Function to check if game is complete
+        function checkGameComplete() {
+            const matchedCards = document.querySelectorAll('.card.matched');
+            return matchedCards.length === cards.length;
+        }
 
         // Function to check if two cards match
         function checkMatch() {
@@ -91,9 +121,23 @@
                     card2.classList.add('matched');
                     flippedCards = [];
                     canFlip = true;
+                    
+                    // Check if this was the final match
+                    if (checkGameComplete()) {
+                        // Play you won audio
+                        youWonAudio.currentTime = 0;
+                        youWonAudio.play();
+                    } else {
+                        // Play good job audio
+                        goodJobAudio.currentTime = 0;
+                        goodJobAudio.play();
+                    }
                 } else {
                     // No match - flip cards back after a delay
                     canFlip = false;
+                    // Play aww man audio
+                    awwManAudio.currentTime = 0;
+                    awwManAudio.play();
                     setTimeout(() => {
                         card1.classList.remove('flipped');
                         card2.classList.remove('flipped');
@@ -104,34 +148,73 @@
             }
         }
 
-        // Create card elements
-        cards.forEach((imageName, index) => {
-            const card = document.createElement('div');
-            card.className = 'card';
-            card.innerHTML = `
-                <div class="card-inner">
-                    <div class="card-face card-back"></div>
-                    <div class="card-face card-front" style="background-image: url('images/memory_game/${imageName}')"></div>
-                </div>
-            `;
-            card.addEventListener('click', () => {
-                // Only allow flipping if card is not already flipped, matched, or if we're waiting
-                if (!card.classList.contains('flipped') && 
-                    !card.classList.contains('matched') && 
-                    canFlip && 
-                    flippedCards.length < 2) {
-                    
-                    card.classList.add('flipped');
-                    flippedCards.push(card);
-                    
-                    // Check for match when two cards are flipped
-                    if (flippedCards.length === 2) {
-                        checkMatch();
+        // Function to create card elements
+        function createCards() {
+            gameBoard.innerHTML = ''; // Clear existing cards if any
+            cards.forEach((imageName) => {
+                const card = document.createElement('div');
+                card.className = 'card';
+                card.innerHTML = `
+                    <div class="card-inner">
+                        <div class="card-face card-back"></div>
+                        <div class="card-face card-front" style="background-image: url('images/memory_game/${imageName}')"></div>
+                    </div>
+                `;
+                card.addEventListener('click', () => {
+                    // Only allow flipping if card is not already flipped, matched, or if we're waiting
+                    if (!card.classList.contains('flipped') && 
+                        !card.classList.contains('matched') && 
+                        canFlip && 
+                        flippedCards.length < 2) {
+                        
+                        card.classList.add('flipped');
+                        flippedCards.push(card);
+                        
+                        // Check for match when two cards are flipped
+                        if (flippedCards.length === 2) {
+                            checkMatch();
+                        }
                     }
-                }
+                });
+                gameBoard.appendChild(card);
             });
-            gameBoard.appendChild(card);
-        });
+        }
+
+        // Function to adjust grid layout
+        function adjustGrid() {
+            const numCards = cards.length;
+            const gap = 10; // Fixed gap in pixels
+            const width = window.innerWidth;
+            const height = window.innerHeight;
+            
+            let bestCols = 1;
+            let bestSize = 0;
+            
+            for (let cols = 1; cols <= numCards; cols++) {
+                const rows = Math.ceil(numCards / cols);
+                const availWidth = width - gap * (cols - 1);
+                const availHeight = height - gap * (rows - 1);
+                const cardWidth = availWidth / cols;
+                const cardHeight = availHeight / rows;
+                const possibleSize = Math.min(cardWidth, cardHeight, 200); // Optional max cap for very large screens
+                
+                if (possibleSize > bestSize) {
+                    bestSize = possibleSize;
+                    bestCols = cols;
+                }
+            }
+            
+            gameBoard.style.gridTemplateColumns = `repeat(${bestCols}, ${bestSize}px)`;
+            gameBoard.style.gridAutoRows = `${bestSize}px`;
+            gameBoard.style.gap = `${gap}px`;
+        }
+
+        // Initial setup
+        createCards();
+        adjustGrid();
+
+        // Adjust on resize
+        window.addEventListener('resize', adjustGrid);
     </script>
 </body>
 </html>
