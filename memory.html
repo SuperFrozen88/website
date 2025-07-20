@@ -14,10 +14,18 @@
             font-family: Arial, sans-serif;
         }
         
+        #status {
+            height: 50px;
+            line-height: 50px;
+            text-align: center;
+            font-size: 24px;
+            background-color: #ddd;
+        }
+        
         #game-board {
             display: grid;
             width: 100vw;
-            height: 100vh;
+            height: calc(100vh - 50px);
             box-sizing: border-box;
             justify-content: center;
             align-content: center;
@@ -74,16 +82,21 @@
     </style>
 </head>
 <body>
+    <div id="status"></div>
     <div id="game-board"></div>
 
     <script>
         const gameBoard = document.getElementById('game-board');
-        const cardImages = ['red.png', 'blue.png', 'green.png', 'yellow.png', 'orange.png', 'purple.png', 'dancing.jpg', 'dancing2.png', 'gymnastics.jpeg', 'gymnastics2.jpeg', 'soccer.jpg', 'soccer2.png', 'softball.jpeg', 'softball2.jpeg', 'softball3.png', 'taekwondo.jpg', 'taekwondo2.png', 'cannonball.png', 'dragon.png', 'roller_coaster.png'];
+        const statusElement = document.getElementById('status');
+        const cardImages = ['red.png', 'blue.png', 'green.png', 'yellow.png', 'orange.png', 'purple.png', 'dancing.jpg', 'dancing2.png', 'gymnastics.jpeg', 'gymnastics2.jpeg', 'soccer.jpg', 'soccer2.png', 'softball.jpeg', 'softball2.jpeg', 'softball3.png', 'taekwondo.jpg', 'taekwondo2.png', 'cannonball.png', 'dragon.png', 'roller_coaster.png', 'painting.png', 'iceskating.png'];
         let cards = [...cardImages, ...cardImages];
         
         // Game state variables
         let flippedCards = [];
         let canFlip = true;
+        let currentPlayer = 1;
+        let score1 = 0;
+        let score2 = 0;
         
         // Audio elements
         const goodJobAudio = new Audio('sounds/audrey-good_job.m4a');
@@ -102,6 +115,23 @@
         // Shuffle the cards
         cards = shuffle(cards);
 
+        // Function to update status
+        function updateStatus() {
+            let message = `Player ${currentPlayer}'s turn | Scores: P1: ${score1} - P2: ${score2}`;
+            if (checkGameComplete()) {
+                let winner;
+                if (score1 > score2) {
+                    winner = 'Player 1 wins!';
+                } else if (score2 > score1) {
+                    winner = 'Player 2 wins!';
+                } else {
+                    winner = 'It\'s a tie!';
+                }
+                message = `Game Over! ${winner} | Final Scores: P1: ${score1} - P2: ${score2}`;
+            }
+            statusElement.innerHTML = message;
+        }
+
         // Function to check if game is complete
         function checkGameComplete() {
             const matchedCards = document.querySelectorAll('.card.matched');
@@ -119,21 +149,31 @@
                     // Match found - keep cards flipped
                     card1.classList.add('matched');
                     card2.classList.add('matched');
+                    
+                    // Award point to current player
+                    if (currentPlayer === 1) {
+                        score1++;
+                    } else {
+                        score2++;
+                    }
+                    
                     flippedCards = [];
                     canFlip = true;
+                    updateStatus();
                     
                     // Check if this was the final match
                     if (checkGameComplete()) {
+                        canFlip = false;
                         // Play you won audio
                         youWonAudio.currentTime = 0;
                         youWonAudio.play();
                     } else {
-                        // Play good job audio
+                        // Play good job audio (player keeps turn)
                         goodJobAudio.currentTime = 0;
                         goodJobAudio.play();
                     }
                 } else {
-                    // No match - flip cards back after a delay
+                    // No match - flip cards back after a delay and switch player
                     canFlip = false;
                     // Play aww man audio
                     awwManAudio.currentTime = 0;
@@ -142,6 +182,9 @@
                         card1.classList.remove('flipped');
                         card2.classList.remove('flipped');
                         flippedCards = [];
+                        // Switch player
+                        currentPlayer = currentPlayer === 1 ? 2 : 1;
+                        updateStatus();
                         canFlip = true;
                     }, 1000);
                 }
@@ -185,7 +228,7 @@
             const numCards = cards.length;
             const gap = 10; // Fixed gap in pixels
             const width = window.innerWidth;
-            const height = window.innerHeight;
+            const height = window.innerHeight - 50; // Account for status bar
             
             let bestCols = 1;
             let bestSize = 0;
@@ -211,6 +254,7 @@
 
         // Initial setup
         createCards();
+        updateStatus();
         adjustGrid();
 
         // Adjust on resize
