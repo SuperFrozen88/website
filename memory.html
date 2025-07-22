@@ -10,25 +10,61 @@
             padding: 0;
             height: 100vh;
             overflow: hidden;
-            background-color: #f0f0f0;
+            background-color: #E8B5B9; /* Light pink from palette */
             font-family: Arial, sans-serif;
+            color: #333; /* Dark font for general text */
+        }
+        
+        #sidebar {
+            position: fixed;
+            left: 0;
+            top: 0;
+            bottom: 0;
+            width: 200px;
+            background: #3D5A96; /* Blue from palette */
+            padding: 20px;
+            box-sizing: border-box;
+            z-index: 10;
+            color: white; /* White text for contrast */
+        }
+        
+        #sidebar label {
+            display: block;
+            margin-bottom: 10px;
+            font-size: 18px;
+        }
+        
+        #numPairs {
+            width: 100%;
+            font-size: 20px;
+            padding: 10px;
+            background: #5A9AA8; /* Teal accent */
+            color: white;
+            border: 2px solid #6B2C91; /* Purple accent */
         }
         
         #status {
-            height: 50px;
-            line-height: 50px;
-            text-align: center;
-            font-size: 24px;
-            background-color: #ddd;
+            margin-top: 20px;
+            font-size: 18px;
+            text-align: left;
+            background: none;
+            line-height: 1.5;
+            color: #C8B98A; /* Beige accent for status text */
+        }
+        
+        #main {
+            margin-left: 200px;
+            height: 100vh;
         }
         
         #game-board {
             display: grid;
-            width: 100vw;
-            height: calc(100vh - 50px);
+            width: 100%;
+            height: 100vh;
             box-sizing: border-box;
             justify-content: center;
             align-content: center;
+            background-color: #E8B5B9; /* Match body */
         }
         
         .card {
@@ -55,7 +91,7 @@
             display: flex;
             justify-content: center;
             align-items: center;
-            border: 2px solid #333;
+            border: 2px solid #6B2C91; /* Purple accent */
             border-radius: 8px;
             overflow: hidden;
             box-shadow: 0 2px 4px rgba(0,0,0,0.1);
@@ -71,7 +107,7 @@
             background-size: contain;
             background-position: center;
             background-repeat: no-repeat;
-            background-color: white;
+            background-color: #C8B98A; /* Beige from palette */
             transform: rotateY(180deg);
         }
         
@@ -82,17 +118,24 @@
     </style>
 </head>
 <body>
-    <div id="status"></div>
-    <div id="game-board"></div>
+    <div id="sidebar">
+        <label for="numPairs">Number of pairs:</label>
+        <select id="numPairs"></select>
+        <div id="status"></div>
+    </div>
+    <div id="main">
+        <div id="game-board"></div>
+    </div>
 
     <script>
         const gameBoard = document.getElementById('game-board');
         const statusElement = document.getElementById('status');
+        const numPairsSelect = document.getElementById('numPairs');
         const cardImages = ['red.png', 'blue.png', 'green.png', 'yellow.png', 'orange.png', 'purple.png',
           'dancing.jpg', 'dancing2.png', 'gymnastics.jpeg', 'gymnastics2.jpeg', 'soccer.jpg', 'soccer2.png',
           'softball.jpeg', 'softball2.jpeg', 'softball3.png', 'taekwondo.jpg', 'taekwondo2.png', 'cannonball.png',
           'dragon.png', 'roller_coaster.png', 'painting.png', 'ice_skating.png'];
-        let cards = [...cardImages, ...cardImages];
+        let cards = [];
         
         // Game state variables
         let flippedCards = [];
@@ -115,12 +158,41 @@
             return array;
         }
 
-        // Shuffle the cards
-        cards = shuffle(cards);
+        // Populate the select options
+        for (let i = 5; i <= cardImages.length; i++) {
+            const option = document.createElement('option');
+            option.value = i;
+            option.textContent = i;
+            numPairsSelect.appendChild(option);
+        }
+
+        // Function to initialize or reset the game
+        function initGame() {
+            const numPairs = parseInt(numPairsSelect.value);
+            // Select random images for the pairs
+            const shuffledImages = shuffle([...cardImages]);
+            const selectedImages = shuffledImages.slice(0, numPairs);
+            cards = [...selectedImages, ...selectedImages];
+            cards = shuffle(cards);
+            
+            // Reset game state
+            flippedCards = [];
+            canFlip = true;
+            currentPlayer = 1;
+            score1 = 0;
+            score2 = 0;
+            
+            createCards();
+            updateStatus();
+            adjustGrid();
+        }
+
+        // Select change event listener
+        numPairsSelect.addEventListener('change', initGame);
 
         // Function to update status
         function updateStatus() {
-            let message = `Player ${currentPlayer}'s turn | Scores: P1: ${score1} - P2: ${score2}`;
+            let message = `Player ${currentPlayer}'s turn<br>Scores: P1: ${score1} - P2: ${score2}`;
             if (checkGameComplete()) {
                 let winner;
                 if (score1 > score2) {
@@ -130,7 +202,7 @@
                 } else {
                     winner = 'It\'s a tie!';
                 }
-                message = `Game Over! ${winner} | Final Scores: P1: ${score1} - P2: ${score2}`;
+                message = `Game Over! ${winner}<br>Final Scores: P1: ${score1} - P2: ${score2}`;
             }
             statusElement.innerHTML = message;
         }
@@ -230,9 +302,8 @@
         function adjustGrid() {
             const numCards = cards.length;
             const gap = 10; // Fixed gap in pixels
-            const width = window.innerWidth;
-            const height = window.innerHeight - 50; // Account for status bar
-            
+            const width = window.innerWidth - 200; // Account for sidebar
+            const height = window.innerHeight; // No status bar subtraction
             let bestCols = 1;
             let bestSize = 0;
             
@@ -256,9 +327,8 @@
         }
 
         // Initial setup
-        createCards();
-        updateStatus();
-        adjustGrid();
+        numPairsSelect.value = '10';
+        initGame();
 
         // Adjust on resize
         window.addEventListener('resize', adjustGrid);
