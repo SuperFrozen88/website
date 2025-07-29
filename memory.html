@@ -15,6 +15,55 @@
             color: #333; /* Dark font for general text */
         }
         
+        #splash-screen {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            background-color: #E8B5B9;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+            transition: opacity 0.5s ease-out;
+        }
+        
+        #splash-screen.fade-out {
+            opacity: 0;
+        }
+        
+        #splash-logo {
+            max-width: 90%;
+            max-height: 90%;
+            object-fit: contain;
+        }
+        
+        #click-prompt {
+            position: absolute;
+            top: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            color: #6B2C91;
+            font-size: 24px;
+            font-weight: bold;
+            text-align: center;
+            opacity: 0;
+            transition: opacity 0.5s ease-in;
+        }
+        
+        #click-prompt.show {
+            opacity: 1;
+        }
+        
+        #game-container {
+            display: none;
+        }
+        
+        #game-container.show {
+            display: block;
+        }
+        
         #sidebar {
             position: fixed;
             left: 0;
@@ -118,16 +167,65 @@
     </style>
 </head>
 <body>
-    <div id="sidebar">
-        <label for="numPairs">Number of pairs:</label>
-        <select id="numPairs"></select>
-        <div id="status"></div>
+    <div id="splash-screen">
+        <img id="splash-logo" src="images/memory_game/logo.png" alt="Audrey's UNIICORN MATCHING FUN">
+        <div id="click-prompt">Click anywhere to play</div>
     </div>
-    <div id="main">
-        <div id="game-board"></div>
+    
+    <div id="game-container">
+        <div id="sidebar">
+            <label for="numPairs">Number of pairs:</label>
+            <select id="numPairs"></select>
+            <div id="status"></div>
+        </div>
+        <div id="main">
+            <div id="game-board"></div>
+        </div>
     </div>
 
     <script>
+        // Audio elements
+        const goodJobAudio = new Audio('sounds/audrey-good_job.m4a');
+        const awwManAudio = new Audio('sounds/audrey-aww_man.m4a');
+        const youWonAudio = new Audio('sounds/audrey-you_won.m4a');
+        const splashAudio = new Audio('sounds/audreys_unicorn_matching_fun.m4a');
+        
+        // Show splash screen until user clicks, then play audio and start timer
+        let audioPlayed = false;
+        
+        // Function to start audio and timer when user clicks
+        function startSplashSequence() {
+            if (!audioPlayed) {
+                audioPlayed = true;
+                console.log('playing audio');
+                splashAudio.play().catch(e => console.log('Audio play failed:', e));
+                showGame();
+            }
+        }
+        
+        // Add click listener to splash screen to start audio and timer
+        document.getElementById('splash-screen').addEventListener('click', startSplashSequence);
+        
+        // Show click prompt after 2 seconds if user hasn't clicked
+        setTimeout(() => {
+            if (!audioPlayed) {
+                document.getElementById('click-prompt').classList.add('show');
+            }
+        }, 2000);
+
+        // Splash screen functionality
+        function showGame() {
+            const splashScreen = document.getElementById('splash-screen');
+            const gameContainer = document.getElementById('game-container');
+            
+            splashScreen.classList.add('fade-out');
+            setTimeout(() => {
+                splashScreen.style.display = 'none';
+                gameContainer.classList.add('show');
+                initGame();
+            }, 500);
+        }
+
         const gameBoard = document.getElementById('game-board');
         const statusElement = document.getElementById('status');
         const numPairsSelect = document.getElementById('numPairs');
@@ -144,10 +242,7 @@
         let score1 = 0;
         let score2 = 0;
         
-        // Audio elements
-        const goodJobAudio = new Audio('sounds/audrey-good_job.m4a');
-        const awwManAudio = new Audio('sounds/audrey-aww_man.m4a');
-        const youWonAudio = new Audio('sounds/audrey-you_won.m4a');
+       
 
         // Fisher-Yates shuffle algorithm
         function shuffle(array) {
@@ -326,9 +421,8 @@
             gameBoard.style.gap = `${gap}px`;
         }
 
-        // Initial setup
+        // Initial setup - don't call initGame() here, it is called after splash screen
         numPairsSelect.value = '10';
-        initGame();
 
         // Adjust on resize
         window.addEventListener('resize', adjustGrid);
