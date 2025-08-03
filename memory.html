@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Memory Card Game</title>
+    <title>Audrey's UNIICORN MATCHING FUN</title>
     <style>
         body {
             margin: 0;
@@ -187,7 +187,9 @@
         // Audio elements
         const goodJobAudio = new Audio('sounds/audrey-good_job.m4a');
         const awwManAudio = new Audio('sounds/audrey-aww_man.m4a');
-        const youWonAudio = new Audio('sounds/audrey-you_won.m4a');
+        const player1WinsAudio = new Audio('sounds/player1_wins.m4a');
+        const player2WinsAudio = new Audio('sounds/player2_wins.m4a');
+        const tieAudio = new Audio('sounds/tie_game.m4a');
         const splashAudio = new Audio('sounds/audreys_unicorn_matching_fun.m4a');
         
         // Show splash screen until user clicks, then play audio and start timer
@@ -334,9 +336,18 @@
                     // Check if this was the final match
                     if (checkGameComplete()) {
                         canFlip = false;
-                        // Play you won audio
-                        youWonAudio.currentTime = 0;
-                        youWonAudio.play();
+                        // Play appropriate winner audio
+                        if (score1 > score2) {
+                            player1WinsAudio.currentTime = 0;
+                            player1WinsAudio.play();
+                        } else if (score2 > score1) {
+                            player2WinsAudio.currentTime = 0;
+                            player2WinsAudio.play();
+                        } else {
+                            // It's a tie - play tie audio
+                            tieAudio.currentTime = 0;
+                            tieAudio.play();
+                        }
                     } else {
                         // Play good job audio (player keeps turn)
                         goodJobAudio.currentTime = 0;
