@@ -1,6 +1,26 @@
 # Decimal Drop
 
-A Fortnite-inspired training island for fifth-grade decimal mastery. React, TypeScript, Vite, Tailwind CSS, local SVG artwork, and Lucide icons. No accounts, backend, tracking, paid API, or external assets at runtime. This is an unofficial fan-inspired learning app, not affiliated with Epic Games or Go Math!/HMH.
+A Fortnite-inspired Battle Lab for fifth-grade math and science. React, TypeScript, Vite, Tailwind CSS, local SVG artwork, and Lucide icons. No accounts, backend, tracking, paid API, or external assets at runtime. This is an unofficial fan-inspired learning app, not affiliated with Epic Games or Go Math!/HMH.
+
+## Choose a subject and dropzone
+
+- **Math → Decimals / Tilted Totals:** original 348-question bank plus 132 new Fortnite mission variants (480 seeded math questions, with additional deterministic generation).
+- **Science → Mixtures & Chemical Reactions / Reaction Royale:** 80 authored questions covering every section of the supplied Grade 5 review sheet: mixtures, solutions, new substances, gas, temperature, new solids, new smells, color, physical-change counterexamples, and evidence-based explanations.
+- **Science → Properties of Matter / Loot Lab:** 100 reviewed questions adapted from James’s TVA quiz, covering vocabulary, magnetism, electrical and thermal conductivity, solubility, measurement, mass/weight, observable properties, states, and investigation.
+
+Science practice follows the TVA interaction: choose one of four shuffled answers, then see the correct answer and explanation immediately. Practice tests still conceal correctness until the final debrief. The scratchpad is available for thinking through an explanation; the app does not pretend to automatically grade free-text science reasoning. Study cards under **Mission intel** summarize each unit before a quiz.
+
+The first three standard quizzes are diagnostic **for each unit independently**. Each science quiz samples all ten configured skills. Readiness and parent analytics are scoped to the equipped unit; a math score never increases science readiness. XP and badges are shared. Switching units parks unfinished missions, including drafts and scratch work, and restores them when that unit is equipped again.
+
+### Existing progress and content variety
+
+Original version-1 decimal saves remain supported. Old sessions without a unit are treated as decimals. Original question definitions and IDs are preserved so saved answers continue to validate. No data reset is required. TVA app history was not stored in a compatible mastery format and is not imported; its content is adapted, while the new properties unit starts with new evidence.
+
+The science bank contains 180 authored/adapted prompts, not infinite number-swapped variants. Selection prefers unseen prompts and underrepresented question formats. Once a skill’s bank is exhausted, old questions can return as spaced review, but the same prompt will not repeat within a mission. Mastery still requires success across sessions and available formats, and should be interpreted as practice evidence rather than a standardized test result.
+
+Science source files: `src/engine/mixtures-bank.ts`, `matter-bank.json`, `science.ts`, and `units.ts`. The supplied review sheet is the scope source for Reaction Royale; TVA provides the prior unit’s scope. Scientific distinctions were cross-checked against [ACS fifth-grade reaction evidence](https://www.acs.org/education/resources/k-8/inquiryinaction/fifth-grade/chapter-3/different-substances-react-differently.html) and the [Grade 5 NGSS overview](https://www.nextgenscience.org/topic-arrangement/5structure-and-properties-matter). These references support the science; they do not certify readiness for James’s classroom test.
+
+The Fortnite theme uses locally drawn island, Battle Bus, loot-llama, pickaxe, and shield-prop artwork. It is an unofficial fan-inspired learning app. Science questions use real materials; fictional props only provide the mission setting. There are no speed penalties or shrinking-storm timers.
 
 ## Run locally
 
@@ -46,11 +66,11 @@ The family chose the provisional scope. Chapter numbering varies by Go Math! edi
 
 Edit `src/engine/curriculum.ts` to change descriptive skill labels, coaching recommendations, chapter metadata, and assessment thresholds. Set `curriculum.verified` only once confirmed; scope status notices update automatically. The notices deliberately default to “unverified.” To narrow scope, remove taxonomy entries; the bank and dashboard derive from the remaining skills. If adding a new skill ID, add a matching generator and coverage rotation entry in `questions.ts` / `session.ts` and run the tests. Do not change existing IDs after collecting progress; exports validate question definitions against the installed version.
 
-The 29 subskills cover place value, equivalent decimals, alignment, estimation, reasonableness, decimal addition/subtraction through thousandths, regrouping, borrowing across zeros, whole-number operations, mental strategies, money, measurement, multi-step stories, relevant information, choosing operations, correcting errors, missing numbers, and explaining a strategy.
+The 29 decimal subskills cover place value, equivalent decimals, alignment, estimation, reasonableness, decimal addition/subtraction through thousandths, regrouping, borrowing across zeros, whole-number operations, mental strategies, money, measurement, multi-step stories, relevant information, choosing operations, correcting errors, missing numbers, and explaining a strategy.
 
 ## Question correctness and generation
 
-`src/engine/questions.ts` exports a **348-question bank** (12 per subskill), plus deterministic parameterized generators for fresh questions. About 86% require numeric responses; reasoning and operation-selection questions use multiple choice. Questions include ID, skill, difficulty, answer equivalents, worked solution, hint, candidate misconception patterns, estimated completion time, and a machine-checkable arithmetic proof.
+`src/engine/questions.ts` exports a **348-question original decimal bank** (12 per decimal subskill), plus 132 additional math mission variants and deterministic parameterized generators for fresh questions. About 86% require numeric responses; reasoning and operation-selection questions use multiple choice. Questions include ID, skill, difficulty, answer equivalents, worked solution, hint, candidate misconception patterns, estimated completion time, and a machine-checkable arithmetic proof.
 
 All arithmetic uses **integer thousandths**. No computed decimal answer relies on binary floating-point addition/subtraction. Input equivalence accepts `4.5`, `4.50`, `4.500`, and additional trailing zeros, but rejects nonzero digits beyond thousandths and malformed input. Required regression cases include `10 − 3.875 = 6.125`, `15.003 − 6.728 = 8.275`, and `0.1 + 0.2 = 0.3`.
 
@@ -66,7 +86,7 @@ Heuristics are configurable in `assessmentConfig`, not a standardized or scienti
 - **Needs Practice:** at least 3 independent responses, with overall and recent success below 50%.
 - **Developing:** some evidence, but remaining criteria are not met.
 - **Proficient:** at least 3 independent responses, at least 80% first-attempt accuracy overall and recently, independent success in 2 sessions and 2 formats.
-- **Mastered:** at least 6 independent responses, at least 90% accuracy overall and recently, success in 3 sessions and 3 formats, and demonstration at the hardest available level for that skill, up to level 4.
+- **Mastered:** at least 6 independent responses, at least 90% accuracy overall and recently, success in 3 sessions and up to 3 available formats, and demonstration at the hardest available level for that skill, up to level 4.
 
 “Recent” means up to the last 6 independent responses. A hint used before the first submission makes that response supported practice. If a student answers incorrectly on their own and then asks for a hint, the independent first error is retained. A retry cannot erase a first-attempt error. Time is context only; it never affects mastery or rewards. Numerical answer patterns are marked **possible**, not definitive diagnoses. Unmatched errors remain unclassified. A skill not practiced in 14 days gets a refresh flag.
 

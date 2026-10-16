@@ -1,1 +1,1 @@
-export const theme={name:'Battle Royale Training Island',appName:'DECIMAL DROP',tagline:'Small drops. Big brain energy.',accent:'#b5f65a',rewards:['Scout','Pathfinder','Strategist','Island Specialist'],art:`${import.meta.env.BASE_URL}island.svg`};
+export const theme={name:'Battle Royale Training Island',appName:'DECIMAL DROP',tagline:'Drop in. Think big. Reboot stronger.',accent:'#b5f65a',rewards:['Scout','Pathfinder','Strategist','Island Specialist'],art:`${import.meta.env.BASE_URL}island.svg`};

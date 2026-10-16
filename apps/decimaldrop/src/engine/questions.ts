@@ -1,7 +1,16 @@
+import { scienceQuestion } from './science';
 import { decimal as d, roundWhole, validAnswer } from './decimal';
 import { skills } from './curriculum';
 import type { Question } from './types';
 export function generateQuestion(skill:string,seed:number):Question {
+ if(skill.startsWith('loot-')){
+ const original=generateQuestion(skill.slice(5),seed);const {op,values}=original.proof;const [a,b]=values;
+ if(!['add','sub'].includes(op)||values.length!==2)throw new Error('No remix for this skill');
+ const variant=seed%4;
+ const text=variant===0?(op==='add'?`Supply-drop inventory: one crate holds ${d(a)} kg of building material and another holds ${d(b)} kg. What is the combined mass?`:`Your squad starts with ${d(a)} m of cable and uses ${d(b)} m to repair a Reboot Van prop. How many meters remain?`):variant===1?(op==='add'?`A shield-bottle prop contains an unknown total of water. After ${d(b)} L is poured out, ${d(a)} L remains. What was the starting total in liters?`:`A supply drone needs to travel ${d(a)} km. It has already traveled ${d(b)} km. Find the missing distance: ${d(b)} + ___ = ${d(a)}.`):variant===2?`Squad intel claims ${d(a)} ${op==='add'?'+':'−'} ${d(b)} = ${d(original.proof.result+1000)}. Correct the calculation. What should the answer be?`:(op==='add'?`Creative build challenge: a ramp has two sections, ${d(a)} m and ${d(b)} m long. Write the total length in meters. Check it with an estimate.`:`Loot comparison: a large supply box has a mass of ${d(a)} kg and a smaller one has a mass of ${d(b)} kg. How many kilograms heavier is the large box?`);
+ return {...original,id:`${skill}:${seed}`,family:`loot-${variant}`,text,expression:undefined,format:['inventory','missing-number','error-analysis','word-problem'][variant]};
+ }
+ if(skill.startsWith('mix-')||skill.startsWith('matter-'))return scienceQuestion(skill,seed);
  if(!skills.some(s=>s.id===skill)||!Number.isSafeInteger(seed)||seed<0) throw new Error('Invalid question parameters');
  const v=seed%4, k=Math.floor(seed/4), base=2000+k*1000;
  let a=base+240,b=1320,c=460,op:'add'|'sub'|'identity'|'round'='add',values:number[]=[];
@@ -59,7 +68,11 @@ export function generateQuestion(skill:string,seed:number):Question {
 }
 export function validateQuestion(q:Question):boolean {
  const {op,values,result}=q.proof;
+ if(op==='science'){try{return JSON.stringify(q)===JSON.stringify(scienceQuestion(q.skill,Number(q.id.split(':')[1])));}catch{return false;}}
  const expected=op==='add'?values.reduce((a,b)=>a+b,0):op==='sub'?values[0]-values[1]:op==='round'?values.reduce((a,b)=>a+(b<0?-roundWhole(-b):roundWhole(b)),0):values[0];
  return expected===result && Number.isSafeInteger(result) && (q.kind==='choice'?!!q.choices?.includes(q.answer):validAnswer(d(result),q));
 }
 export const questionBank:Question[]=skills.flatMap(s=>Array.from({length:12},(_,i)=>generateQuestion(s.id,i)));
+
+export const remixSkills=['add-basic','add-length','add-thousand','add-regroup','add-whole','sub-basic','sub-length','sub-regroup','sub-zeros','sub-whole','sub-thousand'];
+export const remixBank=remixSkills.flatMap(skill=>Array.from({length:12},(_,seed)=>generateQuestion(`loot-${skill}`,seed)));

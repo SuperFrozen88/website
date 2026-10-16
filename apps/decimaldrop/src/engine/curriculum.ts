@@ -1,3 +1,5 @@
+import { scienceSkills } from './units';
+import type { UnitId } from './units';
 import type { Skill } from './types';
 // Editable provisional scope. These are app labels, NOT official Go Math! lesson titles.
 export const curriculum = { title:'Add & subtract decimals', reference:'Go Math! Grade 5 • Chapter 3 (edition unconfirmed)', verified:false, standard:'5.NBT.B.7', diagnosticSessions:3 };
@@ -36,3 +38,7 @@ export const skills:Skill[] = definitions.map(([group,id,name,nextStep])=>({grou
 export const groups = [...new Set(skills.map(s=>s.group))];
 export const assessmentConfig = { minimumEvidence:3, proficientSuccessRate:0.8, proficientSessions:2, masteredEvidence:6, masteredSuccessRate:0.9, masteredSessions:3, masteredDifficulty:4, staleDays:14, diagnosticSessions:curriculum.diagnosticSessions };
 export const modes = { quick:{name:'Quick Practice',label:'Scout run',count:6,time:'~5 min'},standard:{name:'Standard Quiz',label:'Training mission',count:12,time:'10–15 min'},test:{name:'Practice Test',label:'Full island run',count:20,time:'20–25 min'} };
+
+export const allSkills=[...skills,...scienceSkills];
+export const skillsFor=(unit:UnitId='decimals')=>unit==='decimals'?skills:scienceSkills.filter(s=>s.unit===unit);
+export const groupsFor=(unit:UnitId='decimals')=>[...new Set(skillsFor(unit).map(s=>s.group))];

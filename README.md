@@ -6,6 +6,9 @@ Pages publishes the root of the `master` branch. Keep `CNAME` unchanged.
 ## Decimal Drop
 
 Play at **https://thecarlislekids.com/decimaldrop/**, also linked from the home page.
+Choose Math → Decimals, or Science → Mixtures & Chemical Reactions / Properties of Matter.
+The science units follow the supplied school review and the earlier TVA quiz, with a Battle Royale theme.
+Existing decimal progress is preserved, and each unit has its own readiness and paused mission.
 
 - Editable React/TypeScript app: `apps/decimaldrop/`
 - Published static build: `decimaldrop/` (committed so the existing Pages deployment can serve it)
