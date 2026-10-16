@@ -1,0 +1,1402 @@
+[
+  {
+    "skill": "matter-vocab",
+    "text": "MATTER means…",
+    "answers": [
+      "Anything that has mass and takes up space",
+      "How hot or cold something is",
+      "To use the senses to gain knowledge",
+      "The heaviness of an object"
+    ],
+    "solution": "Matter is anything that has mass and takes up space: your squad training ball, the air inside it, even you!",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "hint": "Name the property: amount of matter, space occupied, or hot/cold."
+  },
+  {
+    "skill": "matter-vocab",
+    "text": "PROPERTIES means…",
+    "answers": [
+      "Characteristics used to describe or identify a substance",
+      "Anything that has mass and takes up space",
+      "Units everyone agrees on",
+      "How hot or cold something is"
+    ],
+    "solution": "Properties are traits like color, shape, texture, magnetism, and conductivity that help you tell materials apart.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "hint": "Name the property: amount of matter, space occupied, or hot/cold."
+  },
+  {
+    "skill": "matter-vocab",
+    "text": "OBSERVE means…",
+    "answers": [
+      "To use the senses to examine or gain knowledge",
+      "To measure using standard units",
+      "To heat something up",
+      "To mix two substances"
+    ],
+    "solution": "Observing = using your senses (sight, touch, smell, hearing) to learn about something.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "hint": "Name the property: amount of matter, space occupied, or hot/cold."
+  },
+  {
+    "skill": "matter-vocab",
+    "text": "MEASUREMENT means…",
+    "answers": [
+      "The size, length, or amount of something, as established by measuring",
+      "To use the senses to gain knowledge",
+      "Anything that has mass and takes up space",
+      "How hot or cold something is"
+    ],
+    "solution": "A measurement is a number found by measuring, like 94 grams or 30 centimeters.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "hint": "Name the property: amount of matter, space occupied, or hot/cold."
+  },
+  {
+    "skill": "matter-vocab",
+    "text": "VOLUME means…",
+    "answers": [
+      "The amount of space matter takes up (mL, L, or cm³)",
+      "The heaviness of an object",
+      "How loud something is",
+      "How hot or cold something is"
+    ],
+    "solution": "In science, volume is how much space something takes up, measured in milliliters, liters, or cubic centimeters.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "hint": "Name the property: amount of matter, space occupied, or hot/cold."
+  },
+  {
+    "skill": "matter-vocab",
+    "text": "TEMPERATURE means…",
+    "answers": [
+      "How hot or cold something is",
+      "The heaviness of an object",
+      "The amount of space matter takes up",
+      "Anything that has mass"
+    ],
+    "solution": "Temperature tells how hot or cold something is, measured with a thermometer in °C or °F.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "hint": "Name the property: amount of matter, space occupied, or hot/cold."
+  },
+  {
+    "skill": "matter-vocab",
+    "text": "STANDARD UNITS are…",
+    "answers": [
+      "Units with agreed-upon values that everyone uses to measure the same thing",
+      "Units you make up, like 'shoe lengths'",
+      "Only units used in the USA",
+      "Things you observe with your senses"
+    ],
+    "solution": "Standard units (grams, meters, liters) mean the same thing to everyone, so results can be compared.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Name the property: amount of matter, space occupied, or hot/cold."
+  },
+  {
+    "skill": "matter-vocab",
+    "text": "MASS means…",
+    "answers": [
+      "The amount of matter in an object",
+      "How hot or cold something is",
+      "How much space something takes up",
+      "How shiny something is"
+    ],
+    "solution": "Mass is how much matter (\"stuff\") is in an object, measured in grams or kilograms.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "hint": "Name the property: amount of matter, space occupied, or hot/cold."
+  },
+  {
+    "skill": "matter-vocab",
+    "text": "A SUBSTANCE is…",
+    "answers": [
+      "A specific type of matter, like water, salt, or iron",
+      "Only something you can eat",
+      "Something with no mass",
+      "A tool for measuring"
+    ],
+    "solution": "A substance is a particular kind of matter with its own properties.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Name the property: amount of matter, space occupied, or hot/cold."
+  },
+  {
+    "skill": "matter-vocab",
+    "text": "Which of these is NOT matter?",
+    "answers": [
+      "Sunlight",
+      "A rock",
+      "Air",
+      "Water"
+    ],
+    "solution": "Light is energy. It has no mass and doesn't take up space, so it isn't matter.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Name the property: amount of matter, space occupied, or hot/cold."
+  },
+  {
+    "skill": "matter-magnet",
+    "text": "What property do a steel screw, an iron nail, and a paperclip have in common?",
+    "answers": [
+      "They are magnetic.",
+      "They are insulators.",
+      "They are all soluble in water.",
+      "They are nonmagnetic."
+    ],
+    "solution": "Steel and iron are attracted to magnets. A paperclip is made of steel.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Color and being metal do not guarantee attraction to a magnet."
+  },
+  {
+    "skill": "matter-magnet",
+    "text": "A plain carbon-steel paperclip is recovered from a supply crate. Which set of properties best describes it?",
+    "answers": [
+      "Silver, magnetic, conductor of electricity",
+      "Silver, nonmagnetic, insulator",
+      "Silver, magnetic, insulator",
+      "Silver, soluble in water, conductor of electricity"
+    ],
+    "solution": "A paperclip is steel: silver colored, magnetic, and metal conducts electricity.",
+    "format": "reasoning",
+    "difficulty": 3,
+    "hint": "Color and being metal do not guarantee attraction to a magnet."
+  },
+  {
+    "skill": "matter-magnet",
+    "text": "You drop a magnet into your Creative build kit. Which item will stick to it?",
+    "answers": [
+      "A steel screw that fell in the bin",
+      "A plastic plastic building brick",
+      "A rubber LEGO tire",
+      "A plastic figure"
+    ],
+    "solution": "plastic building pieces are plastic and rubber, which aren't magnetic. The steel screw is!",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Color and being metal do not guarantee attraction to a magnet."
+  },
+  {
+    "skill": "matter-magnet",
+    "text": "Which of these is NOT attracted to a magnet?",
+    "answers": [
+      "An aluminum soda can",
+      "An iron nail",
+      "A steel paperclip",
+      "A iron spoon"
+    ],
+    "solution": "Surprise: aluminum is a metal but it is NOT magnetic. Iron and steel are.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Color and being metal do not guarantee attraction to a magnet."
+  },
+  {
+    "skill": "matter-magnet",
+    "text": "How could you separate steel paperclips from a pile of sand?",
+    "answers": [
+      "Use a magnet",
+      "Pour water on it",
+      "Heat it up",
+      "Use a thermometer"
+    ],
+    "solution": "Magnetism! The magnet pulls out the steel paperclips and leaves the sand.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Color and being metal do not guarantee attraction to a magnet."
+  },
+  {
+    "skill": "matter-magnet",
+    "text": "Magnets attract objects made of…",
+    "answers": [
+      "Iron and steel",
+      "Plastic and rubber",
+      "Glass and wood",
+      "Aluminum and copper"
+    ],
+    "solution": "Iron and steel (and nickel) are magnetic. Aluminum and copper are metals but NOT magnetic.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Color and being metal do not guarantee attraction to a magnet."
+  },
+  {
+    "skill": "matter-magnet",
+    "text": "A supply rover has a steel frame and plastic wheels. Which part would stick to a magnet?",
+    "answers": [
+      "The steel frame",
+      "The plastic wheels",
+      "The rubber tires",
+      "The paint"
+    ],
+    "solution": "Steel is magnetic; plastic and rubber aren't.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Color and being metal do not guarantee attraction to a magnet."
+  },
+  {
+    "skill": "matter-magnet",
+    "text": "Which list has ONLY magnetic objects?",
+    "answers": [
+      "Iron nail, steel paperclip, steel screw",
+      "Iron nail, plastic straw, penny",
+      "Aluminum foil, copper wire, steel screw",
+      "Rubber eraser, glass, wood"
+    ],
+    "solution": "Iron and steel are magnetic. Plastic, copper, aluminum, rubber, glass, and wood are not.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Color and being metal do not guarantee attraction to a magnet."
+  },
+  {
+    "skill": "matter-magnet",
+    "text": "Is every metal magnetic?",
+    "answers": [
+      "No. Only some metals, like iron, nickel, and steel",
+      "Yes. All metals are magnetic",
+      "No metal is magnetic",
+      "Only gold is magnetic"
+    ],
+    "solution": "Some metals are attracted to magnets. Iron, nickel, and ordinary carbon steel are familiar examples; aluminum and copper are not.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Color and being metal do not guarantee attraction to a magnet."
+  },
+  {
+    "skill": "matter-magnet",
+    "text": "A student says 'all silver-colored objects are magnetic.' What's the best way to check?",
+    "answers": [
+      "Hold a magnet near several silver objects, like a paperclip and aluminum foil",
+      "Just look at them closely",
+      "Weigh them on a scale",
+      "Put them in water"
+    ],
+    "solution": "Aluminum foil is silver but NOT magnetic, so testing proves the claim is wrong.",
+    "format": "reasoning",
+    "difficulty": 3,
+    "hint": "Color and being metal do not guarantee attraction to a magnet."
+  },
+  {
+    "skill": "matter-electric",
+    "text": "Students want to know which objects can conduct electricity. What do they need for their investigation?",
+    "answers": [
+      "A circuit and an energy source",
+      "A circuit and a magnet",
+      "A heat source and a magnet",
+      "A light source and a circuit"
+    ],
+    "solution": "To test electrical conductivity, put the object in a circuit with a battery (energy source) and see if the bulb lights.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Think about whether current can pass through the material in a working circuit."
+  },
+  {
+    "skill": "matter-electric",
+    "text": "A material that lets electricity flow through it easily is called a…",
+    "answers": [
+      "Conductor",
+      "Insulator",
+      "Magnet",
+      "Solution"
+    ],
+    "solution": "Conductors (like metals) let electricity flow.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "hint": "Think about whether current can pass through the material in a working circuit."
+  },
+  {
+    "skill": "matter-electric",
+    "text": "A material that does NOT let electricity flow through it easily is called an…",
+    "answers": [
+      "Insulator",
+      "Conductor",
+      "Magnet",
+      "Element"
+    ],
+    "solution": "Insulators (plastic, rubber, wood, glass) block electricity.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Think about whether current can pass through the material in a working circuit."
+  },
+  {
+    "skill": "matter-electric",
+    "text": "At the Reboot Van workshop, an object completes a working battery-and-bulb test circuit. The bulb lights. What does this show about the object?",
+    "answers": [
+      "A conductor of electricity",
+      "An insulator",
+      "Magnetic",
+      "Soluble"
+    ],
+    "solution": "If the bulb lights, electricity flowed through the object, so it's a conductor.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Think about whether current can pass through the material in a working circuit."
+  },
+  {
+    "skill": "matter-electric",
+    "text": "Which item would make a bulb light up when placed in a circuit?",
+    "answers": [
+      "An aluminum foil strip",
+      "A plastic building brick",
+      "A rubber band",
+      "A wooden pencil (unsharpened)"
+    ],
+    "solution": "Aluminum is a metal, so it conducts electricity. The others are insulators.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Think about whether current can pass through the material in a working circuit."
+  },
+  {
+    "skill": "matter-electric",
+    "text": "Which of these is the BEST insulator of electricity?",
+    "answers": [
+      "A plastic training-tool handle",
+      "A copper wire",
+      "A steel nail",
+      "An aluminum can"
+    ],
+    "solution": "Plastic is an insulator. Metals like copper, steel, and aluminum are conductors.",
+    "format": "reasoning",
+    "difficulty": 3,
+    "hint": "Think about whether current can pass through the material in a working circuit."
+  },
+  {
+    "skill": "matter-electric",
+    "text": "Which material is a conductor of electricity?",
+    "answers": [
+      "Copper",
+      "Rubber",
+      "Plastic",
+      "Wood"
+    ],
+    "solution": "Copper is a metal, and metals conduct electricity. That's why wires are made of copper.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Think about whether current can pass through the material in a working circuit."
+  },
+  {
+    "skill": "matter-electric",
+    "text": "What do you need to build a simple circuit to test conductivity?",
+    "answers": [
+      "A battery, wires, a bulb, and the object being tested",
+      "A magnet and a thermometer",
+      "Water and a cup",
+      "A scale and a ruler"
+    ],
+    "solution": "Battery (energy source) + wires + bulb + test object = conductivity tester.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Think about whether current can pass through the material in a working circuit."
+  },
+  {
+    "skill": "matter-electric",
+    "text": "Which part of a game controller's charging cord is the conductor?",
+    "answers": [
+      "The metal wires inside",
+      "The plastic coating",
+      "The rubber end",
+      "The label"
+    ],
+    "solution": "The metal wires carry the electricity. The plastic around them is an insulator.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Think about whether current can pass through the material in a working circuit."
+  },
+  {
+    "skill": "matter-electric",
+    "text": "A squad tests exposed graphite and dry wood in the same working circuit. Only graphite lets the bulb light. Which claim fits the evidence?",
+    "answers": [
+      "Graphite is a conductor and wood is an insulator",
+      "Both are conductors",
+      "Both are insulators",
+      "Wood is a conductor"
+    ],
+    "solution": "Surprise: graphite isn't a metal, but it still conducts electricity!",
+    "format": "reasoning",
+    "difficulty": 3,
+    "hint": "Think about whether current can pass through the material in a working circuit."
+  },
+  {
+    "skill": "matter-heat",
+    "text": "What property can be investigated by exposing different materials to heat?",
+    "answers": [
+      "Thermal conductivity",
+      "Electrical conductivity",
+      "Magnetism",
+      "Shape"
+    ],
+    "solution": "Thermal conductivity = how well a material lets heat move through it.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "A thermal conductor transfers heat more easily than an insulator."
+  },
+  {
+    "skill": "matter-heat",
+    "text": "A metal spoon and a plastic spoon sit in hot cocoa. Which handle gets hot first?",
+    "answers": [
+      "The metal spoon",
+      "The plastic spoon",
+      "They heat up exactly the same",
+      "Neither ever gets warm"
+    ],
+    "solution": "Metal is a good thermal conductor; heat travels through it quickly.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "A thermal conductor transfers heat more easily than an insulator."
+  },
+  {
+    "skill": "matter-heat",
+    "text": "Why do pots and pans often have plastic or wooden handles?",
+    "answers": [
+      "Plastic and wood slow heat transfer toward the handle",
+      "Plastic and wood are magnetic",
+      "They make the pan cook faster",
+      "Plastic conducts heat better than metal"
+    ],
+    "solution": "Plastic and wood are poor thermal conductors. They slow heat transfer compared with metal, so the handle warms more slowly.",
+    "format": "reasoning",
+    "difficulty": 3,
+    "hint": "A thermal conductor transfers heat more easily than an insulator."
+  },
+  {
+    "skill": "matter-heat",
+    "text": "Which material is the BEST conductor of heat?",
+    "answers": [
+      "Copper",
+      "Wood",
+      "Foam",
+      "Cloth"
+    ],
+    "solution": "Metals like copper conduct heat really well.",
+    "format": "reasoning",
+    "difficulty": 3,
+    "hint": "A thermal conductor transfers heat more easily than an insulator."
+  },
+  {
+    "skill": "matter-heat",
+    "text": "A foam cooler keeps your water cold at a island mission because foam is…",
+    "answers": [
+      "A poor conductor of heat (an insulator)",
+      "Magnetic",
+      "A great conductor of heat",
+      "Soluble in water"
+    ],
+    "solution": "Foam is a thermal insulator: it slows heat from getting in.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "A thermal conductor transfers heat more easily than an insulator."
+  },
+  {
+    "skill": "matter-heat",
+    "text": "Thermal conductivity describes…",
+    "answers": [
+      "How well heat moves through a material",
+      "How well electricity flows",
+      "How heavy something is",
+      "Whether something dissolves"
+    ],
+    "solution": "'Thermal' means heat. Thermal conductivity = how easily heat travels through.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "A thermal conductor transfers heat more easily than an insulator."
+  },
+  {
+    "skill": "matter-heat",
+    "text": "On a cold morning, a metal bleacher feels colder than a wooden bench, even though they're the same temperature. Why?",
+    "answers": [
+      "Metal conducts heat away from your body faster",
+      "The metal really is a lower temperature",
+      "Wood is magnetic",
+      "Metal is insoluble"
+    ],
+    "solution": "Metal pulls heat out of your skin quickly, so it FEELS colder.",
+    "format": "reasoning",
+    "difficulty": 3,
+    "hint": "A thermal conductor transfers heat more easily than an insulator."
+  },
+  {
+    "skill": "matter-heat",
+    "text": "Which item is designed to be a thermal insulator?",
+    "answers": [
+      "A puffy winter jacket",
+      "A metal frying pan",
+      "A copper wire",
+      "An aluminum baking sheet"
+    ],
+    "solution": "Jackets trap your body heat. The others are designed to conduct.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "A thermal conductor transfers heat more easily than an insulator."
+  },
+  {
+    "skill": "matter-heat",
+    "text": "Equal pieces of butter sit at the same distance along equal-size metal, plastic, and wooden spoons. All spoon tips touch the same hot water. Which butter is likely to melt first?",
+    "answers": [
+      "On the metal spoon",
+      "On the plastic spoon",
+      "On the wooden spoon",
+      "They all melt at the same time"
+    ],
+    "solution": "Metal is the best heat conductor, so heat reaches its butter first.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "A thermal conductor transfers heat more easily than an insulator."
+  },
+  {
+    "skill": "matter-heat",
+    "text": "Equal ice cubes sit on same-temperature metal and plastic trays in a warm room. The ice on metal melts faster. What does this suggest?",
+    "answers": [
+      "A better thermal conductor",
+      "A better insulator",
+      "Magnetic",
+      "Soluble"
+    ],
+    "solution": "Metal moves heat from the room into the ice faster.",
+    "format": "reasoning",
+    "difficulty": 3,
+    "hint": "A thermal conductor transfers heat more easily than an insulator."
+  },
+  {
+    "skill": "matter-soluble",
+    "text": "Something that dissolves in water is described as…",
+    "answers": [
+      "Soluble",
+      "Magnetic",
+      "Insoluble",
+      "A conductor"
+    ],
+    "solution": "Soluble = dissolves (like sugar or salt in water).",
+    "format": "vocabulary",
+    "difficulty": 2,
+    "hint": "Dissolving spreads a substance through water; it does not make the substance disappear."
+  },
+  {
+    "skill": "matter-soluble",
+    "text": "Which of these is soluble in water?",
+    "answers": [
+      "Sugar",
+      "Sand",
+      "A plastic building brick",
+      "A steel paperclip"
+    ],
+    "solution": "Sugar dissolves in water. Sand, plastic, and steel don't.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Dissolving spreads a substance through water; it does not make the substance disappear."
+  },
+  {
+    "skill": "matter-soluble",
+    "text": "You drop a foam training dart into water. It floats and doesn't dissolve. The dart is…",
+    "answers": [
+      "Insoluble in water",
+      "Soluble in water",
+      "Magnetic",
+      "A conductor of electricity"
+    ],
+    "solution": "It didn't dissolve, so it's insoluble.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Dissolving spreads a substance through water; it does not make the substance disappear."
+  },
+  {
+    "skill": "matter-soluble",
+    "text": "You stir a sports drink powder into water and it disappears. This shows the powder is…",
+    "answers": [
+      "Soluble",
+      "Magnetic",
+      "Insoluble",
+      "A thermal conductor"
+    ],
+    "solution": "The powder dissolved, so it's soluble.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Dissolving spreads a substance through water; it does not make the substance disappear."
+  },
+  {
+    "skill": "matter-soluble",
+    "text": "Which mixture could you separate by letting the water evaporate?",
+    "answers": [
+      "Salt water",
+      "Sand and gravel",
+      "Iron filings and sand",
+      "plastic building bricks and marbles"
+    ],
+    "solution": "Salt dissolves in water. When the water evaporates, the salt is left behind.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Dissolving spreads a substance through water; it does not make the substance disappear."
+  },
+  {
+    "skill": "matter-soluble",
+    "text": "Two jars both have a fluffy white powder: one is flour, one is powdered sugar. Which test would help tell them apart?",
+    "answers": [
+      "Stir each into water and observe which dissolves",
+      "Hold a magnet near each",
+      "Test each in an electric circuit",
+      "Check each one's color"
+    ],
+    "solution": "Powdered sugar dissolves in water; flour doesn't really dissolve and makes the water cloudy. Same color, different solubility!",
+    "format": "reasoning",
+    "difficulty": 3,
+    "hint": "Dissolving spreads a substance through water; it does not make the substance disappear."
+  },
+  {
+    "skill": "matter-soluble",
+    "text": "When salt dissolves in water, where does the salt go?",
+    "answers": [
+      "It's still there, mixed in pieces too tiny to see",
+      "It disappears forever",
+      "It turns into air",
+      "It turns into sugar"
+    ],
+    "solution": "Dissolved salt is still in the water. Taste ocean water and you'll know!",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Dissolving spreads a substance through water; it does not make the substance disappear."
+  },
+  {
+    "skill": "matter-soluble",
+    "text": "Which mixture can be separated with a filter (like a coffee filter)?",
+    "answers": [
+      "Sand and water",
+      "Salt water",
+      "Sugar water",
+      "Clear lemonade with all sugar dissolved"
+    ],
+    "solution": "Sand doesn't dissolve, so the filter catches it. Dissolved salt and sugar pass right through.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Dissolving spreads a substance through water; it does not make the substance disappear."
+  },
+  {
+    "skill": "matter-soluble",
+    "text": "Oil and water are shaken together. Minutes later, the oil floats on top. Oil is…",
+    "answers": [
+      "Insoluble in water",
+      "Soluble in water",
+      "Magnetic",
+      "A gas"
+    ],
+    "solution": "The oil didn't dissolve, so it's insoluble.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Dissolving spreads a substance through water; it does not make the substance disappear."
+  },
+  {
+    "skill": "matter-soluble",
+    "text": "A supply spill contains gravel, sand, and salt. Which property helps separate the salt from both other solids?",
+    "answers": [
+      "Solubility: add water, filter, then evaporate",
+      "Magnetism",
+      "Color",
+      "Temperature"
+    ],
+    "solution": "Salt dissolves; gravel and sand don't. Filter them out, then evaporate the water to get the salt back.",
+    "format": "reasoning",
+    "difficulty": 3,
+    "hint": "Dissolving spreads a substance through water; it does not make the substance disappear."
+  },
+  {
+    "skill": "matter-measure",
+    "text": "Which tool measures the MASS of an object?",
+    "answers": [
+      "Balance or scale",
+      "Thermometer",
+      "Graduated cylinder",
+      "Ruler"
+    ],
+    "solution": "A balance or scale measures mass in grams (g) or kilograms (kg).",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Match the measured property to the tool and its units."
+  },
+  {
+    "skill": "matter-measure",
+    "text": "Which tool measures the VOLUME of a liquid?",
+    "answers": [
+      "Graduated cylinder",
+      "Balance",
+      "Thermometer",
+      "Magnet"
+    ],
+    "solution": "A graduated cylinder measures liquid volume in milliliters (mL).",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Match the measured property to the tool and its units."
+  },
+  {
+    "skill": "matter-measure",
+    "text": "Which tool measures TEMPERATURE?",
+    "answers": [
+      "Thermometer",
+      "Ruler",
+      "Balance",
+      "Graduated cylinder"
+    ],
+    "solution": "A thermometer measures temperature in °C or °F.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Match the measured property to the tool and its units."
+  },
+  {
+    "skill": "matter-measure",
+    "text": "Which unit would you use to measure the volume of water in your water bottle?",
+    "answers": [
+      "Milliliters (mL)",
+      "Grams (g)",
+      "Centimeters (cm)",
+      "Degrees (°C)"
+    ],
+    "solution": "Liquid volume = milliliters or liters.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Match the measured property to the tool and its units."
+  },
+  {
+    "skill": "matter-measure",
+    "text": "A supply box is 10 cm long, 5 cm wide, and 2 cm tall. What is its volume?",
+    "answers": [
+      "100 cm³",
+      "17 cm³",
+      "50 cm³",
+      "20 cm³"
+    ],
+    "solution": "Volume = length × width × height = 10 × 5 × 2 = 100 cm³.",
+    "format": "data",
+    "difficulty": 3,
+    "hint": "Match the measured property to the tool and its units."
+  },
+  {
+    "skill": "matter-measure",
+    "text": "Which tool would you use to measure the length of a training field?",
+    "answers": [
+      "Measuring tape",
+      "Thermometer",
+      "Graduated cylinder",
+      "Balance"
+    ],
+    "solution": "Length is measured with a ruler, meter stick, or measuring tape.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Match the measured property to the tool and its units."
+  },
+  {
+    "skill": "matter-measure",
+    "text": "Which is an example of a NONSTANDARD unit?",
+    "answers": [
+      "Measuring a desk in 'pencil lengths'",
+      "Measuring a desk in centimeters",
+      "Measuring water in milliliters",
+      "Measuring mass in grams"
+    ],
+    "solution": "Pencils come in different sizes, so 'pencil lengths' isn't standard.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Match the measured property to the tool and its units."
+  },
+  {
+    "skill": "matter-measure",
+    "text": "A rock is dropped into a graduated cylinder. The water rises from 30 mL to 45 mL. What is the rock's volume?",
+    "answers": [
+      "15 mL",
+      "45 mL",
+      "30 mL",
+      "75 mL"
+    ],
+    "solution": "45 − 30 = 15 mL. The rock pushed aside 15 mL of water.",
+    "format": "data",
+    "difficulty": 3,
+    "hint": "Match the measured property to the tool and its units."
+  },
+  {
+    "skill": "matter-measure",
+    "text": "When reading a graduated cylinder, you should…",
+    "answers": [
+      "Read at eye level at the bottom of the curved water line",
+      "Look down from above",
+      "Read the top edge of the curve",
+      "Tilt the cylinder toward you"
+    ],
+    "solution": "Get eye level and read the bottom of the curve (called the meniscus).",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Match the measured property to the tool and its units."
+  },
+  {
+    "skill": "matter-measure",
+    "text": "An empty cup has a mass of 250 g. With water in it, the mass is 400 g. What's the mass of the water?",
+    "answers": [
+      "150 g",
+      "650 g",
+      "400 g",
+      "250 g"
+    ],
+    "solution": "Subtract the empty cup’s mass from the filled cup’s mass: 400 g − 250 g = 150 g of water.",
+    "format": "data",
+    "difficulty": 3,
+    "hint": "Match the measured property to the tool and its units."
+  },
+  {
+    "skill": "matter-mass",
+    "text": "What is the difference between mass and weight?",
+    "answers": [
+      "Mass is the amount of matter; weight is gravity's pull on that mass",
+      "They are exactly the same thing",
+      "Weight is the amount of space something takes up",
+      "Mass changes on the Moon but weight doesn't"
+    ],
+    "solution": "Mass = how much stuff. Weight = how hard gravity pulls on that stuff.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Mass is amount of matter. Weight depends on gravity."
+  },
+  {
+    "skill": "matter-mass",
+    "text": "An astronaut takes a squad training ball to the Moon. What happens?",
+    "answers": [
+      "Its mass stays the same, but it weighs less",
+      "Its mass and weight both stay the same",
+      "Its mass gets smaller",
+      "It stops being matter"
+    ],
+    "solution": "The Moon has less gravity, so weight goes down, but the ball has the same amount of stuff (mass).",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Mass is amount of matter. Weight depends on gravity."
+  },
+  {
+    "skill": "matter-mass",
+    "text": "Weight is caused by…",
+    "answers": [
+      "The force of gravity pulling on mass",
+      "Temperature",
+      "Magnetism",
+      "The color of the object"
+    ],
+    "solution": "Weight = gravity's pull on mass.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Mass is amount of matter. Weight depends on gravity."
+  },
+  {
+    "skill": "matter-mass",
+    "text": "Which tool measures WEIGHT (the pull of gravity)?",
+    "answers": [
+      "A spring scale",
+      "A graduated cylinder",
+      "A thermometer",
+      "A ruler"
+    ],
+    "solution": "A spring scale stretches as gravity pulls on the object.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Mass is amount of matter. Weight depends on gravity."
+  },
+  {
+    "skill": "matter-mass",
+    "text": "Jupiter has stronger gravity than Earth. On Jupiter, your mass would ___ and your weight would ___.",
+    "answers": [
+      "stay the same; increase",
+      "increase; stay the same",
+      "decrease; decrease",
+      "stay the same; stay the same"
+    ],
+    "solution": "Mass never changes based on location. More gravity = more weight.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Mass is amount of matter. Weight depends on gravity."
+  },
+  {
+    "skill": "matter-mass",
+    "text": "A Creative building tower is taken apart and all the bricks are put on a scale. Compared to the built tower, the mass is…",
+    "answers": [
+      "The same",
+      "Less",
+      "More",
+      "Zero"
+    ],
+    "solution": "Same bricks = same matter = same mass. Matter isn't lost when you take something apart.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Mass is amount of matter. Weight depends on gravity."
+  },
+  {
+    "skill": "matter-mass",
+    "text": "An ice cube has a mass of 20 g. After it melts completely, the water has a mass of… No material escapes or spills.",
+    "answers": [
+      "20 g",
+      "Less than 20 g",
+      "More than 20 g",
+      "0 g"
+    ],
+    "solution": "Changing state doesn't change mass. It's the same water, just liquid now.",
+    "format": "data",
+    "difficulty": 3,
+    "hint": "Mass is amount of matter. Weight depends on gravity."
+  },
+  {
+    "skill": "matter-mass",
+    "text": "10 g of sugar is dissolved in 100 g of water. What is the total mass of the sugar water? No material escapes or spills.",
+    "answers": [
+      "110 g",
+      "100 g",
+      "90 g",
+      "10 g"
+    ],
+    "solution": "Dissolved sugar is still there! 100 + 10 = 110 g.",
+    "format": "data",
+    "difficulty": 3,
+    "hint": "Mass is amount of matter. Weight depends on gravity."
+  },
+  {
+    "skill": "matter-mass",
+    "text": "Mass is measured in ___. Weight is measured in ___.",
+    "answers": [
+      "grams; newtons",
+      "liters; meters",
+      "degrees; grams",
+      "meters; liters"
+    ],
+    "solution": "Mass uses grams/kilograms. Weight is a force, measured in newtons (or pounds).",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Mass is amount of matter. Weight depends on gravity."
+  },
+  {
+    "skill": "matter-mass",
+    "text": "You pump air into a flat squad training ball. Its mass…",
+    "answers": [
+      "Increases a tiny bit, because air has mass",
+      "Decreases",
+      "Stays exactly the same",
+      "Becomes zero"
+    ],
+    "solution": "Air is matter, so adding air adds mass.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Mass is amount of matter. Weight depends on gravity."
+  },
+  {
+    "skill": "matter-observe",
+    "text": "Which property can you observe just by LOOKING at something?",
+    "answers": [
+      "Color",
+      "Mass",
+      "Electrical conductivity",
+      "Magnetism"
+    ],
+    "solution": "Color is observed with your eyes. The others need tools or tests.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Use the property described in the observation."
+  },
+  {
+    "skill": "matter-observe",
+    "text": "Rubbing your hand on a squad training ball to see if it's smooth or bumpy tests its…",
+    "answers": [
+      "Texture",
+      "Temperature",
+      "Volume",
+      "Magnetism"
+    ],
+    "solution": "Texture is how something feels.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Use the property described in the observation."
+  },
+  {
+    "skill": "matter-observe",
+    "text": "Which sense would you use to observe the TEXTURE of a material?",
+    "answers": [
+      "Touch",
+      "Hearing",
+      "Smell",
+      "Taste"
+    ],
+    "solution": "Texture = how it feels, so touch!",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Use the property described in the observation."
+  },
+  {
+    "skill": "matter-observe",
+    "text": "Which of these is a property of a plastic building brick?",
+    "answers": [
+      "Hard, plastic, and it doesn't dissolve in water",
+      "Soft and soluble in water",
+      "Magnetic and made of iron",
+      "A good conductor of electricity"
+    ],
+    "solution": "plastic building bricks are hard plastic, insoluble, nonmagnetic, and insulators.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Use the property described in the observation."
+  },
+  {
+    "skill": "matter-observe",
+    "text": "Which word describes a material that bends easily without breaking, like a rubber band?",
+    "answers": [
+      "Flexible",
+      "Brittle",
+      "Magnetic",
+      "Soluble"
+    ],
+    "solution": "Flexible = bends without breaking.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Use the property described in the observation."
+  },
+  {
+    "skill": "matter-observe",
+    "text": "A diamond can scratch glass, but glass can't scratch a diamond. This compares their…",
+    "answers": [
+      "Hardness",
+      "Color",
+      "Mass",
+      "Temperature"
+    ],
+    "solution": "Hardness: harder materials scratch softer ones.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Use the property described in the observation."
+  },
+  {
+    "skill": "matter-observe",
+    "text": "Light passes right through a clear window. Which property does this describe?",
+    "answers": [
+      "It is transparent",
+      "It is magnetic",
+      "It is soluble",
+      "It is flexible"
+    ],
+    "solution": "Transparent = you can see through it.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Use the property described in the observation."
+  },
+  {
+    "skill": "matter-observe",
+    "text": "At the island training range, which property makes a rubber ball bouncy?",
+    "answers": [
+      "Elasticity: it stretches and springs back",
+      "Magnetism",
+      "Solubility",
+      "Transparency"
+    ],
+    "solution": "Elastic materials like rubber squish and spring back into shape.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Use the property described in the observation."
+  },
+  {
+    "skill": "matter-observe",
+    "text": "TRANSLUCENT means…",
+    "answers": [
+      "Some light passes through, but you can't see clearly (like wax paper)",
+      "Completely see-through",
+      "No light passes through",
+      "It sticks to magnets"
+    ],
+    "solution": "Translucent is in between transparent and opaque.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "hint": "Use the property described in the observation."
+  },
+  {
+    "skill": "matter-observe",
+    "text": "Why should you NEVER taste unknown substances during a science investigation?",
+    "answers": [
+      "They could be harmful; use other safe tests instead",
+      "Tasting is the most accurate test",
+      "Taste isn't one of the senses",
+      "It makes them magnetic"
+    ],
+    "solution": "Safety first! Scientists observe with sight, touch, and careful tests, not taste.",
+    "format": "reasoning",
+    "difficulty": 3,
+    "hint": "Use the property described in the observation."
+  },
+  {
+    "skill": "matter-state",
+    "text": "Which state of matter has a definite shape AND definite volume?",
+    "answers": [
+      "Solid",
+      "Liquid",
+      "Gas",
+      "None of them"
+    ],
+    "solution": "Solids (like a plastic building brick) keep their shape and volume.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "hint": "Compare whether shape and volume stay fixed."
+  },
+  {
+    "skill": "matter-state",
+    "text": "Which state of matter takes the shape of its container but keeps its volume?",
+    "answers": [
+      "Liquid",
+      "Solid",
+      "Gas",
+      "Plasma"
+    ],
+    "solution": "Liquids flow to fit the container, but the amount stays the same.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "hint": "Compare whether shape and volume stay fixed."
+  },
+  {
+    "skill": "matter-state",
+    "text": "Which state of matter spreads out to fill its whole container?",
+    "answers": [
+      "Gas",
+      "Liquid",
+      "Solid",
+      "Ice"
+    ],
+    "solution": "Gases (like the air inside a squad training ball) spread out to fill the space.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "hint": "Compare whether shape and volume stay fixed."
+  },
+  {
+    "skill": "matter-state",
+    "text": "Is the air inside a squad training ball matter?",
+    "answers": [
+      "Yes. Air has mass and takes up space",
+      "No. You can't see it",
+      "No. Only solids are matter",
+      "Only when it's cold"
+    ],
+    "solution": "Air is matter! A pumped-up ball actually has a little more mass than a flat one.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Compare whether shape and volume stay fixed."
+  },
+  {
+    "skill": "matter-state",
+    "text": "An ice cube melts into water. Did the type of matter change?",
+    "answers": [
+      "No. It's still water, just in a different state",
+      "Yes. It became a new substance",
+      "Yes. It turned into air",
+      "It disappeared"
+    ],
+    "solution": "Melting is a physical change; it's still water.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Compare whether shape and volume stay fixed."
+  },
+  {
+    "skill": "matter-state",
+    "text": "Your squad pours all the water from a shield-bottle prop into a wide bowl without spilling. Which property of the water stays the same?",
+    "answers": [
+      "Its volume",
+      "Its shape",
+      "Its container",
+      "Nothing"
+    ],
+    "solution": "Liquids change shape but keep the same volume.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Compare whether shape and volume stay fixed."
+  },
+  {
+    "skill": "matter-state",
+    "text": "MELTING is when…",
+    "answers": [
+      "A solid turns into a liquid",
+      "A liquid turns into a gas",
+      "A gas turns into a liquid",
+      "A liquid turns into a solid"
+    ],
+    "solution": "Melting changes a solid into a liquid. For example, solid ice becomes liquid water; the substance remains water.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "hint": "Compare whether shape and volume stay fixed."
+  },
+  {
+    "skill": "matter-state",
+    "text": "FREEZING is when…",
+    "answers": [
+      "A liquid turns into a solid",
+      "A solid turns into a liquid",
+      "A liquid turns into a gas",
+      "A gas turns into a solid"
+    ],
+    "solution": "Freezing changes a liquid into a solid. Liquid water becomes ice when enough heat is removed; it is still water.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "hint": "Compare whether shape and volume stay fixed."
+  },
+  {
+    "skill": "matter-state",
+    "text": "EVAPORATION is when…",
+    "answers": [
+      "A liquid turns into a gas",
+      "A gas turns into a liquid",
+      "A solid turns into a liquid",
+      "A liquid turns into a solid"
+    ],
+    "solution": "Puddles disappear on sunny days because of evaporation.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "hint": "Compare whether shape and volume stay fixed."
+  },
+  {
+    "skill": "matter-state",
+    "text": "CONDENSATION is when…",
+    "answers": [
+      "A gas turns into a liquid",
+      "A liquid turns into a gas",
+      "A solid turns into a gas",
+      "A liquid turns into a solid"
+    ],
+    "solution": "Water vapor in the air turns into liquid drops: condensation.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "hint": "Compare whether shape and volume stay fixed."
+  },
+  {
+    "skill": "matter-investigate",
+    "text": "You want to know which material keeps a hot drink warm the longest. What should you measure?",
+    "answers": [
+      "The temperature of each drink over time",
+      "The mass of each cup",
+      "Whether each cup is magnetic",
+      "The color of each cup"
+    ],
+    "solution": "Track temperature with a thermometer to compare thermal insulators.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Choose evidence for the property being tested. Keep other conditions the same."
+  },
+  {
+    "skill": "matter-investigate",
+    "text": "To make a fair test comparing three cups, you should…",
+    "answers": [
+      "Change only one thing and keep everything else the same",
+      "Use different amounts of water in each",
+      "Test each one on a different day",
+      "Change as many things as possible"
+    ],
+    "solution": "A fair test changes only ONE variable at a time.",
+    "format": "reasoning",
+    "difficulty": 3,
+    "hint": "Choose evidence for the property being tested. Keep other conditions the same."
+  },
+  {
+    "skill": "matter-investigate",
+    "text": "A student sorts objects into 'sticks to magnet' and 'doesn't stick.' What property is being used to classify them?",
+    "answers": [
+      "Magnetism",
+      "Solubility",
+      "Electrical conductivity",
+      "Temperature"
+    ],
+    "solution": "Sorting by magnet = magnetism.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Choose evidence for the property being tested. Keep other conditions the same."
+  },
+  {
+    "skill": "matter-investigate",
+    "text": "Which set of tools would you need to find the mass AND volume of a liquid?",
+    "answers": [
+      "A balance and a graduated cylinder",
+      "A thermometer and a magnet",
+      "A ruler and a magnet",
+      "A circuit and a thermometer"
+    ],
+    "solution": "Balance = mass. Graduated cylinder = volume.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Choose evidence for the property being tested. Keep other conditions the same."
+  },
+  {
+    "skill": "matter-investigate",
+    "text": "Why would a builder pick metal instead of plastic for an electrical wire?",
+    "answers": [
+      "Metal conducts electricity",
+      "Metal is an insulator",
+      "Metal dissolves in water",
+      "Metal is lighter"
+    ],
+    "solution": "Wires need to conduct electricity, which metals do well.",
+    "format": "reasoning",
+    "difficulty": 3,
+    "hint": "Choose evidence for the property being tested. Keep other conditions the same."
+  },
+  {
+    "skill": "matter-investigate",
+    "text": "Which property would you test to choose the best material for an oven mitt?",
+    "answers": [
+      "Thermal conductivity",
+      "Magnetism",
+      "Electrical conductivity",
+      "Color"
+    ],
+    "solution": "You want a material that blocks heat, which is low thermal conductivity.",
+    "format": "reasoning",
+    "difficulty": 3,
+    "hint": "Choose evidence for the property being tested. Keep other conditions the same."
+  },
+  {
+    "skill": "matter-investigate",
+    "text": "A team wants a cargo net that won't snap when a ball hits it. Which properties matter most?",
+    "answers": [
+      "Strength and flexibility",
+      "Magnetism and color",
+      "Solubility and luster",
+      "Electrical conductivity"
+    ],
+    "solution": "The net needs to stretch and not break.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Choose evidence for the property being tested. Keep other conditions the same."
+  },
+  {
+    "skill": "matter-investigate",
+    "text": "You want to build a supply raft that floats. What should you test?",
+    "answers": [
+      "Whether the materials float or sink in water",
+      "Whether they're magnetic",
+      "Whether they conduct electricity",
+      "Their temperature"
+    ],
+    "solution": "Floating vs. sinking is a property you can test with water.",
+    "format": "application",
+    "difficulty": 2,
+    "hint": "Choose evidence for the property being tested. Keep other conditions the same."
+  },
+  {
+    "skill": "matter-investigate",
+    "text": "Why do scientists repeat an investigation several times?",
+    "answers": [
+      "To make sure the results are reliable",
+      "To make it take longer",
+      "To change the answer",
+      "To use up materials"
+    ],
+    "solution": "Repeating trials shows the results weren't just luck.",
+    "format": "reasoning",
+    "difficulty": 3,
+    "hint": "Choose evidence for the property being tested. Keep other conditions the same."
+  },
+  {
+    "skill": "matter-investigate",
+    "text": "Inspect this mystery loot: it is shiny, silver-colored, attracted to a magnet, and conducts electricity. Which item best fits all four observations?",
+    "answers": [
+      "A steel nail",
+      "A plastic building brick",
+      "An aluminum can",
+      "A glass marble"
+    ],
+    "solution": "Magnetic + conductor + shiny = steel. Aluminum conducts but ISN'T magnetic.",
+    "format": "reasoning",
+    "difficulty": 3,
+    "hint": "Choose evidence for the property being tested. Keep other conditions the same."
+  }
+]
