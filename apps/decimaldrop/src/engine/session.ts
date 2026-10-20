@@ -1,9 +1,9 @@
-import type { UnitId } from './units';
+import { units, type UnitId } from './units';
 import { scienceBank } from './science';
 import { skills, allSkills, skillsFor, modes, assessmentConfig } from './curriculum';
 import { assess, allResponses } from './assessment';
 import { generateQuestion,remixBank } from './questions';
-import { validAnswer, parseDecimal, decimal } from './decimal';
+import { validAnswer, parseDecimal, decimal, normalizeExact } from './decimal';
 import type { Progress, Session, Mode, Question, Response } from './types';
 export const emptyProgress=():Progress=>({version:1,sessions:[],active:null,xp:0,sound:false});
 const emptyDraft=()=>({answer:'',work:'',hinted:false,answers:[] as string[],elapsed:0});
@@ -26,7 +26,7 @@ export function selectQuestion(p:Progress,s:Session):Question {
  };
  candidates.sort((a,b)=>rank(a.id)-rank(b.id));
  const skill=candidates[0]||unitSkills[0];
- if(unit!=='decimals'){
+ if(unit!=='decimals'&&unit!=='multiplication'){
  const pool=scienceBank.filter(q=>q.skill===skill.id&&!s.questions.some(existing=>existing.id===q.id));
  const families=s.questions.filter(q=>q.skill===skill.id).slice(-2).map(q=>q.family);
  const formatCount=(q:Question)=>history.filter(r=>r.response.question.skill===skill.id&&r.response.question.family===q.family).length;
@@ -86,7 +86,7 @@ export function advance(p:Progress,seconds:number,early=false):Progress {
 export function submitDraft(p:Progress,answer:string,elapsed:number,work:string):Progress {
  if(!p.active)return p;
  const s=p.active,q=s.questions[s.responses.length];
- if(!answer.trim()||q.kind==='numeric'&&parseDecimal(answer)===null)throw new Error('Enter a number, such as 4.50.');
+ if(!answer.trim()||q.kind==='numeric'&&(q.proof.op==='multiply'?normalizeExact(answer)===null:parseDecimal(answer)===null))throw new Error('Enter a number, such as 4.50.');
  return {...p,active:{...s,draft:{...s.draft,answer,work,elapsed,firstHinted:s.draft.firstHinted??s.draft.hinted,answers:[...s.draft.answers,answer]}}};
 }
 export function achievements(p:Progress){const responses=allResponses(p).map(r=>r.response);return [
@@ -94,7 +94,7 @@ export function achievements(p:Progress){const responses=allResponses(p).map(r=>
  {id:'explorer',name:'Island explorer',detail:'Try all seven skill zones',unlocked:new Set(responses.map(r=>allSkills.find(s=>s.id===r.question.skill)?.group)).size>=7},
  {id:'comeback',name:'Comeback kid',detail:'Correct a challenge after a retry',unlocked:responses.some(r=>!r.firstCorrect&&r.correct)},
  {id:'return',name:'Back for more',detail:'Complete three missions',unlocked:p.sessions.filter(s=>!s.early).length>=3},
- {id:'master',name:'Skill specialist',detail:'Master your first subskill',unlocked:(['decimals','mixtures','matter'] as UnitId[]).flatMap(u=>assess(p,Date.now(),u)).some(e=>e.status==='Mastered')},
+ {id:'master',name:'Skill specialist',detail:'Master your first subskill',unlocked:units.map(u=>u.id).flatMap(u=>assess(p,Date.now(),u)).some(e=>e.status==='Mastered')},
  ];}
 
 export function switchUnit(p:Progress,unit:UnitId):Progress {

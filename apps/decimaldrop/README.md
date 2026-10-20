@@ -4,7 +4,8 @@ A Fortnite-inspired Battle Lab for fifth-grade math and science. React, TypeScri
 
 ## Choose a subject and dropzone
 
-- **Math → Decimals / Tilted Totals:** original 348-question bank plus 132 new Fortnite mission variants (480 seeded math questions, with additional deterministic generation).
+- **Math → Adding & Subtracting Decimals / Tilted Totals:** original 348-question bank plus 132 new Fortnite mission variants (480 seeded math questions, with additional deterministic generation).
+- **Math → Multiplying Decimals / Product Peaks:** 192 validated seeded questions across 12 subskills, plus deterministic generation. Family-approved provisional Chapter 4 scope, visibly unverified; app labels are not official Go Math! lesson titles. Covers whole and decimal factors, place value, models, estimation, powers of ten, zeros/regrouping, scaling, money, measurement, multi-step stories, missing factors, and reasoning.
 - **Science → Mixtures & Chemical Reactions / Reaction Royale:** 80 authored questions covering every section of the supplied Grade 5 review sheet: mixtures, solutions, new substances, gas, temperature, new solids, new smells, color, physical-change counterexamples, and evidence-based explanations.
 - **Science → Properties of Matter / Loot Lab:** 100 reviewed questions adapted from James’s TVA quiz, covering vocabulary, magnetism, electrical and thermal conductivity, solubility, measurement, mass/weight, observable properties, states, and investigation.
 
@@ -72,7 +73,9 @@ The 29 decimal subskills cover place value, equivalent decimals, alignment, esti
 
 `src/engine/questions.ts` exports a **348-question original decimal bank** (12 per decimal subskill), plus 132 additional math mission variants and deterministic parameterized generators for fresh questions. About 86% require numeric responses; reasoning and operation-selection questions use multiple choice. Questions include ID, skill, difficulty, answer equivalents, worked solution, hint, candidate misconception patterns, estimated completion time, and a machine-checkable arithmetic proof.
 
-All arithmetic uses **integer thousandths**. No computed decimal answer relies on binary floating-point addition/subtraction. Input equivalence accepts `4.5`, `4.50`, `4.500`, and additional trailing zeros, but rejects nonzero digits beyond thousandths and malformed input. Required regression cases include `10 − 3.875 = 6.125`, `15.003 − 6.728 = 8.275`, and `0.1 + 0.2 = 0.3`.
+Original addition/subtraction arithmetic uses **integer thousandths**. No computed decimal answer relies on binary floating-point addition/subtraction. Input equivalence accepts `4.5`, `4.50`, `4.500`, and additional trailing zeros, but rejects nonzero digits beyond thousandths and malformed input. Required regression cases include `10 − 3.875 = 6.125`, `15.003 − 6.728 = 8.275`, and `0.1 + 0.2 = 0.3`.
+
+Multiplication uses exact base-ten integer scaling with BigInt, including products beyond thousandths (for example 0.125 × 0.125 = 0.015625). Numeric multiplication input accepts equivalent trailing zeros without rounding. The legacy parser and old question definitions remain unchanged. Multiplication has four task families per skill with difficulty based on mathematical demand (levels 1–3); mastery uses each skill’s actual available difficulty. Three 12-question diagnostics each sample all 12 skills, followed by balanced adaptation.
 
 Generation validates each proof before returning a question. Tests exercise 1,000 seeds for every skill, bank uniqueness, choice uniqueness, metadata, answer equivalence, and solution-result consistency. The UI selects unseen question IDs and avoids the most recent two formats for a skill. This is a parameterized bank: some computational practice intentionally reuses a mathematical structure with new operands. It is not 348 human-authored lessons. Seeds advance without a preset bank limit; an explicit safety ceiling prevents runaway selection. Extremely long use eventually produces larger whole numbers; revise templates if extending the app beyond this test-prep use case.
 
@@ -94,7 +97,7 @@ Heuristics are configurable in `assessmentConfig`, not a standardized or scienti
 
 ## Progress, backups and privacy
 
-Data is stored in localStorage under `decimal-drop-progress-v1`. It includes sessions, generated questions, responses, attempts, time, hints, scratch work, XP, sound preference, and active drafts. Mastery, achievements and parent analytics are recomputed from this persisted evidence. Paused work survives refresh and browser restart; there is no cloud sync.
+Data is stored in localStorage under `decimal-drop-progress-v1`. It includes sessions, generated questions, responses, attempts, time, hints, scratch work, XP, sound preference, and active drafts. Mastery, achievements and parent analytics are recomputed from this persisted evidence. All four units can retain an unfinished mission at once, including three parked missions. Paused work survives refresh and browser restart; there is no cloud sync.
 
 Use **Export** in the footer regularly, particularly before clearing browser data, changing ports, using private browsing, or updating question templates. **Import** validates a version-1 JSON file and restores it, replacing the current profile. Malformed or incompatible imports leave current progress intact. There is one student profile per browser origin.
 
@@ -111,6 +114,7 @@ XP rewards answered challenges (10), independent first-try success (+10), correc
 - `src/engine/curriculum.ts`: editable taxonomy, modes, assessment configuration
 - `src/engine/decimal.ts`: exact decimal input and equivalence
 - `src/engine/questions.ts`: validated bank and deterministic generators
+- `src/engine/multiplication.ts`: separate provisional multiplication taxonomy, 192 seeded prompts, and exact generators
 - `src/engine/session.ts`: diagnostic/adaptive selection, attempts, sessions, rewards
 - `src/engine/assessment.ts`: conservative mastery, readiness, recommendations
 - `src/engine/storage.ts`: versioned persistence, import validation and recovery
