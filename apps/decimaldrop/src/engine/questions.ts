@@ -1,8 +1,10 @@
+import { multiplicationQuestion } from './multiplication';
 import { scienceQuestion } from './science';
 import { decimal as d, roundWhole, validAnswer } from './decimal';
 import { skills } from './curriculum';
 import type { Question } from './types';
 export function generateQuestion(skill:string,seed:number):Question {
+ if(skill.startsWith('mul-'))return multiplicationQuestion(skill,seed);
  if(skill.startsWith('loot-')){
  const original=generateQuestion(skill.slice(5),seed);const {op,values}=original.proof;const [a,b]=values;
  if(!['add','sub'].includes(op)||values.length!==2)throw new Error('No remix for this skill');
@@ -68,6 +70,7 @@ export function generateQuestion(skill:string,seed:number):Question {
 }
 export function validateQuestion(q:Question):boolean {
  const {op,values,result}=q.proof;
+ if(op==='multiply'){try{return JSON.stringify(q)===JSON.stringify(multiplicationQuestion(q.skill,Number(q.id.split(':')[1])));}catch{return false;}}
  if(op==='science'){try{return JSON.stringify(q)===JSON.stringify(scienceQuestion(q.skill,Number(q.id.split(':')[1])));}catch{return false;}}
  const expected=op==='add'?values.reduce((a,b)=>a+b,0):op==='sub'?values[0]-values[1]:op==='round'?values.reduce((a,b)=>a+(b<0?-roundWhole(-b):roundWhole(b)),0):values[0];
  return expected===result && Number.isSafeInteger(result) && (q.kind==='choice'?!!q.choices?.includes(q.answer):validAnswer(d(result),q));

@@ -1,8 +1,18 @@
 import type { Skill } from './types';
-export type UnitId = 'decimals' | 'mixtures' | 'matter';
+export type UnitId = 'decimals' | 'mixtures' | 'matter' | 'multiplication';
 export interface Unit { id:UnitId; subject:'Math'|'Science'; title:string; zone:string; subtitle:string; standard:string; source:string; verified:boolean; rarity:string; accent:string; intel:{title:string;text:string}[]; }
 export const units:Unit[] = [
- {id:'decimals',subject:'Math',title:'Decimals',zone:'Tilted Totals',subtitle:'Build, regroup, and outthink the decimal storm.',standard:'5.NBT.B.7',source:'Provisional Go Math! Grade 5 Chapter 3 scope; edition unconfirmed.',verified:false,rarity:'RARE',accent:'#b5f65a',intel:[{title:'Line up the decimal points',text:'Whole numbers sit with whole numbers, tenths with tenths. Add trailing zeros to make columns easier to see.'},{title:'Digit vs. value',text:'In 2.200, the 2 just after the decimal has a value of 0.2. The 2 before the decimal has a value of 2.'},{title:'Check your loot',text:'Estimate before you calculate. Use addition to check a subtraction answer.'}]},
+ {id:'multiplication',subject:'Math',title:'Multiplying Decimals',zone:'Product Peaks',subtitle:'Scale your supply drops. Explain every product.',standard:'5.NBT.B.7',source:'Provisional Go Math! Grade 5 Chapter 4 scope; edition and chapter contents unverified. App labels are not official lesson titles.',verified:false,rarity:'LEGENDARY',accent:'#ffcc66',intel:[
+ {title:'Whole-number bridge',text:'2.4 × 3 means 24 tenths × 3 = 72 tenths = 7.2. Multiply the units, then name their value.'},
+ {title:'Locate the decimal',text:'1.2 × 0.35: 12 × 35 = 420. Tenths × hundredths are thousandths, so 420 thousandths = 0.420 = 0.42. Keep every place; do not round.'},
+ {title:'Area model',text:'A rectangle 0.4 m by 0.3 m covers 12 hundredths of a square meter: 4 tenths × 3 tenths = 0.12. On a 10 × 10 grid, 12 of 100 small squares overlap.'},
+ {title:'Break a factor apart',text:'3.6 × 4 = (3 × 4) + (0.6 × 4) = 12 + 2.4 = 14.4. Regroup 24 tenths as 2 wholes and 4 tenths.'},
+ {title:'Estimate your drop',text:'4.8 × 2.1 is near 5 × 2 = 10. The exact answer 10.08 is reasonable; 100.8 is too large.'},
+ {title:'Scaling and zeros',text:'Multiplying by 10 makes each digit worth ten times as much. Multiplying by 0.1 makes it worth one tenth as much. 0.04 × 0.2 = 0.008; placeholder zeros matter.'},
+ {title:'Smaller products',text:'For a positive amount, multiplying by a number between 0 and 1 takes part of it. 8 × 0.5 = 4. Multiplying by 1 keeps it unchanged; by more than 1 enlarges it.'},
+ {title:'Story and missing-factor checks',text:'Three kits at $2.45 each cost 3 × 2.45 = $7.35. For ___ × 0.4 = 1.2, try 3 and check 3 × 0.4 = 1.2. Label units and check each step.'},
+ ]},
+ {id:'decimals',subject:'Math',title:'Adding & Subtracting Decimals',zone:'Tilted Totals',subtitle:'Build, regroup, and outthink the decimal storm.',standard:'5.NBT.B.7',source:'Provisional Go Math! Grade 5 Chapter 3 scope; edition unconfirmed.',verified:false,rarity:'RARE',accent:'#b5f65a',intel:[{title:'Line up the decimal points',text:'Whole numbers sit with whole numbers, tenths with tenths. Add trailing zeros to make columns easier to see.'},{title:'Digit vs. value',text:'In 2.200, the 2 just after the decimal has a value of 0.2. The 2 before the decimal has a value of 2.'},{title:'Check your loot',text:'Estimate before you calculate. Use addition to check a subtraction answer.'}]},
  {id:'mixtures',subject:'Science',title:'Mixtures & Chemical Reactions',zone:'Reaction Royale',subtitle:'Collect the evidence. Spot the change. Secure the science.',standard:'5-PS1-4',source:'Based on the family-provided Grade 5 Science Review: Mixtures & Chemical Reactions.',verified:true,rarity:'MYTHIC',accent:'#bd9aff',intel:[
  {title:'Mixture',text:'Two or more substances combined that keep their original properties. Mixing does not automatically mean a new substance formed.'},
  {title:'Solution',text:'A mixture with a dissolved substance spread evenly throughout a liquid. Dissolved salt is still present, even when you cannot see it.'},
@@ -48,4 +58,4 @@ const scienceDefinitions:[UnitId,string,string,string,string][]=[
  ['matter','matter-investigate','Scientific reasoning','Fair tests & material choices','Choose a material from property evidence and keep comparison tests fair.'],
 ];
 export const scienceSkills:Skill[]=scienceDefinitions.map(([unit,id,group,name,nextStep])=>({unit,id,group,name,nextStep}));
-export const unitOfSkill=(id:string):UnitId=>id.startsWith('mix-')?'mixtures':id.startsWith('matter-')?'matter':'decimals';
+export const unitOfSkill=(id:string):UnitId=>id.startsWith('mul-')?'multiplication':id.startsWith('mix-')?'mixtures':id.startsWith('matter-')?'matter':'decimals';

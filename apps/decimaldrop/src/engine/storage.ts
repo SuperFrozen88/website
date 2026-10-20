@@ -25,7 +25,7 @@ export function importProgress(raw:string):Progress {
  let p:Progress;try{p=JSON.parse(raw);}catch{throw new Error('This file is not valid JSON. Your current progress is unchanged.');}
  if(p?.selectedUnit!==undefined&&!units.some(u=>u.id===p.selectedUnit))throw new Error('Unknown selected unit.');
  if(!p||p.version!==1||!Array.isArray(p.sessions)||p.sessions.length>2000||!finite(p.xp)||typeof p.sound!=='boolean'||!p.sessions.every(s=>validateSession(s,false))||(p.active!==null&&!validateSession(p.active,true)))throw new Error('This progress file is incomplete or incompatible. Your current progress is unchanged.');
- if(p.paused!==undefined&&(!Array.isArray(p.paused)||p.paused.length>2||!p.paused.every(s=>validateSession(s,true))))throw new Error('Invalid paused missions.');
+ if(p.paused!==undefined&&(!Array.isArray(p.paused)||p.paused.length>units.length-1||!p.paused.every(s=>validateSession(s,true))))throw new Error('Invalid paused missions.');
  const unfinished=[...(p.active?[p.active]:[]),...(p.paused||[])];
  if(new Set(unfinished.map(s=>s.unit||'decimals')).size!==unfinished.length)throw new Error('Duplicate unfinished unit missions.');
  if(new Set([...p.sessions,...(p.active?[p.active]:[]),...(p.paused||[])].map(s=>s.id)).size!==p.sessions.length+(p.active?1:0)+(p.paused?.length||0))throw new Error('Duplicate session IDs.');
