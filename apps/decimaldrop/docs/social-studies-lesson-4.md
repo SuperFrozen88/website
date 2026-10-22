@@ -1,22 +1,42 @@
 # Social Studies: Lesson 4 scope and sources
 
-## What is confirmed
+## Supplied classroom scope
 
-The family requested TCI **How and Why Europeans Came to the New World**. The [classroom year-plan photo](reference/README.md) confirms Lesson 4’s title and nine-section count and lists Lesson 5, **Routes of Exploration to the New World**, separately. It does not show individual section content or assessment questions.
+The [33 original screenshots](reference/tci-lesson-4-2026-10-21/README.md) now provide the actual classroom lesson content. They were moved from Desktop at the family’s explicit request, with original filenames and image bytes preserved and SHA-256 hashes recorded. The earlier [year-plan photo](reference/README.md) also remains archived.
 
-TCI’s [America’s Past, Third Edition correlations](https://cdnproduction.teachtci.com/review/Social%20Studies/EL/G5_TCI_AP_OR%20Correlations.pdf), pages 1–2, identify a lesson with the newer title **How and Why Europeans Came to the Americas**. The outline lists an introduction and these eight topics: ocean crossing, directions, maps, claimed lands, religious beliefs, wealth, new foods, and cash crops. That is a useful outline match; it does **not** establish that the classroom edition’s nine sections are identical.
+The captures show the introduction, **1. Underwater Archaeology; 2. Ocean Crossing; 3. Directions; 4. Maps; 5. Claimed Lands; 6. Religious Beliefs; 7. Wealth; 8. New Foods; 9. Cash Crops**, the summary, reading checks, and activities. They also include **Read & Do: Changes in Europe Spur Exploration** and **Explore: The Columbian Exchange**. The app labels these extension skills separately, while including them in the supplied practice scope. Exact classroom quiz coverage is still unconfirmed.
 
-The app marks scope provisional and exact quiz coverage unconfirmed. The source metadata states which part the family photo confirms. Keep `verified: false` until actual classroom lesson content is checked. App readiness reports evidence for these practice skills, not the probability of passing a particular teacher’s quiz.
+The previous [TCI published outline](https://cdnproduction.teachtci.com/review/Social%20Studies/EL/G5_TCI_AP_OR%20Correlations.pdf) was an initial reference. The supplied edition explicitly numbers Underwater Archaeology as its first section; the screenshots now take precedence. `verified: true` means scope was checked against these supplied materials. It does not certify an exact quiz match or a test-passing probability.
 
-## Original study content
+## Original study content and preservation
 
-`src/engine/exploration-bank.json` holds **80 original questions**, eight per skill. The ten skills cover the eight topic areas plus era/vocabulary and artifact interpretation. Eleven intel cards summarize the learning goals. Questions use four deterministically shuffled choices, hints, concise explanations, varied formats, and difficulty levels 1–3. There are no generated fictional historical facts, infinite paraphrases, copied TCI assessment items, or requests for a TCI login.
+`src/engine/exploration-bank.json` holds **184 original questions**: the original 80 definitions unchanged, plus 104 appended questions. New entries have `screenshotNumbers` that refer to the archive’s numbered manifest. Existing `ss-*:0` through `ss-*:7` IDs, definitions, answer keys, and shuffle order remain unchanged. A frozen save from commit `1c20b61` and hashes of all 80 prior question definitions verify compatibility, including five active/parked missions, XP, and history.
 
-Each 12-question diagnostic covers all ten skills. Selection prefers unseen prompts and underrepresented formats, then revisits old questions as spaced review. A 20-question test takes two questions per skill. Practice reveals the correct answer immediately; tests conceal feedback until debrief. Hints remain supported practice. Six responses across multiple sessions and formats, sustained accuracy, and the hardest available level are required for mastery under the existing rules. All ten skills have sufficient content to attain mastery.
+Ten existing skills now have 16 questions each; **Changes in Europe** and **The Columbian Exchange** each have 12 questions. The two new skills require their own independent evidence. An older profile can therefore have evidence gaps without losing its prior responses. Eighteen original intel cards summarize the nine sections and extension readings, with writing prompts. Multiple-choice questions assess recognition of reasoning; the scratchpad is available for written arguments, which the app does not automatically grade.
+
+Each 12-question diagnostic samples all twelve skills. Once the first three standard diagnostics are complete, balanced adaptation still introduces newly unassessed areas through coverage slots. Selection prefers unseen prompts, then spaced review after a skill’s pool is exhausted. A fixed 20-question practice test represents every skill, with at most two per skill; twenty questions cannot take two for each of twelve skills. Hints and practice answers are visible as before, while test feedback stays concealed until debrief. All twelve skills can attain mastery under the configured sustained-evidence rules.
+
+## Coverage changes from the screenshots
+
+| Supplied material | Added or refined practice |
+| --- | --- |
+| Underwater Archaeology | Ship records and survivor accounts, sonar, grid locations, photographing/tagging before recovery, measurements/lab study, organic fragility, context |
+| Ocean Crossing | Circular metal body, movable bar, sky objects and horizon, day/night observations, latitude rather than heading or longitude |
+| Directions | Magnetic needle and free movement, cardinal orientation, fog/darkness, direction versus position |
+| Maps | Scale and a small calculation, nautical coastal features, winds/currents, map revisions, round Earth versus incomplete geographic knowledge, imagined monsters |
+| Claimed Lands | Funding ships/crews, cross and F/Y symbols, Ferdinand/Ysabel, resources and state power, claims versus consent |
+| Religious Beliefs | Middle Eastern origin, later spread, Catholic/Protestant traditions, Bible parts, missionary motives |
+| Wealth | Costly warfare, precious metals/coins, Mexico and South America, forced mining labor, shipment to Spain |
+| New Foods | Corn preparations, cacao, tomatoes/pineapple, food origins and dietary change, natural products versus manufactured tools |
+| Cash Crops | Leaves, cultural uses, historical medicinal belief versus safety, demand/addiction, export income and imports |
+| Read & Do | Granada/1492; Isabella’s support; Luther/1517, Reformation and Catholic response; England/Spain, Elizabeth I, Armada/1588; chronology and rivalry |
+| Explore | Two-way biological/cultural transfers; introduced crops/livestock; disease and immunity; coerced movement; triangular-trade model; cultural contributions; evidence and perspective in arguments |
+
+The reading-check targets informed new original practice; official questions were not copied. Entered student responses are not answer keys. We avoid repeating historical overgeneralizations: other Christian traditions existed in Europe in 1517; Granada’s conquest does not establish complete political unification of modern Spain; the triangular trade is a simplified model rather than every voyage’s itinerary. Figures about deaths or forced transportation are not turned into arithmetic challenges or quiz trivia.
 
 ## Historical fact checks
 
-The National Park Service references below support the historical concepts. They are separate from TCI’s outline and do not certify classroom alignment. All question wording and distractors were authored for this app.
+The National Park Service references below support the historical concepts. They supplement the supplied classroom screenshots; exact quiz coverage remains unconfirmed. All question wording and distractors were authored for this app.
 
 | Concepts | Reference |
 | --- | --- |
@@ -36,4 +56,4 @@ References were checked October 21, 2026. These sources can include older termin
 
 European tools explain methods; trade, religion and power explain motives; crops and metals can be products. Multiple motives could coexist. A single artifact cannot establish every traveler’s intentions. A flag represents a claim, not proof of Indigenous consent. Include Indigenous knowledge and communities, and describe land loss, coercion and labor exploitation without turning them into game rewards. Game language frames the student’s study activity, not conquest.
 
-Do not add explorer-by-explorer routes from Lesson 5 to this unit. Future lessons in the [year plan](reference/README.md) are planning references, not silently added assessed scope. Existing math and science questions, IDs, answers, saves and XP remain intact. The new `exploration` unit and `ss-` skill IDs have separate evidence and a fifth saved mission. A frozen pre-change save from commit `5862871` tests import compatibility.
+Keep explorer-by-explorer route matching from Lesson 5 outside this unit; the Columbus background and extension events supplied in Lesson 4 are included. Future lessons in the [year plan](reference/README.md) are planning references, not silently added assessed scope. Existing math and science questions, IDs, answers, saves and XP remain intact. The existing `exploration` unit and `ss-` skills keep their evidence and fifth saved mission; the two appended skills start unassessed. A frozen pre-change save from commit `5862871` tests import compatibility.

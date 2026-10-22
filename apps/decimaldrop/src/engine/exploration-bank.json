@@ -1198,5 +1198,2056 @@
     "solution": "The careful label explains what an object can suggest and what remains uncertain. Historical reasoning should not make one object answer every question.",
     "hint": "A strong explanation states both its evidence and its limits.",
     "source": "NPS: About Archeology; navigation, missions, and food references"
+  },
+  {
+    "skill": "ss-overview",
+    "format": "definition",
+    "difficulty": 1,
+    "text": "Which description best fits an explorer in the lesson’s setting?",
+    "answers": [
+      "A person traveling to investigate unfamiliar places",
+      "A person who only sells goods in a familiar home market",
+      "A scientist who studies only modern weather reports",
+      "A ruler who never sends or joins a journey"
+    ],
+    "solution": "Explorers traveled to investigate places unfamiliar to them. A place unfamiliar to a visitor could already be home to other people.",
+    "hint": "Think about the traveler’s activity without assuming the destination was empty.",
+    "source": "Family-provided TCI lesson screenshots, Introduction (2026-10-21)",
+    "screenshotNumbers": [
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "skill": "ss-overview",
+    "format": "cause-chain",
+    "difficulty": 2,
+    "text": "Which chain best explains why additional European countries looked for sea routes to Asia?",
+    "answers": [
+      "Demand for Asian goods → limited control of trade → search for other routes",
+      "Demand for Asian goods → every country already shared all trade → end of voyages",
+      "Demand for American potatoes → discovery of a direct railway → end of sea trade",
+      "Demand for silver → complete maps of the Americas → no need to explore"
+    ],
+    "solution": "Countries wanting a share of profitable Asian trade sought routes of their own. The search for routes connects the demand with ocean exploration.",
+    "hint": "Connect the desired goods, control of trade, and a possible response.",
+    "source": "Family-provided TCI lesson screenshots, Introduction (2026-10-21)",
+    "screenshotNumbers": [
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "skill": "ss-overview",
+    "format": "perspective",
+    "difficulty": 2,
+    "text": "A sailor calls a coast “unknown.” Which question would make that description more precise?",
+    "answers": [
+      "Unknown to which people?",
+      "How could anyone have lived there before it was mapped?",
+      "Why does an unfamiliar coast have no history?",
+      "Which flag made the coast begin to exist?"
+    ],
+    "solution": "A coast could be unfamiliar to European visitors and familiar to Indigenous communities. Identifying the viewpoint makes the claim more accurate.",
+    "hint": "Knowledge of a place can differ between communities.",
+    "source": "Family-provided TCI lesson screenshots, Introduction (2026-10-21)",
+    "screenshotNumbers": [
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "skill": "ss-overview",
+    "format": "source-selection",
+    "difficulty": 2,
+    "text": "A researcher wants clues about the equipment carried on an exploration voyage. Which source is most directly useful?",
+    "answers": [
+      "Objects and records from a sunken exploration ship",
+      "Only the size of a modern harbor’s car park",
+      "Only the recipe for a meal cooked last week",
+      "Only a map showing today’s airline routes"
+    ],
+    "solution": "A shipwreck and its records can provide evidence of what was aboard. Context and comparison help identify what the objects mean.",
+    "hint": "Choose evidence connected to the historical voyage itself.",
+    "source": "Family-provided TCI lesson screenshots, Introduction (2026-10-21)",
+    "screenshotNumbers": [
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "skill": "ss-overview",
+    "format": "summary",
+    "difficulty": 3,
+    "text": "Which briefing answers the lesson’s question about things taken to and from the Americas?",
+    "answers": [
+      "Ships carried navigation tools and symbols of motives; return cargo included crops and metals",
+      "Ships carried only food to the Americas and only maps back to Europe",
+      "Every ship carried the same cargo, so artifacts tell us every crew’s intentions",
+      "Tools were reasons for seeking wealth, while religion was a kind of American food"
+    ],
+    "solution": "Tools, motives, and return products are different parts of the explanation. Ships and artifacts help connect how people traveled with what they sought and carried.",
+    "hint": "Organize your answer into methods, purposes, and products.",
+    "source": "Family-provided TCI lesson screenshots, Introduction (2026-10-21)",
+    "screenshotNumbers": [
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "skill": "ss-overview",
+    "format": "geography-route",
+    "difficulty": 2,
+    "text": "For the Atlantic crossing discussed in the introduction, which route description is accurate?",
+    "answers": [
+      "From Europe across the Atlantic toward the Americas",
+      "From Europe across the Pacific directly to the Americas",
+      "From the Americas across the Indian Ocean to Spain",
+      "From Asia across the Mediterranean to the Americas"
+    ],
+    "solution": "The introduction centers on European voyages across the Atlantic. Columbus sought Asia by sailing west, but reached the Americas.",
+    "hint": "Match the starting region, the ocean crossed, and the region reached.",
+    "source": "Family-provided TCI lesson screenshots, Introduction (2026-10-21)",
+    "screenshotNumbers": [
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "skill": "ss-overview",
+    "format": "historical-distinction",
+    "difficulty": 3,
+    "text": "Which statement best distinguishes Columbus’s intended destination from the outcome described in the lesson?",
+    "answers": [
+      "He sought an Asian trade route but arrived in the Americas",
+      "He sought American colonies that England had already established",
+      "He intended to visit the Americas using a complete map of their coastlines",
+      "He reached Asia and found that its coasts were identical to Spain’s"
+    ],
+    "solution": "The intended destination and actual arrival were different. This distinction helps explain the later European search for resources in the Americas.",
+    "hint": "Do not assume a journey’s result was its original plan.",
+    "source": "Family-provided TCI lesson screenshots, Introduction (2026-10-21)",
+    "screenshotNumbers": [
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "skill": "ss-overview",
+    "format": "classification-set",
+    "difficulty": 2,
+    "text": "Which set correctly sorts the lesson’s central ideas?",
+    "answers": [
+      "Astrolabe: method; desire for wealth: motive; tobacco: return product",
+      "Astrolabe: motive; desire for wealth: return product; tobacco: method",
+      "Astrolabe: return product; desire for wealth: method; tobacco: motive",
+      "Astrolabe: religious goal; desire for wealth: direction; tobacco: latitude"
+    ],
+    "solution": "An astrolabe helped navigation, wealth was a desired gain, and tobacco was a product carried to Europe. The categories explain different parts of the story.",
+    "hint": "Ask “how?”, “why?”, or “what cargo?” for each item.",
+    "source": "Family-provided TCI lesson screenshots, Introduction (2026-10-21)",
+    "screenshotNumbers": [
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "skill": "ss-artifacts",
+    "format": "sonar",
+    "difficulty": 1,
+    "text": "Which method uses sound waves to help locate objects beneath the sea?",
+    "answers": [
+      "Sonar",
+      "A magnetic compass",
+      "A map scale",
+      "A royal banner"
+    ],
+    "solution": "Sonar uses sound to detect underwater objects. It helps search for a wreck; it does not tell historians all the reasons a ship sailed.",
+    "hint": "Look for the method based on sound rather than magnetism or a drawing.",
+    "source": "Family-provided TCI lesson screenshots, Section 1 — Underwater Archaeology (2026-10-21)",
+    "screenshotNumbers": [
+      10,
+      11
+    ]
+  },
+  {
+    "skill": "ss-artifacts",
+    "format": "research-process",
+    "difficulty": 2,
+    "text": "Before sending divers, what could help researchers narrow down the location of an old wreck?",
+    "answers": [
+      "Merchants’ ship records and accounts from survivors",
+      "Only the current price of the ship’s possible cargo",
+      "Only the direction a modern flag happens to face",
+      "Only a list of crops grown in the researcher’s garden"
+    ],
+    "solution": "Records of voyages and survivor accounts can provide search clues. Researchers can compare those clues with physical evidence.",
+    "hint": "Begin with sources connected to the voyage and sinking.",
+    "source": "Family-provided TCI lesson screenshots, Section 1 — Underwater Archaeology (2026-10-21)",
+    "screenshotNumbers": [
+      10,
+      11
+    ]
+  },
+  {
+    "skill": "ss-artifacts",
+    "format": "grid-model",
+    "difficulty": 2,
+    "text": "Divers mark a wreck site with a grid of squares. What does that help them record?",
+    "answers": [
+      "The position of each find relative to other finds",
+      "The exact private beliefs of every person aboard",
+      "The original sale price of each object in Europe",
+      "The ownership of every unmarked piece of cargo"
+    ],
+    "solution": "A grid provides a shared way to record locations. Relationships between finds can matter when interpreting who used them and how.",
+    "hint": "Think about what a grid reference tells you on a map.",
+    "source": "Family-provided TCI lesson screenshots, Section 1 — Underwater Archaeology (2026-10-21)",
+    "screenshotNumbers": [
+      10,
+      11
+    ]
+  },
+  {
+    "skill": "ss-artifacts",
+    "format": "process-order",
+    "difficulty": 2,
+    "text": "Which plan preserves useful information when recovering an object from a wreck?",
+    "answers": [
+      "Record and photograph its location, tag it, then recover and study it carefully",
+      "Recover it first and guess its original location later",
+      "Clean and rearrange the objects before recording their positions",
+      "Mix finds from several sites before assigning them labels"
+    ],
+    "solution": "Recording location and identifying an object before moving it preserves context. Measurements and laboratory study can then build on that record.",
+    "hint": "Preserve the evidence you would lose by moving an object.",
+    "source": "Family-provided TCI lesson screenshots, Section 1 — Underwater Archaeology (2026-10-21)",
+    "screenshotNumbers": [
+      10,
+      11
+    ]
+  },
+  {
+    "skill": "ss-artifacts",
+    "format": "preservation",
+    "difficulty": 2,
+    "text": "Why might a wooden object need more delicate handling than a solid metal object from the same wreck?",
+    "answers": [
+      "Organic materials can be more fragile after centuries underwater",
+      "Wood always gives a more accurate date without further study",
+      "Metal objects cannot ever corrode or need treatment",
+      "The material alone proves which country owned the ship"
+    ],
+    "solution": "Preservation depends on material and conditions. The lesson contrasts fragile organic objects with often more intact metal finds, without implying all metal is undamaged.",
+    "hint": "Compare preservation needs without making an “always” claim.",
+    "source": "Family-provided TCI lesson screenshots, Section 1 — Underwater Archaeology (2026-10-21)",
+    "screenshotNumbers": [
+      10,
+      11
+    ]
+  },
+  {
+    "skill": "ss-artifacts",
+    "format": "evidence-limit",
+    "difficulty": 3,
+    "text": "A grid record shows a cooking pot near a group of food remains. Which next step best supports an interpretation?",
+    "answers": [
+      "Compare the context, measurements, and other finds before drawing conclusions",
+      "Declare that every person aboard had the same occupation",
+      "Ignore the positions because a pot’s shape answers every question",
+      "Treat the nearby food as proof of the captain’s nationality"
+    ],
+    "solution": "Objects and their relationships can support hypotheses. Comparing several clues is stronger than treating one find as a complete answer.",
+    "hint": "Use the recorded context and corroborating evidence.",
+    "source": "Family-provided TCI lesson screenshots, Section 1 — Underwater Archaeology (2026-10-21)",
+    "screenshotNumbers": [
+      10,
+      11
+    ]
+  },
+  {
+    "skill": "ss-artifacts",
+    "format": "natural-product",
+    "difficulty": 2,
+    "text": "In the lesson’s comparison, which item is a natural crop product rather than a manufactured navigation instrument?",
+    "answers": [
+      "An ear of corn",
+      "An astrolabe’s rotating bar",
+      "A compass’s magnetic needle",
+      "A marked metal direction dial"
+    ],
+    "solution": "The food section distinguishes crop products from manufactured artifacts such as tools. Plant remains can still provide evidence about people and their cargo.",
+    "hint": "Classify what the object is, while remembering that both can be evidence.",
+    "source": "Family-provided TCI lesson screenshots, Section 1 — Underwater Archaeology (2026-10-21)",
+    "screenshotNumbers": [
+      10,
+      11
+    ]
+  },
+  {
+    "skill": "ss-artifacts",
+    "format": "explain-grid",
+    "difficulty": 3,
+    "text": "A diver removes every object before noting where it lay. What valuable evidence may be lost?",
+    "answers": [
+      "The spatial relationships that could show how objects were used together",
+      "Every possible fact about the objects’ materials",
+      "All ability to measure any object’s size afterward",
+      "The modern direction of magnetic north at the site"
+    ],
+    "solution": "An object can still be measured after removal, but its original position and relationships may be difficult to reconstruct. Recording context protects that evidence.",
+    "hint": "Distinguish information about an object from information about its original location.",
+    "source": "Family-provided TCI lesson screenshots, Section 1 — Underwater Archaeology (2026-10-21)",
+    "screenshotNumbers": [
+      10,
+      11
+    ]
+  },
+  {
+    "skill": "ss-ocean",
+    "format": "instrument-features",
+    "difficulty": 1,
+    "text": "Which features match the astrolabe shown in the lesson?",
+    "answers": [
+      "A circular metal body with a bar that can turn",
+      "A magnetized needle above a printed road map",
+      "A wooden grid of squares stretched over a wreck",
+      "A chart showing only winds and sea currents"
+    ],
+    "solution": "The lesson’s astrolabe has a marked circular body and a movable bar. The sailor aligns the bar for a sky-angle observation.",
+    "hint": "Think about the tool’s shape and the part the sailor adjusts.",
+    "source": "Family-provided TCI lesson screenshots, Section 2 — Ocean Crossing (2026-10-21)",
+    "screenshotNumbers": [
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "skill": "ss-ocean",
+    "format": "sky-evidence",
+    "difficulty": 2,
+    "text": "Which group contains possible observation targets for an astrolabe?",
+    "answers": [
+      "The sun, the North Star, or another known star",
+      "Only the sun, with no observations possible at night",
+      "Only coastal buildings whose positions are known",
+      "Only the ship’s mast, with no sky observation needed"
+    ],
+    "solution": "The instrument can be used with suitable sun or star observations. It is not restricted to daylight or land features.",
+    "hint": "Separate sky observations from a requirement to see land.",
+    "source": "Family-provided TCI lesson screenshots, Section 2 — Ocean Crossing (2026-10-21)",
+    "screenshotNumbers": [
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "skill": "ss-ocean",
+    "format": "horizon",
+    "difficulty": 1,
+    "text": "What is the horizon in the astrolabe explanation?",
+    "answers": [
+      "The apparent line where Earth or sea meets the sky",
+      "The line dividing a map into equal time zones",
+      "The magnetic direction marked by a compass needle",
+      "The boundary separating one ruler’s territory from another"
+    ],
+    "solution": "The sky-angle observation is measured above the horizon. The horizon provides a reference for the angle.",
+    "hint": "Picture the distant apparent meeting of sea and sky.",
+    "source": "Family-provided TCI lesson screenshots, Section 2 — Ocean Crossing (2026-10-21)",
+    "screenshotNumbers": [
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "skill": "ss-ocean",
+    "format": "day-night",
+    "difficulty": 2,
+    "text": "A clear night replaces a sunny day. Why could an astrolabe still be useful?",
+    "answers": [
+      "A known star can provide the needed sky observation",
+      "Night turns the astrolabe into a magnetic compass",
+      "Stars tell sailors the cargo’s exact value without a measurement",
+      "A night sky removes the need for any reference angle"
+    ],
+    "solution": "The lesson describes using the sun or known stars. A clear night can provide suitable stars rather than making the instrument unusable.",
+    "hint": "The instrument’s name is not a rule limiting it to one time of day.",
+    "source": "Family-provided TCI lesson screenshots, Section 2 — Ocean Crossing (2026-10-21)",
+    "screenshotNumbers": [
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "skill": "ss-ocean",
+    "format": "fact-set",
+    "difficulty": 3,
+    "text": "Which group correctly describes the astrolabe’s use?",
+    "answers": [
+      "Observe a sky angle; estimate latitude; use suitable observations by day or night",
+      "Observe only the sun; calculate exact longitude; need a nearby landmark",
+      "Follow a magnetic needle; measure sea depth; identify every coastal port",
+      "Measure cargo; establish a land claim; determine a sailor’s religion"
+    ],
+    "solution": "The relevant facts concern sky angles and north–south position. Magnetism, land claims, and cargo values are different topics.",
+    "hint": "Keep the instrument’s mechanism and the quantity it estimates together.",
+    "source": "Family-provided TCI lesson screenshots, Section 2 — Ocean Crossing (2026-10-21)",
+    "screenshotNumbers": [
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "skill": "ss-ocean",
+    "format": "correct-method",
+    "difficulty": 2,
+    "text": "A teammate says the astrolabe bar should be pointed at a familiar coastal hill during an open-ocean crossing. What should change?",
+    "answers": [
+      "Use a suitable sun or star observation above the horizon",
+      "Wait for a royal flag to show the ship’s latitude",
+      "Point at the cargo to learn how far west the ship has traveled",
+      "Use the instrument only where the coastline is already visible"
+    ],
+    "solution": "The method in the lesson uses heavenly bodies. It helps where familiar land features are unavailable.",
+    "hint": "The problem is navigating when no useful land landmark is visible.",
+    "source": "Family-provided TCI lesson screenshots, Section 2 — Ocean Crossing (2026-10-21)",
+    "screenshotNumbers": [
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "skill": "ss-ocean",
+    "format": "latitude-interpretation",
+    "difficulty": 2,
+    "text": "Two ships lie at the same latitude but far apart across the ocean. What does their shared latitude establish?",
+    "answers": [
+      "They are the same angular distance north or south of the equator",
+      "They must be in the exact same place",
+      "They must face the same direction",
+      "They must carry cargo from the same country"
+    ],
+    "solution": "Latitude describes north–south position. It does not establish longitude, heading, ownership, or cargo.",
+    "hint": "Identify the part of location described by latitude alone.",
+    "source": "Family-provided TCI lesson screenshots, Section 2 — Ocean Crossing (2026-10-21)",
+    "screenshotNumbers": [
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "skill": "ss-ocean",
+    "format": "model-explanation",
+    "difficulty": 3,
+    "text": "Which explanation best connects an astrolabe’s movable bar with its purpose?",
+    "answers": [
+      "Aligning the bar with a known sky object allows an angle reading useful for latitude",
+      "The bar points toward magnetic north and therefore shows an exact destination",
+      "The bar outlines hidden coasts so maps do not need observations",
+      "The bar turns only to identify the European ruler sponsoring the ship"
+    ],
+    "solution": "The movable bar supports measurement. The connection between the instrument, sky angle, and latitude explains why it helped ocean navigation.",
+    "hint": "Explain what is observed, what is measured, and what it helps estimate.",
+    "source": "Family-provided TCI lesson screenshots, Section 2 — Ocean Crossing (2026-10-21)",
+    "screenshotNumbers": [
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "skill": "ss-directions",
+    "format": "mechanism",
+    "difficulty": 1,
+    "text": "What makes the compass needle useful for finding a reference direction?",
+    "answers": [
+      "It responds to Earth’s magnetic field",
+      "It automatically draws a map of the coastline",
+      "It measures the sun’s angle above the horizon",
+      "It follows whichever direction the ship’s sail faces"
+    ],
+    "solution": "The magnetic needle aligns with Earth’s magnetic field. That provides a north reference from which other directions can be found.",
+    "hint": "Distinguish magnetism from sky observations.",
+    "source": "Family-provided TCI lesson screenshots, Section 3 — Directions (2026-10-21)",
+    "screenshotNumbers": [
+      15,
+      16
+    ]
+  },
+  {
+    "skill": "ss-directions",
+    "format": "needle-support",
+    "difficulty": 1,
+    "text": "Why is a compass needle balanced so it can turn freely?",
+    "answers": [
+      "It needs to align with the magnetic field rather than stay fixed to the ship",
+      "It must follow every rotation of the cargo hold",
+      "It needs to point at the brightest visible star",
+      "It must display the ruler’s initials as the ship turns"
+    ],
+    "solution": "A freely turning magnetic needle can indicate its reference direction even when the ship changes heading.",
+    "hint": "A direction reference should not simply turn with the ship.",
+    "source": "Family-provided TCI lesson screenshots, Section 3 — Directions (2026-10-21)",
+    "screenshotNumbers": [
+      15,
+      16
+    ]
+  },
+  {
+    "skill": "ss-directions",
+    "format": "orientation",
+    "difficulty": 2,
+    "text": "You face north while using a compass. Which pairing is correct?",
+    "answers": [
+      "East is to your right; west is to your left",
+      "East is behind you; west is directly ahead",
+      "East is to your left; west is to your right",
+      "East and west are both the direction you face"
+    ],
+    "solution": "With north ahead, east is to the right and west is to the left. South is behind you.",
+    "hint": "Orient yourself first, then locate the two side directions.",
+    "source": "Family-provided TCI lesson screenshots, Section 3 — Directions (2026-10-21)",
+    "screenshotNumbers": [
+      15,
+      16
+    ]
+  },
+  {
+    "skill": "ss-directions",
+    "format": "darkness",
+    "difficulty": 2,
+    "text": "A navigator in fog can use a compass but cannot see the coast. Which conclusion is justified?",
+    "answers": [
+      "The compass can still indicate a heading, but it does not reveal exact location",
+      "Fog makes a compass show the nearest safe harbor",
+      "The compass cannot function without a coastline to point at",
+      "Knowing a heading proves how many miles remain to the destination"
+    ],
+    "solution": "A compass uses magnetism rather than a view of the shore or stars. A heading is useful but does not by itself establish location or distance.",
+    "hint": "Separate direction information from a full position fix.",
+    "source": "Family-provided TCI lesson screenshots, Section 3 — Directions (2026-10-21)",
+    "screenshotNumbers": [
+      15,
+      16
+    ]
+  },
+  {
+    "skill": "ss-directions",
+    "format": "fact-set",
+    "difficulty": 3,
+    "text": "Which set contains only sound compass facts?",
+    "answers": [
+      "Uses a magnetic needle; indicates heading; can help in darkness",
+      "Measures latitude; needs visible stars; gives an exact map position",
+      "Finds shipwrecks with sound; measures angles; records artifact positions",
+      "Shows a safe port; predicts storms; identifies the cargo’s origin"
+    ],
+    "solution": "The compass provides a magnetic direction reference. Latitude measurements, sonar searches, and maps have different functions.",
+    "hint": "Match one mechanism with the information it actually provides.",
+    "source": "Family-provided TCI lesson screenshots, Section 3 — Directions (2026-10-21)",
+    "screenshotNumbers": [
+      15,
+      16
+    ]
+  },
+  {
+    "skill": "ss-directions",
+    "format": "map-application",
+    "difficulty": 2,
+    "text": "A simple chart has north at the top. A supply harbor lies below your marked position. Which direction leads toward it?",
+    "answers": [
+      "South",
+      "North",
+      "East",
+      "West"
+    ],
+    "solution": "On this north-up chart, locations below the current position lie south. The chart’s orientation supplies the needed reference.",
+    "hint": "Use the orientation given in the prompt.",
+    "source": "Family-provided TCI lesson screenshots, Section 3 — Directions (2026-10-21)",
+    "screenshotNumbers": [
+      15,
+      16
+    ]
+  },
+  {
+    "skill": "ss-directions",
+    "format": "error-reasoning",
+    "difficulty": 3,
+    "text": "A sailor writes, “We face north, therefore we are north of the equator.” Why does that reasoning fail?",
+    "answers": [
+      "Heading north and being in the Northern Hemisphere are different facts",
+      "A compass always gives latitude, so the statement must be correct",
+      "The equator moves to the place the ship happens to face",
+      "Only a ship in Europe can point north"
+    ],
+    "solution": "A ship south of the equator can head north too. Direction of travel does not establish latitude.",
+    "hint": "Compare which way a ship faces with where the ship is.",
+    "source": "Family-provided TCI lesson screenshots, Section 3 — Directions (2026-10-21)",
+    "screenshotNumbers": [
+      15,
+      16
+    ]
+  },
+  {
+    "skill": "ss-directions",
+    "format": "instrument-choice",
+    "difficulty": 2,
+    "text": "Which question should a sailor ask of a compass rather than an astrolabe?",
+    "answers": [
+      "Which direction is the ship heading?",
+      "What sky angle can help estimate latitude?",
+      "How high is this known star above the horizon?",
+      "How far north or south is the ship from the equator?"
+    ],
+    "solution": "A compass supplies a direction reference. The other questions concern sky angles and latitude associated with the astrolabe.",
+    "hint": "Choose a question about direction, rather than north–south position.",
+    "source": "Family-provided TCI lesson screenshots, Section 3 — Directions (2026-10-21)",
+    "screenshotNumbers": [
+      15,
+      16
+    ]
+  },
+  {
+    "skill": "ss-maps",
+    "format": "scale",
+    "difficulty": 1,
+    "text": "What does a map scale explain?",
+    "answers": [
+      "How map distances relate to actual distances",
+      "Which religion every traveler follows",
+      "Which ruler personally drew the map",
+      "How much wealth a coastline is guaranteed to provide"
+    ],
+    "solution": "A scale connects a distance on the drawing to a distance on Earth. It lets a reader interpret size and distance.",
+    "hint": "A small drawing represents a much larger place.",
+    "source": "Family-provided TCI lesson screenshots, Section 4 — Maps (2026-10-21)",
+    "screenshotNumbers": [
+      17,
+      18
+    ]
+  },
+  {
+    "skill": "ss-maps",
+    "format": "scale-application",
+    "difficulty": 2,
+    "text": "A practice map’s scale says 1 centimeter represents 20 kilometers. Two ports are 3 centimeters apart on it. What distance does the map represent?",
+    "answers": [
+      "60 kilometers",
+      "20 kilometers",
+      "23 kilometers",
+      "6 kilometers"
+    ],
+    "solution": "The represented distance is 3 groups of 20 kilometers, or 60 kilometers. The numbers belong to this practice map, not a historical voyage claim.",
+    "hint": "Apply the stated scale once for each centimeter.",
+    "source": "Family-provided TCI lesson screenshots, Section 4 — Maps (2026-10-21)",
+    "screenshotNumbers": [
+      17,
+      18
+    ]
+  },
+  {
+    "skill": "ss-maps",
+    "format": "nautical-chart",
+    "difficulty": 1,
+    "text": "A captain needs to identify rocky shores and possible safe ports. Which chart is most directly useful?",
+    "answers": [
+      "A nautical chart with coastal hazards and harbors",
+      "A chart showing only the ruler’s family tree",
+      "A record showing only tobacco sale prices",
+      "A document listing only religious complaints"
+    ],
+    "solution": "A nautical chart can show coastal features and hazards that matter for landing or sailing near shore.",
+    "hint": "Choose the map information needed for the particular decision.",
+    "source": "Family-provided TCI lesson screenshots, Section 4 — Maps (2026-10-21)",
+    "screenshotNumbers": [
+      17,
+      18
+    ]
+  },
+  {
+    "skill": "ss-maps",
+    "format": "wind-current",
+    "difficulty": 2,
+    "text": "A navigator wants information about prevailing winds and ocean currents. Which map details fit that need?",
+    "answers": [
+      "Wind directions and current flows along possible routes",
+      "Only portraits of the sponsoring king and queen",
+      "Only the price paid for a silver shipment",
+      "Only the names of crops eaten in a port"
+    ],
+    "solution": "The lesson describes navigational charts with wind and current information. Those details can help plan a route.",
+    "hint": "Match the requested information with the kind of map evidence.",
+    "source": "Family-provided TCI lesson screenshots, Section 4 — Maps (2026-10-21)",
+    "screenshotNumbers": [
+      17,
+      18
+    ]
+  },
+  {
+    "skill": "ss-maps",
+    "format": "round-earth",
+    "difficulty": 2,
+    "text": "Which correction addresses a common misconception about the mapmakers discussed in the lesson?",
+    "answers": [
+      "They knew Earth was round; their maps still lacked complete information about the Americas",
+      "They believed no oceans existed beyond the Mediterranean",
+      "They could not draw a curved coastline until modern satellites",
+      "They knew every American coastline but had never heard of Earth’s shape"
+    ],
+    "solution": "Incomplete maps did not mean the mapmakers believed Earth was flat. Knowledge of Earth’s shape and knowledge of distant coasts are different.",
+    "hint": "Distinguish knowledge of the planet’s shape from detailed geographic knowledge.",
+    "source": "Family-provided TCI lesson screenshots, Section 4 — Maps (2026-10-21)",
+    "screenshotNumbers": [
+      17,
+      18
+    ]
+  },
+  {
+    "skill": "ss-maps",
+    "format": "imaginary-monsters",
+    "difficulty": 3,
+    "text": "An old chart includes a sea monster drawing. What can a historian reasonably conclude from that drawing alone?",
+    "answers": [
+      "The map contains an imagined depiction, not proof that such an animal existed",
+      "The mapmaker measured the creature accurately from a satellite",
+      "The entire chart must have no useful geographic information",
+      "Every sailor who used the chart believed exactly the same thing"
+    ],
+    "solution": "An imagined drawing is evidence about the representation on the map. It does not establish a real creature or make every geographic detail useless.",
+    "hint": "Do not confuse a depiction with independent evidence of its subject.",
+    "source": "Family-provided TCI lesson screenshots, Section 4 — Maps (2026-10-21)",
+    "screenshotNumbers": [
+      17,
+      18
+    ]
+  },
+  {
+    "skill": "ss-maps",
+    "format": "source-revision",
+    "difficulty": 2,
+    "text": "Who supplied European mapmakers with information that could fill gaps in their charts?",
+    "answers": [
+      "Sailors, explorers, and scientists reporting observations",
+      "Only rulers guessing from the value of their cargo",
+      "Only farmers deciding which crop was most profitable",
+      "Only priests determining a ship’s latitude from a Bible"
+    ],
+    "solution": "Reports and observations provided information to revise maps. They could improve knowledge without making every detail certain.",
+    "hint": "Look for people gathering geographic observations.",
+    "source": "Family-provided TCI lesson screenshots, Section 4 — Maps (2026-10-21)",
+    "screenshotNumbers": [
+      17,
+      18
+    ]
+  },
+  {
+    "skill": "ss-maps",
+    "format": "compare-charts",
+    "difficulty": 3,
+    "text": "Chart A shows coastal rocks and harbors. Chart B shows winds and currents. Why could a captain use both?",
+    "answers": [
+      "They answer different route-planning questions",
+      "Using two maps automatically prevents every navigational error",
+      "Chart A reveals the crew’s religion while B reveals their private motives",
+      "Both maps show exactly the same information in different colors"
+    ],
+    "solution": "Different charts highlight different information. Combining coastal and ocean-condition information can support planning, while still requiring judgment.",
+    "hint": "Explain how the contents of the two charts complement each other.",
+    "source": "Family-provided TCI lesson screenshots, Section 4 — Maps (2026-10-21)",
+    "screenshotNumbers": [
+      17,
+      18
+    ]
+  },
+  {
+    "skill": "ss-lands",
+    "format": "flag-initials",
+    "difficulty": 1,
+    "text": "A Spanish banner in the lesson carries an F and a Y. Who do those letters represent?",
+    "answers": [
+      "Ferdinand and Ysabel, the rulers associated with Spain",
+      "France and York, the names of two sailing routes",
+      "Francisco and Elizabeth, the English rulers",
+      "Food and yield, the two crops carried aboard"
+    ],
+    "solution": "The F represents Ferdinand; Y represents Ysabel, a form of Isabella’s name. The banner represented royal authority.",
+    "hint": "The letters refer to rulers rather than crops or navigation measurements.",
+    "source": "Family-provided TCI lesson screenshots, Section 5 — Claimed Lands (2026-10-21)",
+    "screenshotNumbers": [
+      19,
+      20
+    ]
+  },
+  {
+    "skill": "ss-lands",
+    "format": "funding",
+    "difficulty": 2,
+    "text": "Why might a ruler pay for an explorer’s ships and crew?",
+    "answers": [
+      "The voyage could gain territory, resources, and influence for the ruler’s country",
+      "Royal payment meant the crew could travel without ships or supplies",
+      "Funding a voyage guaranteed every local community’s agreement",
+      "A ruler’s payment made the ship’s maps complete before departure"
+    ],
+    "solution": "A ruler could support a voyage in pursuit of state power and resources. Payment did not remove risks or establish Indigenous consent.",
+    "hint": "Connect the investment with the hoped-for political and economic gains.",
+    "source": "Family-provided TCI lesson screenshots, Section 5 — Claimed Lands (2026-10-21)",
+    "screenshotNumbers": [
+      19,
+      20
+    ]
+  },
+  {
+    "skill": "ss-lands",
+    "format": "symbol-meaning",
+    "difficulty": 2,
+    "text": "A banner shows both a cross and royal initials. Which interpretation best fits those symbols?",
+    "answers": [
+      "Religious connections and a link to particular rulers",
+      "An exact measurement of latitude and longitude",
+      "The number of crops in the ship’s cargo hold",
+      "Proof that everyone in the destination shared one faith"
+    ],
+    "solution": "A cross can indicate a Christian association, while the initials identify rulers. Symbols suggest associations rather than proving every person’s beliefs.",
+    "hint": "Different symbols on one object can point to different connections.",
+    "source": "Family-provided TCI lesson screenshots, Section 5 — Claimed Lands (2026-10-21)",
+    "screenshotNumbers": [
+      19,
+      20
+    ]
+  },
+  {
+    "skill": "ss-lands",
+    "format": "resources-power",
+    "difficulty": 2,
+    "text": "How could acquiring land and natural resources strengthen a European kingdom?",
+    "answers": [
+      "They could expand the kingdom’s claimed control and economic opportunities",
+      "They would make every compass unnecessary",
+      "They would end every rivalry with neighboring kingdoms",
+      "They would prove that no one had already used the land"
+    ],
+    "solution": "Rulers linked territorial expansion and resources with power and wealth. Such claims could conflict with the rights of existing inhabitants.",
+    "hint": "Think about authority and resources rather than navigation.",
+    "source": "Family-provided TCI lesson screenshots, Section 5 — Claimed Lands (2026-10-21)",
+    "screenshotNumbers": [
+      19,
+      20
+    ]
+  },
+  {
+    "skill": "ss-lands",
+    "format": "claim-vs-proof",
+    "difficulty": 3,
+    "text": "Which evidence would be needed beyond a flag to support a claim of freely given agreement?",
+    "answers": [
+      "Evidence of an actual agreement from the affected Indigenous community",
+      "Only a larger flag carrying more royal symbols",
+      "Only the statement that a European ruler paid for the ship",
+      "Only a map leaving the area blank"
+    ],
+    "solution": "A symbol of claimed authority is not evidence of consent. An agreement must be supported by evidence involving the people whose rights are affected.",
+    "hint": "Separate what one side announces from what the other side agrees to.",
+    "source": "Family-provided TCI lesson screenshots, Section 5 — Claimed Lands (2026-10-21)",
+    "screenshotNumbers": [
+      19,
+      20
+    ]
+  },
+  {
+    "skill": "ss-lands",
+    "format": "country-benefit",
+    "difficulty": 2,
+    "text": "An explorer records a claim “for Spain.” What is the political connection in that wording?",
+    "answers": [
+      "The claim is made for a country and its rulers, not just for the traveler personally",
+      "The words establish that the land had no people or governments",
+      "The words describe a method for calculating the ship’s position",
+      "The words mean the traveler planned no further trade"
+    ],
+    "solution": "The phrase links the claim to a state. It does not prove that the claim was accepted or erase Indigenous authority.",
+    "hint": "Identify who is represented by the claim.",
+    "source": "Family-provided TCI lesson screenshots, Section 5 — Claimed Lands (2026-10-21)",
+    "screenshotNumbers": [
+      19,
+      20
+    ]
+  },
+  {
+    "skill": "ss-lands",
+    "format": "motive-evidence",
+    "difficulty": 3,
+    "text": "A royal order requests land, resources, and greater influence. Which summary is supported?",
+    "answers": [
+      "The sponsor sought political power and economic gains",
+      "The sponsor’s only goal was a more accurate compass",
+      "The sponsor promised every Indigenous community independent rule",
+      "The sponsor was interested only in preserving the ship’s equipment"
+    ],
+    "solution": "The requested outcomes concern authority and wealth. The evidence supports those motives without establishing every crew member’s private intentions.",
+    "hint": "Use the requested outcomes as evidence of the sponsor’s goals.",
+    "source": "Family-provided TCI lesson screenshots, Section 5 — Claimed Lands (2026-10-21)",
+    "screenshotNumbers": [
+      19,
+      20
+    ]
+  },
+  {
+    "skill": "ss-lands",
+    "format": "nation-state-meaning",
+    "difficulty": 2,
+    "text": "The extension reading describes a nation-state as independent and connected by a shared identity. Which example best fits that description?",
+    "answers": [
+      "A country with its own government and a broadly shared national identity",
+      "A single ship whose crew changes ports each month",
+      "A crop shipment belonging to merchants from several countries",
+      "A map grid used to record underwater objects"
+    ],
+    "solution": "A nation-state is a political country, not a ship, cargo, or scientific tool. Shared national identity does not mean every resident has identical beliefs.",
+    "hint": "Look for independence, government, and national identity.",
+    "source": "Family-provided TCI lesson screenshots, Read & Do — The Queen Meets Columbus (2026-10-21)",
+    "screenshotNumbers": [
+      2
+    ]
+  },
+  {
+    "skill": "ss-beliefs",
+    "format": "origin",
+    "difficulty": 1,
+    "text": "Where did Christianity originate, according to the lesson?",
+    "answers": [
+      "The Middle East",
+      "England during the Spanish Armada campaign",
+      "The Americas after European arrival",
+      "Portugal during its ocean voyages"
+    ],
+    "solution": "Christianity began in the Middle East and later spread through Europe and other regions. It did not originate in England or the Americas.",
+    "hint": "Separate the religion’s origin from places where it later spread.",
+    "source": "Family-provided TCI lesson screenshots, Section 6 — Religious Beliefs (2026-10-21)",
+    "screenshotNumbers": [
+      21,
+      22
+    ]
+  },
+  {
+    "skill": "ss-beliefs",
+    "format": "spread-order",
+    "difficulty": 2,
+    "text": "Which broad sequence fits the spread described in the lesson?",
+    "answers": [
+      "Christianity begins in the Middle East, spreads through Europe, and is later carried to other regions",
+      "Christianity begins in England, spreads to the Americas, and reaches the Middle East last",
+      "Christianity begins on an Atlantic ship and then reaches Europe",
+      "Christianity begins in the Americas and reaches Europe only after tobacco trade"
+    ],
+    "solution": "The origin and later spread are different parts of the sequence. European missionary activity occurred long after Christianity began.",
+    "hint": "Put the place of origin before later destinations.",
+    "source": "Family-provided TCI lesson screenshots, Section 6 — Religious Beliefs (2026-10-21)",
+    "screenshotNumbers": [
+      21,
+      22
+    ]
+  },
+  {
+    "skill": "ss-beliefs",
+    "format": "branches",
+    "difficulty": 1,
+    "text": "Which pair names Christian traditions discussed in the lesson?",
+    "answers": [
+      "Roman Catholic and Protestant",
+      "Christianity and Islam",
+      "Sonar and astrolabe",
+      "Nation-state and cash crop"
+    ],
+    "solution": "Roman Catholic and Protestant traditions are both Christian. Islam is a separate religion, not a Protestant denomination.",
+    "hint": "Distinguish traditions within Christianity from a different religion.",
+    "source": "Family-provided TCI lesson screenshots, Section 6 — Religious Beliefs (2026-10-21)",
+    "screenshotNumbers": [
+      21,
+      22
+    ]
+  },
+  {
+    "skill": "ss-beliefs",
+    "format": "bible-parts",
+    "difficulty": 1,
+    "text": "Which two parts of the Bible are named in the lesson?",
+    "answers": [
+      "Old Testament and New Testament",
+      "Reformation and Counter-Reformation",
+      "Nautical chart and navigational chart",
+      "Nation-state and royal proclamation"
+    ],
+    "solution": "The lesson identifies the Old and New Testaments. These names refer to parts of a religious text, not political movements or map types.",
+    "hint": "Choose the paired names for parts of the Bible.",
+    "source": "Family-provided TCI lesson screenshots, Section 6 — Religious Beliefs (2026-10-21)",
+    "screenshotNumbers": [
+      21,
+      22
+    ]
+  },
+  {
+    "skill": "ss-beliefs",
+    "format": "old-testament",
+    "difficulty": 2,
+    "text": "Which description matches the Old Testament in the lesson’s explanation?",
+    "answers": [
+      "Writings connected with the Jewish religious tradition",
+      "Only accounts written after the Spanish Armada’s defeat",
+      "A collection of European sailing charts",
+      "Only the religious complaints made by Martin Luther"
+    ],
+    "solution": "The lesson connects the Old Testament with Jewish religious writings. The New Testament includes writings by followers of Jesus Christ.",
+    "hint": "Compare the two parts rather than treating them as exploration records.",
+    "source": "Family-provided TCI lesson screenshots, Section 6 — Religious Beliefs (2026-10-21)",
+    "screenshotNumbers": [
+      21,
+      22
+    ]
+  },
+  {
+    "skill": "ss-beliefs",
+    "format": "new-testament",
+    "difficulty": 2,
+    "text": "Which description matches the New Testament in the lesson’s explanation?",
+    "answers": [
+      "Writings by followers of Jesus Christ",
+      "Maps first drawn after the Atlantic crossings",
+      "Only laws issued by Ferdinand and Isabella",
+      "Records of tobacco sales from American colonies"
+    ],
+    "solution": "The New Testament is part of the Christian Bible and includes writings by followers of Jesus. It is not a collection of maps or trade records.",
+    "hint": "Identify what kind of religious writings the lesson describes.",
+    "source": "Family-provided TCI lesson screenshots, Section 6 — Religious Beliefs (2026-10-21)",
+    "screenshotNumbers": [
+      21,
+      22
+    ]
+  },
+  {
+    "skill": "ss-beliefs",
+    "format": "motive-vs-origin",
+    "difficulty": 3,
+    "text": "Why is “Christianity began in the Middle East” different from “Catholic rulers sent priests overseas”?",
+    "answers": [
+      "One identifies an origin; the other describes later efforts to spread a faith",
+      "Both statements claim Christianity first began in Spain",
+      "The second statement proves every conversion was voluntary",
+      "The first statement describes a navigation method rather than religion"
+    ],
+    "solution": "A religion’s beginning and later missionary activity are separate historical questions. Both can be discussed without assuming universal acceptance of conversion.",
+    "hint": "Ask which statement answers “where did it begin?” and which answers “what did rulers do later?”",
+    "source": "Family-provided TCI lesson screenshots, Section 6 — Religious Beliefs (2026-10-21)",
+    "screenshotNumbers": [
+      21,
+      22
+    ]
+  },
+  {
+    "skill": "ss-beliefs",
+    "format": "supported-summary",
+    "difficulty": 3,
+    "text": "Which summary of religious motives stays within the evidence?",
+    "answers": [
+      "Some rulers supported conversion efforts, and many explorers carried Christian texts",
+      "All Indigenous peoples had no religious traditions before European arrival",
+      "Every traveler carried a Bible and therefore had only one motive",
+      "Christianity originated in England when its navy defeated Spain"
+    ],
+    "solution": "The supplied reading links missionaries and Bibles with spreading Christianity. It does not justify claims that erase Indigenous beliefs or every traveler’s other purposes.",
+    "hint": "Use a supported historical claim without making it apply to everyone.",
+    "source": "Family-provided TCI lesson screenshots, Section 6 — Religious Beliefs (2026-10-21)",
+    "screenshotNumbers": [
+      21,
+      22
+    ]
+  },
+  {
+    "skill": "ss-wealth",
+    "format": "war-cost",
+    "difficulty": 2,
+    "text": "The lesson connects Spain’s interest in precious metals with a recent costly war. What is the economic connection?",
+    "answers": [
+      "The rulers wanted to replenish and increase the kingdom’s wealth",
+      "The war made gold and silver worthless in European trade",
+      "The war caused all navigation instruments to be made of gold",
+      "The rulers no longer needed resources after paying for the war"
+    ],
+    "solution": "The cost of war helps explain a desire for more wealth. It does not turn precious metals into the principal purpose of navigation instruments.",
+    "hint": "Connect a large expense with the desire for additional resources.",
+    "source": "Family-provided TCI lesson screenshots, Section 7 — Wealth (2026-10-21)",
+    "screenshotNumbers": [
+      23,
+      24
+    ]
+  },
+  {
+    "skill": "ss-wealth",
+    "format": "metals-use",
+    "difficulty": 1,
+    "text": "What valuable objects could be made from the gold and silver described in the lesson?",
+    "answers": [
+      "Bars and coins",
+      "Corn seeds and tobacco leaves",
+      "Ocean currents and magnetic fields",
+      "The sun and the North Star"
+    ],
+    "solution": "Precious metals were processed into valuable objects such as bars and coins, then transported across the Atlantic.",
+    "hint": "Choose manufactured forms of the metals.",
+    "source": "Family-provided TCI lesson screenshots, Section 7 — Wealth (2026-10-21)",
+    "screenshotNumbers": [
+      23,
+      24
+    ]
+  },
+  {
+    "skill": "ss-wealth",
+    "format": "mining-regions",
+    "difficulty": 1,
+    "text": "Which regions are connected with Spanish gold and silver mining in the reading?",
+    "answers": [
+      "Parts of Mexico and South America",
+      "Only northern Europe and the English Channel",
+      "Only the Mediterranean coasts of Spain",
+      "Only the Asian ports reached by the intended route"
+    ],
+    "solution": "The reading locates valuable deposits in parts of Mexico and South America. It also describes the coercion used to obtain those resources.",
+    "hint": "Distinguish the places of extraction from the European destination.",
+    "source": "Family-provided TCI lesson screenshots, Section 7 — Wealth (2026-10-21)",
+    "screenshotNumbers": [
+      23,
+      24
+    ]
+  },
+  {
+    "skill": "ss-wealth",
+    "format": "cargo-direction",
+    "difficulty": 2,
+    "text": "A ship carries silver mined in the Americas to Spain. Which movement is described?",
+    "answers": [
+      "Americas → Europe",
+      "Europe → Americas",
+      "Europe → Asia",
+      "Asia → Africa"
+    ],
+    "solution": "Spain is in Europe, so this shipment takes a resource from the Americas to Europe. This is different from the route explorers initially hoped to find to Asia.",
+    "hint": "Locate the origin and destination of this particular cargo.",
+    "source": "Family-provided TCI lesson screenshots, Section 7 — Wealth (2026-10-21)",
+    "screenshotNumbers": [
+      23,
+      24
+    ]
+  },
+  {
+    "skill": "ss-wealth",
+    "format": "labor-evidence",
+    "difficulty": 3,
+    "text": "A record says Native people were enslaved and compelled to work in mines. Which interpretation is accurate?",
+    "answers": [
+      "The mining used forced labor and harmed the people compelled to work",
+      "The workers freely chose the conditions because the cargo was valuable",
+      "Mining profits prove the workers shared equally in the wealth",
+      "The shipment’s destination establishes that the labor was voluntary"
+    ],
+    "solution": "Enslavement and compulsion indicate a denial of freedom. Economic gains for a ruler do not establish fair or voluntary treatment of workers.",
+    "hint": "Treat the words describing coercion as evidence about labor conditions.",
+    "source": "Family-provided TCI lesson screenshots, Section 7 — Wealth (2026-10-21)",
+    "screenshotNumbers": [
+      23,
+      24
+    ]
+  },
+  {
+    "skill": "ss-wealth",
+    "format": "reason-set",
+    "difficulty": 2,
+    "text": "Which group contains economic reasons for seeking precious metals?",
+    "answers": [
+      "Valuable coins, increased royal wealth, and resources after an expensive war",
+      "A cheaper voyage, no need for overseas markets, and an end to all royal spending",
+      "Guaranteed equality in mining profits, no labor costs, and universal Indigenous agreement",
+      "The need to measure latitude, the desire for accurate maps, and safe entry into ports"
+    ],
+    "solution": "Coins, wealth, and war expenses are relevant to the lesson’s economic explanation. Navigation mechanisms and religious history answer different questions.",
+    "hint": "Keep reasons about money and resources in the same category.",
+    "source": "Family-provided TCI lesson screenshots, Section 7 — Wealth (2026-10-21)",
+    "screenshotNumbers": [
+      23,
+      24
+    ]
+  },
+  {
+    "skill": "ss-wealth",
+    "format": "extraction-vs-destination",
+    "difficulty": 2,
+    "text": "Which statement keeps extraction and destination distinct?",
+    "answers": [
+      "Some metals were extracted in the Americas and shipped to Spain",
+      "The metals were mined from the Atlantic crossing itself",
+      "Spain sent all its mined gold to America before any exploration",
+      "The metals were grown in European crop fields and shipped to mines"
+    ],
+    "solution": "The source of the metal and the place receiving it were different. The route connected American extraction with European wealth.",
+    "hint": "Follow the resource from the mine to its receiving country.",
+    "source": "Family-provided TCI lesson screenshots, Section 7 — Wealth (2026-10-21)",
+    "screenshotNumbers": [
+      23,
+      24
+    ]
+  },
+  {
+    "skill": "ss-wealth",
+    "format": "motive-correction",
+    "difficulty": 2,
+    "text": "A teammate explains Spain’s metal-seeking only by saying “gold made better compasses.” What evidence offers a stronger explanation?",
+    "answers": [
+      "The reading connects valuable metals with royal wealth, coins, and war expenses",
+      "The reading says the main goal was to replace all European money with crops",
+      "The reading says growing tobacco had already eliminated Spain’s need for metal money",
+      "The reading says paying for the war had made gold and silver worthless"
+    ],
+    "solution": "The lesson’s economic evidence concerns wealth and valuable objects. A compass’s usefulness comes from magnetism, not a ruler’s demand for gold.",
+    "hint": "Replace an unsupported tool claim with the stated economic reasons.",
+    "source": "Family-provided TCI lesson screenshots, Section 7 — Wealth (2026-10-21)",
+    "screenshotNumbers": [
+      23,
+      24
+    ]
+  },
+  {
+    "skill": "ss-foods",
+    "format": "cacao",
+    "difficulty": 1,
+    "text": "Which American crop is connected with chocolate and with drinks in the reading?",
+    "answers": [
+      "Cacao",
+      "Wheat",
+      "Rice",
+      "Olives"
+    ],
+    "solution": "Cacao was cultivated in the Americas and used in drinks and medicines. It later became widely associated with chocolate.",
+    "hint": "Choose the crop used to make chocolate.",
+    "source": "Family-provided TCI lesson screenshots, Section 8 — New Foods (2026-10-21)",
+    "screenshotNumbers": [
+      25,
+      26
+    ]
+  },
+  {
+    "skill": "ss-foods",
+    "format": "fruit-pair",
+    "difficulty": 2,
+    "text": "Which pair contains fruits named among the foods first grown in the Americas?",
+    "answers": [
+      "Tomatoes and pineapples",
+      "Wheat and barley",
+      "Rice and tea",
+      "Olives and European grapes"
+    ],
+    "solution": "The reading names tomatoes and pineapples as American fruits. Botanical categories can differ from the way foods are grouped in everyday cooking.",
+    "hint": "Use the examples in the food section, rather than treating every food as a vegetable.",
+    "source": "Family-provided TCI lesson screenshots, Section 8 — New Foods (2026-10-21)",
+    "screenshotNumbers": [
+      25,
+      26
+    ]
+  },
+  {
+    "skill": "ss-foods",
+    "format": "corn-uses",
+    "difficulty": 2,
+    "text": "Which list shows several ways Indigenous peoples used corn?",
+    "answers": [
+      "Roasting, boiling, popping, and grinding it into flour",
+      "Only eating its leaves without preparing the kernels",
+      "Only growing it to make magnetic needles",
+      "Using it exclusively as a royal symbol rather than food"
+    ],
+    "solution": "The section describes several preparations of corn, showing its varied uses and Indigenous agricultural and food knowledge.",
+    "hint": "Look for a list of food-preparation methods.",
+    "source": "Family-provided TCI lesson screenshots, Section 8 — New Foods (2026-10-21)",
+    "screenshotNumbers": [
+      25,
+      26
+    ]
+  },
+  {
+    "skill": "ss-foods",
+    "format": "diet-consequence",
+    "difficulty": 2,
+    "text": "How did the spread of American foods affect many European diets?",
+    "answers": [
+      "It added food choices and could improve nutrition",
+      "It proved that Europeans had previously eaten no food at all",
+      "It immediately replaced every crop already grown in Europe",
+      "It meant every person in Europe ate an identical diet"
+    ],
+    "solution": "New crops increased available food choices. The lesson connects dietary improvements with population growth, without showing that everyone’s experience was identical.",
+    "hint": "Describe a change in available foods without claiming a universal or instant result.",
+    "source": "Family-provided TCI lesson screenshots, Section 8 — New Foods (2026-10-21)",
+    "screenshotNumbers": [
+      25,
+      26
+    ]
+  },
+  {
+    "skill": "ss-foods",
+    "format": "identify-products",
+    "difficulty": 2,
+    "text": "Which set consists of American food crops listed in the reading?",
+    "answers": [
+      "Sweet potatoes, beans, squash, and cacao",
+      "Tea, olives, wheat, and barley",
+      "Rice, wheat, compass needles, and cacao",
+      "Gold, silver, tobacco, and astrolabes"
+    ],
+    "solution": "These crops are among the American foods described. The distractor sets mix foods from elsewhere, nonfood products, or instruments.",
+    "hint": "Check every item in the set, not only the first one.",
+    "source": "Family-provided TCI lesson screenshots, Section 8 — New Foods (2026-10-21)",
+    "screenshotNumbers": [
+      25,
+      26
+    ]
+  },
+  {
+    "skill": "ss-foods",
+    "format": "crop-vs-artifact",
+    "difficulty": 3,
+    "text": "Why can records of transported crops help historians even when the lesson calls the crops natural products rather than artifacts?",
+    "answers": [
+      "Natural products and written records can both provide evidence about exchange",
+      "Only manufactured tools can ever provide historical evidence",
+      "Calling a crop natural proves that no one cultivated or used it",
+      "A crop’s origin can be determined only by a ruler’s flag"
+    ],
+    "solution": "The category “natural product” does not mean “historically unimportant.” Crop remains and records can illuminate farming, food, and trade.",
+    "hint": "Separate a classification label from whether something can be evidence.",
+    "source": "Family-provided TCI lesson screenshots, Section 8 — New Foods (2026-10-21)",
+    "screenshotNumbers": [
+      25,
+      26
+    ]
+  },
+  {
+    "skill": "ss-foods",
+    "format": "cacao-history",
+    "difficulty": 2,
+    "text": "A label says cacao was used in American drinks and medicines before spreading overseas. What does that support?",
+    "answers": [
+      "Indigenous communities already knew and used the crop",
+      "Cacao was invented in Europe after arriving there",
+      "Cacao served only as a navigational instrument",
+      "No one used cacao before the first European recipe appeared"
+    ],
+    "solution": "The reported uses predate its later spread. Introducing a crop to a new region does not mean inventing it or being the first to use it.",
+    "hint": "Keep the crop’s earlier uses separate from its later overseas popularity.",
+    "source": "Family-provided TCI lesson screenshots, Section 8 — New Foods (2026-10-21)",
+    "screenshotNumbers": [
+      25,
+      26
+    ]
+  },
+  {
+    "skill": "ss-foods",
+    "format": "cause-evidence",
+    "difficulty": 3,
+    "text": "Which claim-and-evidence pair best explains a consequence of food exchange?",
+    "answers": [
+      "Food choices changed: American corn and potatoes entered diets abroad",
+      "Maps became complete: every explorer carried a food basket",
+      "All workers became free: crops sold for high prices",
+      "Religious disputes ended: tomatoes were eaten in Europe"
+    ],
+    "solution": "Examples of foods entering another region directly support a claim about changing diets. They do not establish unrelated claims about maps, labor, or religion.",
+    "hint": "The evidence should address the same topic as the claim.",
+    "source": "Family-provided TCI lesson screenshots, Section 8 — New Foods (2026-10-21)",
+    "screenshotNumbers": [
+      25,
+      26
+    ]
+  },
+  {
+    "skill": "ss-crops",
+    "format": "plant-part",
+    "difficulty": 1,
+    "text": "Which part of the tobacco plant does the lesson describe people drying and using?",
+    "answers": [
+      "The leaves",
+      "Only the flowers turned into metal coins",
+      "Only the roots used to mark latitude",
+      "Only the trunk used as a magnetic needle"
+    ],
+    "solution": "The reading describes drying tobacco leaves. Studying historical uses does not imply tobacco use is healthy.",
+    "hint": "Identify the plant part described, rather than a modern health claim.",
+    "source": "Family-provided TCI lesson screenshots, Section 9 — Cash Crops (2026-10-21)",
+    "screenshotNumbers": [
+      27,
+      28
+    ]
+  },
+  {
+    "skill": "ss-crops",
+    "format": "ceremony",
+    "difficulty": 2,
+    "text": "What historical use of tobacco is mentioned alongside its later sale as a crop?",
+    "answers": [
+      "Use in some Indigenous religious and peacemaking ceremonies",
+      "Use as a tool to measure the angle of the sun",
+      "Use only as a European invention before any American contact",
+      "Use to establish the exact location of a ship"
+    ],
+    "solution": "The reading identifies ceremonial uses in some Indigenous communities, as well as later European demand. These are different historical contexts.",
+    "hint": "A plant can have more than one use across communities and times.",
+    "source": "Family-provided TCI lesson screenshots, Section 9 — Cash Crops (2026-10-21)",
+    "screenshotNumbers": [
+      27,
+      28
+    ]
+  },
+  {
+    "skill": "ss-crops",
+    "format": "belief-vs-fact",
+    "difficulty": 3,
+    "text": "Some people in the reading believed tobacco was medicinal. Which conclusion is careful?",
+    "answers": [
+      "That belief helps explain demand, but does not establish that tobacco is safe",
+      "A historical belief proves a product has no health risks",
+      "If people believed something then, modern evidence must agree",
+      "A product sold as medicine cannot cause addiction"
+    ],
+    "solution": "A belief can influence behavior without being medically correct. The reading also describes addiction; historical demand is not a health endorsement.",
+    "hint": "Distinguish what people believed from what evidence establishes.",
+    "source": "Family-provided TCI lesson screenshots, Section 9 — Cash Crops (2026-10-21)",
+    "screenshotNumbers": [
+      27,
+      28
+    ]
+  },
+  {
+    "skill": "ss-crops",
+    "format": "addiction-demand",
+    "difficulty": 2,
+    "text": "Which chain best follows the reading’s explanation of tobacco’s growing market?",
+    "answers": [
+      "Popularity and addiction increased demand, encouraging larger plantings for sale",
+      "Popularity eliminated the need for buyers or fields",
+      "Growing demand meant tobacco stopped being traded",
+      "Tobacco’s use in ceremonies guaranteed that every sale was fair"
+    ],
+    "solution": "Growing demand encouraged colonists to plant tobacco for European markets. The economic chain does not establish fairness or health.",
+    "hint": "Connect buyers’ demand with production for sale.",
+    "source": "Family-provided TCI lesson screenshots, Section 9 — Cash Crops (2026-10-21)",
+    "screenshotNumbers": [
+      27,
+      28
+    ]
+  },
+  {
+    "skill": "ss-crops",
+    "format": "trade-income",
+    "difficulty": 2,
+    "text": "How could money from tobacco exports affect a colonist’s purchases?",
+    "answers": [
+      "It could be used to buy goods imported from Europe",
+      "It automatically made every imported good free",
+      "It prevented all trade in the opposite direction",
+      "It proved every worker received the same profit"
+    ],
+    "solution": "The reading links earnings from tobacco with purchases of European goods. Exports and imports could be connected through trade income.",
+    "hint": "Follow what could happen to money received from a sale.",
+    "source": "Family-provided TCI lesson screenshots, Section 9 — Cash Crops (2026-10-21)",
+    "screenshotNumbers": [
+      27,
+      28
+    ]
+  },
+  {
+    "skill": "ss-crops",
+    "format": "market-purpose",
+    "difficulty": 2,
+    "text": "A field is planted mainly to supply distant buyers. What makes its harvest a cash crop in this example?",
+    "answers": [
+      "The main purpose is sale for income",
+      "The plant has leaves instead of roots",
+      "The buyers must be from the same country as the grower",
+      "The harvest must be used only in religious ceremonies"
+    ],
+    "solution": "The defining feature is production chiefly for sale. The plant’s appearance or a separate cultural use does not by itself determine that category.",
+    "hint": "Focus on the purpose of growing the crop.",
+    "source": "Family-provided TCI lesson screenshots, Section 9 — Cash Crops (2026-10-21)",
+    "screenshotNumbers": [
+      27,
+      28
+    ]
+  },
+  {
+    "skill": "ss-crops",
+    "format": "historical-summary",
+    "difficulty": 3,
+    "text": "Which summary distinguishes tobacco’s uses from its economic role?",
+    "answers": [
+      "It had cultural uses in some communities and later became a valuable export crop",
+      "It had no uses until Europeans invented it on the return crossing",
+      "Its sale proves that everyone involved shared the same cultural beliefs",
+      "Its value came from guiding sailors through fog and darkness"
+    ],
+    "solution": "A crop can have social or cultural uses and also become part of a trading economy. Recognizing both avoids treating one use as its whole history.",
+    "hint": "Compare cultural context with production for sale.",
+    "source": "Family-provided TCI lesson screenshots, Section 9 — Cash Crops (2026-10-21)",
+    "screenshotNumbers": [
+      27,
+      28
+    ]
+  },
+  {
+    "skill": "ss-crops",
+    "format": "source-limit",
+    "difficulty": 3,
+    "text": "A trade account records a large tobacco sale. Which additional question is needed for a fuller account?",
+    "answers": [
+      "Who produced it, and under what labor conditions?",
+      "Which sale price proves every worker freely agreed?",
+      "Why does the profit mean the product was harmless?",
+      "How does the sale prove the farm had no outside buyers?"
+    ],
+    "solution": "Price and volume describe trade, but do not explain workers’ freedom or treatment. Looking at labor conditions adds evidence missing from the account.",
+    "hint": "Ask about the people and work behind the product.",
+    "source": "Family-provided TCI lesson screenshots, Section 9 — Cash Crops (2026-10-21)",
+    "screenshotNumbers": [
+      27,
+      28
+    ]
+  },
+  {
+    "skill": "ss-europe",
+    "format": "granada",
+    "difficulty": 1,
+    "text": "Which rulers took control of Granada in 1492 in the extension reading?",
+    "answers": [
+      "Ferdinand and Isabella of Spain",
+      "Henry VIII and Elizabeth I of England",
+      "Martin Luther and Christopher Columbus",
+      "The rulers of France and Portugal acting together"
+    ],
+    "solution": "Ferdinand and Isabella’s forces defeated Muslim rule in Granada in 1492. The reading connects the event with Spain’s later religious and political goals.",
+    "hint": "Match the rulers with Spain and the 1492 event.",
+    "source": "Family-provided TCI lesson screenshots, Read & Do — Changes in Europe Spur Exploration (2026-10-21)",
+    "screenshotNumbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "skill": "ss-europe",
+    "format": "islam",
+    "difficulty": 1,
+    "text": "Which religion is associated with the Muslim communities discussed in the Granada reading?",
+    "answers": [
+      "Islam",
+      "Protestant Christianity",
+      "Roman Catholic Christianity",
+      "The Reformation itself as a separate religion"
+    ],
+    "solution": "Muslims are followers of Islam. Catholic and Protestant traditions belong within Christianity; the Reformation was a movement, not a religion called Islam.",
+    "hint": "Keep religious communities and historical movements distinct.",
+    "source": "Family-provided TCI lesson screenshots, Read & Do — Changes in Europe Spur Exploration (2026-10-21)",
+    "screenshotNumbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "skill": "ss-europe",
+    "format": "isabella-support",
+    "difficulty": 2,
+    "text": "Why did Isabella eventually support Columbus’s proposed voyage in the reading?",
+    "answers": [
+      "It could expand Spain’s wealth, power, and Catholic religious influence",
+      "It guaranteed there were no people living across the Atlantic",
+      "It would end every future religious conflict in Europe",
+      "It offered a complete and proven map of all American coastlines"
+    ],
+    "solution": "The extension links her support with several goals, including wealth, royal influence, and religion. It does not describe guaranteed success or empty lands.",
+    "hint": "Look for the combination of economic, political, and religious purposes.",
+    "source": "Family-provided TCI lesson screenshots, Read & Do — Changes in Europe Spur Exploration (2026-10-21)",
+    "screenshotNumbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "skill": "ss-europe",
+    "format": "funding-method",
+    "difficulty": 2,
+    "text": "What support did the Spanish rulers provide that enabled Columbus to make the journey?",
+    "answers": [
+      "Ships and money",
+      "A completed map of every American settlement",
+      "A guarantee that all ocean crossings would be safe",
+      "The Protestant churches formed after the Reformation"
+    ],
+    "solution": "The rulers supplied practical resources for the voyage. Their sponsorship was different from already knowing all the lands the voyage would reach.",
+    "hint": "Distinguish the means of financing a journey from its hoped-for outcomes.",
+    "source": "Family-provided TCI lesson screenshots, Read & Do — Changes in Europe Spur Exploration (2026-10-21)",
+    "screenshotNumbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "skill": "ss-europe",
+    "format": "luther",
+    "difficulty": 1,
+    "text": "Who challenged Catholic Church authority in the 1517 event discussed in the reading?",
+    "answers": [
+      "Martin Luther",
+      "Queen Elizabeth I",
+      "Christopher Columbus",
+      "King Ferdinand"
+    ],
+    "solution": "The reading identifies Martin Luther with the 1517 challenge and the Reformation. Columbus’s Atlantic crossing occurred earlier, in 1492.",
+    "hint": "Match the person with the religious reform movement rather than the ocean voyage.",
+    "source": "Family-provided TCI lesson screenshots, Read & Do — Changes in Europe Spur Exploration (2026-10-21)",
+    "screenshotNumbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "skill": "ss-europe",
+    "format": "reformation",
+    "difficulty": 2,
+    "text": "Which description best fits the Reformation discussed in the extension?",
+    "answers": [
+      "A movement challenging and seeking changes in the Catholic Church that helped lead to Protestant churches",
+      "A method of calculating latitude from the North Star",
+      "An agreement ending every religious disagreement in Europe",
+      "A trading route moving American tobacco to Spain"
+    ],
+    "solution": "The Reformation involved religious reform and division in Western Christianity. It was not a navigation tool or an ocean trade route.",
+    "hint": "Connect the word “reform” with changes sought in religious institutions.",
+    "source": "Family-provided TCI lesson screenshots, Read & Do — Changes in Europe Spur Exploration (2026-10-21)",
+    "screenshotNumbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "skill": "ss-europe",
+    "format": "counter-reformation",
+    "difficulty": 2,
+    "text": "How does the Counter-Reformation relate to the Reformation in the reading?",
+    "answers": [
+      "It was a Catholic response to the Protestant challenge",
+      "It was the first voyage Columbus made across the Atlantic",
+      "It was England’s name for a map of Granada",
+      "It was a campaign to replace every religion with navigation science"
+    ],
+    "solution": "The extension presents the Counter-Reformation as a Catholic response. Religious disputes also influenced rivalries between European rulers.",
+    "hint": "Identify which movement was a response to the other.",
+    "source": "Family-provided TCI lesson screenshots, Read & Do — Changes in Europe Spur Exploration (2026-10-21)",
+    "screenshotNumbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "skill": "ss-europe",
+    "format": "western-christianity",
+    "difficulty": 2,
+    "text": "Which statement keeps the groups in the Reformation account clear?",
+    "answers": [
+      "Catholics and Protestants were Christian groups with religious disagreements",
+      "Protestants were Muslims who supported the Spanish Armada",
+      "The Reformation made every European ruler follow the same church",
+      "Catholics were a navigation group with no religious beliefs"
+    ],
+    "solution": "The conflict described concerns Christian traditions, not a division between Christianity and Islam. Europe also contained other traditions and communities.",
+    "hint": "Do not confuse the Granada conflict with the later Reformation disputes.",
+    "source": "Family-provided TCI lesson screenshots, Read & Do — Changes in Europe Spur Exploration (2026-10-21)",
+    "screenshotNumbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "skill": "ss-europe",
+    "format": "england-spain",
+    "difficulty": 2,
+    "text": "Which religious difference contributed to tensions between England and Spain in the extension?",
+    "answers": [
+      "England’s Protestant rule and Spain’s Catholic rule",
+      "England’s Catholic rule and Spain’s lack of any religion",
+      "Both countries’ agreement to end all religious competition",
+      "England’s use of sonar and Spain’s use of a compass"
+    ],
+    "solution": "Religious disagreement was one factor in the rivalry. Political competition and overseas goals also mattered.",
+    "hint": "Separate one contributing cause from a claim that there was only one cause.",
+    "source": "Family-provided TCI lesson screenshots, Read & Do — Changes in Europe Spur Exploration (2026-10-21)",
+    "screenshotNumbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "skill": "ss-europe",
+    "format": "armada",
+    "difficulty": 1,
+    "text": "Which outcome is described for the Spanish Armada campaign of 1588?",
+    "answers": [
+      "England defeated the Spanish fleet",
+      "Spain conquered England and permanently ended its navy",
+      "Columbus first crossed the Atlantic during the campaign",
+      "Martin Luther became the ruler of Spain"
+    ],
+    "solution": "The English defeat of the Spanish fleet is the result emphasized in the reading. Spain remained an important power afterward.",
+    "hint": "Keep the 1588 naval campaign separate from the 1492 voyage.",
+    "source": "Family-provided TCI lesson screenshots, Read & Do — Changes in Europe Spur Exploration (2026-10-21)",
+    "screenshotNumbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "skill": "ss-europe",
+    "format": "timeline",
+    "difficulty": 2,
+    "text": "Which sequence places the three events in chronological order?",
+    "answers": [
+      "Columbus’s Atlantic voyage → Luther’s religious challenge → the Armada’s defeat",
+      "Luther’s religious challenge → Columbus’s Atlantic voyage → the Armada’s defeat",
+      "The Armada’s defeat → Columbus’s Atlantic voyage → Luther’s religious challenge",
+      "Columbus’s Atlantic voyage → the Armada’s defeat → Luther’s religious challenge"
+    ],
+    "solution": "Ordering the years gives 1492, then 1517, then 1588. This sequence connects the voyage with later European religious and political conflicts.",
+    "hint": "Compare the dates rather than relying on the order in which names appear.",
+    "source": "Family-provided TCI lesson screenshots, Read & Do — Changes in Europe Spur Exploration (2026-10-21)",
+    "screenshotNumbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "skill": "ss-europe",
+    "format": "causal-argument",
+    "difficulty": 3,
+    "text": "Which explanation best connects European rivalries with later exploration and settlement?",
+    "answers": [
+      "Competing rulers sought overseas resources and influence as religious and political conflicts continued",
+      "The Armada’s defeat ended Spain’s power and all European rivalry immediately",
+      "Every overseas voyage had a single identical religious motive for every traveler",
+      "European disputes made every Indigenous community support the same ruler"
+    ],
+    "solution": "The extension links competition in Europe with efforts to gain wealth and influence overseas. Those rivalries could continue in the Americas.",
+    "hint": "Explain how competition could encourage new overseas ambitions without claiming everyone benefited.",
+    "source": "Family-provided TCI lesson screenshots, Read & Do — Changes in Europe Spur Exploration (2026-10-21)",
+    "screenshotNumbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "skill": "ss-exchange",
+    "format": "definition",
+    "difficulty": 1,
+    "text": "Which description best defines the Columbian Exchange?",
+    "answers": [
+      "Transfers of people, plants, animals, diseases, and ideas between connected regions after Atlantic contact",
+      "Only the sale of gold from Spain to England",
+      "A compass method used to calculate latitude",
+      "A religious meeting that ended European exploration"
+    ],
+    "solution": "The exchange involved many kinds of transfers in more than one direction. The effects included both opportunities and devastating harms.",
+    "hint": "Think beyond one product or a single-direction shipment.",
+    "source": "Family-provided TCI lesson screenshots, Explore — The Columbian Exchange (2026-10-21)",
+    "screenshotNumbers": [
+      31,
+      32,
+      33
+    ]
+  },
+  {
+    "skill": "ss-exchange",
+    "format": "to-americas",
+    "difficulty": 2,
+    "text": "Which group contains examples brought to the Americas through the exchange described in the reading?",
+    "answers": [
+      "Wheat, horses, and cattle",
+      "Maize, potatoes, and squash",
+      "Cacao, tomatoes, and tobacco",
+      "Only gold and silver mined in Mexico"
+    ],
+    "solution": "The reading names introduced crops such as wheat and animals such as horses and cows. Maize, potatoes, and several other crops spread outward from the Americas.",
+    "hint": "Trace the origins and destinations rather than assuming every crop traveled the same way.",
+    "source": "Family-provided TCI lesson screenshots, Explore — The Columbian Exchange (2026-10-21)",
+    "screenshotNumbers": [
+      31,
+      32,
+      33
+    ]
+  },
+  {
+    "skill": "ss-exchange",
+    "format": "to-europe",
+    "difficulty": 2,
+    "text": "Which group contains American crops that spread to Europe?",
+    "answers": [
+      "Corn, potatoes, and squash",
+      "Wheat, rice, and European livestock",
+      "Only manufactured textiles and weapons",
+      "Only horses, sheep, and cattle"
+    ],
+    "solution": "The lesson identifies corn, potatoes, and squash among foods moving from the Americas to Europe. This was one direction within a wider exchange.",
+    "hint": "Match the American-origin crops with the receiving region.",
+    "source": "Family-provided TCI lesson screenshots, Explore — The Columbian Exchange (2026-10-21)",
+    "screenshotNumbers": [
+      31,
+      32,
+      33
+    ]
+  },
+  {
+    "skill": "ss-exchange",
+    "format": "two-way",
+    "difficulty": 3,
+    "text": "Why is it misleading to describe the Columbian Exchange as goods moving only from America to Europe?",
+    "answers": [
+      "People, organisms, goods, and ideas moved in several directions",
+      "Nothing from the Americas ever reached Europe",
+      "Only one crop moved, and it went to Asia rather than Europe",
+      "Exchange means that every transfer was a freely chosen sale"
+    ],
+    "solution": "The exchange included introductions to the Americas as well as transfers outward. It also included forced movement and disease, not only voluntary purchases.",
+    "hint": "Look for examples moving toward the Americas as well as away from them.",
+    "source": "Family-provided TCI lesson screenshots, Explore — The Columbian Exchange (2026-10-21)",
+    "screenshotNumbers": [
+      31,
+      32,
+      33
+    ]
+  },
+  {
+    "skill": "ss-exchange",
+    "format": "disease",
+    "difficulty": 2,
+    "text": "Why were introduced diseases so destructive to many Indigenous communities?",
+    "answers": [
+      "Many people lacked immunity to the newly encountered infections",
+      "American crops made every infection harmless",
+      "Every community had already encountered every European disease",
+      "A royal land claim by itself provided protection against infection"
+    ],
+    "solution": "The reading connects unfamiliar infections with severe illness and death. The effects varied; it does not mean every region experienced one identical outcome.",
+    "hint": "Focus on exposure and immunity rather than a claim about an entire continent’s identical experience.",
+    "source": "Family-provided TCI lesson screenshots, Explore — The Columbian Exchange (2026-10-21)",
+    "screenshotNumbers": [
+      31,
+      32,
+      33
+    ]
+  },
+  {
+    "skill": "ss-exchange",
+    "format": "forced-movement",
+    "difficulty": 2,
+    "text": "Which distinction is essential when describing enslaved Africans taken across the Atlantic?",
+    "answers": [
+      "They were forcibly transported, rather than freely choosing migration",
+      "They all traveled as paid explorers seeking new sea routes",
+      "Their movement proves that every transfer benefited the people moved",
+      "Their lack of freedom can be inferred only from the crops grown later"
+    ],
+    "solution": "Enslavement involved coercion and denial of freedom. It must not be presented as an ordinary voluntary voyage or a benefit to those enslaved.",
+    "hint": "Distinguish forced transportation from a freely chosen move.",
+    "source": "Family-provided TCI lesson screenshots, Explore — The Columbian Exchange (2026-10-21)",
+    "screenshotNumbers": [
+      31,
+      32,
+      33
+    ]
+  },
+  {
+    "skill": "ss-exchange",
+    "format": "trade-leg",
+    "difficulty": 2,
+    "text": "In the triangular-trade model, what movement connects Africa with the Americas?",
+    "answers": [
+      "The forced transport of enslaved Africans",
+      "Only the return of American potatoes to European markets",
+      "Only European settlers sailing to Asian ports",
+      "Only maps carried between two European capitals"
+    ],
+    "solution": "That leg represents forced transportation of people. The model describes trading routes, not a justification of enslavement.",
+    "hint": "Identify the origin, destination, and coercion on this particular leg.",
+    "source": "Family-provided TCI lesson screenshots, Explore — The Columbian Exchange (2026-10-21)",
+    "screenshotNumbers": [
+      31,
+      32,
+      33
+    ]
+  },
+  {
+    "skill": "ss-exchange",
+    "format": "trade-goods",
+    "difficulty": 2,
+    "text": "Which shipment fits the Americas-to-Europe side of the triangular-trade model described?",
+    "answers": [
+      "Sugar and tobacco produced in American colonies",
+      "European manufactured goods sent to Africa",
+      "Enslaved Africans forced from Africa to the Americas",
+      "Asian rice sent directly from Asia to an American port"
+    ],
+    "solution": "The model includes products from American plantations and mines shipped to Europe. Other legs have different origins and destinations.",
+    "hint": "Trace where the goods in the option are produced and where they are sent.",
+    "source": "Family-provided TCI lesson screenshots, Explore — The Columbian Exchange (2026-10-21)",
+    "screenshotNumbers": [
+      31,
+      32,
+      33
+    ]
+  },
+  {
+    "skill": "ss-exchange",
+    "format": "trade-to-africa",
+    "difficulty": 2,
+    "text": "Which movement fits the Europe-to-Africa leg in the simplified trade model?",
+    "answers": [
+      "Manufactured goods carried for trade in Africa",
+      "Potatoes sent from Peru to European buyers",
+      "Enslaved Africans transported to American colonies",
+      "Corn first grown by Indigenous communities in the Americas"
+    ],
+    "solution": "European goods could be exchanged in Africa as part of the system of trade and enslavement. The simplified triangle is a model; not every historical voyage followed all three legs.",
+    "hint": "Match the stated starting and receiving regions.",
+    "source": "Family-provided TCI lesson screenshots, Explore — The Columbian Exchange (2026-10-21)",
+    "screenshotNumbers": [
+      31,
+      32,
+      33
+    ]
+  },
+  {
+    "skill": "ss-exchange",
+    "format": "culture",
+    "difficulty": 3,
+    "text": "Which statement best describes cultural change in the supplied reading?",
+    "answers": [
+      "African traditions and blended religious practices helped shape cultures in the Americas",
+      "Only crops moved, so beliefs and traditions could not change",
+      "Every Indigenous community abandoned all earlier practices in the same way",
+      "Forced movement meant African people contributed no cultural knowledge"
+    ],
+    "solution": "The reading describes the continuing influence of African traditions and the blending of beliefs. People’s cultures and contributions were not erased by the systems that oppressed them.",
+    "hint": "Avoid treating an exchange of goods as the whole story of people and ideas.",
+    "source": "Family-provided TCI lesson screenshots, Explore — The Columbian Exchange (2026-10-21)",
+    "screenshotNumbers": [
+      31,
+      32,
+      33
+    ]
+  },
+  {
+    "skill": "ss-exchange",
+    "format": "claim-evidence",
+    "difficulty": 3,
+    "text": "Which evidence pair supports an argument that the exchange had both benefits and grave harms?",
+    "answers": [
+      "Additional food crops improved diets, while disease and enslavement devastated lives",
+      "New foods prove no Indigenous community suffered",
+      "Forced labor proves no food crop ever spread overseas",
+      "A map alone proves every community experienced the same result"
+    ],
+    "solution": "A balanced argument identifies specific effects and whose experiences they describe. Benefits in one area do not cancel severe harms to other people.",
+    "hint": "Use evidence relevant to both parts of the claim.",
+    "source": "Family-provided TCI lesson screenshots, Explore — The Columbian Exchange (2026-10-21)",
+    "screenshotNumbers": [
+      31,
+      32,
+      33
+    ]
+  },
+  {
+    "skill": "ss-exchange",
+    "format": "source-perspective",
+    "difficulty": 3,
+    "text": "A colonial writer describes a community overwhelmed by illness. How should that account be used in an argument?",
+    "answers": [
+      "As one source about suffering, compared with other evidence and its author’s perspective",
+      "As proof that every community in both continents had exactly the same experience",
+      "As a complete count of all deaths, even if it gives no such count",
+      "As evidence that an exchange involved only plants and no people"
+    ],
+    "solution": "A primary account can support a specific observation while still having limits. Comparing sources helps avoid extending one description into an unsupported universal claim.",
+    "hint": "Consider what the writer observed, whose view is represented, and what remains unknown.",
+    "source": "Family-provided TCI lesson screenshots, Explore — The Columbian Exchange (2026-10-21)",
+    "screenshotNumbers": [
+      31,
+      32,
+      33
+    ]
   }
 ]
