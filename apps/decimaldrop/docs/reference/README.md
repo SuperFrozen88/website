@@ -2,6 +2,10 @@
 
 [Original family-provided Social Studies and Science year-plan photo](grade-5-social-studies-science-year-plan.png), supplied October 21, 2026. Preserve the photo unchanged. It guides future unit planning; dates are copied as printed/annotated and are not asserted to match the current calendar. The image contains a schedule, not full lessons or assessment questions.
 
+## Lesson 4 classroom materials
+
+The [33 original online-lesson screenshots](tci-lesson-4-2026-10-21/README.md), supplied later on October 21, 2026, now confirm the nine numbered sections and include the Read & Do and Explore readings. They were moved unchanged from Desktop at the family’s request. See their manifest and coverage index.
+
 ## Social Studies
 
 - Unit 1: Lesson 1 Geography of the United States; Lesson 2 American Indians and Their Land; Lesson 3 American Indian Cultural Regions (8 sections).
