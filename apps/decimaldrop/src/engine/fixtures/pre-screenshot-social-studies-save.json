@@ -1,0 +1,3414 @@
+{
+  "baselineCommit": "1c20b61",
+  "questionHashes": [
+    {
+      "id": "ss-overview:0",
+      "sha256": "09fcf40c8974b413057bbe381c96d01352a486bda89e41154a096f186303e882"
+    },
+    {
+      "id": "ss-overview:1",
+      "sha256": "4ef1e65163175a8c95358d82f77a9d2b2637f4fa24b690912cd426408b4c0b10"
+    },
+    {
+      "id": "ss-overview:2",
+      "sha256": "104b395c3cebad71b7342c3c010aa1b4edcfd860290330a100c94ecb939fde72"
+    },
+    {
+      "id": "ss-overview:3",
+      "sha256": "7ac03a719ebe5ecb4623b6418680d7e21bcddbf5812142a7098d09b1c197eaf3"
+    },
+    {
+      "id": "ss-overview:4",
+      "sha256": "f4ff27ed2641f1e646df6ece07ae3abb5ed9d9f4627eb94e179e56328daf50cc"
+    },
+    {
+      "id": "ss-overview:5",
+      "sha256": "502af131de6fec1992be86e0b2695390eb2e487d990270173eac2d01aeac9a5a"
+    },
+    {
+      "id": "ss-overview:6",
+      "sha256": "519104350494a511d9eab2762a369eb3290f5d41a2753346ec725d8f41fc3bb5"
+    },
+    {
+      "id": "ss-overview:7",
+      "sha256": "33807b79db7012789ea264222cb63bb3e46a19fa8319fc2a8e83b16ba01478d9"
+    },
+    {
+      "id": "ss-ocean:0",
+      "sha256": "580c9cc11e0869bd1acba5b055959be47a1a701ba24df2d036fd7187dfe34bf5"
+    },
+    {
+      "id": "ss-ocean:1",
+      "sha256": "9100b62d60337fc3f9d8b4d0929f25d448b57a4f2869c03342d4a2515b9ec5f6"
+    },
+    {
+      "id": "ss-ocean:2",
+      "sha256": "f1c0aff64a0d7a2a794f636ea9bb56a808f31c028419c587ef7e3461a5c3e725"
+    },
+    {
+      "id": "ss-ocean:3",
+      "sha256": "f217df11034ec9a5c87e42243e3a638401ece0d7ec11517e61a2a70dd594eb3d"
+    },
+    {
+      "id": "ss-ocean:4",
+      "sha256": "6da6e2d707bcf5ecb90ec22ae69164e70757bb1e32397c2ecdabcd3e2151fb0a"
+    },
+    {
+      "id": "ss-ocean:5",
+      "sha256": "4591b25ba24f65f692d38702442faba2561f11f2e6f9f5fd984c750dac27d1e3"
+    },
+    {
+      "id": "ss-ocean:6",
+      "sha256": "953d02ff1b9010cae5c17dce7f07c65ead75b283912b09a3ebd66803e46421bd"
+    },
+    {
+      "id": "ss-ocean:7",
+      "sha256": "d0a6508aaccd40731eea273a78feca3e8736a3e939e4393f85c2b26d521ca879"
+    },
+    {
+      "id": "ss-directions:0",
+      "sha256": "c2fc794a0b86cdc5585d05eea107d6c75ca0a89847a3bcb32cbd0e8c0b1372c4"
+    },
+    {
+      "id": "ss-directions:1",
+      "sha256": "313a9fe3dcf38739e1d6a9194b63f7f87a182da8a1a347f911cd08a056793ce5"
+    },
+    {
+      "id": "ss-directions:2",
+      "sha256": "06b8a5ba7aa008e2895bd41bdce93f55fe0b6cb33b1752f2bf9e63ef97b0c8ca"
+    },
+    {
+      "id": "ss-directions:3",
+      "sha256": "215ba4fe422009f57731d44efb6064daef22beb470a114774891cf2b0c30b098"
+    },
+    {
+      "id": "ss-directions:4",
+      "sha256": "534e17c8649e693ba0adda396015de402c356aa642cd13a8760ee3ffe1600b36"
+    },
+    {
+      "id": "ss-directions:5",
+      "sha256": "6afdb0ac16eb7ef5b117657f04530bc7547917d3aa1cb9c97054ff122a3c707f"
+    },
+    {
+      "id": "ss-directions:6",
+      "sha256": "03a592e1b6fea282c4642e8189ea5420f91fa5259de12d371bda7a5512549e71"
+    },
+    {
+      "id": "ss-directions:7",
+      "sha256": "21efcc2cf3190fd035210b303d0b40a64c38220482b443553fa7fb77ea06929f"
+    },
+    {
+      "id": "ss-maps:0",
+      "sha256": "db5359b411fc2b9d005097476ae55af6bc80c9e5d6a006eb5d0efbf15daab876"
+    },
+    {
+      "id": "ss-maps:1",
+      "sha256": "4130cfcea666451f2f2babee618bec03389f6c2e8a55a6012d7b61f901703772"
+    },
+    {
+      "id": "ss-maps:2",
+      "sha256": "d21443f57dcf2d57a2823f25cc449f4cfc396384c7a43e067d99308631df6ba9"
+    },
+    {
+      "id": "ss-maps:3",
+      "sha256": "eb0beb68224caafd40d1ea575b7594653adbbec0fbf0ce3e7781d7032be8cdae"
+    },
+    {
+      "id": "ss-maps:4",
+      "sha256": "afd776dd97c810e4c269f8255da3268bfdebe2987faabde334c9c00e3ecbe51a"
+    },
+    {
+      "id": "ss-maps:5",
+      "sha256": "7c524765b3c80b098190b19ee672b879945a517ef74a054375e057f726c56d45"
+    },
+    {
+      "id": "ss-maps:6",
+      "sha256": "7929c01f28b4436f4f0cb958393f29802f2e86bcc8009b37806a08094d055a94"
+    },
+    {
+      "id": "ss-maps:7",
+      "sha256": "699e10f4686d3b7d93fb635b1fc3af6ae2a749cfff1c86831434133e3168e797"
+    },
+    {
+      "id": "ss-lands:0",
+      "sha256": "d46048d38759610d8d3299268639c05d7ca48de82cb9f0265efbfb27008cdaec"
+    },
+    {
+      "id": "ss-lands:1",
+      "sha256": "e88233584308218be9986731f9a0d5ae8aef819362b23c5f7a3c0a4c2c5138f1"
+    },
+    {
+      "id": "ss-lands:2",
+      "sha256": "cd4d402d081192e7eff2ccae489ebdf4066a41bda61f00785171eb7ef589a724"
+    },
+    {
+      "id": "ss-lands:3",
+      "sha256": "16dce4672cd5e22183d98e8de3bb17236842e3d0a868cec8c86eb8bace054100"
+    },
+    {
+      "id": "ss-lands:4",
+      "sha256": "f66edb8ad3d320e74285b371d3b673b132b0919fd469a72301127af50815e4de"
+    },
+    {
+      "id": "ss-lands:5",
+      "sha256": "ba3b4e7c593130c41c95467783b0f7b7d615ad12aacd40f606483a6b7a4c16cd"
+    },
+    {
+      "id": "ss-lands:6",
+      "sha256": "832ac463851206af75ce8dd24f0b7b6f4b27f483de5c948a1b4ff5eb80e37d3a"
+    },
+    {
+      "id": "ss-lands:7",
+      "sha256": "6f8ecdeab8fa354c8efe1fd8357b08af964d825ee1b56bd5475e308dbe34ff61"
+    },
+    {
+      "id": "ss-beliefs:0",
+      "sha256": "4bf42112f1059ab541578422db852b9fe2c74010754c845dfab1d02da278478e"
+    },
+    {
+      "id": "ss-beliefs:1",
+      "sha256": "cbf1111bb880a13aba1d73e0be0bd8171dfe7e79be664230f2306772fe65f155"
+    },
+    {
+      "id": "ss-beliefs:2",
+      "sha256": "a5c6539a1fd139a9c71a06882a6a113dd0cc4205f3b7ba434e46e267bd649f41"
+    },
+    {
+      "id": "ss-beliefs:3",
+      "sha256": "46314598501312e6f0814bb45b7e2206c127d9b04a2b66ac7243026ce717bad4"
+    },
+    {
+      "id": "ss-beliefs:4",
+      "sha256": "abe831051174f9c77be3534d5e72c0834a2ff579f45ec3181d0086add9e3fe72"
+    },
+    {
+      "id": "ss-beliefs:5",
+      "sha256": "d1f853d71178fdff2c178184e31471424b65e532d04027a30fd8d17e7d5ef339"
+    },
+    {
+      "id": "ss-beliefs:6",
+      "sha256": "811a8e7963f7be93f35a47c321152b4792a9f549f938f64853c649a0d87ff329"
+    },
+    {
+      "id": "ss-beliefs:7",
+      "sha256": "c72565c9bca4bcfe750d25c181133d6873fe508cae057896d6e4601e7f402a59"
+    },
+    {
+      "id": "ss-wealth:0",
+      "sha256": "f787f2cbabb45dc5cec2550c4c49f9fd72bde39daa374f59ba7a71dc58bdb5b0"
+    },
+    {
+      "id": "ss-wealth:1",
+      "sha256": "5ff9af9c0d010c0a5db6a68c031d3b94385eb3d47c29a33beda59b58c2ea3699"
+    },
+    {
+      "id": "ss-wealth:2",
+      "sha256": "5918848703c5df86263e8ac76c7936c267edec3d272f848adaf1cf5454ab62ce"
+    },
+    {
+      "id": "ss-wealth:3",
+      "sha256": "6bbb08186bc02e43b10dc6579aa87dd6ef97414e2d57c3bfa0047e6f16afcdf6"
+    },
+    {
+      "id": "ss-wealth:4",
+      "sha256": "9e63168f4584a7ed08b3e71cbdf5c88e244f42b627d9e007093fa163b9854141"
+    },
+    {
+      "id": "ss-wealth:5",
+      "sha256": "ac2c12fe529ee339caef77cea6d37d42dbee45633b876253155850d773b45d48"
+    },
+    {
+      "id": "ss-wealth:6",
+      "sha256": "404a94f4dfeec5b1003f34762bf6aafda10f7715419d1d0633c5277cc33c69a2"
+    },
+    {
+      "id": "ss-wealth:7",
+      "sha256": "5838964402135e7646a61d2e78dcf2032bd61a53fc2164fbb3ee76678d10b4e8"
+    },
+    {
+      "id": "ss-foods:0",
+      "sha256": "ef0e4065b33f9de7d14864abba4768fc52b604dbaf9d0f9c5da1f4e561cdb91e"
+    },
+    {
+      "id": "ss-foods:1",
+      "sha256": "ec2768ef4059c456b67f2ced8c5d5ca0a4bcff322cf8e52f6b70de39876cba2d"
+    },
+    {
+      "id": "ss-foods:2",
+      "sha256": "b98c2c9c5e04a2890a889c4720ad6f015fed988e28b746626e5d360717450f47"
+    },
+    {
+      "id": "ss-foods:3",
+      "sha256": "431515a5ce9baf376e78a49bb4fef61cb3c6010975f3864ef36585b975c296bd"
+    },
+    {
+      "id": "ss-foods:4",
+      "sha256": "105bb9fe7f32354d40cbe8007e5823a614c4f212dfa6436df8fda3c099e7fb0c"
+    },
+    {
+      "id": "ss-foods:5",
+      "sha256": "6759ac66e0f254a72e18adb4bd82dca1060b7693d52e54b225000ea1e12c41e4"
+    },
+    {
+      "id": "ss-foods:6",
+      "sha256": "f512e9d450f9eca0f4217133e9b79ee309444b0c13a7c391b5385362142edc30"
+    },
+    {
+      "id": "ss-foods:7",
+      "sha256": "c30670e8f0919ffe3d662f0d0e899fe5aafccc36f51ddedf2bed5519b237b93f"
+    },
+    {
+      "id": "ss-crops:0",
+      "sha256": "fe5fc2c272e78403e4a55a7970d4b36a36efe0c29dcc36982b4d07032fa59574"
+    },
+    {
+      "id": "ss-crops:1",
+      "sha256": "36d9070bb672148a4d679febdda309c2a9df05544b1a708e95365dbe74bde7ee"
+    },
+    {
+      "id": "ss-crops:2",
+      "sha256": "81892a13628b48182596cbd80b9bf6a5ef5b20fa632f64b1eb7abc120862455f"
+    },
+    {
+      "id": "ss-crops:3",
+      "sha256": "4160f35ee782cce1d8fe0b6a9bb088367e603aa1e82f27dc706caa164f5df374"
+    },
+    {
+      "id": "ss-crops:4",
+      "sha256": "2d2c0871c576bdbb752ec6b39ed25b7f9d13890f6280de0711be455e313df2c7"
+    },
+    {
+      "id": "ss-crops:5",
+      "sha256": "54aaa7ff3bb756c83cf5232f696314630bce5951bb7dc568c454d457da93e8b0"
+    },
+    {
+      "id": "ss-crops:6",
+      "sha256": "036a1f7500441b75686869715327dbb0637742df2c5e32d89cf4936f98f426a3"
+    },
+    {
+      "id": "ss-crops:7",
+      "sha256": "7f56253d90a0951a373f7507c7b1ffc8a0abbfd832593e084bf84dc5d26d24d1"
+    },
+    {
+      "id": "ss-artifacts:0",
+      "sha256": "d7267cb3733ee42aa659a4ba2e01ddce4b978201a1e8eb8caf60113107c375dc"
+    },
+    {
+      "id": "ss-artifacts:1",
+      "sha256": "9db77d5cff4703b608197786328ff30800db529427bb1ca45461d0484f3f11d4"
+    },
+    {
+      "id": "ss-artifacts:2",
+      "sha256": "078b9ebaf945213590a20c90e6600cc9a5a56389630a7396ee2556c00f9cacf8"
+    },
+    {
+      "id": "ss-artifacts:3",
+      "sha256": "589b3627630cc2c3a788cae74c038dbc0d1c9646de2fea395a22a84140437ac0"
+    },
+    {
+      "id": "ss-artifacts:4",
+      "sha256": "212e0f8e2f4e25162dfd079f4851158a3c29c37d290289917c1f6dfcfa39b267"
+    },
+    {
+      "id": "ss-artifacts:5",
+      "sha256": "6d4b4762f2c5c565a62b870ac9162970212913939fd0583c04f3543b643f97d1"
+    },
+    {
+      "id": "ss-artifacts:6",
+      "sha256": "b66b43e47119959656ae70e2837b6ea3f24b96db9e442cb6701339c2996fe11b"
+    },
+    {
+      "id": "ss-artifacts:7",
+      "sha256": "0df46dd78ba01cfc99ab6b8a0853b934028686271827ffdec2c87e3293821a5f"
+    }
+  ],
+  "progress": {
+    "version": 1,
+    "sessions": [
+      {
+        "unit": "exploration",
+        "id": "792a1d6e-5605-48e9-9b08-965e5d38dc7c",
+        "mode": "standard",
+        "diagnostic": true,
+        "target": [],
+        "questions": [
+          {
+            "id": "ss-overview:0",
+            "skill": "ss-overview",
+            "difficulty": 1,
+            "kind": "choice",
+            "family": "vocabulary",
+            "text": "In this lesson, what does the European term “New World” refer to?",
+            "answer": "The Americas",
+            "equivalents": [],
+            "choices": [
+              "The Asian trading regions Europeans hoped to reach",
+              "The African ports used on routes toward Asia",
+              "The European kingdoms sponsoring ocean voyages",
+              "The Americas"
+            ],
+            "solution": "Europeans used “New World” for the Americas. Indigenous peoples had lived there long before these European voyages.",
+            "hint": "Think about whose point of view made these lands seem “new.”",
+            "misconceptions": {},
+            "estimatedSeconds": 50,
+            "format": "vocabulary",
+            "source": "NPS: Prelude to Jamestown; TCI published topic outline",
+            "proof": {
+              "op": "history",
+              "values": [],
+              "result": 0
+            }
+          },
+          {
+            "id": "ss-ocean:0",
+            "skill": "ss-ocean",
+            "difficulty": 1,
+            "kind": "choice",
+            "family": "vocabulary",
+            "text": "Which instrument used the angle of the sun or stars to help sailors estimate latitude?",
+            "answer": "An astrolabe",
+            "equivalents": [],
+            "choices": [
+              "An astrolabe",
+              "A map showing coastlines and possible sailing routes",
+              "A ship’s log recording cargo and daily voyage events",
+              "A magnetic compass that indicated a ship’s heading"
+            ],
+            "solution": "An astrolabe helped measure the angle of a visible heavenly body. Sailors could use that information to estimate latitude.",
+            "hint": "Latitude means position north or south of the equator.",
+            "misconceptions": {},
+            "estimatedSeconds": 50,
+            "format": "vocabulary",
+            "source": "NPS: Navigating the Atlantic World",
+            "proof": {
+              "op": "history",
+              "values": [],
+              "result": 0
+            }
+          },
+          {
+            "id": "ss-directions:0",
+            "skill": "ss-directions",
+            "difficulty": 1,
+            "kind": "choice",
+            "family": "vocabulary",
+            "text": "What did a magnetic compass mainly help a sailor determine?",
+            "answer": "Direction",
+            "equivalents": [],
+            "choices": [
+              "The number of miles remaining before reaching a port",
+              "The ship’s exact latitude and longitude together",
+              "Direction",
+              "The depth of water under the ship’s hull"
+            ],
+            "solution": "A compass’s magnetic needle indicates north and helps a sailor keep a heading. It does not directly measure depth, age, or prices.",
+            "hint": "A compass answers “which way?”",
+            "misconceptions": {},
+            "estimatedSeconds": 50,
+            "format": "vocabulary",
+            "source": "NPS: Navigating the Atlantic World",
+            "proof": {
+              "op": "history",
+              "values": [],
+              "result": 0
+            }
+          },
+          {
+            "id": "ss-maps:0",
+            "skill": "ss-maps",
+            "difficulty": 1,
+            "kind": "choice",
+            "family": "vocabulary",
+            "text": "What information is a navigation map designed to show?",
+            "answer": "Locations of land, water, and possible routes",
+            "equivalents": [],
+            "choices": [
+              "The personal motives of every sailor who followed a route",
+              "The amount of profit guaranteed by reaching each port",
+              "Locations of land, water, and possible routes",
+              "The exact weather at each point for every future voyage"
+            ],
+            "solution": "Maps represent places and spatial relationships. They can help sailors plan routes and identify coasts or landing places.",
+            "hint": "A map represents where things are, rather than every fact about them.",
+            "misconceptions": {},
+            "estimatedSeconds": 50,
+            "format": "vocabulary",
+            "source": "NPS: Navigating the Atlantic World; Prelude to Jamestown",
+            "proof": {
+              "op": "history",
+              "values": [],
+              "result": 0
+            }
+          },
+          {
+            "id": "ss-lands:0",
+            "skill": "ss-lands",
+            "difficulty": 1,
+            "kind": "choice",
+            "family": "vocabulary",
+            "text": "In this lesson, what is a nation-state?",
+            "answer": "A country with its own government and territory",
+            "equivalents": [],
+            "choices": [
+              "A country with its own government and territory",
+              "A territory shared by all European rulers with no separate government",
+              "A trading ship that travels between several different countries",
+              "A community defined only by one cargo product rather than government"
+            ],
+            "solution": "A nation-state has political authority over a territory. European rulers wanted to strengthen their countries through overseas expansion.",
+            "hint": "This word describes a political country, not an object on a ship.",
+            "misconceptions": {},
+            "estimatedSeconds": 50,
+            "format": "vocabulary",
+            "source": "NPS: When Worlds Collide; Significance of Spanish Colonial Missions",
+            "proof": {
+              "op": "history",
+              "values": [],
+              "result": 0
+            }
+          },
+          {
+            "id": "ss-beliefs:0",
+            "skill": "ss-beliefs",
+            "difficulty": 1,
+            "kind": "choice",
+            "family": "vocabulary",
+            "text": "Which belief system did many European missionaries seek to spread in the Americas?",
+            "answer": "Christianity",
+            "equivalents": [],
+            "choices": [
+              "Christianity",
+              "The belief that religion and European expansion were never connected",
+              "The belief that every Indigenous religion should remain unchanged",
+              "Religious beliefs they learned only after arriving in the Americas"
+            ],
+            "solution": "European missionaries sought to spread Christianity. Religion was one motive for expansion, alongside wealth and political power.",
+            "hint": "Choose a religion, rather than a technology or economic activity.",
+            "misconceptions": {},
+            "estimatedSeconds": 50,
+            "format": "vocabulary",
+            "source": "NPS: Significance of Spanish Colonial Missions",
+            "proof": {
+              "op": "history",
+              "values": [],
+              "result": 0
+            }
+          },
+          {
+            "id": "ss-wealth:0",
+            "skill": "ss-wealth",
+            "difficulty": 1,
+            "kind": "choice",
+            "family": "vocabulary",
+            "text": "Which pair of materials did European rulers value as precious metals?",
+            "answer": "Gold and silver",
+            "equivalents": [],
+            "choices": [
+              "Gold and tobacco sold as American crops",
+              "Silk and potatoes carried as food plants",
+              "Silver and spices used as navigation instruments",
+              "Gold and silver"
+            ],
+            "solution": "Gold and silver were valued as wealth. Seeking them was an economic motive rather than a method of navigation.",
+            "hint": "Choose metals, rather than foods or ordinary construction materials.",
+            "misconceptions": {},
+            "estimatedSeconds": 50,
+            "format": "vocabulary",
+            "source": "NPS: Prelude to Jamestown; When Worlds Collide",
+            "proof": {
+              "op": "history",
+              "values": [],
+              "result": 0
+            }
+          },
+          {
+            "id": "ss-foods:0",
+            "skill": "ss-foods",
+            "difficulty": 1,
+            "kind": "choice",
+            "family": "vocabulary",
+            "text": "Which pair includes crops Indigenous peoples grew in the Americas before European arrival?",
+            "answer": "Corn and potatoes",
+            "equivalents": [],
+            "choices": [
+              "Wheat and barley introduced from Europe",
+              "Olives and wheat associated with the Mediterranean",
+              "Rice and tea associated with Asian agriculture",
+              "Corn and potatoes"
+            ],
+            "solution": "Corn and potatoes were American crops that later spread widely beyond the Americas. Indigenous peoples cultivated them before European arrival.",
+            "hint": "Think of foods that traveled from the Americas to Europe.",
+            "misconceptions": {},
+            "estimatedSeconds": 50,
+            "format": "vocabulary",
+            "source": "NPS: American Latino Theme Study: Food; Columbian Exchange",
+            "proof": {
+              "op": "history",
+              "values": [],
+              "result": 0
+            }
+          },
+          {
+            "id": "ss-crops:0",
+            "skill": "ss-crops",
+            "difficulty": 1,
+            "kind": "choice",
+            "family": "vocabulary",
+            "text": "What is a cash crop?",
+            "answer": "A crop grown mainly to sell for income",
+            "equivalents": [],
+            "choices": [
+              "A crop defined by where it grows rather than its intended market",
+              "A crop grown mainly to sell for income",
+              "A crop grown mainly for the grower’s own household meals",
+              "A crop that can only be bought with gold rather than other goods"
+            ],
+            "solution": "Cash crops are grown mainly for sale. The term describes the purpose of production, not a special kind of seed or coin-making plant.",
+            "hint": "Focus on why the grower is producing the crop.",
+            "misconceptions": {},
+            "estimatedSeconds": 50,
+            "format": "vocabulary",
+            "source": "NPS: A Short History of Jamestown; Tobacco: Colonial Cultivation Methods",
+            "proof": {
+              "op": "history",
+              "values": [],
+              "result": 0
+            }
+          },
+          {
+            "id": "ss-artifacts:0",
+            "skill": "ss-artifacts",
+            "difficulty": 1,
+            "kind": "choice",
+            "family": "vocabulary",
+            "text": "What does an archaeologist study to learn about past people?",
+            "answer": "Artifacts, sites, and other physical evidence",
+            "equivalents": [],
+            "choices": [
+              "Only maps, without considering the people who made or used them",
+              "Only naturally occurring rocks unrelated to human activity",
+              "Only written accounts, without comparing them with physical remains",
+              "Artifacts, sites, and other physical evidence"
+            ],
+            "solution": "Archaeologists study physical traces of past people and cultures. Objects and their locations can help answer historical questions.",
+            "hint": "Think about material evidence left by people.",
+            "misconceptions": {},
+            "estimatedSeconds": 50,
+            "format": "vocabulary",
+            "source": "NPS: About Archeology; navigation, missions, and food references",
+            "proof": {
+              "op": "history",
+              "values": [],
+              "result": 0
+            }
+          },
+          {
+            "id": "ss-overview:1",
+            "skill": "ss-overview",
+            "difficulty": 2,
+            "kind": "choice",
+            "family": "cause",
+            "text": "Why did many European merchants support voyages in the late 1400s?",
+            "answer": "They hoped to find profitable sea routes to Asian goods",
+            "equivalents": [],
+            "choices": [
+              "They hoped to find profitable sea routes to Asian goods",
+              "They wanted to avoid buying or selling goods abroad",
+              "They were certain a western sea route to Asia was already mapped",
+              "They wanted to bring Asian goods to the Americas without selling them"
+            ],
+            "solution": "Demand for Asian goods, including spices and silk, encouraged the search for sea routes that could make trade more profitable.",
+            "hint": "Separate a reason for traveling from a tool used during travel.",
+            "misconceptions": {},
+            "estimatedSeconds": 50,
+            "format": "cause",
+            "source": "NPS: Prelude to Jamestown; TCI published topic outline",
+            "proof": {
+              "op": "history",
+              "values": [],
+              "result": 0
+            }
+          },
+          {
+            "id": "ss-ocean:1",
+            "skill": "ss-ocean",
+            "difficulty": 2,
+            "kind": "choice",
+            "family": "scenario",
+            "text": "Far from shore, a sailor cannot see familiar hills or buildings. What navigation problem does this create?",
+            "answer": "Landmarks can no longer guide the ship’s position",
+            "equivalents": [],
+            "choices": [
+              "Magnetic north changes into the ship’s current latitude",
+              "The nearest coast must match every feature on the chart",
+              "Landmarks can no longer guide the ship’s position",
+              "Knowing the direction of travel gives an exact location"
+            ],
+            "solution": "On the open ocean, familiar land features are missing. Sailors needed instruments, observations, and charts to navigate.",
+            "hint": "What kinds of clues disappear when land is out of sight?",
+            "misconceptions": {},
+            "estimatedSeconds": 50,
+            "format": "scenario",
+            "source": "NPS: Navigating the Atlantic World",
+            "proof": {
+              "op": "history",
+              "values": [],
+              "result": 0
+            }
+          }
+        ],
+        "responses": [
+          {
+            "question": {
+              "id": "ss-overview:0",
+              "skill": "ss-overview",
+              "difficulty": 1,
+              "kind": "choice",
+              "family": "vocabulary",
+              "text": "In this lesson, what does the European term “New World” refer to?",
+              "answer": "The Americas",
+              "equivalents": [],
+              "choices": [
+                "The Asian trading regions Europeans hoped to reach",
+                "The African ports used on routes toward Asia",
+                "The European kingdoms sponsoring ocean voyages",
+                "The Americas"
+              ],
+              "solution": "Europeans used “New World” for the Americas. Indigenous peoples had lived there long before these European voyages.",
+              "hint": "Think about whose point of view made these lands seem “new.”",
+              "misconceptions": {},
+              "estimatedSeconds": 50,
+              "format": "vocabulary",
+              "source": "NPS: Prelude to Jamestown; TCI published topic outline",
+              "proof": {
+                "op": "history",
+                "values": [],
+                "result": 0
+              }
+            },
+            "answers": [
+              "The Americas"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 30,
+            "at": 1792645073159,
+            "error": "None",
+            "work": "Before screenshot update"
+          },
+          {
+            "question": {
+              "id": "ss-ocean:0",
+              "skill": "ss-ocean",
+              "difficulty": 1,
+              "kind": "choice",
+              "family": "vocabulary",
+              "text": "Which instrument used the angle of the sun or stars to help sailors estimate latitude?",
+              "answer": "An astrolabe",
+              "equivalents": [],
+              "choices": [
+                "An astrolabe",
+                "A map showing coastlines and possible sailing routes",
+                "A ship’s log recording cargo and daily voyage events",
+                "A magnetic compass that indicated a ship’s heading"
+              ],
+              "solution": "An astrolabe helped measure the angle of a visible heavenly body. Sailors could use that information to estimate latitude.",
+              "hint": "Latitude means position north or south of the equator.",
+              "misconceptions": {},
+              "estimatedSeconds": 50,
+              "format": "vocabulary",
+              "source": "NPS: Navigating the Atlantic World",
+              "proof": {
+                "op": "history",
+                "values": [],
+                "result": 0
+              }
+            },
+            "answers": [
+              "An astrolabe"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 30,
+            "at": 1792645073159,
+            "error": "None",
+            "work": "Before screenshot update"
+          },
+          {
+            "question": {
+              "id": "ss-directions:0",
+              "skill": "ss-directions",
+              "difficulty": 1,
+              "kind": "choice",
+              "family": "vocabulary",
+              "text": "What did a magnetic compass mainly help a sailor determine?",
+              "answer": "Direction",
+              "equivalents": [],
+              "choices": [
+                "The number of miles remaining before reaching a port",
+                "The ship’s exact latitude and longitude together",
+                "Direction",
+                "The depth of water under the ship’s hull"
+              ],
+              "solution": "A compass’s magnetic needle indicates north and helps a sailor keep a heading. It does not directly measure depth, age, or prices.",
+              "hint": "A compass answers “which way?”",
+              "misconceptions": {},
+              "estimatedSeconds": 50,
+              "format": "vocabulary",
+              "source": "NPS: Navigating the Atlantic World",
+              "proof": {
+                "op": "history",
+                "values": [],
+                "result": 0
+              }
+            },
+            "answers": [
+              "Direction"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 30,
+            "at": 1792645073159,
+            "error": "None",
+            "work": "Before screenshot update"
+          },
+          {
+            "question": {
+              "id": "ss-maps:0",
+              "skill": "ss-maps",
+              "difficulty": 1,
+              "kind": "choice",
+              "family": "vocabulary",
+              "text": "What information is a navigation map designed to show?",
+              "answer": "Locations of land, water, and possible routes",
+              "equivalents": [],
+              "choices": [
+                "The personal motives of every sailor who followed a route",
+                "The amount of profit guaranteed by reaching each port",
+                "Locations of land, water, and possible routes",
+                "The exact weather at each point for every future voyage"
+              ],
+              "solution": "Maps represent places and spatial relationships. They can help sailors plan routes and identify coasts or landing places.",
+              "hint": "A map represents where things are, rather than every fact about them.",
+              "misconceptions": {},
+              "estimatedSeconds": 50,
+              "format": "vocabulary",
+              "source": "NPS: Navigating the Atlantic World; Prelude to Jamestown",
+              "proof": {
+                "op": "history",
+                "values": [],
+                "result": 0
+              }
+            },
+            "answers": [
+              "Locations of land, water, and possible routes"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 30,
+            "at": 1792645073159,
+            "error": "None",
+            "work": "Before screenshot update"
+          },
+          {
+            "question": {
+              "id": "ss-lands:0",
+              "skill": "ss-lands",
+              "difficulty": 1,
+              "kind": "choice",
+              "family": "vocabulary",
+              "text": "In this lesson, what is a nation-state?",
+              "answer": "A country with its own government and territory",
+              "equivalents": [],
+              "choices": [
+                "A country with its own government and territory",
+                "A territory shared by all European rulers with no separate government",
+                "A trading ship that travels between several different countries",
+                "A community defined only by one cargo product rather than government"
+              ],
+              "solution": "A nation-state has political authority over a territory. European rulers wanted to strengthen their countries through overseas expansion.",
+              "hint": "This word describes a political country, not an object on a ship.",
+              "misconceptions": {},
+              "estimatedSeconds": 50,
+              "format": "vocabulary",
+              "source": "NPS: When Worlds Collide; Significance of Spanish Colonial Missions",
+              "proof": {
+                "op": "history",
+                "values": [],
+                "result": 0
+              }
+            },
+            "answers": [
+              "A country with its own government and territory"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 30,
+            "at": 1792645073159,
+            "error": "None",
+            "work": "Before screenshot update"
+          },
+          {
+            "question": {
+              "id": "ss-beliefs:0",
+              "skill": "ss-beliefs",
+              "difficulty": 1,
+              "kind": "choice",
+              "family": "vocabulary",
+              "text": "Which belief system did many European missionaries seek to spread in the Americas?",
+              "answer": "Christianity",
+              "equivalents": [],
+              "choices": [
+                "Christianity",
+                "The belief that religion and European expansion were never connected",
+                "The belief that every Indigenous religion should remain unchanged",
+                "Religious beliefs they learned only after arriving in the Americas"
+              ],
+              "solution": "European missionaries sought to spread Christianity. Religion was one motive for expansion, alongside wealth and political power.",
+              "hint": "Choose a religion, rather than a technology or economic activity.",
+              "misconceptions": {},
+              "estimatedSeconds": 50,
+              "format": "vocabulary",
+              "source": "NPS: Significance of Spanish Colonial Missions",
+              "proof": {
+                "op": "history",
+                "values": [],
+                "result": 0
+              }
+            },
+            "answers": [
+              "Christianity"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 30,
+            "at": 1792645073159,
+            "error": "None",
+            "work": "Before screenshot update"
+          },
+          {
+            "question": {
+              "id": "ss-wealth:0",
+              "skill": "ss-wealth",
+              "difficulty": 1,
+              "kind": "choice",
+              "family": "vocabulary",
+              "text": "Which pair of materials did European rulers value as precious metals?",
+              "answer": "Gold and silver",
+              "equivalents": [],
+              "choices": [
+                "Gold and tobacco sold as American crops",
+                "Silk and potatoes carried as food plants",
+                "Silver and spices used as navigation instruments",
+                "Gold and silver"
+              ],
+              "solution": "Gold and silver were valued as wealth. Seeking them was an economic motive rather than a method of navigation.",
+              "hint": "Choose metals, rather than foods or ordinary construction materials.",
+              "misconceptions": {},
+              "estimatedSeconds": 50,
+              "format": "vocabulary",
+              "source": "NPS: Prelude to Jamestown; When Worlds Collide",
+              "proof": {
+                "op": "history",
+                "values": [],
+                "result": 0
+              }
+            },
+            "answers": [
+              "Gold and silver"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 30,
+            "at": 1792645073159,
+            "error": "None",
+            "work": "Before screenshot update"
+          },
+          {
+            "question": {
+              "id": "ss-foods:0",
+              "skill": "ss-foods",
+              "difficulty": 1,
+              "kind": "choice",
+              "family": "vocabulary",
+              "text": "Which pair includes crops Indigenous peoples grew in the Americas before European arrival?",
+              "answer": "Corn and potatoes",
+              "equivalents": [],
+              "choices": [
+                "Wheat and barley introduced from Europe",
+                "Olives and wheat associated with the Mediterranean",
+                "Rice and tea associated with Asian agriculture",
+                "Corn and potatoes"
+              ],
+              "solution": "Corn and potatoes were American crops that later spread widely beyond the Americas. Indigenous peoples cultivated them before European arrival.",
+              "hint": "Think of foods that traveled from the Americas to Europe.",
+              "misconceptions": {},
+              "estimatedSeconds": 50,
+              "format": "vocabulary",
+              "source": "NPS: American Latino Theme Study: Food; Columbian Exchange",
+              "proof": {
+                "op": "history",
+                "values": [],
+                "result": 0
+              }
+            },
+            "answers": [
+              "Corn and potatoes"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 30,
+            "at": 1792645073159,
+            "error": "None",
+            "work": "Before screenshot update"
+          },
+          {
+            "question": {
+              "id": "ss-crops:0",
+              "skill": "ss-crops",
+              "difficulty": 1,
+              "kind": "choice",
+              "family": "vocabulary",
+              "text": "What is a cash crop?",
+              "answer": "A crop grown mainly to sell for income",
+              "equivalents": [],
+              "choices": [
+                "A crop defined by where it grows rather than its intended market",
+                "A crop grown mainly to sell for income",
+                "A crop grown mainly for the grower’s own household meals",
+                "A crop that can only be bought with gold rather than other goods"
+              ],
+              "solution": "Cash crops are grown mainly for sale. The term describes the purpose of production, not a special kind of seed or coin-making plant.",
+              "hint": "Focus on why the grower is producing the crop.",
+              "misconceptions": {},
+              "estimatedSeconds": 50,
+              "format": "vocabulary",
+              "source": "NPS: A Short History of Jamestown; Tobacco: Colonial Cultivation Methods",
+              "proof": {
+                "op": "history",
+                "values": [],
+                "result": 0
+              }
+            },
+            "answers": [
+              "A crop grown mainly to sell for income"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 30,
+            "at": 1792645073159,
+            "error": "None",
+            "work": "Before screenshot update"
+          },
+          {
+            "question": {
+              "id": "ss-artifacts:0",
+              "skill": "ss-artifacts",
+              "difficulty": 1,
+              "kind": "choice",
+              "family": "vocabulary",
+              "text": "What does an archaeologist study to learn about past people?",
+              "answer": "Artifacts, sites, and other physical evidence",
+              "equivalents": [],
+              "choices": [
+                "Only maps, without considering the people who made or used them",
+                "Only naturally occurring rocks unrelated to human activity",
+                "Only written accounts, without comparing them with physical remains",
+                "Artifacts, sites, and other physical evidence"
+              ],
+              "solution": "Archaeologists study physical traces of past people and cultures. Objects and their locations can help answer historical questions.",
+              "hint": "Think about material evidence left by people.",
+              "misconceptions": {},
+              "estimatedSeconds": 50,
+              "format": "vocabulary",
+              "source": "NPS: About Archeology; navigation, missions, and food references",
+              "proof": {
+                "op": "history",
+                "values": [],
+                "result": 0
+              }
+            },
+            "answers": [
+              "Artifacts, sites, and other physical evidence"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 30,
+            "at": 1792645073159,
+            "error": "None",
+            "work": "Before screenshot update"
+          },
+          {
+            "question": {
+              "id": "ss-overview:1",
+              "skill": "ss-overview",
+              "difficulty": 2,
+              "kind": "choice",
+              "family": "cause",
+              "text": "Why did many European merchants support voyages in the late 1400s?",
+              "answer": "They hoped to find profitable sea routes to Asian goods",
+              "equivalents": [],
+              "choices": [
+                "They hoped to find profitable sea routes to Asian goods",
+                "They wanted to avoid buying or selling goods abroad",
+                "They were certain a western sea route to Asia was already mapped",
+                "They wanted to bring Asian goods to the Americas without selling them"
+              ],
+              "solution": "Demand for Asian goods, including spices and silk, encouraged the search for sea routes that could make trade more profitable.",
+              "hint": "Separate a reason for traveling from a tool used during travel.",
+              "misconceptions": {},
+              "estimatedSeconds": 50,
+              "format": "cause",
+              "source": "NPS: Prelude to Jamestown; TCI published topic outline",
+              "proof": {
+                "op": "history",
+                "values": [],
+                "result": 0
+              }
+            },
+            "answers": [
+              "They hoped to find profitable sea routes to Asian goods"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 30,
+            "at": 1792645073159,
+            "error": "None",
+            "work": "Before screenshot update"
+          },
+          {
+            "question": {
+              "id": "ss-ocean:1",
+              "skill": "ss-ocean",
+              "difficulty": 2,
+              "kind": "choice",
+              "family": "scenario",
+              "text": "Far from shore, a sailor cannot see familiar hills or buildings. What navigation problem does this create?",
+              "answer": "Landmarks can no longer guide the ship’s position",
+              "equivalents": [],
+              "choices": [
+                "Magnetic north changes into the ship’s current latitude",
+                "The nearest coast must match every feature on the chart",
+                "Landmarks can no longer guide the ship’s position",
+                "Knowing the direction of travel gives an exact location"
+              ],
+              "solution": "On the open ocean, familiar land features are missing. Sailors needed instruments, observations, and charts to navigate.",
+              "hint": "What kinds of clues disappear when land is out of sight?",
+              "misconceptions": {},
+              "estimatedSeconds": 50,
+              "format": "scenario",
+              "source": "NPS: Navigating the Atlantic World",
+              "proof": {
+                "op": "history",
+                "values": [],
+                "result": 0
+              }
+            },
+            "answers": [
+              "Landmarks can no longer guide the ship’s position"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 30,
+            "at": 1792645073159,
+            "error": "None",
+            "work": "Before screenshot update"
+          }
+        ],
+        "startedAt": 1792645073158,
+        "draft": {
+          "answer": "",
+          "work": "",
+          "hinted": false,
+          "answers": [],
+          "elapsed": 0
+        },
+        "endedAt": 1792645073159,
+        "early": false
+      },
+      {
+        "unit": "exploration",
+        "id": "80f22c39-4dd6-49d1-b584-575269ca53da",
+        "mode": "standard",
+        "diagnostic": true,
+        "target": [],
+        "questions": [
+          {
+            "id": "ss-directions:1",
+            "skill": "ss-directions",
+            "difficulty": 2,
+            "kind": "choice",
+            "family": "scenario",
+            "text": "The sky is cloudy and no stars are visible. Which tool can still help a sailor keep a direction?",
+            "answer": "A magnetic compass",
+            "equivalents": [],
+            "choices": [
+              "A cargo record showing the prices of the goods aboard",
+              "A magnetic compass",
+              "An astrolabe measuring the angle of a star hidden by clouds",
+              "A royal flag showing which country funded the voyage"
+            ],
+            "solution": "A compass uses magnetism rather than a clear view of the stars. It remains useful when clouds block sky observations.",
+            "hint": "Choose the tool that does not need visible heavenly bodies.",
+            "misconceptions": {},
+            "estimatedSeconds": 50,
+            "format": "scenario",
+            "source": "NPS: Navigating the Atlantic World",
+            "proof": {
+              "op": "history",
+              "values": [],
+              "result": 0
+            }
+          },
+          {
+            "id": "ss-maps:1",
+            "skill": "ss-maps",
+            "difficulty": 2,
+            "kind": "choice",
+            "family": "scenario",
+            "text": "A returning sailor reports a coastline that earlier charts left out. What should a mapmaker do?",
+            "answer": "Compare the report with other evidence and revise the map if supported",
+            "equivalents": [],
+            "choices": [
+              "Compare the report with other evidence and revise the map if supported",
+              "Accept the report as proof that every older source is useless",
+              "Label the new coast as uninhabited simply because it was not mapped",
+              "Keep the chart unchanged because royal approval makes it accurate"
+            ],
+            "solution": "New observations can improve maps, but comparing sources helps check accuracy. An early chart could be useful while still incomplete.",
+            "hint": "New evidence can improve a model without making every old detail wrong.",
+            "misconceptions": {},
+            "estimatedSeconds": 50,
+            "format": "scenario",
+            "source": "NPS: Navigating the Atlantic World; Prelude to Jamestown",
+            "proof": {
+              "op": "history",
+              "values": [],
+              "result": 0
+            }
+          },
+          {
+            "id": "ss-lands:1",
+            "skill": "ss-lands",
+            "difficulty": 2,
+            "kind": "choice",
+            "family": "artifact",
+            "text": "Why might an explorer carry a flag bearing a European ruler’s symbols?",
+            "answer": "To represent that ruler and make a claim to territory",
+            "equivalents": [],
+            "choices": [
+              "To measure latitude from the stars",
+              "To show that every Indigenous nation agreed with the claim",
+              "To prove that the land had no inhabitants",
+              "To represent that ruler and make a claim to territory"
+            ],
+            "solution": "Flags could symbolize a ruler’s claimed authority. Raising one did not establish that existing inhabitants accepted the claim.",
+            "hint": "A flag can show who is making a claim without proving everyone accepts it.",
+            "misconceptions": {},
+            "estimatedSeconds": 50,
+            "format": "artifact",
+            "source": "NPS: When Worlds Collide; Significance of Spanish Colonial Missions",
+            "proof": {
+              "op": "history",
+              "values": [],
+              "result": 0
+            }
+          },
+          {
+            "id": "ss-beliefs:1",
+            "skill": "ss-beliefs",
+            "difficulty": 2,
+            "kind": "choice",
+            "family": "artifact",
+            "text": "Which shipboard object most directly suggests Christian religious activity?",
+            "answer": "A Bible",
+            "equivalents": [],
+            "choices": [
+              "An astrolabe used for observations during an ocean crossing",
+              "A written cargo list used to track the amount of silver",
+              "A Bible",
+              "A royal banner used to represent a European government"
+            ],
+            "solution": "A Bible is a Christian religious text. Its presence can support a religious connection, although it cannot prove everyone aboard shared the same motive.",
+            "hint": "Look for an object used in religious teaching or worship.",
+            "misconceptions": {},
+            "estimatedSeconds": 50,
+            "format": "artifact",
+            "source": "NPS: Significance of Spanish Colonial Missions",
+            "proof": {
+              "op": "history",
+              "values": [],
+              "result": 0
+            }
+          },
+          {
+            "id": "ss-wealth:1",
+            "skill": "ss-wealth",
+            "difficulty": 2,
+            "kind": "choice",
+            "family": "cause",
+            "text": "Why could merchants profit from a new sea route to Asian spices?",
+            "answer": "They hoped to obtain valuable goods through more direct trade",
+            "equivalents": [],
+            "choices": [
+              "Merchants could profit only if Europeans had never wanted spices before",
+              "A new route would remove all costs and every risk from overseas trade",
+              "They hoped to obtain valuable goods through more direct trade",
+              "Asian goods would have no sale value once a sea route reached their source"
+            ],
+            "solution": "European demand for Asian goods encouraged more direct trade routes. Merchants hoped sales would exceed the costs and risks of the voyages.",
+            "hint": "Connect demand for goods with the possibility of earning money.",
+            "misconceptions": {},
+            "estimatedSeconds": 50,
+            "format": "cause",
+            "source": "NPS: Prelude to Jamestown; When Worlds Collide",
+            "proof": {
+              "op": "history",
+              "values": [],
+              "result": 0
+            }
+          },
+          {
+            "id": "ss-foods:1",
+            "skill": "ss-foods",
+            "difficulty": 2,
+            "kind": "choice",
+            "family": "direction",
+            "text": "Which arrow correctly describes the later spread of American potatoes?",
+            "answer": "Americas → Europe",
+            "equivalents": [],
+            "choices": [
+              "Americas → Europe",
+              "Asia → Europe on Columbus’s 1492 return voyage",
+              "Europe → the Americas only after 1900",
+              "Europe → Americas before Indigenous farming"
+            ],
+            "solution": "Potatoes were cultivated in the Americas before they were introduced to Europe. The arrow tracks the movement asked about, not all global exchange.",
+            "hint": "Start with the food’s origin, then identify the receiving region.",
+            "misconceptions": {},
+            "estimatedSeconds": 50,
+            "format": "direction",
+            "source": "NPS: American Latino Theme Study: Food; Columbian Exchange",
+            "proof": {
+              "op": "history",
+              "values": [],
+              "result": 0
+            }
+          },
+          {
+            "id": "ss-crops:1",
+            "skill": "ss-crops",
+            "difficulty": 1,
+            "kind": "choice",
+            "family": "example",
+            "text": "Which crop native to the Americas became a major colonial export from Virginia to Europe?",
+            "answer": "Tobacco",
+            "equivalents": [],
+            "choices": [
+              "Olives originating in the Mediterranean region",
+              "Tea originating in Asia",
+              "Tobacco",
+              "Wheat originating outside the Americas"
+            ],
+            "solution": "Tobacco became a profitable export from colonies such as Virginia to European markets. It is a classic cash-crop example.",
+            "hint": "Choose a crop grown for buyers rather than a metal or navigation tool.",
+            "misconceptions": {},
+            "estimatedSeconds": 50,
+            "format": "example",
+            "source": "NPS: A Short History of Jamestown; Tobacco: Colonial Cultivation Methods",
+            "proof": {
+              "op": "history",
+              "values": [],
+              "result": 0
+            }
+          },
+          {
+            "id": "ss-artifacts:1",
+            "skill": "ss-artifacts",
+            "difficulty": 2,
+            "kind": "choice",
+            "family": "classification",
+            "text": "Your squad sorts a museum exhibit into tools, motives, and products. Where does a magnetic compass belong?",
+            "answer": "Navigation tools",
+            "equivalents": [],
+            "choices": [
+              "Navigation tools",
+              "Objects showing a religious motive for a voyage",
+              "Cargo grown chiefly to earn income through overseas sales",
+              "Products of Indigenous farming sent to European buyers"
+            ],
+            "solution": "A compass helped sailors navigate. It was useful during travel rather than being a crop or a reason to seek converts.",
+            "hint": "Ask what someone would do with the object aboard a ship.",
+            "misconceptions": {},
+            "estimatedSeconds": 50,
+            "format": "classification",
+            "source": "NPS: About Archeology; navigation, missions, and food references",
+            "proof": {
+              "op": "history",
+              "values": [],
+              "result": 0
+            }
+          },
+          {
+            "id": "ss-overview:2",
+            "skill": "ss-overview",
+            "difficulty": 1,
+            "kind": "choice",
+            "family": "chronology",
+            "text": "Which period best fits the start of the European voyages studied in this lesson?",
+            "answer": "The late 1400s",
+            "equivalents": [],
+            "choices": [
+              "The late 1600s, after the English colonies had expanded",
+              "The late 1800s, during westward railroad expansion",
+              "The late 1400s",
+              "The late 1700s, during the American Revolution"
+            ],
+            "solution": "This lesson focuses on European ocean voyages expanding from the late 1400s into the 1500s.",
+            "hint": "Columbus’s Atlantic crossing in 1492 belongs to this period.",
+            "misconceptions": {},
+            "estimatedSeconds": 50,
+            "format": "chronology",
+            "source": "NPS: Prelude to Jamestown; TCI published topic outline",
+            "proof": {
+              "op": "history",
+              "values": [],
+              "result": 0
+            }
+          },
+          {
+            "id": "ss-ocean:2",
+            "skill": "ss-ocean",
+            "difficulty": 2,
+            "kind": "choice",
+            "family": "compare",
+            "text": "Which pairing correctly distinguishes two navigation tools?",
+            "answer": "Astrolabe: latitude clues; compass: direction",
+            "equivalents": [],
+            "choices": [
+              "Astrolabe: east–west position; compass: exact distance from shore",
+              "Astrolabe: compass direction; compass: latitude clues",
+              "Astrolabe: latitude clues; compass: direction",
+              "Astrolabe: sailing speed; compass: the sun’s height"
+            ],
+            "solution": "An astrolabe used sky angles to help estimate latitude. A compass helped sailors determine direction. Neither was a modern GPS.",
+            "hint": "Ask whether the tool answers “how far north?” or “which way?”",
+            "misconceptions": {},
+            "estimatedSeconds": 50,
+            "format": "compare",
+            "source": "NPS: Navigating the Atlantic World",
+            "proof": {
+              "op": "history",
+              "values": [],
+              "result": 0
+            }
+          },
+          {
+            "id": "ss-directions:2",
+            "skill": "ss-directions",
+            "difficulty": 2,
+            "kind": "choice",
+            "family": "application",
+            "text": "A map’s compass rose shows north at the top. Which direction is to the right?",
+            "answer": "East",
+            "equivalents": [],
+            "choices": [
+              "East",
+              "North",
+              "South",
+              "West"
+            ],
+            "solution": "With north at the top of this compass rose, east is on the right, south at the bottom, and west on the left.",
+            "hint": "Use the order north, east, south, west around the compass rose.",
+            "misconceptions": {},
+            "estimatedSeconds": 50,
+            "format": "application",
+            "source": "NPS: Navigating the Atlantic World",
+            "proof": {
+              "op": "history",
+              "values": [],
+              "result": 0
+            }
+          },
+          {
+            "id": "ss-maps:2",
+            "skill": "ss-maps",
+            "difficulty": 3,
+            "kind": "choice",
+            "family": "claim",
+            "text": "A teammate claims every European map in 1492 showed the Americas accurately. What is the best correction?",
+            "answer": "Maps reflected limited information and could contain errors",
+            "equivalents": [],
+            "choices": [
+              "Royal approval made every European map complete before ships sailed",
+              "Trade with Asia meant European sailors had already charted every Atlantic island",
+              "Using a compass meant mapmakers could already draw all American coasts",
+              "Maps reflected limited information and could contain errors"
+            ],
+            "solution": "Mapmakers worked with the information available to them. European knowledge of Atlantic routes and American coastlines developed through voyages.",
+            "hint": "A map can include only the information its makers have gathered or inferred.",
+            "misconceptions": {},
+            "estimatedSeconds": 80,
+            "format": "claim",
+            "source": "NPS: Navigating the Atlantic World; Prelude to Jamestown",
+            "proof": {
+              "op": "history",
+              "values": [],
+              "result": 0
+            }
+          }
+        ],
+        "responses": [
+          {
+            "question": {
+              "id": "ss-directions:1",
+              "skill": "ss-directions",
+              "difficulty": 2,
+              "kind": "choice",
+              "family": "scenario",
+              "text": "The sky is cloudy and no stars are visible. Which tool can still help a sailor keep a direction?",
+              "answer": "A magnetic compass",
+              "equivalents": [],
+              "choices": [
+                "A cargo record showing the prices of the goods aboard",
+                "A magnetic compass",
+                "An astrolabe measuring the angle of a star hidden by clouds",
+                "A royal flag showing which country funded the voyage"
+              ],
+              "solution": "A compass uses magnetism rather than a clear view of the stars. It remains useful when clouds block sky observations.",
+              "hint": "Choose the tool that does not need visible heavenly bodies.",
+              "misconceptions": {},
+              "estimatedSeconds": 50,
+              "format": "scenario",
+              "source": "NPS: Navigating the Atlantic World",
+              "proof": {
+                "op": "history",
+                "values": [],
+                "result": 0
+              }
+            },
+            "answers": [
+              "A magnetic compass"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 30,
+            "at": 1792645073160,
+            "error": "None",
+            "work": "Before screenshot update"
+          },
+          {
+            "question": {
+              "id": "ss-maps:1",
+              "skill": "ss-maps",
+              "difficulty": 2,
+              "kind": "choice",
+              "family": "scenario",
+              "text": "A returning sailor reports a coastline that earlier charts left out. What should a mapmaker do?",
+              "answer": "Compare the report with other evidence and revise the map if supported",
+              "equivalents": [],
+              "choices": [
+                "Compare the report with other evidence and revise the map if supported",
+                "Accept the report as proof that every older source is useless",
+                "Label the new coast as uninhabited simply because it was not mapped",
+                "Keep the chart unchanged because royal approval makes it accurate"
+              ],
+              "solution": "New observations can improve maps, but comparing sources helps check accuracy. An early chart could be useful while still incomplete.",
+              "hint": "New evidence can improve a model without making every old detail wrong.",
+              "misconceptions": {},
+              "estimatedSeconds": 50,
+              "format": "scenario",
+              "source": "NPS: Navigating the Atlantic World; Prelude to Jamestown",
+              "proof": {
+                "op": "history",
+                "values": [],
+                "result": 0
+              }
+            },
+            "answers": [
+              "Compare the report with other evidence and revise the map if supported"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 30,
+            "at": 1792645073160,
+            "error": "None",
+            "work": "Before screenshot update"
+          },
+          {
+            "question": {
+              "id": "ss-lands:1",
+              "skill": "ss-lands",
+              "difficulty": 2,
+              "kind": "choice",
+              "family": "artifact",
+              "text": "Why might an explorer carry a flag bearing a European ruler’s symbols?",
+              "answer": "To represent that ruler and make a claim to territory",
+              "equivalents": [],
+              "choices": [
+                "To measure latitude from the stars",
+                "To show that every Indigenous nation agreed with the claim",
+                "To prove that the land had no inhabitants",
+                "To represent that ruler and make a claim to territory"
+              ],
+              "solution": "Flags could symbolize a ruler’s claimed authority. Raising one did not establish that existing inhabitants accepted the claim.",
+              "hint": "A flag can show who is making a claim without proving everyone accepts it.",
+              "misconceptions": {},
+              "estimatedSeconds": 50,
+              "format": "artifact",
+              "source": "NPS: When Worlds Collide; Significance of Spanish Colonial Missions",
+              "proof": {
+                "op": "history",
+                "values": [],
+                "result": 0
+              }
+            },
+            "answers": [
+              "To represent that ruler and make a claim to territory"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 30,
+            "at": 1792645073160,
+            "error": "None",
+            "work": "Before screenshot update"
+          },
+          {
+            "question": {
+              "id": "ss-beliefs:1",
+              "skill": "ss-beliefs",
+              "difficulty": 2,
+              "kind": "choice",
+              "family": "artifact",
+              "text": "Which shipboard object most directly suggests Christian religious activity?",
+              "answer": "A Bible",
+              "equivalents": [],
+              "choices": [
+                "An astrolabe used for observations during an ocean crossing",
+                "A written cargo list used to track the amount of silver",
+                "A Bible",
+                "A royal banner used to represent a European government"
+              ],
+              "solution": "A Bible is a Christian religious text. Its presence can support a religious connection, although it cannot prove everyone aboard shared the same motive.",
+              "hint": "Look for an object used in religious teaching or worship.",
+              "misconceptions": {},
+              "estimatedSeconds": 50,
+              "format": "artifact",
+              "source": "NPS: Significance of Spanish Colonial Missions",
+              "proof": {
+                "op": "history",
+                "values": [],
+                "result": 0
+              }
+            },
+            "answers": [
+              "A Bible"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 30,
+            "at": 1792645073160,
+            "error": "None",
+            "work": "Before screenshot update"
+          },
+          {
+            "question": {
+              "id": "ss-wealth:1",
+              "skill": "ss-wealth",
+              "difficulty": 2,
+              "kind": "choice",
+              "family": "cause",
+              "text": "Why could merchants profit from a new sea route to Asian spices?",
+              "answer": "They hoped to obtain valuable goods through more direct trade",
+              "equivalents": [],
+              "choices": [
+                "Merchants could profit only if Europeans had never wanted spices before",
+                "A new route would remove all costs and every risk from overseas trade",
+                "They hoped to obtain valuable goods through more direct trade",
+                "Asian goods would have no sale value once a sea route reached their source"
+              ],
+              "solution": "European demand for Asian goods encouraged more direct trade routes. Merchants hoped sales would exceed the costs and risks of the voyages.",
+              "hint": "Connect demand for goods with the possibility of earning money.",
+              "misconceptions": {},
+              "estimatedSeconds": 50,
+              "format": "cause",
+              "source": "NPS: Prelude to Jamestown; When Worlds Collide",
+              "proof": {
+                "op": "history",
+                "values": [],
+                "result": 0
+              }
+            },
+            "answers": [
+              "They hoped to obtain valuable goods through more direct trade"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 30,
+            "at": 1792645073160,
+            "error": "None",
+            "work": "Before screenshot update"
+          },
+          {
+            "question": {
+              "id": "ss-foods:1",
+              "skill": "ss-foods",
+              "difficulty": 2,
+              "kind": "choice",
+              "family": "direction",
+              "text": "Which arrow correctly describes the later spread of American potatoes?",
+              "answer": "Americas → Europe",
+              "equivalents": [],
+              "choices": [
+                "Americas → Europe",
+                "Asia → Europe on Columbus’s 1492 return voyage",
+                "Europe → the Americas only after 1900",
+                "Europe → Americas before Indigenous farming"
+              ],
+              "solution": "Potatoes were cultivated in the Americas before they were introduced to Europe. The arrow tracks the movement asked about, not all global exchange.",
+              "hint": "Start with the food’s origin, then identify the receiving region.",
+              "misconceptions": {},
+              "estimatedSeconds": 50,
+              "format": "direction",
+              "source": "NPS: American Latino Theme Study: Food; Columbian Exchange",
+              "proof": {
+                "op": "history",
+                "values": [],
+                "result": 0
+              }
+            },
+            "answers": [
+              "Americas → Europe"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 30,
+            "at": 1792645073160,
+            "error": "None",
+            "work": "Before screenshot update"
+          },
+          {
+            "question": {
+              "id": "ss-crops:1",
+              "skill": "ss-crops",
+              "difficulty": 1,
+              "kind": "choice",
+              "family": "example",
+              "text": "Which crop native to the Americas became a major colonial export from Virginia to Europe?",
+              "answer": "Tobacco",
+              "equivalents": [],
+              "choices": [
+                "Olives originating in the Mediterranean region",
+                "Tea originating in Asia",
+                "Tobacco",
+                "Wheat originating outside the Americas"
+              ],
+              "solution": "Tobacco became a profitable export from colonies such as Virginia to European markets. It is a classic cash-crop example.",
+              "hint": "Choose a crop grown for buyers rather than a metal or navigation tool.",
+              "misconceptions": {},
+              "estimatedSeconds": 50,
+              "format": "example",
+              "source": "NPS: A Short History of Jamestown; Tobacco: Colonial Cultivation Methods",
+              "proof": {
+                "op": "history",
+                "values": [],
+                "result": 0
+              }
+            },
+            "answers": [
+              "Tobacco"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 30,
+            "at": 1792645073160,
+            "error": "None",
+            "work": "Before screenshot update"
+          },
+          {
+            "question": {
+              "id": "ss-artifacts:1",
+              "skill": "ss-artifacts",
+              "difficulty": 2,
+              "kind": "choice",
+              "family": "classification",
+              "text": "Your squad sorts a museum exhibit into tools, motives, and products. Where does a magnetic compass belong?",
+              "answer": "Navigation tools",
+              "equivalents": [],
+              "choices": [
+                "Navigation tools",
+                "Objects showing a religious motive for a voyage",
+                "Cargo grown chiefly to earn income through overseas sales",
+                "Products of Indigenous farming sent to European buyers"
+              ],
+              "solution": "A compass helped sailors navigate. It was useful during travel rather than being a crop or a reason to seek converts.",
+              "hint": "Ask what someone would do with the object aboard a ship.",
+              "misconceptions": {},
+              "estimatedSeconds": 50,
+              "format": "classification",
+              "source": "NPS: About Archeology; navigation, missions, and food references",
+              "proof": {
+                "op": "history",
+                "values": [],
+                "result": 0
+              }
+            },
+            "answers": [
+              "Navigation tools"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 30,
+            "at": 1792645073160,
+            "error": "None",
+            "work": "Before screenshot update"
+          },
+          {
+            "question": {
+              "id": "ss-overview:2",
+              "skill": "ss-overview",
+              "difficulty": 1,
+              "kind": "choice",
+              "family": "chronology",
+              "text": "Which period best fits the start of the European voyages studied in this lesson?",
+              "answer": "The late 1400s",
+              "equivalents": [],
+              "choices": [
+                "The late 1600s, after the English colonies had expanded",
+                "The late 1800s, during westward railroad expansion",
+                "The late 1400s",
+                "The late 1700s, during the American Revolution"
+              ],
+              "solution": "This lesson focuses on European ocean voyages expanding from the late 1400s into the 1500s.",
+              "hint": "Columbus’s Atlantic crossing in 1492 belongs to this period.",
+              "misconceptions": {},
+              "estimatedSeconds": 50,
+              "format": "chronology",
+              "source": "NPS: Prelude to Jamestown; TCI published topic outline",
+              "proof": {
+                "op": "history",
+                "values": [],
+                "result": 0
+              }
+            },
+            "answers": [
+              "The late 1400s"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 30,
+            "at": 1792645073160,
+            "error": "None",
+            "work": "Before screenshot update"
+          },
+          {
+            "question": {
+              "id": "ss-ocean:2",
+              "skill": "ss-ocean",
+              "difficulty": 2,
+              "kind": "choice",
+              "family": "compare",
+              "text": "Which pairing correctly distinguishes two navigation tools?",
+              "answer": "Astrolabe: latitude clues; compass: direction",
+              "equivalents": [],
+              "choices": [
+                "Astrolabe: east–west position; compass: exact distance from shore",
+                "Astrolabe: compass direction; compass: latitude clues",
+                "Astrolabe: latitude clues; compass: direction",
+                "Astrolabe: sailing speed; compass: the sun’s height"
+              ],
+              "solution": "An astrolabe used sky angles to help estimate latitude. A compass helped sailors determine direction. Neither was a modern GPS.",
+              "hint": "Ask whether the tool answers “how far north?” or “which way?”",
+              "misconceptions": {},
+              "estimatedSeconds": 50,
+              "format": "compare",
+              "source": "NPS: Navigating the Atlantic World",
+              "proof": {
+                "op": "history",
+                "values": [],
+                "result": 0
+              }
+            },
+            "answers": [
+              "Astrolabe: latitude clues; compass: direction"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 30,
+            "at": 1792645073160,
+            "error": "None",
+            "work": "Before screenshot update"
+          },
+          {
+            "question": {
+              "id": "ss-directions:2",
+              "skill": "ss-directions",
+              "difficulty": 2,
+              "kind": "choice",
+              "family": "application",
+              "text": "A map’s compass rose shows north at the top. Which direction is to the right?",
+              "answer": "East",
+              "equivalents": [],
+              "choices": [
+                "East",
+                "North",
+                "South",
+                "West"
+              ],
+              "solution": "With north at the top of this compass rose, east is on the right, south at the bottom, and west on the left.",
+              "hint": "Use the order north, east, south, west around the compass rose.",
+              "misconceptions": {},
+              "estimatedSeconds": 50,
+              "format": "application",
+              "source": "NPS: Navigating the Atlantic World",
+              "proof": {
+                "op": "history",
+                "values": [],
+                "result": 0
+              }
+            },
+            "answers": [
+              "East"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 30,
+            "at": 1792645073160,
+            "error": "None",
+            "work": "Before screenshot update"
+          },
+          {
+            "question": {
+              "id": "ss-maps:2",
+              "skill": "ss-maps",
+              "difficulty": 3,
+              "kind": "choice",
+              "family": "claim",
+              "text": "A teammate claims every European map in 1492 showed the Americas accurately. What is the best correction?",
+              "answer": "Maps reflected limited information and could contain errors",
+              "equivalents": [],
+              "choices": [
+                "Royal approval made every European map complete before ships sailed",
+                "Trade with Asia meant European sailors had already charted every Atlantic island",
+                "Using a compass meant mapmakers could already draw all American coasts",
+                "Maps reflected limited information and could contain errors"
+              ],
+              "solution": "Mapmakers worked with the information available to them. European knowledge of Atlantic routes and American coastlines developed through voyages.",
+              "hint": "A map can include only the information its makers have gathered or inferred.",
+              "misconceptions": {},
+              "estimatedSeconds": 80,
+              "format": "claim",
+              "source": "NPS: Navigating the Atlantic World; Prelude to Jamestown",
+              "proof": {
+                "op": "history",
+                "values": [],
+                "result": 0
+              }
+            },
+            "answers": [
+              "Maps reflected limited information and could contain errors"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 30,
+            "at": 1792645073160,
+            "error": "None",
+            "work": "Before screenshot update"
+          }
+        ],
+        "startedAt": 1792645073160,
+        "draft": {
+          "answer": "",
+          "work": "",
+          "hinted": false,
+          "answers": [],
+          "elapsed": 0
+        },
+        "endedAt": 1792645073160,
+        "early": false
+      },
+      {
+        "unit": "exploration",
+        "id": "8d161f6a-6ea6-41ae-adef-e018bb9b3276",
+        "mode": "standard",
+        "diagnostic": true,
+        "target": [],
+        "questions": [
+          {
+            "id": "ss-lands:2",
+            "skill": "ss-lands",
+            "difficulty": 2,
+            "kind": "choice",
+            "family": "cause",
+            "text": "Why did European rulers compete to claim land across the Atlantic?",
+            "answer": "Territory and resources could increase their power and wealth",
+            "equivalents": [],
+            "choices": [
+              "Territory and resources could increase their power and wealth",
+              "European claims meant Indigenous communities voluntarily changed rulers",
+              "Every ruler agreed that claiming land would end rivalry among countries",
+              "Claiming distant land meant rulers no longer needed trade or resources"
+            ],
+            "solution": "Rulers sought resources, influence, and power. Competition among countries helped encourage exploration and colonization.",
+            "hint": "Think about what a ruler hoped their country would gain.",
+            "misconceptions": {},
+            "estimatedSeconds": 50,
+            "format": "cause",
+            "source": "NPS: When Worlds Collide; Significance of Spanish Colonial Missions",
+            "proof": {
+              "op": "history",
+              "values": [],
+              "result": 0
+            }
+          },
+          {
+            "id": "ss-beliefs:2",
+            "skill": "ss-beliefs",
+            "difficulty": 2,
+            "kind": "choice",
+            "family": "cause",
+            "text": "Why did Catholic rulers support priests traveling to the Americas?",
+            "answer": "They wanted to spread the Catholic Christian faith",
+            "equivalents": [],
+            "choices": [
+              "They wanted to spread the Catholic Christian faith",
+              "They expected missionaries to prevent every possible trading loss",
+              "They believed priests were needed mainly to draw more accurate coastlines",
+              "They wanted missionaries to make Indigenous beliefs the official religion in Europe"
+            ],
+            "solution": "Supporting missionaries could serve a ruler’s religious goals. It was different from using instruments to navigate or searching for precious metals.",
+            "hint": "Connect a ruler’s religious support with conversion rather than location or cargo.",
+            "misconceptions": {},
+            "estimatedSeconds": 50,
+            "format": "cause",
+            "source": "NPS: Significance of Spanish Colonial Missions",
+            "proof": {
+              "op": "history",
+              "values": [],
+              "result": 0
+            }
+          },
+          {
+            "id": "ss-wealth:2",
+            "skill": "ss-wealth",
+            "difficulty": 2,
+            "kind": "choice",
+            "family": "compare",
+            "text": "Which distinction correctly separates a motive from a tool?",
+            "answer": "Seeking silver is a motive; using an astrolabe is a method",
+            "equivalents": [],
+            "choices": [
+              "Carrying a royal flag always proves profit was the voyage’s only motive",
+              "Seeking silver is a motive; using an astrolabe is a method",
+              "Using a compass is a motive; earning trade profits is a navigation method",
+              "Seeking gold is a navigation tool; sailing a route is a religious goal"
+            ],
+            "solution": "The wish to gain wealth explains why someone supports a voyage. An astrolabe helps explain how sailors navigate it.",
+            "hint": "Ask whether each item is a desired result or a way of traveling.",
+            "misconceptions": {},
+            "estimatedSeconds": 50,
+            "format": "compare",
+            "source": "NPS: Prelude to Jamestown; When Worlds Collide",
+            "proof": {
+              "op": "history",
+              "values": [],
+              "result": 0
+            }
+          },
+          {
+            "id": "ss-foods:2",
+            "skill": "ss-foods",
+            "difficulty": 2,
+            "kind": "choice",
+            "family": "classification",
+            "text": "Which cargo group contains American food plants rather than navigation tools?",
+            "answer": "Corn, beans, and squash",
+            "equivalents": [],
+            "choices": [
+              "Silver cargo, a chart, and a magnetic compass",
+              "Corn, beans, and squash",
+              "Compass, astrolabe, and a hand-drawn sailing chart",
+              "Royal banner, Bible, and a written proclamation"
+            ],
+            "solution": "Corn, beans, and squash are food crops with Indigenous American histories. The other lists include instruments, symbols, or metals.",
+            "hint": "Separate things people grew and ate from objects used to sail.",
+            "misconceptions": {},
+            "estimatedSeconds": 50,
+            "format": "classification",
+            "source": "NPS: American Latino Theme Study: Food; Columbian Exchange",
+            "proof": {
+              "op": "history",
+              "values": [],
+              "result": 0
+            }
+          },
+          {
+            "id": "ss-crops:2",
+            "skill": "ss-crops",
+            "difficulty": 2,
+            "kind": "choice",
+            "family": "compare",
+            "text": "Farmer A grows beans mainly for family meals. Farmer B grows tobacco mainly to sell abroad. Which is the cash-crop example?",
+            "answer": "Farmer B’s tobacco",
+            "equivalents": [],
+            "choices": [
+              "Only Farmer A’s beans",
+              "Both, because every plant is always a cash crop",
+              "Neither, because crops cannot be sold",
+              "Farmer B’s tobacco"
+            ],
+            "solution": "The described purpose matters. Farmer B grows tobacco chiefly for sale; Farmer A’s beans are primarily for the household to eat.",
+            "hint": "Look for the crop intended mainly for a market.",
+            "misconceptions": {},
+            "estimatedSeconds": 50,
+            "format": "compare",
+            "source": "NPS: A Short History of Jamestown; Tobacco: Colonial Cultivation Methods",
+            "proof": {
+              "op": "history",
+              "values": [],
+              "result": 0
+            }
+          },
+          {
+            "id": "ss-artifacts:2",
+            "skill": "ss-artifacts",
+            "difficulty": 2,
+            "kind": "choice",
+            "family": "application",
+            "text": "Which matching set correctly connects three objects with lesson categories?",
+            "answer": "Astrolabe → navigation; royal flag → claimed power; tobacco → product",
+            "equivalents": [],
+            "choices": [
+              "Astrolabe → food; royal flag → latitude; tobacco → direction",
+              "Astrolabe → gold; royal flag → food; tobacco → navigation",
+              "Astrolabe → navigation; royal flag → claimed power; tobacco → product",
+              "Astrolabe → religion; royal flag → crop; tobacco → map"
+            ],
+            "solution": "These matches use each object’s historical function: an instrument, a political symbol, and a crop for trade.",
+            "hint": "Use tools for how, symbols for motives, and cargo for products.",
+            "misconceptions": {},
+            "estimatedSeconds": 50,
+            "format": "application",
+            "source": "NPS: About Archeology; navigation, missions, and food references",
+            "proof": {
+              "op": "history",
+              "values": [],
+              "result": 0
+            }
+          },
+          {
+            "id": "ss-overview:3",
+            "skill": "ss-overview",
+            "difficulty": 2,
+            "kind": "choice",
+            "family": "geography",
+            "text": "Columbus sailed west across the Atlantic in 1492 hoping to reach which trading region?",
+            "answer": "Asia",
+            "equivalents": [],
+            "choices": [
+              "The English colonies that already existed on the Atlantic coast",
+              "The gold mines of Mexico that he had previously visited",
+              "Asia",
+              "The Americas, which he already knew were between Europe and Asia"
+            ],
+            "solution": "Columbus hoped to reach Asia by sailing west for Spain. He reached islands in the Americas instead.",
+            "hint": "Distinguish the destination he hoped for from the place he actually reached.",
+            "misconceptions": {},
+            "estimatedSeconds": 50,
+            "format": "geography",
+            "source": "NPS: Prelude to Jamestown; TCI published topic outline",
+            "proof": {
+              "op": "history",
+              "values": [],
+              "result": 0
+            }
+          },
+          {
+            "id": "ss-ocean:3",
+            "skill": "ss-ocean",
+            "difficulty": 2,
+            "kind": "choice",
+            "family": "claim",
+            "text": "A squadmate says an astrolabe instantly showed a ship’s exact location on a screen. What is the best correction?",
+            "answer": "It measured sky angles to help estimate latitude, not a screen location",
+            "equivalents": [],
+            "choices": [
+              "It pointed toward magnetic north so sailors could steer a heading",
+              "It automatically drew coastlines that sailors had not yet visited",
+              "It gave exact east–west position without needing sky observations",
+              "It measured sky angles to help estimate latitude, not a screen location"
+            ],
+            "solution": "An astrolabe was an observing instrument, not an electronic location system. Position estimates required observations and calculations.",
+            "hint": "Think of observing the sky rather than receiving a satellite signal.",
+            "misconceptions": {},
+            "estimatedSeconds": 50,
+            "format": "claim",
+            "source": "NPS: Navigating the Atlantic World",
+            "proof": {
+              "op": "history",
+              "values": [],
+              "result": 0
+            }
+          },
+          {
+            "id": "ss-directions:3",
+            "skill": "ss-directions",
+            "difficulty": 3,
+            "kind": "choice",
+            "family": "claim",
+            "text": "A navigator knows the ship is heading west. What can a compass alone NOT tell the navigator?",
+            "answer": "The ship’s exact location in the ocean",
+            "equivalents": [],
+            "choices": [
+              "A reference direction for north",
+              "The direction opposite east",
+              "Whether the heading is generally west",
+              "The ship’s exact location in the ocean"
+            ],
+            "solution": "Knowing a direction is not the same as knowing a location. A compass provides a heading reference, not an exact position.",
+            "hint": "Many ships can face west while being in very different places.",
+            "misconceptions": {},
+            "estimatedSeconds": 80,
+            "format": "claim",
+            "source": "NPS: Navigating the Atlantic World",
+            "proof": {
+              "op": "history",
+              "values": [],
+              "result": 0
+            }
+          },
+          {
+            "id": "ss-maps:3",
+            "skill": "ss-maps",
+            "difficulty": 2,
+            "kind": "choice",
+            "family": "application",
+            "text": "A sketch map has a harbor west of an island. With north at the top, where is the harbor?",
+            "answer": "To the left of the island",
+            "equivalents": [],
+            "choices": [
+              "To the left of the island",
+              "To the right of the island",
+              "Directly above the island",
+              "Directly below the island"
+            ],
+            "solution": "When north is at the top, west is to the left. The compass rose supplies the needed orientation.",
+            "hint": "Use the map’s stated orientation, not a guess about a real coast.",
+            "misconceptions": {},
+            "estimatedSeconds": 50,
+            "format": "application",
+            "source": "NPS: Navigating the Atlantic World; Prelude to Jamestown",
+            "proof": {
+              "op": "history",
+              "values": [],
+              "result": 0
+            }
+          },
+          {
+            "id": "ss-lands:3",
+            "skill": "ss-lands",
+            "difficulty": 3,
+            "kind": "choice",
+            "family": "perspective",
+            "text": "A European journal calls a place “newly discovered,” but Indigenous families already live there. Which statement includes both perspectives?",
+            "answer": "It was new to those visitors, not a place without history or people",
+            "equivalents": [],
+            "choices": [
+              "A journal’s claim establishes Indigenous agreement with European control",
+              "It was new to those visitors, not a place without history or people",
+              "A European name erased the names and histories already used by local people",
+              "The families’ presence meant no European could ever be unfamiliar with the place"
+            ],
+            "solution": "A European visitor’s description reflects that visitor’s knowledge. Indigenous peoples already had their own homes, names, histories, and political communities.",
+            "hint": "Ask “new to whom?” before accepting a discovery claim.",
+            "misconceptions": {},
+            "estimatedSeconds": 80,
+            "format": "perspective",
+            "source": "NPS: When Worlds Collide; Significance of Spanish Colonial Missions",
+            "proof": {
+              "op": "history",
+              "values": [],
+              "result": 0
+            }
+          },
+          {
+            "id": "ss-beliefs:3",
+            "skill": "ss-beliefs",
+            "difficulty": 3,
+            "kind": "choice",
+            "family": "claim",
+            "text": "An archaeologist finds one Bible in a shipwreck. Which conclusion is best supported?",
+            "answer": "Christian religious materials were carried on that ship",
+            "equivalents": [],
+            "choices": [
+              "Every person aboard traveled only for religion",
+              "Every Indigenous person accepted the visitors’ religion",
+              "The ship could not have carried trade goods",
+              "Christian religious materials were carried on that ship"
+            ],
+            "solution": "The artifact supports the presence of Christian materials. One object cannot establish every traveler’s belief or rule out other purposes.",
+            "hint": "Make the smallest claim supported by the evidence you have.",
+            "misconceptions": {},
+            "estimatedSeconds": 80,
+            "format": "claim",
+            "source": "NPS: Significance of Spanish Colonial Missions",
+            "proof": {
+              "op": "history",
+              "values": [],
+              "result": 0
+            }
+          }
+        ],
+        "responses": [
+          {
+            "question": {
+              "id": "ss-lands:2",
+              "skill": "ss-lands",
+              "difficulty": 2,
+              "kind": "choice",
+              "family": "cause",
+              "text": "Why did European rulers compete to claim land across the Atlantic?",
+              "answer": "Territory and resources could increase their power and wealth",
+              "equivalents": [],
+              "choices": [
+                "Territory and resources could increase their power and wealth",
+                "European claims meant Indigenous communities voluntarily changed rulers",
+                "Every ruler agreed that claiming land would end rivalry among countries",
+                "Claiming distant land meant rulers no longer needed trade or resources"
+              ],
+              "solution": "Rulers sought resources, influence, and power. Competition among countries helped encourage exploration and colonization.",
+              "hint": "Think about what a ruler hoped their country would gain.",
+              "misconceptions": {},
+              "estimatedSeconds": 50,
+              "format": "cause",
+              "source": "NPS: When Worlds Collide; Significance of Spanish Colonial Missions",
+              "proof": {
+                "op": "history",
+                "values": [],
+                "result": 0
+              }
+            },
+            "answers": [
+              "Territory and resources could increase their power and wealth"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 30,
+            "at": 1792645073160,
+            "error": "None",
+            "work": "Before screenshot update"
+          },
+          {
+            "question": {
+              "id": "ss-beliefs:2",
+              "skill": "ss-beliefs",
+              "difficulty": 2,
+              "kind": "choice",
+              "family": "cause",
+              "text": "Why did Catholic rulers support priests traveling to the Americas?",
+              "answer": "They wanted to spread the Catholic Christian faith",
+              "equivalents": [],
+              "choices": [
+                "They wanted to spread the Catholic Christian faith",
+                "They expected missionaries to prevent every possible trading loss",
+                "They believed priests were needed mainly to draw more accurate coastlines",
+                "They wanted missionaries to make Indigenous beliefs the official religion in Europe"
+              ],
+              "solution": "Supporting missionaries could serve a ruler’s religious goals. It was different from using instruments to navigate or searching for precious metals.",
+              "hint": "Connect a ruler’s religious support with conversion rather than location or cargo.",
+              "misconceptions": {},
+              "estimatedSeconds": 50,
+              "format": "cause",
+              "source": "NPS: Significance of Spanish Colonial Missions",
+              "proof": {
+                "op": "history",
+                "values": [],
+                "result": 0
+              }
+            },
+            "answers": [
+              "They wanted to spread the Catholic Christian faith"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 30,
+            "at": 1792645073161,
+            "error": "None",
+            "work": "Before screenshot update"
+          },
+          {
+            "question": {
+              "id": "ss-wealth:2",
+              "skill": "ss-wealth",
+              "difficulty": 2,
+              "kind": "choice",
+              "family": "compare",
+              "text": "Which distinction correctly separates a motive from a tool?",
+              "answer": "Seeking silver is a motive; using an astrolabe is a method",
+              "equivalents": [],
+              "choices": [
+                "Carrying a royal flag always proves profit was the voyage’s only motive",
+                "Seeking silver is a motive; using an astrolabe is a method",
+                "Using a compass is a motive; earning trade profits is a navigation method",
+                "Seeking gold is a navigation tool; sailing a route is a religious goal"
+              ],
+              "solution": "The wish to gain wealth explains why someone supports a voyage. An astrolabe helps explain how sailors navigate it.",
+              "hint": "Ask whether each item is a desired result or a way of traveling.",
+              "misconceptions": {},
+              "estimatedSeconds": 50,
+              "format": "compare",
+              "source": "NPS: Prelude to Jamestown; When Worlds Collide",
+              "proof": {
+                "op": "history",
+                "values": [],
+                "result": 0
+              }
+            },
+            "answers": [
+              "Seeking silver is a motive; using an astrolabe is a method"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 30,
+            "at": 1792645073161,
+            "error": "None",
+            "work": "Before screenshot update"
+          },
+          {
+            "question": {
+              "id": "ss-foods:2",
+              "skill": "ss-foods",
+              "difficulty": 2,
+              "kind": "choice",
+              "family": "classification",
+              "text": "Which cargo group contains American food plants rather than navigation tools?",
+              "answer": "Corn, beans, and squash",
+              "equivalents": [],
+              "choices": [
+                "Silver cargo, a chart, and a magnetic compass",
+                "Corn, beans, and squash",
+                "Compass, astrolabe, and a hand-drawn sailing chart",
+                "Royal banner, Bible, and a written proclamation"
+              ],
+              "solution": "Corn, beans, and squash are food crops with Indigenous American histories. The other lists include instruments, symbols, or metals.",
+              "hint": "Separate things people grew and ate from objects used to sail.",
+              "misconceptions": {},
+              "estimatedSeconds": 50,
+              "format": "classification",
+              "source": "NPS: American Latino Theme Study: Food; Columbian Exchange",
+              "proof": {
+                "op": "history",
+                "values": [],
+                "result": 0
+              }
+            },
+            "answers": [
+              "Corn, beans, and squash"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 30,
+            "at": 1792645073161,
+            "error": "None",
+            "work": "Before screenshot update"
+          },
+          {
+            "question": {
+              "id": "ss-crops:2",
+              "skill": "ss-crops",
+              "difficulty": 2,
+              "kind": "choice",
+              "family": "compare",
+              "text": "Farmer A grows beans mainly for family meals. Farmer B grows tobacco mainly to sell abroad. Which is the cash-crop example?",
+              "answer": "Farmer B’s tobacco",
+              "equivalents": [],
+              "choices": [
+                "Only Farmer A’s beans",
+                "Both, because every plant is always a cash crop",
+                "Neither, because crops cannot be sold",
+                "Farmer B’s tobacco"
+              ],
+              "solution": "The described purpose matters. Farmer B grows tobacco chiefly for sale; Farmer A’s beans are primarily for the household to eat.",
+              "hint": "Look for the crop intended mainly for a market.",
+              "misconceptions": {},
+              "estimatedSeconds": 50,
+              "format": "compare",
+              "source": "NPS: A Short History of Jamestown; Tobacco: Colonial Cultivation Methods",
+              "proof": {
+                "op": "history",
+                "values": [],
+                "result": 0
+              }
+            },
+            "answers": [
+              "Farmer B’s tobacco"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 30,
+            "at": 1792645073161,
+            "error": "None",
+            "work": "Before screenshot update"
+          },
+          {
+            "question": {
+              "id": "ss-artifacts:2",
+              "skill": "ss-artifacts",
+              "difficulty": 2,
+              "kind": "choice",
+              "family": "application",
+              "text": "Which matching set correctly connects three objects with lesson categories?",
+              "answer": "Astrolabe → navigation; royal flag → claimed power; tobacco → product",
+              "equivalents": [],
+              "choices": [
+                "Astrolabe → food; royal flag → latitude; tobacco → direction",
+                "Astrolabe → gold; royal flag → food; tobacco → navigation",
+                "Astrolabe → navigation; royal flag → claimed power; tobacco → product",
+                "Astrolabe → religion; royal flag → crop; tobacco → map"
+              ],
+              "solution": "These matches use each object’s historical function: an instrument, a political symbol, and a crop for trade.",
+              "hint": "Use tools for how, symbols for motives, and cargo for products.",
+              "misconceptions": {},
+              "estimatedSeconds": 50,
+              "format": "application",
+              "source": "NPS: About Archeology; navigation, missions, and food references",
+              "proof": {
+                "op": "history",
+                "values": [],
+                "result": 0
+              }
+            },
+            "answers": [
+              "Astrolabe → navigation; royal flag → claimed power; tobacco → product"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 30,
+            "at": 1792645073161,
+            "error": "None",
+            "work": "Before screenshot update"
+          },
+          {
+            "question": {
+              "id": "ss-overview:3",
+              "skill": "ss-overview",
+              "difficulty": 2,
+              "kind": "choice",
+              "family": "geography",
+              "text": "Columbus sailed west across the Atlantic in 1492 hoping to reach which trading region?",
+              "answer": "Asia",
+              "equivalents": [],
+              "choices": [
+                "The English colonies that already existed on the Atlantic coast",
+                "The gold mines of Mexico that he had previously visited",
+                "Asia",
+                "The Americas, which he already knew were between Europe and Asia"
+              ],
+              "solution": "Columbus hoped to reach Asia by sailing west for Spain. He reached islands in the Americas instead.",
+              "hint": "Distinguish the destination he hoped for from the place he actually reached.",
+              "misconceptions": {},
+              "estimatedSeconds": 50,
+              "format": "geography",
+              "source": "NPS: Prelude to Jamestown; TCI published topic outline",
+              "proof": {
+                "op": "history",
+                "values": [],
+                "result": 0
+              }
+            },
+            "answers": [
+              "Asia"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 30,
+            "at": 1792645073162,
+            "error": "None",
+            "work": "Before screenshot update"
+          },
+          {
+            "question": {
+              "id": "ss-ocean:3",
+              "skill": "ss-ocean",
+              "difficulty": 2,
+              "kind": "choice",
+              "family": "claim",
+              "text": "A squadmate says an astrolabe instantly showed a ship’s exact location on a screen. What is the best correction?",
+              "answer": "It measured sky angles to help estimate latitude, not a screen location",
+              "equivalents": [],
+              "choices": [
+                "It pointed toward magnetic north so sailors could steer a heading",
+                "It automatically drew coastlines that sailors had not yet visited",
+                "It gave exact east–west position without needing sky observations",
+                "It measured sky angles to help estimate latitude, not a screen location"
+              ],
+              "solution": "An astrolabe was an observing instrument, not an electronic location system. Position estimates required observations and calculations.",
+              "hint": "Think of observing the sky rather than receiving a satellite signal.",
+              "misconceptions": {},
+              "estimatedSeconds": 50,
+              "format": "claim",
+              "source": "NPS: Navigating the Atlantic World",
+              "proof": {
+                "op": "history",
+                "values": [],
+                "result": 0
+              }
+            },
+            "answers": [
+              "It measured sky angles to help estimate latitude, not a screen location"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 30,
+            "at": 1792645073162,
+            "error": "None",
+            "work": "Before screenshot update"
+          },
+          {
+            "question": {
+              "id": "ss-directions:3",
+              "skill": "ss-directions",
+              "difficulty": 3,
+              "kind": "choice",
+              "family": "claim",
+              "text": "A navigator knows the ship is heading west. What can a compass alone NOT tell the navigator?",
+              "answer": "The ship’s exact location in the ocean",
+              "equivalents": [],
+              "choices": [
+                "A reference direction for north",
+                "The direction opposite east",
+                "Whether the heading is generally west",
+                "The ship’s exact location in the ocean"
+              ],
+              "solution": "Knowing a direction is not the same as knowing a location. A compass provides a heading reference, not an exact position.",
+              "hint": "Many ships can face west while being in very different places.",
+              "misconceptions": {},
+              "estimatedSeconds": 80,
+              "format": "claim",
+              "source": "NPS: Navigating the Atlantic World",
+              "proof": {
+                "op": "history",
+                "values": [],
+                "result": 0
+              }
+            },
+            "answers": [
+              "The ship’s exact location in the ocean"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 30,
+            "at": 1792645073162,
+            "error": "None",
+            "work": "Before screenshot update"
+          },
+          {
+            "question": {
+              "id": "ss-maps:3",
+              "skill": "ss-maps",
+              "difficulty": 2,
+              "kind": "choice",
+              "family": "application",
+              "text": "A sketch map has a harbor west of an island. With north at the top, where is the harbor?",
+              "answer": "To the left of the island",
+              "equivalents": [],
+              "choices": [
+                "To the left of the island",
+                "To the right of the island",
+                "Directly above the island",
+                "Directly below the island"
+              ],
+              "solution": "When north is at the top, west is to the left. The compass rose supplies the needed orientation.",
+              "hint": "Use the map’s stated orientation, not a guess about a real coast.",
+              "misconceptions": {},
+              "estimatedSeconds": 50,
+              "format": "application",
+              "source": "NPS: Navigating the Atlantic World; Prelude to Jamestown",
+              "proof": {
+                "op": "history",
+                "values": [],
+                "result": 0
+              }
+            },
+            "answers": [
+              "To the left of the island"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 30,
+            "at": 1792645073162,
+            "error": "None",
+            "work": "Before screenshot update"
+          },
+          {
+            "question": {
+              "id": "ss-lands:3",
+              "skill": "ss-lands",
+              "difficulty": 3,
+              "kind": "choice",
+              "family": "perspective",
+              "text": "A European journal calls a place “newly discovered,” but Indigenous families already live there. Which statement includes both perspectives?",
+              "answer": "It was new to those visitors, not a place without history or people",
+              "equivalents": [],
+              "choices": [
+                "A journal’s claim establishes Indigenous agreement with European control",
+                "It was new to those visitors, not a place without history or people",
+                "A European name erased the names and histories already used by local people",
+                "The families’ presence meant no European could ever be unfamiliar with the place"
+              ],
+              "solution": "A European visitor’s description reflects that visitor’s knowledge. Indigenous peoples already had their own homes, names, histories, and political communities.",
+              "hint": "Ask “new to whom?” before accepting a discovery claim.",
+              "misconceptions": {},
+              "estimatedSeconds": 80,
+              "format": "perspective",
+              "source": "NPS: When Worlds Collide; Significance of Spanish Colonial Missions",
+              "proof": {
+                "op": "history",
+                "values": [],
+                "result": 0
+              }
+            },
+            "answers": [
+              "It was new to those visitors, not a place without history or people"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 30,
+            "at": 1792645073162,
+            "error": "None",
+            "work": "Before screenshot update"
+          },
+          {
+            "question": {
+              "id": "ss-beliefs:3",
+              "skill": "ss-beliefs",
+              "difficulty": 3,
+              "kind": "choice",
+              "family": "claim",
+              "text": "An archaeologist finds one Bible in a shipwreck. Which conclusion is best supported?",
+              "answer": "Christian religious materials were carried on that ship",
+              "equivalents": [],
+              "choices": [
+                "Every person aboard traveled only for religion",
+                "Every Indigenous person accepted the visitors’ religion",
+                "The ship could not have carried trade goods",
+                "Christian religious materials were carried on that ship"
+              ],
+              "solution": "The artifact supports the presence of Christian materials. One object cannot establish every traveler’s belief or rule out other purposes.",
+              "hint": "Make the smallest claim supported by the evidence you have.",
+              "misconceptions": {},
+              "estimatedSeconds": 80,
+              "format": "claim",
+              "source": "NPS: Significance of Spanish Colonial Missions",
+              "proof": {
+                "op": "history",
+                "values": [],
+                "result": 0
+              }
+            },
+            "answers": [
+              "Christian religious materials were carried on that ship"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 30,
+            "at": 1792645073162,
+            "error": "None",
+            "work": "Before screenshot update"
+          }
+        ],
+        "startedAt": 1792645073160,
+        "draft": {
+          "answer": "",
+          "work": "",
+          "hinted": false,
+          "answers": [],
+          "elapsed": 0
+        },
+        "endedAt": 1792645073162,
+        "early": false
+      }
+    ],
+    "active": {
+      "unit": "exploration",
+      "id": "a83c8b44-427c-4505-a3b3-73d832a9120d",
+      "mode": "quick",
+      "diagnostic": false,
+      "target": [
+        "ss-wealth",
+        "ss-foods"
+      ],
+      "questions": [
+        {
+          "id": "ss-wealth:3",
+          "skill": "ss-wealth",
+          "difficulty": 2,
+          "kind": "choice",
+          "family": "scenario",
+          "text": "A merchant funds a voyage hoping to sell its cargo for more than the voyage costs. What is the main motive?",
+          "answer": "Profit",
+          "equivalents": [],
+          "choices": [
+            "Profit",
+            "Recording the locations of unfamiliar coastlines",
+            "Converting people to a religious faith",
+            "Measuring the ship’s latitude from the stars"
+          ],
+          "solution": "The merchant expects a financial gain from trade. That is an economic motive, even if others on the voyage have additional goals.",
+          "hint": "Follow what this particular merchant hopes to gain.",
+          "misconceptions": {},
+          "estimatedSeconds": 50,
+          "format": "scenario",
+          "source": "NPS: Prelude to Jamestown; When Worlds Collide",
+          "proof": {
+            "op": "history",
+            "values": [],
+            "result": 0
+          }
+        },
+        {
+          "id": "ss-foods:3",
+          "skill": "ss-foods",
+          "difficulty": 3,
+          "kind": "choice",
+          "family": "claim",
+          "text": "A label says, “Europeans invented corn when they found the Americas.” Which correction is accurate?",
+          "answer": "Indigenous peoples had cultivated corn long before European arrival",
+          "equivalents": [],
+          "choices": [
+            "Indigenous people began farming only after European explorers arrived",
+            "Corn was developed in Europe and first carried west by Columbus",
+            "Indigenous peoples had cultivated corn long before European arrival",
+            "European maps are the only evidence that a crop existed before contact"
+          ],
+          "solution": "American crops were the result of Indigenous agricultural knowledge and cultivation. European arrival helped spread them abroad, not invent them.",
+          "hint": "Distinguish growing and developing a crop from carrying it somewhere new.",
+          "misconceptions": {},
+          "estimatedSeconds": 80,
+          "format": "claim",
+          "source": "NPS: American Latino Theme Study: Food; Columbian Exchange",
+          "proof": {
+            "op": "history",
+            "values": [],
+            "result": 0
+          }
+        }
+      ],
+      "responses": [
+        {
+          "question": {
+            "id": "ss-wealth:3",
+            "skill": "ss-wealth",
+            "difficulty": 2,
+            "kind": "choice",
+            "family": "scenario",
+            "text": "A merchant funds a voyage hoping to sell its cargo for more than the voyage costs. What is the main motive?",
+            "answer": "Profit",
+            "equivalents": [],
+            "choices": [
+              "Profit",
+              "Recording the locations of unfamiliar coastlines",
+              "Converting people to a religious faith",
+              "Measuring the ship’s latitude from the stars"
+            ],
+            "solution": "The merchant expects a financial gain from trade. That is an economic motive, even if others on the voyage have additional goals.",
+            "hint": "Follow what this particular merchant hopes to gain.",
+            "misconceptions": {},
+            "estimatedSeconds": 50,
+            "format": "scenario",
+            "source": "NPS: Prelude to Jamestown; When Worlds Collide",
+            "proof": {
+              "op": "history",
+              "values": [],
+              "result": 0
+            }
+          },
+          "answers": [
+            "Profit"
+          ],
+          "correct": true,
+          "firstCorrect": true,
+          "independent": true,
+          "hinted": false,
+          "seconds": 20,
+          "at": 1792645073164,
+          "error": "None",
+          "work": "Old evidence"
+        }
+      ],
+      "startedAt": 1792645073163,
+      "draft": {
+        "answer": "old answer draft",
+        "work": "old exploration",
+        "hinted": false,
+        "answers": [],
+        "elapsed": 0
+      }
+    },
+    "xp": 870,
+    "sound": false,
+    "selectedUnit": "exploration",
+    "paused": [
+      {
+        "unit": "decimals",
+        "id": "5adb718c-27dd-45b8-b577-80786d08a40a",
+        "mode": "quick",
+        "diagnostic": false,
+        "target": [
+          "digit",
+          "equivalent"
+        ],
+        "questions": [
+          {
+            "id": "digit:0",
+            "skill": "digit",
+            "difficulty": 2,
+            "kind": "numeric",
+            "family": "digit-0",
+            "text": "In 2.200, what is the value of the digit 2 in the tenths place?",
+            "answer": "0.2",
+            "equivalents": [
+              "0.200"
+            ],
+            "solution": "The tenths place is 1 place to the right of the decimal point. 2 tenths = 0.2.",
+            "hint": "Name each place as you move right from the decimal point.",
+            "misconceptions": {
+              "1.2": "Place-value misunderstanding",
+              "0.3": "Place-value misunderstanding"
+            },
+            "estimatedSeconds": 60,
+            "proof": {
+              "op": "identity",
+              "values": [
+                200
+              ],
+              "result": 200
+            }
+          },
+          {
+            "id": "equivalent:0",
+            "skill": "equivalent",
+            "difficulty": 1,
+            "kind": "numeric",
+            "family": "equivalent-0",
+            "text": "Fill in the equivalent decimal: 2.5 = ___ (write three decimal places).",
+            "answer": "2.5",
+            "equivalents": [
+              "2.500"
+            ],
+            "solution": "2.5 = 2.500. Trailing zeros do not change the value.",
+            "hint": "Zeros at the end of the decimal part do not change its value.",
+            "misconceptions": {
+              "3.5": "Unclassified",
+              "2.6": "Unclassified"
+            },
+            "estimatedSeconds": 60,
+            "proof": {
+              "op": "identity",
+              "values": [
+                2500
+              ],
+              "result": 2500
+            }
+          }
+        ],
+        "responses": [
+          {
+            "question": {
+              "id": "digit:0",
+              "skill": "digit",
+              "difficulty": 2,
+              "kind": "numeric",
+              "family": "digit-0",
+              "text": "In 2.200, what is the value of the digit 2 in the tenths place?",
+              "answer": "0.2",
+              "equivalents": [
+                "0.200"
+              ],
+              "solution": "The tenths place is 1 place to the right of the decimal point. 2 tenths = 0.2.",
+              "hint": "Name each place as you move right from the decimal point.",
+              "misconceptions": {
+                "1.2": "Place-value misunderstanding",
+                "0.3": "Place-value misunderstanding"
+              },
+              "estimatedSeconds": 60,
+              "proof": {
+                "op": "identity",
+                "values": [
+                  200
+                ],
+                "result": 200
+              }
+            },
+            "answers": [
+              "0.2"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 20,
+            "at": 1792645073163,
+            "error": "None",
+            "work": "Old evidence"
+          }
+        ],
+        "startedAt": 1792645073163,
+        "draft": {
+          "answer": "old answer draft",
+          "work": "old decimals",
+          "hinted": false,
+          "answers": [],
+          "elapsed": 0
+        }
+      },
+      {
+        "unit": "multiplication",
+        "id": "d2895d1c-f6a3-4bbe-8cc9-207d790dc3f7",
+        "mode": "quick",
+        "diagnostic": false,
+        "target": [
+          "mul-whole",
+          "mul-decimal"
+        ],
+        "questions": [
+          {
+            "id": "mul-whole:0",
+            "skill": "mul-whole",
+            "difficulty": 2,
+            "kind": "numeric",
+            "family": "mul-whole-0",
+            "format": "calculate",
+            "text": "Calculate 1.2 × 2.",
+            "answer": "2.4",
+            "equivalents": [
+              "2.40"
+            ],
+            "solution": "1.2 × 2 = 2.4. Multiply 12 × 2 = 24; the factors have 1 decimal places in all. Divide that whole-number product by 10 and keep all places.",
+            "hint": "Think of equal groups. Multiply the digits and preserve the value of each decimal place.",
+            "misconceptions": {},
+            "estimatedSeconds": 60,
+            "source": "Provisional family-approved scope; 5.NBT.B.7. Chapter 4 contents unverified.",
+            "proof": {
+              "op": "multiply",
+              "values": [],
+              "result": 0,
+              "operands": [
+                "1.2",
+                "2"
+              ],
+              "exact": "2.4"
+            }
+          },
+          {
+            "id": "mul-decimal:0",
+            "skill": "mul-decimal",
+            "difficulty": 2,
+            "kind": "numeric",
+            "family": "mul-decimal-0",
+            "format": "calculate",
+            "text": "Calculate 2.5 × 0.3.",
+            "answer": "0.75",
+            "equivalents": [
+              "0.750"
+            ],
+            "solution": "2.5 × 0.3 = 0.75. Multiply 25 × 03 = 75; the factors have 2 decimal places in all. Divide that whole-number product by 100 and keep all places.",
+            "hint": "Tenths times tenths give hundredths. Count places in both factors, then check the size.",
+            "misconceptions": {},
+            "estimatedSeconds": 60,
+            "source": "Provisional family-approved scope; 5.NBT.B.7. Chapter 4 contents unverified.",
+            "proof": {
+              "op": "multiply",
+              "values": [],
+              "result": 0,
+              "operands": [
+                "2.5",
+                "0.3"
+              ],
+              "exact": "0.75"
+            }
+          }
+        ],
+        "responses": [
+          {
+            "question": {
+              "id": "mul-whole:0",
+              "skill": "mul-whole",
+              "difficulty": 2,
+              "kind": "numeric",
+              "family": "mul-whole-0",
+              "format": "calculate",
+              "text": "Calculate 1.2 × 2.",
+              "answer": "2.4",
+              "equivalents": [
+                "2.40"
+              ],
+              "solution": "1.2 × 2 = 2.4. Multiply 12 × 2 = 24; the factors have 1 decimal places in all. Divide that whole-number product by 10 and keep all places.",
+              "hint": "Think of equal groups. Multiply the digits and preserve the value of each decimal place.",
+              "misconceptions": {},
+              "estimatedSeconds": 60,
+              "source": "Provisional family-approved scope; 5.NBT.B.7. Chapter 4 contents unverified.",
+              "proof": {
+                "op": "multiply",
+                "values": [],
+                "result": 0,
+                "operands": [
+                  "1.2",
+                  "2"
+                ],
+                "exact": "2.4"
+              }
+            },
+            "answers": [
+              "2.4"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 20,
+            "at": 1792645073163,
+            "error": "None",
+            "work": "Old evidence"
+          }
+        ],
+        "startedAt": 1792645073163,
+        "draft": {
+          "answer": "old answer draft",
+          "work": "old multiplication",
+          "hinted": false,
+          "answers": [],
+          "elapsed": 0
+        }
+      },
+      {
+        "unit": "mixtures",
+        "id": "059d1ce2-0f3b-4f07-89cd-c08c5e6bbc27",
+        "mode": "quick",
+        "diagnostic": false,
+        "target": [
+          "mix-mixture",
+          "mix-solution"
+        ],
+        "questions": [
+          {
+            "id": "mix-mixture:0",
+            "skill": "mix-mixture",
+            "difficulty": 1,
+            "kind": "choice",
+            "family": "vocabulary",
+            "text": "A squad pours sand and steel paperclips into one supply tray. Why is this a mixture?",
+            "answer": "Two substances are combined and keep their original properties",
+            "equivalents": [],
+            "choices": [
+              "Two substances are combined and keep their original properties",
+              "The sand changes into steel",
+              "Every combination forms a new substance",
+              "The paperclips lose their magnetism"
+            ],
+            "solution": "The sand is still sand, and the steel paperclips still have their own properties. Combining materials can make a mixture without a chemical change.",
+            "hint": "Ask whether the original materials keep their own properties.",
+            "misconceptions": {
+              "The sand changes into steel": "Review the claim against the observed properties",
+              "Every combination forms a new substance": "Review the claim against the observed properties",
+              "The paperclips lose their magnetism": "Review the claim against the observed properties"
+            },
+            "estimatedSeconds": 50,
+            "proof": {
+              "op": "science",
+              "values": [],
+              "result": 0
+            },
+            "format": "vocabulary",
+            "source": "Family-provided Grade 5 Mixtures & Chemical Reactions review sheet"
+          },
+          {
+            "id": "mix-solution:0",
+            "skill": "mix-solution",
+            "difficulty": 1,
+            "kind": "choice",
+            "family": "vocabulary",
+            "text": "Which description belongs on the SOLUTION intel card?",
+            "answer": "A mixture with substances mixed evenly throughout a liquid",
+            "equivalents": [],
+            "choices": [
+              "A mixture with large pieces always settling at the bottom",
+              "Any solid that melts",
+              "A reaction that must produce bubbles",
+              "A mixture with substances mixed evenly throughout a liquid"
+            ],
+            "solution": "The review sheet describes a solution as a mixture in which substances are mixed evenly throughout a liquid.",
+            "hint": "A dissolved substance is still present, spread throughout the liquid.",
+            "misconceptions": {
+              "A mixture with large pieces always settling at the bottom": "Review the claim against the observed properties",
+              "Any solid that melts": "Review the claim against the observed properties",
+              "A reaction that must produce bubbles": "Review the claim against the observed properties"
+            },
+            "estimatedSeconds": 50,
+            "proof": {
+              "op": "science",
+              "values": [],
+              "result": 0
+            },
+            "format": "vocabulary",
+            "source": "Family-provided Grade 5 Mixtures & Chemical Reactions review sheet"
+          }
+        ],
+        "responses": [
+          {
+            "question": {
+              "id": "mix-mixture:0",
+              "skill": "mix-mixture",
+              "difficulty": 1,
+              "kind": "choice",
+              "family": "vocabulary",
+              "text": "A squad pours sand and steel paperclips into one supply tray. Why is this a mixture?",
+              "answer": "Two substances are combined and keep their original properties",
+              "equivalents": [],
+              "choices": [
+                "Two substances are combined and keep their original properties",
+                "The sand changes into steel",
+                "Every combination forms a new substance",
+                "The paperclips lose their magnetism"
+              ],
+              "solution": "The sand is still sand, and the steel paperclips still have their own properties. Combining materials can make a mixture without a chemical change.",
+              "hint": "Ask whether the original materials keep their own properties.",
+              "misconceptions": {
+                "The sand changes into steel": "Review the claim against the observed properties",
+                "Every combination forms a new substance": "Review the claim against the observed properties",
+                "The paperclips lose their magnetism": "Review the claim against the observed properties"
+              },
+              "estimatedSeconds": 50,
+              "proof": {
+                "op": "science",
+                "values": [],
+                "result": 0
+              },
+              "format": "vocabulary",
+              "source": "Family-provided Grade 5 Mixtures & Chemical Reactions review sheet"
+            },
+            "answers": [
+              "Two substances are combined and keep their original properties"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 20,
+            "at": 1792645073163,
+            "error": "None",
+            "work": "Old evidence"
+          }
+        ],
+        "startedAt": 1792645073163,
+        "draft": {
+          "answer": "old answer draft",
+          "work": "old mixtures",
+          "hinted": false,
+          "answers": [],
+          "elapsed": 0
+        }
+      },
+      {
+        "unit": "matter",
+        "id": "9e0bc196-d10c-448d-b28c-cbe8cbc4bc66",
+        "mode": "quick",
+        "diagnostic": false,
+        "target": [
+          "matter-vocab",
+          "matter-magnet"
+        ],
+        "questions": [
+          {
+            "id": "matter-vocab:0",
+            "skill": "matter-vocab",
+            "difficulty": 1,
+            "kind": "choice",
+            "family": "vocabulary",
+            "text": "MATTER means…",
+            "answer": "Anything that has mass and takes up space",
+            "equivalents": [],
+            "choices": [
+              "Anything that has mass and takes up space",
+              "To use the senses to gain knowledge",
+              "The heaviness of an object",
+              "How hot or cold something is"
+            ],
+            "solution": "Matter is anything that has mass and takes up space: your squad training ball, the air inside it, even you!",
+            "hint": "Name the property: amount of matter, space occupied, or hot/cold.",
+            "misconceptions": {
+              "How hot or cold something is": "Review the claim against the observed properties",
+              "To use the senses to gain knowledge": "Review the claim against the observed properties",
+              "The heaviness of an object": "Review the claim against the observed properties"
+            },
+            "estimatedSeconds": 50,
+            "proof": {
+              "op": "science",
+              "values": [],
+              "result": 0
+            },
+            "format": "vocabulary",
+            "source": "Adapted from James’s TVA Properties of Matter quiz"
+          },
+          {
+            "id": "matter-magnet:0",
+            "skill": "matter-magnet",
+            "difficulty": 2,
+            "kind": "choice",
+            "family": "application",
+            "text": "What property do a steel screw, an iron nail, and a paperclip have in common?",
+            "answer": "They are magnetic.",
+            "equivalents": [],
+            "choices": [
+              "They are nonmagnetic.",
+              "They are magnetic.",
+              "They are insulators.",
+              "They are all soluble in water."
+            ],
+            "solution": "Steel and iron are attracted to magnets. A paperclip is made of steel.",
+            "hint": "Color and being metal do not guarantee attraction to a magnet.",
+            "misconceptions": {
+              "They are insulators.": "Review the claim against the observed properties",
+              "They are all soluble in water.": "Review the claim against the observed properties",
+              "They are nonmagnetic.": "Review the claim against the observed properties"
+            },
+            "estimatedSeconds": 50,
+            "proof": {
+              "op": "science",
+              "values": [],
+              "result": 0
+            },
+            "format": "application",
+            "source": "Adapted from James’s TVA Properties of Matter quiz"
+          }
+        ],
+        "responses": [
+          {
+            "question": {
+              "id": "matter-vocab:0",
+              "skill": "matter-vocab",
+              "difficulty": 1,
+              "kind": "choice",
+              "family": "vocabulary",
+              "text": "MATTER means…",
+              "answer": "Anything that has mass and takes up space",
+              "equivalents": [],
+              "choices": [
+                "Anything that has mass and takes up space",
+                "To use the senses to gain knowledge",
+                "The heaviness of an object",
+                "How hot or cold something is"
+              ],
+              "solution": "Matter is anything that has mass and takes up space: your squad training ball, the air inside it, even you!",
+              "hint": "Name the property: amount of matter, space occupied, or hot/cold.",
+              "misconceptions": {
+                "How hot or cold something is": "Review the claim against the observed properties",
+                "To use the senses to gain knowledge": "Review the claim against the observed properties",
+                "The heaviness of an object": "Review the claim against the observed properties"
+              },
+              "estimatedSeconds": 50,
+              "proof": {
+                "op": "science",
+                "values": [],
+                "result": 0
+              },
+              "format": "vocabulary",
+              "source": "Adapted from James’s TVA Properties of Matter quiz"
+            },
+            "answers": [
+              "Anything that has mass and takes up space"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 20,
+            "at": 1792645073163,
+            "error": "None",
+            "work": "Old evidence"
+          }
+        ],
+        "startedAt": 1792645073163,
+        "draft": {
+          "answer": "old answer draft",
+          "work": "old matter",
+          "hinted": false,
+          "answers": [],
+          "elapsed": 0
+        }
+      }
+    ]
+  }
+}

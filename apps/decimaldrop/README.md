@@ -11,11 +11,11 @@ The family’s [Grade 5 Social Studies and Science year-plan photo and transcrip
 - **Science → Mixtures & Chemical Reactions / Reaction Royale:** 80 authored questions covering every section of the supplied Grade 5 review sheet: mixtures, solutions, new substances, gas, temperature, new solids, new smells, color, physical-change counterexamples, and evidence-based explanations.
 - **Science → Properties of Matter / Loot Lab:** 100 reviewed questions adapted from James’s TVA quiz, covering vocabulary, magnetism, electrical and thermal conductivity, solubility, measurement, mass/weight, observable properties, states, and investigation.
 
-- **Social Studies → How and Why Europeans Came to the New World / Compass Cove:** TCI Lesson 4, with 80 original multiple-choice questions across 10 skills and 11 study cards. The supplied year-plan confirms the classroom title and 9-section count. Questions follow the eight topic areas in TCI’s newer published outline, plus era/vocabulary and artifact interpretation. Individual classroom section texts and exact quiz coverage remain unconfirmed.
+- **Social Studies → How and Why Europeans Came to the New World / Compass Cove:** TCI Lesson 4, with 184 original multiple-choice questions across 12 skills and 18 study cards. Scope is checked against [33 supplied classroom screenshots](docs/reference/tci-lesson-4-2026-10-21/README.md): introduction, nine numbered sections, summary, and the separately labeled Read & Do and Explore readings. Exact quiz coverage remains unconfirmed. The screenshots were moved unchanged from Desktop, with original names and SHA-256 verification.
 
 Science and Social Studies practice follow the TVA interaction: choose one of four shuffled answers, then see the correct answer and explanation immediately. Practice tests still conceal correctness until the final debrief. The scratchpad is available for thinking through an explanation; the app does not pretend to automatically grade free-text science reasoning. Study cards under **Mission intel** summarize each unit before a quiz.
 
-The first three standard quizzes are diagnostic **for each unit independently**. Each science or Social Studies quiz samples all ten of its configured skills. Readiness and parent analytics are scoped to the equipped unit; a math score never increases science readiness. XP and badges are shared. Switching units parks unfinished missions, including drafts and scratch work, and restores them when that unit is equipped again.
+The first three standard quizzes are diagnostic **for each unit independently**. Each science diagnostic samples its ten skills; each Social Studies diagnostic samples all twelve of its skills. Readiness and parent analytics are scoped to the equipped unit; a math score never increases science readiness. XP and badges are shared. Switching units parks unfinished missions, including drafts and scratch work, and restores them when that unit is equipped again.
 
 ### Existing progress and content variety
 
@@ -57,7 +57,7 @@ The browser tests verify a complete diagnostic quiz, hints and retries, scratchp
 
 Choose **Social Studies → How and Why Europeans Came to the New World**. Read **Mission intel**, then start a **Standard Quiz** (12 questions). Practice gives immediate explanations; **Practice Test** (20 questions) hides answers until the debrief. Start with broad coverage, then use parent-targeted practice for gaps. Repeated independent evidence is required for readiness; the app cannot certify tomorrow’s classroom quiz.
 
-The assessed scope is ocean crossing/astrolabe, directions/compass, maps/logs, claimed lands/nation-states, religious motives, wealth/trade, American foods, cash crops/tobacco, and interpreting artifacts. Detailed explorer-route matching belongs to **Lesson 5** and is deliberately not tested here. These are original study questions, not copied TCI text or assessments. [Source and scope notes](docs/social-studies-lesson-4.md) explain the outline match and historical fact checks.
+The assessed scope includes underwater archaeology (sonar, grids, recovery and preservation), astrolabe construction/use, compass mechanics, map scale and types, royal flags, Christian origins and Bible parts, wealth, American foods, cash crops, and artifact reasoning. Two further skills cover the supplied **Read & Do: Changes in Europe Spur Exploration** (Granada, Isabella/Columbus, Reformation and Armada chronology) and **Explore: The Columbian Exchange** (two-way transfers, disease, forced migration, triangular trade, cultural effects, and supported arguments). Detailed explorer-route matching belongs to **Lesson 5** and is deliberately not tested here. These are original study questions, not copied TCI text or assessments. [Source and scope notes](docs/social-studies-lesson-4.md) map the supplied sections to study coverage and explain historical fact checks. Existing 80 question definitions and IDs remain immutable. The 104 new questions are appended; old saves and paused missions remain valid. The two new skills begin with no evidence, and readiness can decrease when new evidence gaps are included. A 20-question test covers every skill but cannot take two per skill across all twelve skills.
 
 ## For your first week
 
@@ -71,9 +71,11 @@ There are no time limits. Hints, scratch work, each submitted attempt, and time 
 
 The Parent Dashboard shows readiness, independent first-attempt accuracy with sample sizes, evidence coverage, recent results, skill details, possible error patterns, and one-click focused practice. A few good answers never establish chapter readiness.
 
-## Curriculum: provisional and unverified
+## Curriculum scope
 
-The family chose the provisional scope. Chapter numbering varies by Go Math! edition. **The app does not claim these are official lesson titles or that CUSD has confirmed this scope.** Check the chapter's actual contents before relying on readiness.
+The math units use the family-approved provisional scope. Chapter numbering varies by Go Math! edition. **The app does not claim these are official lesson titles or that CUSD has confirmed this scope.** Check the chapter's actual contents before relying on readiness.
+
+Social Studies scope is confirmed against the supplied lesson screenshots; quiz coverage is still unconfirmed. Its `verified` flag describes the supplied learning materials, not a standardized assessment or quiz prediction.
 
 Edit `src/engine/curriculum.ts` to change descriptive skill labels, coaching recommendations, chapter metadata, and assessment thresholds. Set `curriculum.verified` only once confirmed; scope status notices update automatically. The notices deliberately default to “unverified.” To narrow scope, remove taxonomy entries; the bank and dashboard derive from the remaining skills. If adding a new skill ID, add a matching generator and coverage rotation entry in `questions.ts` / `session.ts` and run the tests. Do not change existing IDs after collecting progress; exports validate question definitions against the installed version.
 
@@ -125,7 +127,8 @@ XP rewards answered challenges (10), independent first-try success (+10), correc
 - `src/engine/decimal.ts`: exact decimal input and equivalence
 - `src/engine/questions.ts`: validated bank and deterministic generators
 - `src/engine/multiplication.ts`: separate provisional multiplication taxonomy, 192 seeded prompts, and exact generators
-- `src/engine/social-studies.ts` / `exploration-bank.json`: sourced Lesson 4 taxonomy, 80 original questions, and study cards
+- `src/engine/social-studies.ts` / `exploration-bank.json`: sourced Lesson 4 taxonomy and 184 original questions
+- `src/engine/lesson-four-intel.ts`: 18 original summaries and writing prompts
 - `docs/social-studies-lesson-4.md`: lesson sources, coverage, and edition limitations
 - `docs/reference/`: original family-provided year-plan photo and transcription
 - `src/engine/session.ts`: diagnostic/adaptive selection, attempts, sessions, rewards
