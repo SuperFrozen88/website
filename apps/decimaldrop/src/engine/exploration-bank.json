@@ -1,0 +1,1202 @@
+[
+  {
+    "skill": "ss-overview",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "text": "In this lesson, what does the European term “New World” refer to?",
+    "answers": [
+      "The Americas",
+      "The Asian trading regions Europeans hoped to reach",
+      "The European kingdoms sponsoring ocean voyages",
+      "The African ports used on routes toward Asia"
+    ],
+    "solution": "Europeans used “New World” for the Americas. Indigenous peoples had lived there long before these European voyages.",
+    "hint": "Think about whose point of view made these lands seem “new.”",
+    "source": "NPS: Prelude to Jamestown; TCI published topic outline"
+  },
+  {
+    "skill": "ss-overview",
+    "format": "cause",
+    "difficulty": 2,
+    "text": "Why did many European merchants support voyages in the late 1400s?",
+    "answers": [
+      "They hoped to find profitable sea routes to Asian goods",
+      "They wanted to avoid buying or selling goods abroad",
+      "They were certain a western sea route to Asia was already mapped",
+      "They wanted to bring Asian goods to the Americas without selling them"
+    ],
+    "solution": "Demand for Asian goods, including spices and silk, encouraged the search for sea routes that could make trade more profitable.",
+    "hint": "Separate a reason for traveling from a tool used during travel.",
+    "source": "NPS: Prelude to Jamestown; TCI published topic outline"
+  },
+  {
+    "skill": "ss-overview",
+    "format": "chronology",
+    "difficulty": 1,
+    "text": "Which period best fits the start of the European voyages studied in this lesson?",
+    "answers": [
+      "The late 1400s",
+      "The late 1600s, after the English colonies had expanded",
+      "The late 1700s, during the American Revolution",
+      "The late 1800s, during westward railroad expansion"
+    ],
+    "solution": "This lesson focuses on European ocean voyages expanding from the late 1400s into the 1500s.",
+    "hint": "Columbus’s Atlantic crossing in 1492 belongs to this period.",
+    "source": "NPS: Prelude to Jamestown; TCI published topic outline"
+  },
+  {
+    "skill": "ss-overview",
+    "format": "geography",
+    "difficulty": 2,
+    "text": "Columbus sailed west across the Atlantic in 1492 hoping to reach which trading region?",
+    "answers": [
+      "Asia",
+      "The Americas, which he already knew were between Europe and Asia",
+      "The English colonies that already existed on the Atlantic coast",
+      "The gold mines of Mexico that he had previously visited"
+    ],
+    "solution": "Columbus hoped to reach Asia by sailing west for Spain. He reached islands in the Americas instead.",
+    "hint": "Distinguish the destination he hoped for from the place he actually reached.",
+    "source": "NPS: Prelude to Jamestown; TCI published topic outline"
+  },
+  {
+    "skill": "ss-overview",
+    "format": "claim",
+    "difficulty": 3,
+    "text": "A teammate writes, “The Americas had no people until Europeans arrived.” Which correction is accurate?",
+    "answers": [
+      "Indigenous peoples already had communities and cultures there",
+      "Indigenous communities began only after European governments formed them",
+      "European mapmakers named places before anyone could settle there",
+      "Indigenous peoples lived there but had no farms or trading networks"
+    ],
+    "solution": "The Americas were already home to many Indigenous peoples. European arrival was not the beginning of American history.",
+    "hint": "The name “New World” describes a European perspective, not an empty place.",
+    "source": "NPS: Prelude to Jamestown; TCI published topic outline"
+  },
+  {
+    "skill": "ss-overview",
+    "format": "classification",
+    "difficulty": 2,
+    "text": "Which list contains European countries involved in the era’s ocean exploration?",
+    "answers": [
+      "Spain, Portugal, England, and France",
+      "Spain, China, and the Aztec Empire",
+      "England, the Inca Empire, and Japan",
+      "France, Antarctica, and the Pacific Ocean"
+    ],
+    "solution": "Spain, Portugal, England, and France sponsored European exploration; the Netherlands also became involved. The other lists mix countries with Indigenous empires or geographic features.",
+    "hint": "Look for a list made entirely of European countries.",
+    "source": "NPS: Prelude to Jamestown; TCI published topic outline"
+  },
+  {
+    "skill": "ss-overview",
+    "format": "compare",
+    "difficulty": 2,
+    "text": "How are “how Europeans traveled” and “why Europeans traveled” different questions?",
+    "answers": [
+      "“How” asks about methods and tools; “why” asks about motives",
+      "“How” asks about desired wealth; “why” asks about instruments and routes",
+      "Both ask only about the cargo carried back to Europe",
+      "Both ask only about the countries that paid for the voyage"
+    ],
+    "solution": "Ships and navigation tools help explain how voyages happened. Trade, power, and religion help explain why people supported them.",
+    "hint": "A compass is a method; the hope of profit is a motive.",
+    "source": "NPS: Prelude to Jamestown; TCI published topic outline"
+  },
+  {
+    "skill": "ss-overview",
+    "format": "evidence",
+    "difficulty": 3,
+    "text": "Which explanation best connects European demand with exploration?",
+    "answers": [
+      "Wanting Asian goods encouraged investment in sea voyages",
+      "European demand for Asian goods began only after tobacco reached Europe",
+      "Navigation instruments caused merchants to stop seeking trade profits",
+      "Existing overland trade made new sea routes unnecessary for merchants"
+    ],
+    "solution": "Demand for goods helped motivate voyages. Navigation tools made travel more possible, but tools alone do not explain the desire to trade.",
+    "hint": "Connect what merchants wanted with the journeys they were willing to fund.",
+    "source": "NPS: Prelude to Jamestown; TCI published topic outline"
+  },
+  {
+    "skill": "ss-ocean",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "text": "Which instrument used the angle of the sun or stars to help sailors estimate latitude?",
+    "answers": [
+      "An astrolabe",
+      "A magnetic compass that indicated a ship’s heading",
+      "A map showing coastlines and possible sailing routes",
+      "A ship’s log recording cargo and daily voyage events"
+    ],
+    "solution": "An astrolabe helped measure the angle of a visible heavenly body. Sailors could use that information to estimate latitude.",
+    "hint": "Latitude means position north or south of the equator.",
+    "source": "NPS: Navigating the Atlantic World"
+  },
+  {
+    "skill": "ss-ocean",
+    "format": "scenario",
+    "difficulty": 2,
+    "text": "Far from shore, a sailor cannot see familiar hills or buildings. What navigation problem does this create?",
+    "answers": [
+      "Landmarks can no longer guide the ship’s position",
+      "Magnetic north changes into the ship’s current latitude",
+      "Knowing the direction of travel gives an exact location",
+      "The nearest coast must match every feature on the chart"
+    ],
+    "solution": "On the open ocean, familiar land features are missing. Sailors needed instruments, observations, and charts to navigate.",
+    "hint": "What kinds of clues disappear when land is out of sight?",
+    "source": "NPS: Navigating the Atlantic World"
+  },
+  {
+    "skill": "ss-ocean",
+    "format": "compare",
+    "difficulty": 2,
+    "text": "Which pairing correctly distinguishes two navigation tools?",
+    "answers": [
+      "Astrolabe: latitude clues; compass: direction",
+      "Astrolabe: compass direction; compass: latitude clues",
+      "Astrolabe: east–west position; compass: exact distance from shore",
+      "Astrolabe: sailing speed; compass: the sun’s height"
+    ],
+    "solution": "An astrolabe used sky angles to help estimate latitude. A compass helped sailors determine direction. Neither was a modern GPS.",
+    "hint": "Ask whether the tool answers “how far north?” or “which way?”",
+    "source": "NPS: Navigating the Atlantic World"
+  },
+  {
+    "skill": "ss-ocean",
+    "format": "claim",
+    "difficulty": 2,
+    "text": "A squadmate says an astrolabe instantly showed a ship’s exact location on a screen. What is the best correction?",
+    "answers": [
+      "It measured sky angles to help estimate latitude, not a screen location",
+      "It pointed toward magnetic north so sailors could steer a heading",
+      "It gave exact east–west position without needing sky observations",
+      "It automatically drew coastlines that sailors had not yet visited"
+    ],
+    "solution": "An astrolabe was an observing instrument, not an electronic location system. Position estimates required observations and calculations.",
+    "hint": "Think of observing the sky rather than receiving a satellite signal.",
+    "source": "NPS: Navigating the Atlantic World"
+  },
+  {
+    "skill": "ss-ocean",
+    "format": "application",
+    "difficulty": 2,
+    "text": "Clouds hide the sun and stars. Which task becomes harder with an astrolabe?",
+    "answers": [
+      "Taking a useful sky-angle observation",
+      "Following a heading with a magnetic compass",
+      "Comparing a drawn coastline with a written voyage record",
+      "Reading the name of a port already shown on a chart"
+    ],
+    "solution": "An astrolabe depends on observing the sun or stars. A cloudy sky can prevent the needed sighting.",
+    "hint": "Which tool needs a view of the sky?",
+    "source": "NPS: Navigating the Atlantic World"
+  },
+  {
+    "skill": "ss-ocean",
+    "format": "reasoning",
+    "difficulty": 3,
+    "text": "Why did navigation tools matter for long ocean crossings?",
+    "answers": [
+      "They supplied clues when sailors lacked familiar land features",
+      "They guaranteed arrival because a heading is the same as a location",
+      "They made maps unnecessary once sailors learned the direction north",
+      "They were mainly used to decide which country should claim the land"
+    ],
+    "solution": "Instruments and maps helped sailors navigate beyond familiar coasts. They reduced some uncertainty without removing storms, shortages, or mistakes.",
+    "hint": "A useful tool can reduce a risk without eliminating every danger.",
+    "source": "NPS: Navigating the Atlantic World"
+  },
+  {
+    "skill": "ss-ocean",
+    "format": "definition",
+    "difficulty": 1,
+    "text": "What does latitude describe?",
+    "answers": [
+      "How far north or south a place is from the equator",
+      "How expensive a ship’s cargo is",
+      "The direction the wind must blow",
+      "How far east or west a place is from a reference line"
+    ],
+    "solution": "Latitude measures north–south position relative to the equator. East–west position is longitude.",
+    "hint": "Picture the equator and locations above or below it.",
+    "source": "NPS: Navigating the Atlantic World"
+  },
+  {
+    "skill": "ss-ocean",
+    "format": "classification",
+    "difficulty": 2,
+    "text": "An exhibit shows an astrolabe and a model sailing ship. Which label best connects them?",
+    "answers": [
+      "Technology used to make ocean travel possible",
+      "Products introduced to Europe from Indigenous American farming",
+      "Motive symbols showing that religious conversion was the only goal",
+      "Evidence that sailors already knew every coastline before departure"
+    ],
+    "solution": "Ships provided transportation; instruments helped sailors navigate. These are methods of travel rather than crops or motives.",
+    "hint": "Classify objects by what people used them to do.",
+    "source": "NPS: Navigating the Atlantic World"
+  },
+  {
+    "skill": "ss-directions",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "text": "What did a magnetic compass mainly help a sailor determine?",
+    "answers": [
+      "Direction",
+      "The ship’s exact latitude and longitude together",
+      "The number of miles remaining before reaching a port",
+      "The depth of water under the ship’s hull"
+    ],
+    "solution": "A compass’s magnetic needle indicates north and helps a sailor keep a heading. It does not directly measure depth, age, or prices.",
+    "hint": "A compass answers “which way?”",
+    "source": "NPS: Navigating the Atlantic World"
+  },
+  {
+    "skill": "ss-directions",
+    "format": "scenario",
+    "difficulty": 2,
+    "text": "The sky is cloudy and no stars are visible. Which tool can still help a sailor keep a direction?",
+    "answers": [
+      "A magnetic compass",
+      "An astrolabe measuring the angle of a star hidden by clouds",
+      "A royal flag showing which country funded the voyage",
+      "A cargo record showing the prices of the goods aboard"
+    ],
+    "solution": "A compass uses magnetism rather than a clear view of the stars. It remains useful when clouds block sky observations.",
+    "hint": "Choose the tool that does not need visible heavenly bodies.",
+    "source": "NPS: Navigating the Atlantic World"
+  },
+  {
+    "skill": "ss-directions",
+    "format": "application",
+    "difficulty": 2,
+    "text": "A map’s compass rose shows north at the top. Which direction is to the right?",
+    "answers": [
+      "East",
+      "West",
+      "South",
+      "North"
+    ],
+    "solution": "With north at the top of this compass rose, east is on the right, south at the bottom, and west on the left.",
+    "hint": "Use the order north, east, south, west around the compass rose.",
+    "source": "NPS: Navigating the Atlantic World"
+  },
+  {
+    "skill": "ss-directions",
+    "format": "claim",
+    "difficulty": 3,
+    "text": "A navigator knows the ship is heading west. What can a compass alone NOT tell the navigator?",
+    "answers": [
+      "The ship’s exact location in the ocean",
+      "A reference direction for north",
+      "Whether the heading is generally west",
+      "The direction opposite east"
+    ],
+    "solution": "Knowing a direction is not the same as knowing a location. A compass provides a heading reference, not an exact position.",
+    "hint": "Many ships can face west while being in very different places.",
+    "source": "NPS: Navigating the Atlantic World"
+  },
+  {
+    "skill": "ss-directions",
+    "format": "compare",
+    "difficulty": 2,
+    "text": "Which statement correctly compares a compass with an astrolabe?",
+    "answers": [
+      "A compass uses magnetism; an astrolabe uses sky observations",
+      "A compass estimates latitude; an astrolabe points toward magnetic north",
+      "Both instruments show exact position without a map or calculations",
+      "A compass needs a clear sky; an astrolabe works by magnetism"
+    ],
+    "solution": "These instruments provided different clues. The compass indicated direction; sky observations with an astrolabe helped estimate latitude.",
+    "hint": "Think about what each instrument responds to.",
+    "source": "NPS: Navigating the Atlantic World"
+  },
+  {
+    "skill": "ss-directions",
+    "format": "reasoning",
+    "difficulty": 3,
+    "text": "Why might a captain use a compass AND a map?",
+    "answers": [
+      "The compass gives a direction while the map shows places and routes",
+      "The compass shows the route while the map points toward magnetic north",
+      "Both tools supply exact position, so either one alone is always enough",
+      "The map supplies the wind, while the compass shows where cargo was grown"
+    ],
+    "solution": "A map and compass answer different questions. A sailor can compare a heading with the route and land features shown on a map.",
+    "hint": "Tools can complement one another without doing the same job.",
+    "source": "NPS: Navigating the Atlantic World"
+  },
+  {
+    "skill": "ss-directions",
+    "format": "definition",
+    "difficulty": 1,
+    "text": "Which direction is opposite north?",
+    "answers": [
+      "South",
+      "East",
+      "West",
+      "Northeast"
+    ],
+    "solution": "North and south are opposite directions. East and west are another opposite pair.",
+    "hint": "Think of the bottom of a compass rose with north at the top.",
+    "source": "NPS: Navigating the Atlantic World"
+  },
+  {
+    "skill": "ss-directions",
+    "format": "evidence",
+    "difficulty": 2,
+    "text": "An artifact has a turning magnetic needle and direction markings. What is its most likely use?",
+    "answers": [
+      "Helping sailors keep a heading",
+      "Helping sailors estimate latitude by measuring a sky angle",
+      "Helping historians identify the ruler who claimed a coastline",
+      "Helping traders measure the value of American crops in Europe"
+    ],
+    "solution": "A needle and direction markings support identifying a compass used for navigation. They do not support claims about religion or crop amounts.",
+    "hint": "Use the object’s features as evidence of its function.",
+    "source": "NPS: Navigating the Atlantic World"
+  },
+  {
+    "skill": "ss-maps",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "text": "What information is a navigation map designed to show?",
+    "answers": [
+      "Locations of land, water, and possible routes",
+      "The personal motives of every sailor who followed a route",
+      "The exact weather at each point for every future voyage",
+      "The amount of profit guaranteed by reaching each port"
+    ],
+    "solution": "Maps represent places and spatial relationships. They can help sailors plan routes and identify coasts or landing places.",
+    "hint": "A map represents where things are, rather than every fact about them.",
+    "source": "NPS: Navigating the Atlantic World; Prelude to Jamestown"
+  },
+  {
+    "skill": "ss-maps",
+    "format": "scenario",
+    "difficulty": 2,
+    "text": "A returning sailor reports a coastline that earlier charts left out. What should a mapmaker do?",
+    "answers": [
+      "Compare the report with other evidence and revise the map if supported",
+      "Keep the chart unchanged because royal approval makes it accurate",
+      "Accept the report as proof that every older source is useless",
+      "Label the new coast as uninhabited simply because it was not mapped"
+    ],
+    "solution": "New observations can improve maps, but comparing sources helps check accuracy. An early chart could be useful while still incomplete.",
+    "hint": "New evidence can improve a model without making every old detail wrong.",
+    "source": "NPS: Navigating the Atlantic World; Prelude to Jamestown"
+  },
+  {
+    "skill": "ss-maps",
+    "format": "claim",
+    "difficulty": 3,
+    "text": "A teammate claims every European map in 1492 showed the Americas accurately. What is the best correction?",
+    "answers": [
+      "Maps reflected limited information and could contain errors",
+      "Royal approval made every European map complete before ships sailed",
+      "Using a compass meant mapmakers could already draw all American coasts",
+      "Trade with Asia meant European sailors had already charted every Atlantic island"
+    ],
+    "solution": "Mapmakers worked with the information available to them. European knowledge of Atlantic routes and American coastlines developed through voyages.",
+    "hint": "A map can include only the information its makers have gathered or inferred.",
+    "source": "NPS: Navigating the Atlantic World; Prelude to Jamestown"
+  },
+  {
+    "skill": "ss-maps",
+    "format": "application",
+    "difficulty": 2,
+    "text": "A sketch map has a harbor west of an island. With north at the top, where is the harbor?",
+    "answers": [
+      "To the left of the island",
+      "To the right of the island",
+      "Directly above the island",
+      "Directly below the island"
+    ],
+    "solution": "When north is at the top, west is to the left. The compass rose supplies the needed orientation.",
+    "hint": "Use the map’s stated orientation, not a guess about a real coast.",
+    "source": "NPS: Navigating the Atlantic World; Prelude to Jamestown"
+  },
+  {
+    "skill": "ss-maps",
+    "format": "compare",
+    "difficulty": 2,
+    "text": "What is the main difference between a ship’s log and a map?",
+    "answers": [
+      "A log records voyage events; a map represents places and routes",
+      "A log represents places; a map records each day’s events aboard ship",
+      "A log proves every sailor’s motive; a map proves the land was empty",
+      "A log gives only directions; a map gives only the amount of trade profit"
+    ],
+    "solution": "Written voyage records and maps preserve different kinds of information. Both can help historians understand a journey.",
+    "hint": "One is a record of what happened; the other shows spatial relationships.",
+    "source": "NPS: Navigating the Atlantic World; Prelude to Jamestown"
+  },
+  {
+    "skill": "ss-maps",
+    "format": "reasoning",
+    "difficulty": 3,
+    "text": "Why should historians compare a voyage map with the ship’s written records?",
+    "answers": [
+      "Different sources can support or challenge the same route claim",
+      "Using two sources guarantees every missing detail can be filled in",
+      "A map is always more reliable than a log, regardless of its evidence",
+      "A written record always cancels any conflicting observation on a map"
+    ],
+    "solution": "Comparing sources helps check interpretations and notice missing or conflicting information. Neither a map nor a log is automatically perfect.",
+    "hint": "Stronger explanations use relevant evidence from more than one source.",
+    "source": "NPS: Navigating the Atlantic World; Prelude to Jamestown"
+  },
+  {
+    "skill": "ss-maps",
+    "format": "classification",
+    "difficulty": 1,
+    "text": "Which object belongs with an astrolabe and compass in a navigation display?",
+    "answers": [
+      "A chart showing a coastline and sailing route",
+      "A royal flag displaying the ruler who supported a voyage",
+      "A bundle of tobacco intended for sale in a European port",
+      "A Bible carried for Christian religious teaching aboard a ship"
+    ],
+    "solution": "The chart helps sailors locate places and plan a route. The other objects relate to products or rulers rather than navigation.",
+    "hint": "Group objects by their job, rather than their age or color.",
+    "source": "NPS: Navigating the Atlantic World; Prelude to Jamestown"
+  },
+  {
+    "skill": "ss-maps",
+    "format": "evidence",
+    "difficulty": 2,
+    "text": "An old map leaves a large ocean area blank. What is the most cautious interpretation?",
+    "answers": [
+      "The mapmaker may have lacked reliable information about that area",
+      "No Indigenous community could have known the area before it was mapped",
+      "The area contained no land because the map had no land symbol there",
+      "Every sailor knew the area but mapmakers always left known places blank"
+    ],
+    "solution": "A blank space can show a limit in a particular mapmaker’s knowledge. It does not prove the place was empty or unknown to everyone.",
+    "hint": "Separate a limit in one source from a claim about the whole world.",
+    "source": "NPS: Navigating the Atlantic World; Prelude to Jamestown"
+  },
+  {
+    "skill": "ss-lands",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "text": "In this lesson, what is a nation-state?",
+    "answers": [
+      "A country with its own government and territory",
+      "A trading ship that travels between several different countries",
+      "A territory shared by all European rulers with no separate government",
+      "A community defined only by one cargo product rather than government"
+    ],
+    "solution": "A nation-state has political authority over a territory. European rulers wanted to strengthen their countries through overseas expansion.",
+    "hint": "This word describes a political country, not an object on a ship.",
+    "source": "NPS: When Worlds Collide; Significance of Spanish Colonial Missions"
+  },
+  {
+    "skill": "ss-lands",
+    "format": "artifact",
+    "difficulty": 2,
+    "text": "Why might an explorer carry a flag bearing a European ruler’s symbols?",
+    "answers": [
+      "To represent that ruler and make a claim to territory",
+      "To measure latitude from the stars",
+      "To show that every Indigenous nation agreed with the claim",
+      "To prove that the land had no inhabitants"
+    ],
+    "solution": "Flags could symbolize a ruler’s claimed authority. Raising one did not establish that existing inhabitants accepted the claim.",
+    "hint": "A flag can show who is making a claim without proving everyone accepts it.",
+    "source": "NPS: When Worlds Collide; Significance of Spanish Colonial Missions"
+  },
+  {
+    "skill": "ss-lands",
+    "format": "cause",
+    "difficulty": 2,
+    "text": "Why did European rulers compete to claim land across the Atlantic?",
+    "answers": [
+      "Territory and resources could increase their power and wealth",
+      "Claiming distant land meant rulers no longer needed trade or resources",
+      "Every ruler agreed that claiming land would end rivalry among countries",
+      "European claims meant Indigenous communities voluntarily changed rulers"
+    ],
+    "solution": "Rulers sought resources, influence, and power. Competition among countries helped encourage exploration and colonization.",
+    "hint": "Think about what a ruler hoped their country would gain.",
+    "source": "NPS: When Worlds Collide; Significance of Spanish Colonial Missions"
+  },
+  {
+    "skill": "ss-lands",
+    "format": "perspective",
+    "difficulty": 3,
+    "text": "A European journal calls a place “newly discovered,” but Indigenous families already live there. Which statement includes both perspectives?",
+    "answers": [
+      "It was new to those visitors, not a place without history or people",
+      "A European name erased the names and histories already used by local people",
+      "The families’ presence meant no European could ever be unfamiliar with the place",
+      "A journal’s claim establishes Indigenous agreement with European control"
+    ],
+    "solution": "A European visitor’s description reflects that visitor’s knowledge. Indigenous peoples already had their own homes, names, histories, and political communities.",
+    "hint": "Ask “new to whom?” before accepting a discovery claim.",
+    "source": "NPS: When Worlds Collide; Significance of Spanish Colonial Missions"
+  },
+  {
+    "skill": "ss-lands",
+    "format": "claim",
+    "difficulty": 3,
+    "text": "A teammate says, “Planting a flag means the land was freely given to that ruler.” What is the best response?",
+    "answers": [
+      "A flag shows a claim, not proof of Indigenous agreement",
+      "Flags are legal signatures by every nearby person",
+      "A flag always means land was empty",
+      "Every country used one shared flag"
+    ],
+    "solution": "Claiming authority and receiving agreement are different things. European land claims often conflicted with Indigenous peoples’ sovereignty and rights.",
+    "hint": "Do not turn evidence of a claim into evidence of consent.",
+    "source": "NPS: When Worlds Collide; Significance of Spanish Colonial Missions"
+  },
+  {
+    "skill": "ss-lands",
+    "format": "classification",
+    "difficulty": 1,
+    "text": "Which goal is mainly about political power?",
+    "answers": [
+      "Claiming territory for a ruler",
+      "Using the angle of the sun to estimate a ship’s latitude",
+      "Using a compass and chart to follow a sailing route",
+      "Recording the kinds of food carried home from a voyage"
+    ],
+    "solution": "Claiming territory concerns authority and control. Instruments concern how to travel; food cargo concerns products.",
+    "hint": "Identify the goal about governing or controlling land.",
+    "source": "NPS: When Worlds Collide; Significance of Spanish Colonial Missions"
+  },
+  {
+    "skill": "ss-lands",
+    "format": "compare",
+    "difficulty": 2,
+    "text": "Which pairing best matches a shipboard object with a motive?",
+    "answers": [
+      "Royal banner → territorial power",
+      "Compass → desire to gain new territory",
+      "Astrolabe → desire to spread Christianity",
+      "Corn → authority to govern an inhabited coastline"
+    ],
+    "solution": "A royal banner can represent a ruler and territorial claim. Tools help with travel; crops do not measure location.",
+    "hint": "Match a symbol of a ruler with a goal involving that ruler.",
+    "source": "NPS: When Worlds Collide; Significance of Spanish Colonial Missions"
+  },
+  {
+    "skill": "ss-lands",
+    "format": "reasoning",
+    "difficulty": 3,
+    "text": "Which explanation avoids treating European expansion as a benefit for everyone?",
+    "answers": [
+      "It could enrich rulers while taking land and harming Indigenous communities",
+      "Every land claim improved life equally for all people",
+      "Only rulers had cultures worth studying",
+      "A successful voyage proves no one was harmed"
+    ],
+    "solution": "The consequences depended on whose experience is considered. European gains could come alongside Indigenous land loss, violence, and coercion.",
+    "hint": "Compare who gained power with who could lose land or freedom.",
+    "source": "NPS: When Worlds Collide; Significance of Spanish Colonial Missions"
+  },
+  {
+    "skill": "ss-beliefs",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "text": "Which belief system did many European missionaries seek to spread in the Americas?",
+    "answers": [
+      "Christianity",
+      "Religious beliefs they learned only after arriving in the Americas",
+      "The belief that every Indigenous religion should remain unchanged",
+      "The belief that religion and European expansion were never connected"
+    ],
+    "solution": "European missionaries sought to spread Christianity. Religion was one motive for expansion, alongside wealth and political power.",
+    "hint": "Choose a religion, rather than a technology or economic activity.",
+    "source": "NPS: Significance of Spanish Colonial Missions"
+  },
+  {
+    "skill": "ss-beliefs",
+    "format": "artifact",
+    "difficulty": 2,
+    "text": "Which shipboard object most directly suggests Christian religious activity?",
+    "answers": [
+      "A Bible",
+      "An astrolabe used for observations during an ocean crossing",
+      "A royal banner used to represent a European government",
+      "A written cargo list used to track the amount of silver"
+    ],
+    "solution": "A Bible is a Christian religious text. Its presence can support a religious connection, although it cannot prove everyone aboard shared the same motive.",
+    "hint": "Look for an object used in religious teaching or worship.",
+    "source": "NPS: Significance of Spanish Colonial Missions"
+  },
+  {
+    "skill": "ss-beliefs",
+    "format": "cause",
+    "difficulty": 2,
+    "text": "Why did Catholic rulers support priests traveling to the Americas?",
+    "answers": [
+      "They wanted to spread the Catholic Christian faith",
+      "They believed priests were needed mainly to draw more accurate coastlines",
+      "They expected missionaries to prevent every possible trading loss",
+      "They wanted missionaries to make Indigenous beliefs the official religion in Europe"
+    ],
+    "solution": "Supporting missionaries could serve a ruler’s religious goals. It was different from using instruments to navigate or searching for precious metals.",
+    "hint": "Connect a ruler’s religious support with conversion rather than location or cargo.",
+    "source": "NPS: Significance of Spanish Colonial Missions"
+  },
+  {
+    "skill": "ss-beliefs",
+    "format": "claim",
+    "difficulty": 3,
+    "text": "An archaeologist finds one Bible in a shipwreck. Which conclusion is best supported?",
+    "answers": [
+      "Christian religious materials were carried on that ship",
+      "Every person aboard traveled only for religion",
+      "The ship could not have carried trade goods",
+      "Every Indigenous person accepted the visitors’ religion"
+    ],
+    "solution": "The artifact supports the presence of Christian materials. One object cannot establish every traveler’s belief or rule out other purposes.",
+    "hint": "Make the smallest claim supported by the evidence you have.",
+    "source": "NPS: Significance of Spanish Colonial Missions"
+  },
+  {
+    "skill": "ss-beliefs",
+    "format": "compare",
+    "difficulty": 2,
+    "text": "How are seeking gold and sending missionaries different motives?",
+    "answers": [
+      "One seeks wealth; the other seeks to spread religious beliefs",
+      "Both are mainly methods for finding a safe route across the Atlantic",
+      "Both prove every sailor aboard had one identical personal reason",
+      "Sending missionaries is an economic goal while seeking gold is religious"
+    ],
+    "solution": "Precious metals relate to wealth. Missionary activity relates to spreading faith. A voyage could involve more than one motive.",
+    "hint": "Name the goal of each action before comparing them.",
+    "source": "NPS: Significance of Spanish Colonial Missions"
+  },
+  {
+    "skill": "ss-beliefs",
+    "format": "perspective",
+    "difficulty": 3,
+    "text": "Which statement treats religious conversion in its historical context?",
+    "answers": [
+      "Missionaries sought converts, but Indigenous peoples already had beliefs and did not all freely accept conversion",
+      "Indigenous peoples had no beliefs before missionaries arrived",
+      "Carrying a Bible proves every conversion was voluntary",
+      "All Europeans and Indigenous peoples practiced one identical religion"
+    ],
+    "solution": "Indigenous peoples had varied religious traditions. Describing missionary goals does not mean conversion was universal, freely chosen, or harmless.",
+    "hint": "A visitor’s goal does not tell you how every community responded.",
+    "source": "NPS: Significance of Spanish Colonial Missions"
+  },
+  {
+    "skill": "ss-beliefs",
+    "format": "classification",
+    "difficulty": 1,
+    "text": "Which entry belongs in the “religious motives” column?",
+    "answers": [
+      "Teaching Christianity to seek converts",
+      "Using a royal banner to claim land for a European ruler",
+      "Seeking profits by selling American crops in European markets",
+      "Taking sky observations to estimate a ship’s latitude"
+    ],
+    "solution": "Seeking converts is a religious goal. The other actions concern navigation, commerce, or maps.",
+    "hint": "Ask which action is about spreading beliefs.",
+    "source": "NPS: Significance of Spanish Colonial Missions"
+  },
+  {
+    "skill": "ss-beliefs",
+    "format": "reasoning",
+    "difficulty": 3,
+    "text": "A voyage carries a Bible, trade goods, and a royal banner. Which explanation fits best?",
+    "answers": [
+      "Religious, economic, and political purposes could overlap",
+      "The Bible proves no one cared about trade",
+      "The goods prove there was no religious activity",
+      "The banner proves the entire crew shared one personal goal"
+    ],
+    "solution": "European expansion often combined religion, trade, and power. Different objects can support different purposes without proving every person’s intentions.",
+    "hint": "More than one motive can be present in the same voyage.",
+    "source": "NPS: Significance of Spanish Colonial Missions"
+  },
+  {
+    "skill": "ss-wealth",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "text": "Which pair of materials did European rulers value as precious metals?",
+    "answers": [
+      "Gold and silver",
+      "Gold and tobacco sold as American crops",
+      "Silver and spices used as navigation instruments",
+      "Silk and potatoes carried as food plants"
+    ],
+    "solution": "Gold and silver were valued as wealth. Seeking them was an economic motive rather than a method of navigation.",
+    "hint": "Choose metals, rather than foods or ordinary construction materials.",
+    "source": "NPS: Prelude to Jamestown; When Worlds Collide"
+  },
+  {
+    "skill": "ss-wealth",
+    "format": "cause",
+    "difficulty": 2,
+    "text": "Why could merchants profit from a new sea route to Asian spices?",
+    "answers": [
+      "They hoped to obtain valuable goods through more direct trade",
+      "A new route would remove all costs and every risk from overseas trade",
+      "Merchants could profit only if Europeans had never wanted spices before",
+      "Asian goods would have no sale value once a sea route reached their source"
+    ],
+    "solution": "European demand for Asian goods encouraged more direct trade routes. Merchants hoped sales would exceed the costs and risks of the voyages.",
+    "hint": "Connect demand for goods with the possibility of earning money.",
+    "source": "NPS: Prelude to Jamestown; When Worlds Collide"
+  },
+  {
+    "skill": "ss-wealth",
+    "format": "compare",
+    "difficulty": 2,
+    "text": "Which distinction correctly separates a motive from a tool?",
+    "answers": [
+      "Seeking silver is a motive; using an astrolabe is a method",
+      "Using a compass is a motive; earning trade profits is a navigation method",
+      "Seeking gold is a navigation tool; sailing a route is a religious goal",
+      "Carrying a royal flag always proves profit was the voyage’s only motive"
+    ],
+    "solution": "The wish to gain wealth explains why someone supports a voyage. An astrolabe helps explain how sailors navigate it.",
+    "hint": "Ask whether each item is a desired result or a way of traveling.",
+    "source": "NPS: Prelude to Jamestown; When Worlds Collide"
+  },
+  {
+    "skill": "ss-wealth",
+    "format": "scenario",
+    "difficulty": 2,
+    "text": "A merchant funds a voyage hoping to sell its cargo for more than the voyage costs. What is the main motive?",
+    "answers": [
+      "Profit",
+      "Measuring the ship’s latitude from the stars",
+      "Converting people to a religious faith",
+      "Recording the locations of unfamiliar coastlines"
+    ],
+    "solution": "The merchant expects a financial gain from trade. That is an economic motive, even if others on the voyage have additional goals.",
+    "hint": "Follow what this particular merchant hopes to gain.",
+    "source": "NPS: Prelude to Jamestown; When Worlds Collide"
+  },
+  {
+    "skill": "ss-wealth",
+    "format": "claim",
+    "difficulty": 3,
+    "text": "A teammate says, “Wealth meant only gold; crops could never earn money.” Which correction is strongest?",
+    "answers": [
+      "Valuable crops and trade goods could also produce profits",
+      "Trade profits were possible only from cargo containing gold and silver",
+      "Crop sales were religious activity rather than economic activity",
+      "Only crops kept for the grower’s own meals could provide trade income"
+    ],
+    "solution": "Wealth could come from trade and crop sales as well as precious metals. Tobacco exports are one example of a profitable product.",
+    "hint": "Something does not need to be metal to have a market value.",
+    "source": "NPS: Prelude to Jamestown; When Worlds Collide"
+  },
+  {
+    "skill": "ss-wealth",
+    "format": "evidence",
+    "difficulty": 3,
+    "text": "A voyage record describes large payments for silver cargo. What can it most directly support?",
+    "answers": [
+      "The cargo had economic value to the people involved",
+      "The ship’s compass was accurate",
+      "Every worker involved was treated fairly",
+      "The whole crew traveled only to convert people"
+    ],
+    "solution": "Payments for silver support an economic connection. They do not establish navigation accuracy, fair treatment, or everyone’s private motives.",
+    "hint": "Match the conclusion to the kind of evidence in the record.",
+    "source": "NPS: Prelude to Jamestown; When Worlds Collide"
+  },
+  {
+    "skill": "ss-wealth",
+    "format": "perspective",
+    "difficulty": 3,
+    "text": "Why should a history account mention forced labor alongside European wealth from conquest?",
+    "answers": [
+      "Some gains depended on exploiting people who did not share those benefits",
+      "All mining was freely chosen and equally rewarded",
+      "Metal cargo proves everyone became wealthy",
+      "Labor conditions are unrelated to how resources were obtained"
+    ],
+    "solution": "A complete explanation considers how wealth was obtained and who bore the costs. Conquest and forced labor harmed Indigenous peoples.",
+    "hint": "Ask who gained resources and who was made to work.",
+    "source": "NPS: Prelude to Jamestown; When Worlds Collide"
+  },
+  {
+    "skill": "ss-wealth",
+    "format": "classification",
+    "difficulty": 1,
+    "text": "Which item best belongs under “economic motive for exploration”?",
+    "answers": [
+      "Gaining access to valuable trade goods",
+      "A chart showing possible landing places along a newly mapped coast",
+      "An astrolabe providing sky measurements during an Atlantic crossing",
+      "A magnetic compass helping the captain maintain a chosen heading"
+    ],
+    "solution": "Access to profitable goods is a desired economic result. Compass roses, sky angles, and steering equipment concern travel methods.",
+    "hint": "A motive is something people want to achieve.",
+    "source": "NPS: Prelude to Jamestown; When Worlds Collide"
+  },
+  {
+    "skill": "ss-foods",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "text": "Which pair includes crops Indigenous peoples grew in the Americas before European arrival?",
+    "answers": [
+      "Corn and potatoes",
+      "Wheat and barley introduced from Europe",
+      "Rice and tea associated with Asian agriculture",
+      "Olives and wheat associated with the Mediterranean"
+    ],
+    "solution": "Corn and potatoes were American crops that later spread widely beyond the Americas. Indigenous peoples cultivated them before European arrival.",
+    "hint": "Think of foods that traveled from the Americas to Europe.",
+    "source": "NPS: American Latino Theme Study: Food; Columbian Exchange"
+  },
+  {
+    "skill": "ss-foods",
+    "format": "direction",
+    "difficulty": 2,
+    "text": "Which arrow correctly describes the later spread of American potatoes?",
+    "answers": [
+      "Americas → Europe",
+      "Europe → Americas before Indigenous farming",
+      "Asia → Europe on Columbus’s 1492 return voyage",
+      "Europe → the Americas only after 1900"
+    ],
+    "solution": "Potatoes were cultivated in the Americas before they were introduced to Europe. The arrow tracks the movement asked about, not all global exchange.",
+    "hint": "Start with the food’s origin, then identify the receiving region.",
+    "source": "NPS: American Latino Theme Study: Food; Columbian Exchange"
+  },
+  {
+    "skill": "ss-foods",
+    "format": "classification",
+    "difficulty": 2,
+    "text": "Which cargo group contains American food plants rather than navigation tools?",
+    "answers": [
+      "Corn, beans, and squash",
+      "Compass, astrolabe, and a hand-drawn sailing chart",
+      "Royal banner, Bible, and a written proclamation",
+      "Silver cargo, a chart, and a magnetic compass"
+    ],
+    "solution": "Corn, beans, and squash are food crops with Indigenous American histories. The other lists include instruments, symbols, or metals.",
+    "hint": "Separate things people grew and ate from objects used to sail.",
+    "source": "NPS: American Latino Theme Study: Food; Columbian Exchange"
+  },
+  {
+    "skill": "ss-foods",
+    "format": "claim",
+    "difficulty": 3,
+    "text": "A label says, “Europeans invented corn when they found the Americas.” Which correction is accurate?",
+    "answers": [
+      "Indigenous peoples had cultivated corn long before European arrival",
+      "Corn was developed in Europe and first carried west by Columbus",
+      "Indigenous people began farming only after European explorers arrived",
+      "European maps are the only evidence that a crop existed before contact"
+    ],
+    "solution": "American crops were the result of Indigenous agricultural knowledge and cultivation. European arrival helped spread them abroad, not invent them.",
+    "hint": "Distinguish growing and developing a crop from carrying it somewhere new.",
+    "source": "NPS: American Latino Theme Study: Food; Columbian Exchange"
+  },
+  {
+    "skill": "ss-foods",
+    "format": "scenario",
+    "difficulty": 2,
+    "text": "A museum display traces tomatoes from the Americas into European cooking. What does this illustrate?",
+    "answers": [
+      "The movement of foods between regions after contact",
+      "The use of American food plants to measure a ship’s latitude",
+      "The replacement of every European food crop as soon as contact occurred",
+      "The discovery that tomatoes were already a European crop before contact"
+    ],
+    "solution": "Tomatoes are among American crops that spread beyond the Americas. Food exchange changed what people could grow and eat.",
+    "hint": "What kind of thing is moving in this display?",
+    "source": "NPS: American Latino Theme Study: Food; Columbian Exchange"
+  },
+  {
+    "skill": "ss-foods",
+    "format": "compare",
+    "difficulty": 2,
+    "text": "How is a sack of corn different from a compass in an exploration exhibit?",
+    "answers": [
+      "Corn can be a transported food product; a compass is a navigation tool",
+      "Corn is evidence of a royal land claim; a compass is a trade product",
+      "Both objects were used mainly to estimate latitude from sky angles",
+      "A compass shows a religious motive; corn is a directional instrument"
+    ],
+    "solution": "The distinction is function: a food product may be carried as cargo, while a compass helps sailors travel.",
+    "hint": "Classify by purpose rather than simply saying both could be aboard a ship.",
+    "source": "NPS: American Latino Theme Study: Food; Columbian Exchange"
+  },
+  {
+    "skill": "ss-foods",
+    "format": "perspective",
+    "difficulty": 3,
+    "text": "Why should the lesson explain that foods were “new to Europeans” rather than “new to everyone”?",
+    "answers": [
+      "Indigenous peoples already knew and grew those foods",
+      "Europeans were the first humans to eat food",
+      "Every American plant was created during an ocean crossing",
+      "Food could not exist without being on a European map"
+    ],
+    "solution": "“New” depends on whose experience is described. The crops were familiar to the Indigenous communities that cultivated and used them.",
+    "hint": "Ask whose knowledge is being left out of the label.",
+    "source": "NPS: American Latino Theme Study: Food; Columbian Exchange"
+  },
+  {
+    "skill": "ss-foods",
+    "format": "evidence",
+    "difficulty": 3,
+    "text": "A later European recipe includes potatoes, while an earlier local recipe does not. With other evidence, what change could this help illustrate?",
+    "answers": [
+      "American crops became part of European diets over time",
+      "Every European household adopted potatoes on the same day",
+      "The crop must have originated in Europe because a European recipe used it",
+      "The absence of potatoes from one recipe proves no one in Europe had eaten them"
+    ],
+    "solution": "Recipes can provide evidence of changing diets. A single recipe cannot show what everyone ate or establish an exact date of adoption.",
+    "hint": "Use the source to support a limited claim about food and change.",
+    "source": "NPS: American Latino Theme Study: Food; Columbian Exchange"
+  },
+  {
+    "skill": "ss-crops",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "text": "What is a cash crop?",
+    "answers": [
+      "A crop grown mainly to sell for income",
+      "A crop grown mainly for the grower’s own household meals",
+      "A crop that can only be bought with gold rather than other goods",
+      "A crop defined by where it grows rather than its intended market"
+    ],
+    "solution": "Cash crops are grown mainly for sale. The term describes the purpose of production, not a special kind of seed or coin-making plant.",
+    "hint": "Focus on why the grower is producing the crop.",
+    "source": "NPS: A Short History of Jamestown; Tobacco: Colonial Cultivation Methods"
+  },
+  {
+    "skill": "ss-crops",
+    "format": "example",
+    "difficulty": 1,
+    "text": "Which crop native to the Americas became a major colonial export from Virginia to Europe?",
+    "answers": [
+      "Tobacco",
+      "Tea originating in Asia",
+      "Olives originating in the Mediterranean region",
+      "Wheat originating outside the Americas"
+    ],
+    "solution": "Tobacco became a profitable export from colonies such as Virginia to European markets. It is a classic cash-crop example.",
+    "hint": "Choose a crop grown for buyers rather than a metal or navigation tool.",
+    "source": "NPS: A Short History of Jamestown; Tobacco: Colonial Cultivation Methods"
+  },
+  {
+    "skill": "ss-crops",
+    "format": "compare",
+    "difficulty": 2,
+    "text": "Farmer A grows beans mainly for family meals. Farmer B grows tobacco mainly to sell abroad. Which is the cash-crop example?",
+    "answers": [
+      "Farmer B’s tobacco",
+      "Only Farmer A’s beans",
+      "Neither, because crops cannot be sold",
+      "Both, because every plant is always a cash crop"
+    ],
+    "solution": "The described purpose matters. Farmer B grows tobacco chiefly for sale; Farmer A’s beans are primarily for the household to eat.",
+    "hint": "Look for the crop intended mainly for a market.",
+    "source": "NPS: A Short History of Jamestown; Tobacco: Colonial Cultivation Methods"
+  },
+  {
+    "skill": "ss-crops",
+    "format": "cause",
+    "difficulty": 2,
+    "text": "European buyers want more tobacco. Why might colonial growers plant more of it?",
+    "answers": [
+      "They hope to earn money from the demand",
+      "Demand meant growers could earn profit without producing a harvest",
+      "More buyers guaranteed every farm would make the same amount of profit",
+      "European demand meant tobacco was only for growers’ own households"
+    ],
+    "solution": "Demand creates an opportunity for sales. Growers may increase production to seek profit, though demand does not guarantee a profit.",
+    "hint": "Connect buyers wanting a product with growers hoping to sell it.",
+    "source": "NPS: A Short History of Jamestown; Tobacco: Colonial Cultivation Methods"
+  },
+  {
+    "skill": "ss-crops",
+    "format": "claim",
+    "difficulty": 3,
+    "text": "A teammate says, “Tobacco sold well, so it must have been healthy.” Which response is strongest?",
+    "answers": [
+      "Popularity and profit do not prove a product is healthy",
+      "A product that earns money must be safe for everyone who uses it",
+      "A high sale price proves the workers who grew it were treated fairly",
+      "European demand made health and working conditions irrelevant to history"
+    ],
+    "solution": "Economic value is different from health or fairness. Tobacco’s profitability does not make smoking healthy or prove fair labor conditions.",
+    "hint": "Separate a claim about money from a claim about health.",
+    "source": "NPS: A Short History of Jamestown; Tobacco: Colonial Cultivation Methods"
+  },
+  {
+    "skill": "ss-crops",
+    "format": "direction",
+    "difficulty": 2,
+    "text": "A record describes Virginia tobacco shipped to English buyers. Which trade direction does that describe?",
+    "answers": [
+      "Americas → Europe",
+      "Europe → Asia",
+      "Asia → the Americas",
+      "Antarctica → Europe"
+    ],
+    "solution": "Virginia is in the Americas; England is in Europe. The tobacco shipment moved across the Atlantic to European buyers.",
+    "hint": "Locate the place of production and the place of purchase.",
+    "source": "NPS: A Short History of Jamestown; Tobacco: Colonial Cultivation Methods"
+  },
+  {
+    "skill": "ss-crops",
+    "format": "perspective",
+    "difficulty": 3,
+    "text": "What should a careful account include when describing profits from colonial cash crops?",
+    "answers": [
+      "The labor and exploitation behind production, including enslaved workers",
+      "Only the amount of money earned by owners",
+      "A claim that everyone who worked was free",
+      "A claim that profit proves there was no suffering"
+    ],
+    "solution": "Cash-crop profits must be understood alongside the people forced to produce them. Plantation systems used exploited and enslaved labor.",
+    "hint": "Ask who did the work and whether they could freely choose it.",
+    "source": "NPS: A Short History of Jamestown; Tobacco: Colonial Cultivation Methods"
+  },
+  {
+    "skill": "ss-crops",
+    "format": "application",
+    "difficulty": 2,
+    "text": "A farmer grows corn mainly to sell in a market instead of eating it at home. Can it count as a cash crop?",
+    "answers": [
+      "Yes; the main purpose is sale, even though corn is also food",
+      "No; tobacco is the only plant that can fit the cash-crop category",
+      "No; a crop used as food can never also be produced mainly for a market",
+      "Yes; growing a crop in the Americas makes it a cash crop regardless of purpose"
+    ],
+    "solution": "A crop’s use in the situation matters. Corn can be grown for sale or for household food; “cash crop” describes production mainly for sale.",
+    "hint": "Do not confuse one common example with the whole definition.",
+    "source": "NPS: A Short History of Jamestown; Tobacco: Colonial Cultivation Methods"
+  },
+  {
+    "skill": "ss-artifacts",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "text": "What does an archaeologist study to learn about past people?",
+    "answers": [
+      "Artifacts, sites, and other physical evidence",
+      "Only written accounts, without comparing them with physical remains",
+      "Only maps, without considering the people who made or used them",
+      "Only naturally occurring rocks unrelated to human activity"
+    ],
+    "solution": "Archaeologists study physical traces of past people and cultures. Objects and their locations can help answer historical questions.",
+    "hint": "Think about material evidence left by people.",
+    "source": "NPS: About Archeology; navigation, missions, and food references"
+  },
+  {
+    "skill": "ss-artifacts",
+    "format": "classification",
+    "difficulty": 2,
+    "text": "Your squad sorts a museum exhibit into tools, motives, and products. Where does a magnetic compass belong?",
+    "answers": [
+      "Navigation tools",
+      "Products of Indigenous farming sent to European buyers",
+      "Objects showing a religious motive for a voyage",
+      "Cargo grown chiefly to earn income through overseas sales"
+    ],
+    "solution": "A compass helped sailors navigate. It was useful during travel rather than being a crop or a reason to seek converts.",
+    "hint": "Ask what someone would do with the object aboard a ship.",
+    "source": "NPS: About Archeology; navigation, missions, and food references"
+  },
+  {
+    "skill": "ss-artifacts",
+    "format": "application",
+    "difficulty": 2,
+    "text": "Which matching set correctly connects three objects with lesson categories?",
+    "answers": [
+      "Astrolabe → navigation; royal flag → claimed power; tobacco → product",
+      "Astrolabe → food; royal flag → latitude; tobacco → direction",
+      "Astrolabe → religion; royal flag → crop; tobacco → map",
+      "Astrolabe → gold; royal flag → food; tobacco → navigation"
+    ],
+    "solution": "These matches use each object’s historical function: an instrument, a political symbol, and a crop for trade.",
+    "hint": "Use tools for how, symbols for motives, and cargo for products.",
+    "source": "NPS: About Archeology; navigation, missions, and food references"
+  },
+  {
+    "skill": "ss-artifacts",
+    "format": "claim",
+    "difficulty": 3,
+    "text": "A shipwreck contains a compass and corn kernels. Which conclusion is most cautious?",
+    "answers": [
+      "It carried a navigation tool and a food plant, but more context is needed",
+      "Its captain traveled only to spread Christianity",
+      "Every person aboard was from one country",
+      "The corn proves the ship never crossed an ocean"
+    ],
+    "solution": "Objects can support limited claims about equipment and cargo. They do not alone establish everyone’s identity, route, or motive.",
+    "hint": "Use only the claim the two objects can actually support.",
+    "source": "NPS: About Archeology; navigation, missions, and food references"
+  },
+  {
+    "skill": "ss-artifacts",
+    "format": "compare",
+    "difficulty": 2,
+    "text": "Which pair best represents a religious motive and a food product?",
+    "answers": [
+      "Bible and corn",
+      "Compass and astrolabe, both used to help navigate a crossing",
+      "Royal banner and map, showing a ruler’s claim and a route",
+      "Gold and silver, both valued as precious-metal wealth"
+    ],
+    "solution": "A Bible connects with Christianity; corn is a food crop. Objects can help organize the lesson’s different kinds of evidence.",
+    "hint": "Identify one religious text and one American crop.",
+    "source": "NPS: About Archeology; navigation, missions, and food references"
+  },
+  {
+    "skill": "ss-artifacts",
+    "format": "evidence",
+    "difficulty": 3,
+    "text": "Why record where an artifact was found instead of studying the object alone?",
+    "answers": [
+      "Its location and nearby objects can help explain its use and date",
+      "Location automatically tells every person’s beliefs",
+      "Objects have no features worth studying",
+      "Every artifact from one site has the same owner"
+    ],
+    "solution": "Context helps archaeologists interpret objects. Nearby materials and location can support or challenge an explanation about their use.",
+    "hint": "An object’s surroundings are part of the evidence.",
+    "source": "NPS: About Archeology; navigation, missions, and food references"
+  },
+  {
+    "skill": "ss-artifacts",
+    "format": "definition",
+    "difficulty": 1,
+    "text": "Which example is an artifact: an object made or used by people?",
+    "answers": [
+      "A worn compass from an old ship",
+      "An ocean current whose flow helped a ship cross the Atlantic",
+      "A wind direction that helped sailors choose a route",
+      "A naturally occurring cloud that obscured the stars"
+    ],
+    "solution": "The compass is a physical object people made and used. Currents, weather, and directions are not human-made or used objects of this kind.",
+    "hint": "Look for a tangible object connected with human activity.",
+    "source": "NPS: About Archeology; navigation, missions, and food references"
+  },
+  {
+    "skill": "ss-artifacts",
+    "format": "reasoning",
+    "difficulty": 3,
+    "text": "Which museum label best separates evidence from an overconfident guess?",
+    "answers": [
+      "“This royal banner suggests a link to a ruler; it does not prove every motive aboard.”",
+      "“One banner proves the entire crew had identical goals.”",
+      "“A banner proves Indigenous peoples agreed to all claims.”",
+      "“A banner means the ship carried no trading goods.”"
+    ],
+    "solution": "The careful label explains what an object can suggest and what remains uncertain. Historical reasoning should not make one object answer every question.",
+    "hint": "A strong explanation states both its evidence and its limits.",
+    "source": "NPS: About Archeology; navigation, missions, and food references"
+  }
+]

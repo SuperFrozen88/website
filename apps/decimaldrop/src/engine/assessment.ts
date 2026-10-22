@@ -1,4 +1,5 @@
 import type { UnitId } from './units';
+import { socialStudiesBank } from './social-studies';
 import { multiplicationBank } from './multiplication';
 import { scienceBank } from './science';
 import { skillsFor, assessmentConfig as config } from './curriculum';
@@ -23,7 +24,7 @@ export function assess(p:Progress,now=Date.now(),unit:UnitId='decimals'):Evidenc
  status='Developing';
  if(independent.length>=3 && rate!==null && rate<0.5 && recentRate!==null && recentRate<0.5) status='Needs Practice';
  if(independent.length>=config.minimumEvidence && (rate??0)>=config.proficientSuccessRate && (recentRate??0)>=0.8 && sessions>=config.proficientSessions && families>=2)status='Proficient';
- const available=[...questionBank,...remixBank,...scienceBank,...multiplicationBank].filter(q=>q.skill===skill.id);
+ const available=[...questionBank,...remixBank,...scienceBank,...multiplicationBank,...socialStudiesBank].filter(q=>q.skill===skill.id);
  const availableDifficulty=Math.max(...available.map(q=>q.difficulty));
  const requiredFamilies=Math.min(3,new Set(available.map(q=>q.family)).size);
  if(status==='Proficient' && independent.length>=config.masteredEvidence && (rate??0)>=config.masteredSuccessRate && (recentRate??0)>=0.9 && sessions>=config.masteredSessions && highest>=Math.min(config.masteredDifficulty,availableDifficulty) && families>=requiredFamilies)status='Mastered';

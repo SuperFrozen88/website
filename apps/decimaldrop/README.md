@@ -1,17 +1,21 @@
 # Decimal Drop
 
-A Fortnite-inspired Battle Lab for fifth-grade math and science. React, TypeScript, Vite, Tailwind CSS, local SVG artwork, and Lucide icons. No accounts, backend, tracking, paid API, or external assets at runtime. This is an unofficial fan-inspired learning app, not affiliated with Epic Games or Go Math!/HMH.
+A Fortnite-inspired Battle Lab for fifth-grade math, science, and social studies. React, TypeScript, Vite, Tailwind CSS, local SVG artwork, and Lucide icons. No accounts, backend, tracking, paid API, or external assets at runtime. This is an unofficial fan-inspired learning app, not affiliated with Epic Games, Go Math!/HMH, or TCI.
 
 ## Choose a subject and dropzone
+
+The family’s [Grade 5 Social Studies and Science year-plan photo and transcription](docs/reference/README.md) are retained for planning future units.
 
 - **Math → Adding & Subtracting Decimals / Tilted Totals:** original 348-question bank plus 132 new Fortnite mission variants (480 seeded math questions, with additional deterministic generation).
 - **Math → Multiplying Decimals / Product Peaks:** 192 validated seeded questions across 12 subskills, plus deterministic generation. Family-approved provisional Chapter 4 scope, visibly unverified; app labels are not official Go Math! lesson titles. Covers whole and decimal factors, place value, models, estimation, powers of ten, zeros/regrouping, scaling, money, measurement, multi-step stories, missing factors, and reasoning.
 - **Science → Mixtures & Chemical Reactions / Reaction Royale:** 80 authored questions covering every section of the supplied Grade 5 review sheet: mixtures, solutions, new substances, gas, temperature, new solids, new smells, color, physical-change counterexamples, and evidence-based explanations.
 - **Science → Properties of Matter / Loot Lab:** 100 reviewed questions adapted from James’s TVA quiz, covering vocabulary, magnetism, electrical and thermal conductivity, solubility, measurement, mass/weight, observable properties, states, and investigation.
 
-Science practice follows the TVA interaction: choose one of four shuffled answers, then see the correct answer and explanation immediately. Practice tests still conceal correctness until the final debrief. The scratchpad is available for thinking through an explanation; the app does not pretend to automatically grade free-text science reasoning. Study cards under **Mission intel** summarize each unit before a quiz.
+- **Social Studies → How and Why Europeans Came to the New World / Compass Cove:** TCI Lesson 4, with 80 original multiple-choice questions across 10 skills and 11 study cards. The supplied year-plan confirms the classroom title and 9-section count. Questions follow the eight topic areas in TCI’s newer published outline, plus era/vocabulary and artifact interpretation. Individual classroom section texts and exact quiz coverage remain unconfirmed.
 
-The first three standard quizzes are diagnostic **for each unit independently**. Each science quiz samples all ten configured skills. Readiness and parent analytics are scoped to the equipped unit; a math score never increases science readiness. XP and badges are shared. Switching units parks unfinished missions, including drafts and scratch work, and restores them when that unit is equipped again.
+Science and Social Studies practice follow the TVA interaction: choose one of four shuffled answers, then see the correct answer and explanation immediately. Practice tests still conceal correctness until the final debrief. The scratchpad is available for thinking through an explanation; the app does not pretend to automatically grade free-text science reasoning. Study cards under **Mission intel** summarize each unit before a quiz.
+
+The first three standard quizzes are diagnostic **for each unit independently**. Each science or Social Studies quiz samples all ten of its configured skills. Readiness and parent analytics are scoped to the equipped unit; a math score never increases science readiness. XP and badges are shared. Switching units parks unfinished missions, including drafts and scratch work, and restores them when that unit is equipped again.
 
 ### Existing progress and content variety
 
@@ -48,6 +52,12 @@ pnpm test:e2e
 ```
 
 The browser tests verify a complete diagnostic quiz, hints and retries, scratchpad refresh recovery, parent targeting, practice-test answer concealment, early stopping, export/import, and mobile overflow. Screenshots are written to `.qa/`.
+
+## Social Studies: study for Lesson 4
+
+Choose **Social Studies → How and Why Europeans Came to the New World**. Read **Mission intel**, then start a **Standard Quiz** (12 questions). Practice gives immediate explanations; **Practice Test** (20 questions) hides answers until the debrief. Start with broad coverage, then use parent-targeted practice for gaps. Repeated independent evidence is required for readiness; the app cannot certify tomorrow’s classroom quiz.
+
+The assessed scope is ocean crossing/astrolabe, directions/compass, maps/logs, claimed lands/nation-states, religious motives, wealth/trade, American foods, cash crops/tobacco, and interpreting artifacts. Detailed explorer-route matching belongs to **Lesson 5** and is deliberately not tested here. These are original study questions, not copied TCI text or assessments. [Source and scope notes](docs/social-studies-lesson-4.md) explain the outline match and historical fact checks.
 
 ## For your first week
 
@@ -97,7 +107,7 @@ Heuristics are configurable in `assessmentConfig`, not a standardized or scienti
 
 ## Progress, backups and privacy
 
-Data is stored in localStorage under `decimal-drop-progress-v1`. It includes sessions, generated questions, responses, attempts, time, hints, scratch work, XP, sound preference, and active drafts. Mastery, achievements and parent analytics are recomputed from this persisted evidence. All four units can retain an unfinished mission at once, including three parked missions. Paused work survives refresh and browser restart; there is no cloud sync.
+Data is stored in localStorage under `decimal-drop-progress-v1`. It includes sessions, generated questions, responses, attempts, time, hints, scratch work, XP, sound preference, and active drafts. Mastery, achievements and parent analytics are recomputed from this persisted evidence. All five units can retain an unfinished mission at once, including four parked missions. Paused work survives refresh and browser restart; there is no cloud sync.
 
 Use **Export** in the footer regularly, particularly before clearing browser data, changing ports, using private browsing, or updating question templates. **Import** validates a version-1 JSON file and restores it, replacing the current profile. Malformed or incompatible imports leave current progress intact. There is one student profile per browser origin.
 
@@ -115,6 +125,9 @@ XP rewards answered challenges (10), independent first-try success (+10), correc
 - `src/engine/decimal.ts`: exact decimal input and equivalence
 - `src/engine/questions.ts`: validated bank and deterministic generators
 - `src/engine/multiplication.ts`: separate provisional multiplication taxonomy, 192 seeded prompts, and exact generators
+- `src/engine/social-studies.ts` / `exploration-bank.json`: sourced Lesson 4 taxonomy, 80 original questions, and study cards
+- `docs/social-studies-lesson-4.md`: lesson sources, coverage, and edition limitations
+- `docs/reference/`: original family-provided year-plan photo and transcription
 - `src/engine/session.ts`: diagnostic/adaptive selection, attempts, sessions, rewards
 - `src/engine/assessment.ts`: conservative mastery, readiness, recommendations
 - `src/engine/storage.ts`: versioned persistence, import validation and recovery
