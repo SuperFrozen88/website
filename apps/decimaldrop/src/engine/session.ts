@@ -1,4 +1,5 @@
 import { units, type UnitId } from './units';
+import { socialStudiesBank } from './social-studies';
 import { scienceBank } from './science';
 import { skills, allSkills, skillsFor, modes, assessmentConfig } from './curriculum';
 import { assess, allResponses } from './assessment';
@@ -27,12 +28,12 @@ export function selectQuestion(p:Progress,s:Session):Question {
  candidates.sort((a,b)=>rank(a.id)-rank(b.id));
  const skill=candidates[0]||unitSkills[0];
  if(unit!=='decimals'&&unit!=='multiplication'){
- const pool=scienceBank.filter(q=>q.skill===skill.id&&!s.questions.some(existing=>existing.id===q.id));
+ const pool=[...scienceBank,...socialStudiesBank].filter(q=>q.skill===skill.id&&!s.questions.some(existing=>existing.id===q.id));
  const families=s.questions.filter(q=>q.skill===skill.id).slice(-2).map(q=>q.family);
  const formatCount=(q:Question)=>history.filter(r=>r.response.question.skill===skill.id&&r.response.question.family===q.family).length;
  const lastSeen=(q:Question)=>history.reduce((last,r,i)=>r.response.question.id===q.id?i:last,-1);
  pool.sort((a,b)=>Number(used.has(a.id))-Number(used.has(b.id)) || formatCount(a)-formatCount(b) || Number(families.includes(a.family))-Number(families.includes(b.family)) || lastSeen(a)-lastSeen(b));
- if(!pool.length)throw new Error('No distinct science questions remain in this mission');
+ if(!pool.length)throw new Error('No distinct unit questions remain in this mission');
  return generateQuestion(pool[0].skill,Number(pool[0].id.split(':')[1]));
  }
  const remixes=remixBank.filter(q=>q.skill===skill.id&&!used.has(q.id));
@@ -69,6 +70,7 @@ export function makeResponse(s:Session,seconds:number):Response {
  if(!firstCorrect&&answers.length){const n=parseDecimal(answers[0]);const pattern=n===null?undefined:q.misconceptions[decimal(n)];if(pattern&&pattern!=='Unclassified')error=`Possible ${pattern.toLowerCase()}`;
  if(q.kind==='choice'&&q.skill==='operation')error='Incorrect operation selection';
  if(q.kind==='choice'&&q.skill==='alignment')error='Place-value reasoning';
+ if(q.proof.op==='history')error='Review the historical evidence';
  if(q.proof.op==='science')error=q.misconceptions[answers[0]]||'Review the evidence';}
  return {question:q,answers:[...answers],correct,firstCorrect,independent:!(s.draft.firstHinted??s.draft.hinted),hinted:s.draft.hinted,seconds:Math.max(0,Math.round(seconds)),at:Date.now(),error:firstCorrect?'None':error,work:s.draft.work};
 }

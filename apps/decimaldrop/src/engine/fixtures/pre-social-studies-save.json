@@ -1,0 +1,1326 @@
+{
+  "version": 1,
+  "sessions": [
+    {
+      "unit": "decimals",
+      "id": "79e8402f-8cd2-4cad-95c6-1be7b24d8a73",
+      "mode": "standard",
+      "diagnostic": true,
+      "target": [],
+      "questions": [
+        {
+          "id": "digit:0",
+          "skill": "digit",
+          "difficulty": 2,
+          "kind": "numeric",
+          "family": "digit-0",
+          "text": "In 2.200, what is the value of the digit 2 in the tenths place?",
+          "answer": "0.2",
+          "equivalents": [
+            "0.200"
+          ],
+          "solution": "The tenths place is 1 place to the right of the decimal point. 2 tenths = 0.2.",
+          "hint": "Name each place as you move right from the decimal point.",
+          "misconceptions": {
+            "1.2": "Place-value misunderstanding",
+            "0.3": "Place-value misunderstanding"
+          },
+          "estimatedSeconds": 60,
+          "proof": {
+            "op": "identity",
+            "values": [
+              200
+            ],
+            "result": 200
+          }
+        },
+        {
+          "id": "round:0",
+          "skill": "round",
+          "difficulty": 2,
+          "kind": "numeric",
+          "family": "round-0",
+          "text": "Round EACH number to the nearest whole number, then estimate the sum.",
+          "expression": "2.38 + 2.64",
+          "answer": "5",
+          "equivalents": [
+            "5.000"
+          ],
+          "solution": "2.38 rounds to 2 and 2.64 rounds to 3. Estimate: 2 + 3 = 5.",
+          "hint": "Look at the tenths digit to round each number first.",
+          "misconceptions": {
+            "6": "Rounding error",
+            "5.1": "Rounding error"
+          },
+          "estimatedSeconds": 60,
+          "proof": {
+            "op": "round",
+            "values": [
+              2380,
+              2640
+            ],
+            "result": 5000
+          }
+        },
+        {
+          "id": "add-basic:0",
+          "skill": "add-basic",
+          "difficulty": 1,
+          "kind": "numeric",
+          "family": "add-basic-0",
+          "text": "Calculate the result.",
+          "expression": "2.1 + 0.2",
+          "answer": "2.3",
+          "equivalents": [
+            "2.300"
+          ],
+          "solution": "Line up decimal points: 2.100 + 0.200 = 2.300. Add each column from right to left, regrouping 10 of one place as 1 of the next place.",
+          "hint": "Line up the decimal points. Add trailing zeros when needed.",
+          "misconceptions": {
+            "3.3": "Unclassified",
+            "2.4": "Unclassified"
+          },
+          "estimatedSeconds": 60,
+          "proof": {
+            "op": "add",
+            "values": [
+              2100,
+              200
+            ],
+            "result": 2300
+          }
+        },
+        {
+          "id": "loot-sub-basic:0",
+          "skill": "sub-basic",
+          "difficulty": 1,
+          "kind": "numeric",
+          "family": "loot-0",
+          "text": "Your squad starts with 2.8 m of cable and uses 0.3 m to repair a Reboot Van prop. How many meters remain?",
+          "answer": "2.5",
+          "equivalents": [
+            "2.500"
+          ],
+          "solution": "Line up decimal points: 2.800 − 0.300 = 2.500. Add zeros without changing the numbers. Regroup if a top digit is smaller. Check by adding back: 2.5 + 0.3 = 2.8.",
+          "hint": "Line up the decimal points. Add trailing zeros when needed.",
+          "misconceptions": {
+            "3.5": "Unclassified",
+            "2.6": "Unclassified"
+          },
+          "estimatedSeconds": 60,
+          "proof": {
+            "op": "sub",
+            "values": [
+              2800,
+              300
+            ],
+            "result": 2500
+          },
+          "format": "inventory"
+        },
+        {
+          "id": "add-regroup:0",
+          "skill": "add-regroup",
+          "difficulty": 3,
+          "kind": "numeric",
+          "family": "add-regroup-0",
+          "text": "Calculate the result.",
+          "expression": "2.78 + 1.67",
+          "answer": "4.45",
+          "equivalents": [
+            "4.450"
+          ],
+          "solution": "Line up decimal points: 2.780 + 1.670 = 4.450. Add each column from right to left, regrouping 10 of one place as 1 of the next place.",
+          "hint": "Line up the decimal points. Add trailing zeros when needed.",
+          "misconceptions": {
+            "5.45": "Incorrect regrouping",
+            "4.55": "Incorrect regrouping"
+          },
+          "estimatedSeconds": 60,
+          "proof": {
+            "op": "add",
+            "values": [
+              2780,
+              1670
+            ],
+            "result": 4450
+          }
+        },
+        {
+          "id": "loot-sub-regroup:0",
+          "skill": "sub-regroup",
+          "difficulty": 3,
+          "kind": "numeric",
+          "family": "loot-0",
+          "text": "Your squad starts with 2.32 m of cable and uses 1.78 m to repair a Reboot Van prop. How many meters remain?",
+          "answer": "0.54",
+          "equivalents": [
+            "0.540"
+          ],
+          "solution": "Line up decimal points: 2.320 − 1.780 = 0.540. Add zeros without changing the numbers. Regroup if a top digit is smaller. Check by adding back: 0.54 + 1.78 = 2.32.",
+          "hint": "Line up the decimal points. Add trailing zeros when needed.",
+          "misconceptions": {
+            "1.54": "Incorrect regrouping",
+            "0.64": "Incorrect regrouping"
+          },
+          "estimatedSeconds": 60,
+          "proof": {
+            "op": "sub",
+            "values": [
+              2320,
+              1780
+            ],
+            "result": 540
+          },
+          "format": "inventory"
+        },
+        {
+          "id": "sub-zeros:0",
+          "skill": "sub-zeros",
+          "difficulty": 4,
+          "kind": "numeric",
+          "family": "sub-zeros-0",
+          "text": "Calculate the result.",
+          "expression": "10 − 3.875",
+          "answer": "6.125",
+          "equivalents": [
+            "6.125"
+          ],
+          "solution": "Write 10 as 10.000. Regroup across the zeros: trade 1 whole for 10 tenths, 1 tenth for 10 hundredths, and 1 hundredth for 10 thousandths. Subtract in aligned columns: 10.000 − 3.875 = 6.125. Check: 3.875 + 6.125 = 10.",
+          "hint": "Write the whole number with three zeros after the decimal. Regroup one whole into 10 tenths, then continue trading to the right.",
+          "misconceptions": {
+            "7.125": "Difficulty borrowing across zeros",
+            "6.225": "Difficulty borrowing across zeros"
+          },
+          "estimatedSeconds": 100,
+          "proof": {
+            "op": "sub",
+            "values": [
+              10000,
+              3875
+            ],
+            "result": 6125
+          }
+        },
+        {
+          "id": "compatible:0",
+          "skill": "compatible",
+          "difficulty": 2,
+          "kind": "numeric",
+          "family": "compatible-0",
+          "text": "Find the friendly pair. Add mentally.",
+          "expression": "2.25 + 0.75",
+          "answer": "3",
+          "equivalents": [
+            "3.000"
+          ],
+          "solution": "0.25 + 0.75 = 1. Add that whole to 2 to get 3.",
+          "hint": "The decimal parts together make one whole.",
+          "misconceptions": {
+            "4": "Unclassified",
+            "3.1": "Unclassified"
+          },
+          "estimatedSeconds": 60,
+          "proof": {
+            "op": "add",
+            "values": [
+              2250,
+              750
+            ],
+            "result": 3000
+          }
+        },
+        {
+          "id": "money:0",
+          "skill": "money",
+          "difficulty": 2,
+          "kind": "numeric",
+          "family": "money-0",
+          "text": "At the training-island shop, a notebook costs $4.37. You pay $10.00. How much change should you get?",
+          "answer": "5.63",
+          "equivalents": [
+            "5.630"
+          ],
+          "solution": "Subtract the cost from the amount paid: $10.00 − $4.37 = $5.63.",
+          "hint": "Change is the amount paid minus the cost.",
+          "misconceptions": {
+            "6.63": "Unclassified",
+            "5.73": "Unclassified"
+          },
+          "estimatedSeconds": 60,
+          "proof": {
+            "op": "sub",
+            "values": [
+              10000,
+              4370
+            ],
+            "result": 5630
+          }
+        },
+        {
+          "id": "error:0",
+          "skill": "error",
+          "difficulty": 3,
+          "kind": "numeric",
+          "family": "error-0",
+          "text": "A player writes 2.2 + 0.47 = 0.69. They lined up the last digits instead of decimal points. What is the correct sum?",
+          "answer": "2.67",
+          "equivalents": [
+            "2.670"
+          ],
+          "solution": "Line up the decimal points: 2.20 + 0.47 = 2.67. Last-digit alignment incorrectly treats tenths as hundredths.",
+          "hint": "Equivalent decimals and regrouping preserve value. Swapping digits does not.",
+          "misconceptions": {
+            "3.67": "Decimal misalignment",
+            "2.77": "Decimal misalignment"
+          },
+          "estimatedSeconds": 60,
+          "proof": {
+            "op": "add",
+            "values": [
+              2200,
+              470
+            ],
+            "result": 2670
+          }
+        },
+        {
+          "id": "add-length:0",
+          "skill": "add-length",
+          "difficulty": 2,
+          "kind": "numeric",
+          "family": "add-length-0",
+          "text": "Calculate the result.",
+          "expression": "2.2 + 1.34",
+          "answer": "3.54",
+          "equivalents": [
+            "3.540"
+          ],
+          "solution": "Line up decimal points: 2.200 + 1.340 = 3.540. Add each column from right to left, regrouping 10 of one place as 1 of the next place.",
+          "hint": "Line up the decimal points. Add trailing zeros when needed.",
+          "misconceptions": {
+            "4.54": "Decimal misalignment",
+            "3.64": "Decimal misalignment"
+          },
+          "estimatedSeconds": 60,
+          "proof": {
+            "op": "add",
+            "values": [
+              2200,
+              1340
+            ],
+            "result": 3540
+          }
+        },
+        {
+          "id": "missing:0",
+          "skill": "missing",
+          "difficulty": 3,
+          "kind": "numeric",
+          "family": "missing-0",
+          "text": "Find the missing number. ___ + 1.24 = 2.875",
+          "answer": "1.635",
+          "equivalents": [
+            "1.635"
+          ],
+          "solution": "Use the inverse relationship: 2.875 − 1.24 = 1.635. Check: 1.635 + 1.24 = 2.875.",
+          "hint": "Addition and subtraction undo each other.",
+          "misconceptions": {
+            "2.635": "Unclassified",
+            "1.735": "Unclassified"
+          },
+          "estimatedSeconds": 60,
+          "proof": {
+            "op": "sub",
+            "values": [
+              2875,
+              1240
+            ],
+            "result": 1635
+          }
+        }
+      ],
+      "responses": [
+        {
+          "question": {
+            "id": "digit:0",
+            "skill": "digit",
+            "difficulty": 2,
+            "kind": "numeric",
+            "family": "digit-0",
+            "text": "In 2.200, what is the value of the digit 2 in the tenths place?",
+            "answer": "0.2",
+            "equivalents": [
+              "0.200"
+            ],
+            "solution": "The tenths place is 1 place to the right of the decimal point. 2 tenths = 0.2.",
+            "hint": "Name each place as you move right from the decimal point.",
+            "misconceptions": {
+              "1.2": "Place-value misunderstanding",
+              "0.3": "Place-value misunderstanding"
+            },
+            "estimatedSeconds": 60,
+            "proof": {
+              "op": "identity",
+              "values": [
+                200
+              ],
+              "result": 200
+            }
+          },
+          "answers": [
+            "0.2"
+          ],
+          "correct": true,
+          "firstCorrect": true,
+          "independent": true,
+          "hinted": false,
+          "seconds": 40,
+          "at": 1792629828989,
+          "error": "None",
+          "work": "Previously saved work"
+        },
+        {
+          "question": {
+            "id": "round:0",
+            "skill": "round",
+            "difficulty": 2,
+            "kind": "numeric",
+            "family": "round-0",
+            "text": "Round EACH number to the nearest whole number, then estimate the sum.",
+            "expression": "2.38 + 2.64",
+            "answer": "5",
+            "equivalents": [
+              "5.000"
+            ],
+            "solution": "2.38 rounds to 2 and 2.64 rounds to 3. Estimate: 2 + 3 = 5.",
+            "hint": "Look at the tenths digit to round each number first.",
+            "misconceptions": {
+              "6": "Rounding error",
+              "5.1": "Rounding error"
+            },
+            "estimatedSeconds": 60,
+            "proof": {
+              "op": "round",
+              "values": [
+                2380,
+                2640
+              ],
+              "result": 5000
+            }
+          },
+          "answers": [
+            "5"
+          ],
+          "correct": true,
+          "firstCorrect": true,
+          "independent": true,
+          "hinted": false,
+          "seconds": 40,
+          "at": 1792629828990,
+          "error": "None",
+          "work": "Previously saved work"
+        },
+        {
+          "question": {
+            "id": "add-basic:0",
+            "skill": "add-basic",
+            "difficulty": 1,
+            "kind": "numeric",
+            "family": "add-basic-0",
+            "text": "Calculate the result.",
+            "expression": "2.1 + 0.2",
+            "answer": "2.3",
+            "equivalents": [
+              "2.300"
+            ],
+            "solution": "Line up decimal points: 2.100 + 0.200 = 2.300. Add each column from right to left, regrouping 10 of one place as 1 of the next place.",
+            "hint": "Line up the decimal points. Add trailing zeros when needed.",
+            "misconceptions": {
+              "3.3": "Unclassified",
+              "2.4": "Unclassified"
+            },
+            "estimatedSeconds": 60,
+            "proof": {
+              "op": "add",
+              "values": [
+                2100,
+                200
+              ],
+              "result": 2300
+            }
+          },
+          "answers": [
+            "2.3"
+          ],
+          "correct": true,
+          "firstCorrect": true,
+          "independent": true,
+          "hinted": false,
+          "seconds": 40,
+          "at": 1792629828990,
+          "error": "None",
+          "work": "Previously saved work"
+        },
+        {
+          "question": {
+            "id": "loot-sub-basic:0",
+            "skill": "sub-basic",
+            "difficulty": 1,
+            "kind": "numeric",
+            "family": "loot-0",
+            "text": "Your squad starts with 2.8 m of cable and uses 0.3 m to repair a Reboot Van prop. How many meters remain?",
+            "answer": "2.5",
+            "equivalents": [
+              "2.500"
+            ],
+            "solution": "Line up decimal points: 2.800 − 0.300 = 2.500. Add zeros without changing the numbers. Regroup if a top digit is smaller. Check by adding back: 2.5 + 0.3 = 2.8.",
+            "hint": "Line up the decimal points. Add trailing zeros when needed.",
+            "misconceptions": {
+              "3.5": "Unclassified",
+              "2.6": "Unclassified"
+            },
+            "estimatedSeconds": 60,
+            "proof": {
+              "op": "sub",
+              "values": [
+                2800,
+                300
+              ],
+              "result": 2500
+            },
+            "format": "inventory"
+          },
+          "answers": [
+            "2.5"
+          ],
+          "correct": true,
+          "firstCorrect": true,
+          "independent": true,
+          "hinted": false,
+          "seconds": 40,
+          "at": 1792629828990,
+          "error": "None",
+          "work": "Previously saved work"
+        },
+        {
+          "question": {
+            "id": "add-regroup:0",
+            "skill": "add-regroup",
+            "difficulty": 3,
+            "kind": "numeric",
+            "family": "add-regroup-0",
+            "text": "Calculate the result.",
+            "expression": "2.78 + 1.67",
+            "answer": "4.45",
+            "equivalents": [
+              "4.450"
+            ],
+            "solution": "Line up decimal points: 2.780 + 1.670 = 4.450. Add each column from right to left, regrouping 10 of one place as 1 of the next place.",
+            "hint": "Line up the decimal points. Add trailing zeros when needed.",
+            "misconceptions": {
+              "5.45": "Incorrect regrouping",
+              "4.55": "Incorrect regrouping"
+            },
+            "estimatedSeconds": 60,
+            "proof": {
+              "op": "add",
+              "values": [
+                2780,
+                1670
+              ],
+              "result": 4450
+            }
+          },
+          "answers": [
+            "4.45"
+          ],
+          "correct": true,
+          "firstCorrect": true,
+          "independent": true,
+          "hinted": false,
+          "seconds": 40,
+          "at": 1792629828990,
+          "error": "None",
+          "work": "Previously saved work"
+        },
+        {
+          "question": {
+            "id": "loot-sub-regroup:0",
+            "skill": "sub-regroup",
+            "difficulty": 3,
+            "kind": "numeric",
+            "family": "loot-0",
+            "text": "Your squad starts with 2.32 m of cable and uses 1.78 m to repair a Reboot Van prop. How many meters remain?",
+            "answer": "0.54",
+            "equivalents": [
+              "0.540"
+            ],
+            "solution": "Line up decimal points: 2.320 − 1.780 = 0.540. Add zeros without changing the numbers. Regroup if a top digit is smaller. Check by adding back: 0.54 + 1.78 = 2.32.",
+            "hint": "Line up the decimal points. Add trailing zeros when needed.",
+            "misconceptions": {
+              "1.54": "Incorrect regrouping",
+              "0.64": "Incorrect regrouping"
+            },
+            "estimatedSeconds": 60,
+            "proof": {
+              "op": "sub",
+              "values": [
+                2320,
+                1780
+              ],
+              "result": 540
+            },
+            "format": "inventory"
+          },
+          "answers": [
+            "0.54"
+          ],
+          "correct": true,
+          "firstCorrect": true,
+          "independent": true,
+          "hinted": false,
+          "seconds": 40,
+          "at": 1792629828990,
+          "error": "None",
+          "work": "Previously saved work"
+        },
+        {
+          "question": {
+            "id": "sub-zeros:0",
+            "skill": "sub-zeros",
+            "difficulty": 4,
+            "kind": "numeric",
+            "family": "sub-zeros-0",
+            "text": "Calculate the result.",
+            "expression": "10 − 3.875",
+            "answer": "6.125",
+            "equivalents": [
+              "6.125"
+            ],
+            "solution": "Write 10 as 10.000. Regroup across the zeros: trade 1 whole for 10 tenths, 1 tenth for 10 hundredths, and 1 hundredth for 10 thousandths. Subtract in aligned columns: 10.000 − 3.875 = 6.125. Check: 3.875 + 6.125 = 10.",
+            "hint": "Write the whole number with three zeros after the decimal. Regroup one whole into 10 tenths, then continue trading to the right.",
+            "misconceptions": {
+              "7.125": "Difficulty borrowing across zeros",
+              "6.225": "Difficulty borrowing across zeros"
+            },
+            "estimatedSeconds": 100,
+            "proof": {
+              "op": "sub",
+              "values": [
+                10000,
+                3875
+              ],
+              "result": 6125
+            }
+          },
+          "answers": [
+            "6.125"
+          ],
+          "correct": true,
+          "firstCorrect": true,
+          "independent": true,
+          "hinted": false,
+          "seconds": 40,
+          "at": 1792629828990,
+          "error": "None",
+          "work": "Previously saved work"
+        },
+        {
+          "question": {
+            "id": "compatible:0",
+            "skill": "compatible",
+            "difficulty": 2,
+            "kind": "numeric",
+            "family": "compatible-0",
+            "text": "Find the friendly pair. Add mentally.",
+            "expression": "2.25 + 0.75",
+            "answer": "3",
+            "equivalents": [
+              "3.000"
+            ],
+            "solution": "0.25 + 0.75 = 1. Add that whole to 2 to get 3.",
+            "hint": "The decimal parts together make one whole.",
+            "misconceptions": {
+              "4": "Unclassified",
+              "3.1": "Unclassified"
+            },
+            "estimatedSeconds": 60,
+            "proof": {
+              "op": "add",
+              "values": [
+                2250,
+                750
+              ],
+              "result": 3000
+            }
+          },
+          "answers": [
+            "3"
+          ],
+          "correct": true,
+          "firstCorrect": true,
+          "independent": true,
+          "hinted": false,
+          "seconds": 40,
+          "at": 1792629828990,
+          "error": "None",
+          "work": "Previously saved work"
+        },
+        {
+          "question": {
+            "id": "money:0",
+            "skill": "money",
+            "difficulty": 2,
+            "kind": "numeric",
+            "family": "money-0",
+            "text": "At the training-island shop, a notebook costs $4.37. You pay $10.00. How much change should you get?",
+            "answer": "5.63",
+            "equivalents": [
+              "5.630"
+            ],
+            "solution": "Subtract the cost from the amount paid: $10.00 − $4.37 = $5.63.",
+            "hint": "Change is the amount paid minus the cost.",
+            "misconceptions": {
+              "6.63": "Unclassified",
+              "5.73": "Unclassified"
+            },
+            "estimatedSeconds": 60,
+            "proof": {
+              "op": "sub",
+              "values": [
+                10000,
+                4370
+              ],
+              "result": 5630
+            }
+          },
+          "answers": [
+            "5.63"
+          ],
+          "correct": true,
+          "firstCorrect": true,
+          "independent": true,
+          "hinted": false,
+          "seconds": 40,
+          "at": 1792629828990,
+          "error": "None",
+          "work": "Previously saved work"
+        },
+        {
+          "question": {
+            "id": "error:0",
+            "skill": "error",
+            "difficulty": 3,
+            "kind": "numeric",
+            "family": "error-0",
+            "text": "A player writes 2.2 + 0.47 = 0.69. They lined up the last digits instead of decimal points. What is the correct sum?",
+            "answer": "2.67",
+            "equivalents": [
+              "2.670"
+            ],
+            "solution": "Line up the decimal points: 2.20 + 0.47 = 2.67. Last-digit alignment incorrectly treats tenths as hundredths.",
+            "hint": "Equivalent decimals and regrouping preserve value. Swapping digits does not.",
+            "misconceptions": {
+              "3.67": "Decimal misalignment",
+              "2.77": "Decimal misalignment"
+            },
+            "estimatedSeconds": 60,
+            "proof": {
+              "op": "add",
+              "values": [
+                2200,
+                470
+              ],
+              "result": 2670
+            }
+          },
+          "answers": [
+            "2.67"
+          ],
+          "correct": true,
+          "firstCorrect": true,
+          "independent": true,
+          "hinted": false,
+          "seconds": 40,
+          "at": 1792629828990,
+          "error": "None",
+          "work": "Previously saved work"
+        },
+        {
+          "question": {
+            "id": "add-length:0",
+            "skill": "add-length",
+            "difficulty": 2,
+            "kind": "numeric",
+            "family": "add-length-0",
+            "text": "Calculate the result.",
+            "expression": "2.2 + 1.34",
+            "answer": "3.54",
+            "equivalents": [
+              "3.540"
+            ],
+            "solution": "Line up decimal points: 2.200 + 1.340 = 3.540. Add each column from right to left, regrouping 10 of one place as 1 of the next place.",
+            "hint": "Line up the decimal points. Add trailing zeros when needed.",
+            "misconceptions": {
+              "4.54": "Decimal misalignment",
+              "3.64": "Decimal misalignment"
+            },
+            "estimatedSeconds": 60,
+            "proof": {
+              "op": "add",
+              "values": [
+                2200,
+                1340
+              ],
+              "result": 3540
+            }
+          },
+          "answers": [
+            "3.54"
+          ],
+          "correct": true,
+          "firstCorrect": true,
+          "independent": true,
+          "hinted": false,
+          "seconds": 40,
+          "at": 1792629828990,
+          "error": "None",
+          "work": "Previously saved work"
+        },
+        {
+          "question": {
+            "id": "missing:0",
+            "skill": "missing",
+            "difficulty": 3,
+            "kind": "numeric",
+            "family": "missing-0",
+            "text": "Find the missing number. ___ + 1.24 = 2.875",
+            "answer": "1.635",
+            "equivalents": [
+              "1.635"
+            ],
+            "solution": "Use the inverse relationship: 2.875 − 1.24 = 1.635. Check: 1.635 + 1.24 = 2.875.",
+            "hint": "Addition and subtraction undo each other.",
+            "misconceptions": {
+              "2.635": "Unclassified",
+              "1.735": "Unclassified"
+            },
+            "estimatedSeconds": 60,
+            "proof": {
+              "op": "sub",
+              "values": [
+                2875,
+                1240
+              ],
+              "result": 1635
+            }
+          },
+          "answers": [
+            "1.635"
+          ],
+          "correct": true,
+          "firstCorrect": true,
+          "independent": true,
+          "hinted": false,
+          "seconds": 40,
+          "at": 1792629828991,
+          "error": "None",
+          "work": "Previously saved work"
+        }
+      ],
+      "startedAt": 1792629828989,
+      "draft": {
+        "answer": "",
+        "work": "",
+        "hinted": false,
+        "answers": [],
+        "elapsed": 0
+      },
+      "endedAt": 1792629828991,
+      "early": false
+    }
+  ],
+  "active": {
+    "unit": "matter",
+    "id": "12b19fcb-eb49-4e47-addd-bedc47fe0be7",
+    "mode": "standard",
+    "diagnostic": true,
+    "target": [],
+    "questions": [
+      {
+        "id": "matter-vocab:0",
+        "skill": "matter-vocab",
+        "difficulty": 1,
+        "kind": "choice",
+        "family": "vocabulary",
+        "text": "MATTER means…",
+        "answer": "Anything that has mass and takes up space",
+        "equivalents": [],
+        "choices": [
+          "Anything that has mass and takes up space",
+          "To use the senses to gain knowledge",
+          "The heaviness of an object",
+          "How hot or cold something is"
+        ],
+        "solution": "Matter is anything that has mass and takes up space: your squad training ball, the air inside it, even you!",
+        "hint": "Name the property: amount of matter, space occupied, or hot/cold.",
+        "misconceptions": {
+          "How hot or cold something is": "Review the claim against the observed properties",
+          "To use the senses to gain knowledge": "Review the claim against the observed properties",
+          "The heaviness of an object": "Review the claim against the observed properties"
+        },
+        "estimatedSeconds": 50,
+        "proof": {
+          "op": "science",
+          "values": [],
+          "result": 0
+        },
+        "format": "vocabulary",
+        "source": "Adapted from James’s TVA Properties of Matter quiz"
+      },
+      {
+        "id": "matter-magnet:0",
+        "skill": "matter-magnet",
+        "difficulty": 2,
+        "kind": "choice",
+        "family": "application",
+        "text": "What property do a steel screw, an iron nail, and a paperclip have in common?",
+        "answer": "They are magnetic.",
+        "equivalents": [],
+        "choices": [
+          "They are nonmagnetic.",
+          "They are magnetic.",
+          "They are insulators.",
+          "They are all soluble in water."
+        ],
+        "solution": "Steel and iron are attracted to magnets. A paperclip is made of steel.",
+        "hint": "Color and being metal do not guarantee attraction to a magnet.",
+        "misconceptions": {
+          "They are insulators.": "Review the claim against the observed properties",
+          "They are all soluble in water.": "Review the claim against the observed properties",
+          "They are nonmagnetic.": "Review the claim against the observed properties"
+        },
+        "estimatedSeconds": 50,
+        "proof": {
+          "op": "science",
+          "values": [],
+          "result": 0
+        },
+        "format": "application",
+        "source": "Adapted from James’s TVA Properties of Matter quiz"
+      }
+    ],
+    "responses": [
+      {
+        "question": {
+          "id": "matter-vocab:0",
+          "skill": "matter-vocab",
+          "difficulty": 1,
+          "kind": "choice",
+          "family": "vocabulary",
+          "text": "MATTER means…",
+          "answer": "Anything that has mass and takes up space",
+          "equivalents": [],
+          "choices": [
+            "Anything that has mass and takes up space",
+            "To use the senses to gain knowledge",
+            "The heaviness of an object",
+            "How hot or cold something is"
+          ],
+          "solution": "Matter is anything that has mass and takes up space: your squad training ball, the air inside it, even you!",
+          "hint": "Name the property: amount of matter, space occupied, or hot/cold.",
+          "misconceptions": {
+            "How hot or cold something is": "Review the claim against the observed properties",
+            "To use the senses to gain knowledge": "Review the claim against the observed properties",
+            "The heaviness of an object": "Review the claim against the observed properties"
+          },
+          "estimatedSeconds": 50,
+          "proof": {
+            "op": "science",
+            "values": [],
+            "result": 0
+          },
+          "format": "vocabulary",
+          "source": "Adapted from James’s TVA Properties of Matter quiz"
+        },
+        "answers": [
+          "Anything that has mass and takes up space"
+        ],
+        "correct": true,
+        "firstCorrect": true,
+        "independent": true,
+        "hinted": false,
+        "seconds": 20,
+        "at": 1792629828991,
+        "error": "None",
+        "work": "First answer"
+      }
+    ],
+    "startedAt": 1792629828991,
+    "draft": {
+      "answer": "old draft",
+      "work": "saved matter",
+      "hinted": false,
+      "answers": [],
+      "elapsed": 0
+    }
+  },
+  "xp": 1725,
+  "sound": false,
+  "selectedUnit": "matter",
+  "paused": [
+    {
+      "unit": "decimals",
+      "id": "daddc9c6-a30f-4f41-9fb3-9ce355a65f83",
+      "mode": "standard",
+      "diagnostic": true,
+      "target": [],
+      "questions": [
+        {
+          "id": "equivalent:0",
+          "skill": "equivalent",
+          "difficulty": 1,
+          "kind": "numeric",
+          "family": "equivalent-0",
+          "text": "Fill in the equivalent decimal: 2.5 = ___ (write three decimal places).",
+          "answer": "2.5",
+          "equivalents": [
+            "2.500"
+          ],
+          "solution": "2.5 = 2.500. Trailing zeros do not change the value.",
+          "hint": "Zeros at the end of the decimal part do not change its value.",
+          "misconceptions": {
+            "3.5": "Unclassified",
+            "2.6": "Unclassified"
+          },
+          "estimatedSeconds": 60,
+          "proof": {
+            "op": "identity",
+            "values": [
+              2500
+            ],
+            "result": 2500
+          }
+        },
+        {
+          "id": "check:0",
+          "skill": "check",
+          "difficulty": 2,
+          "kind": "numeric",
+          "family": "check-0",
+          "text": "Estimate 2.48 + 3.26 by rounding EACH number to a whole number. What should the sum be close to?",
+          "answer": "5",
+          "equivalents": [
+            "5.000"
+          ],
+          "solution": "Round first: 2 + 3 = 5. An exact answer far from 5 needs another look.",
+          "hint": "An estimate is a check, not the exact answer.",
+          "misconceptions": {
+            "6": "Rounding error",
+            "5.1": "Rounding error"
+          },
+          "estimatedSeconds": 60,
+          "proof": {
+            "op": "round",
+            "values": [
+              2480,
+              3260
+            ],
+            "result": 5000
+          }
+        }
+      ],
+      "responses": [
+        {
+          "question": {
+            "id": "equivalent:0",
+            "skill": "equivalent",
+            "difficulty": 1,
+            "kind": "numeric",
+            "family": "equivalent-0",
+            "text": "Fill in the equivalent decimal: 2.5 = ___ (write three decimal places).",
+            "answer": "2.5",
+            "equivalents": [
+              "2.500"
+            ],
+            "solution": "2.5 = 2.500. Trailing zeros do not change the value.",
+            "hint": "Zeros at the end of the decimal part do not change its value.",
+            "misconceptions": {
+              "3.5": "Unclassified",
+              "2.6": "Unclassified"
+            },
+            "estimatedSeconds": 60,
+            "proof": {
+              "op": "identity",
+              "values": [
+                2500
+              ],
+              "result": 2500
+            }
+          },
+          "answers": [
+            "2.5"
+          ],
+          "correct": true,
+          "firstCorrect": true,
+          "independent": true,
+          "hinted": false,
+          "seconds": 20,
+          "at": 1792629828991,
+          "error": "None",
+          "work": "First answer"
+        }
+      ],
+      "startedAt": 1792629828991,
+      "draft": {
+        "answer": "old draft",
+        "work": "saved decimals",
+        "hinted": false,
+        "answers": [],
+        "elapsed": 0
+      }
+    },
+    {
+      "unit": "multiplication",
+      "id": "beaf58fc-db6d-479e-9efd-c64c1b05b36c",
+      "mode": "standard",
+      "diagnostic": true,
+      "target": [],
+      "questions": [
+        {
+          "id": "mul-whole:0",
+          "skill": "mul-whole",
+          "difficulty": 2,
+          "kind": "numeric",
+          "family": "mul-whole-0",
+          "format": "calculate",
+          "text": "Calculate 1.2 × 2.",
+          "answer": "2.4",
+          "equivalents": [
+            "2.40"
+          ],
+          "solution": "1.2 × 2 = 2.4. Multiply 12 × 2 = 24; the factors have 1 decimal places in all. Divide that whole-number product by 10 and keep all places.",
+          "hint": "Think of equal groups. Multiply the digits and preserve the value of each decimal place.",
+          "misconceptions": {},
+          "estimatedSeconds": 60,
+          "source": "Provisional family-approved scope; 5.NBT.B.7. Chapter 4 contents unverified.",
+          "proof": {
+            "op": "multiply",
+            "values": [],
+            "result": 0,
+            "operands": [
+              "1.2",
+              "2"
+            ],
+            "exact": "2.4"
+          }
+        },
+        {
+          "id": "mul-decimal:0",
+          "skill": "mul-decimal",
+          "difficulty": 2,
+          "kind": "numeric",
+          "family": "mul-decimal-0",
+          "format": "calculate",
+          "text": "Calculate 2.5 × 0.3.",
+          "answer": "0.75",
+          "equivalents": [
+            "0.750"
+          ],
+          "solution": "2.5 × 0.3 = 0.75. Multiply 25 × 03 = 75; the factors have 2 decimal places in all. Divide that whole-number product by 100 and keep all places.",
+          "hint": "Tenths times tenths give hundredths. Count places in both factors, then check the size.",
+          "misconceptions": {},
+          "estimatedSeconds": 60,
+          "source": "Provisional family-approved scope; 5.NBT.B.7. Chapter 4 contents unverified.",
+          "proof": {
+            "op": "multiply",
+            "values": [],
+            "result": 0,
+            "operands": [
+              "2.5",
+              "0.3"
+            ],
+            "exact": "0.75"
+          }
+        }
+      ],
+      "responses": [
+        {
+          "question": {
+            "id": "mul-whole:0",
+            "skill": "mul-whole",
+            "difficulty": 2,
+            "kind": "numeric",
+            "family": "mul-whole-0",
+            "format": "calculate",
+            "text": "Calculate 1.2 × 2.",
+            "answer": "2.4",
+            "equivalents": [
+              "2.40"
+            ],
+            "solution": "1.2 × 2 = 2.4. Multiply 12 × 2 = 24; the factors have 1 decimal places in all. Divide that whole-number product by 10 and keep all places.",
+            "hint": "Think of equal groups. Multiply the digits and preserve the value of each decimal place.",
+            "misconceptions": {},
+            "estimatedSeconds": 60,
+            "source": "Provisional family-approved scope; 5.NBT.B.7. Chapter 4 contents unverified.",
+            "proof": {
+              "op": "multiply",
+              "values": [],
+              "result": 0,
+              "operands": [
+                "1.2",
+                "2"
+              ],
+              "exact": "2.4"
+            }
+          },
+          "answers": [
+            "2.4"
+          ],
+          "correct": true,
+          "firstCorrect": true,
+          "independent": true,
+          "hinted": false,
+          "seconds": 20,
+          "at": 1792629828991,
+          "error": "None",
+          "work": "First answer"
+        }
+      ],
+      "startedAt": 1792629828991,
+      "draft": {
+        "answer": "old draft",
+        "work": "saved multiplication",
+        "hinted": false,
+        "answers": [],
+        "elapsed": 0
+      }
+    },
+    {
+      "unit": "mixtures",
+      "id": "ddffd7ad-14b6-4beb-9621-b86174f9d3bd",
+      "mode": "standard",
+      "diagnostic": true,
+      "target": [],
+      "questions": [
+        {
+          "id": "mix-mixture:0",
+          "skill": "mix-mixture",
+          "difficulty": 1,
+          "kind": "choice",
+          "family": "vocabulary",
+          "text": "A squad pours sand and steel paperclips into one supply tray. Why is this a mixture?",
+          "answer": "Two substances are combined and keep their original properties",
+          "equivalents": [],
+          "choices": [
+            "Two substances are combined and keep their original properties",
+            "The sand changes into steel",
+            "Every combination forms a new substance",
+            "The paperclips lose their magnetism"
+          ],
+          "solution": "The sand is still sand, and the steel paperclips still have their own properties. Combining materials can make a mixture without a chemical change.",
+          "hint": "Ask whether the original materials keep their own properties.",
+          "misconceptions": {
+            "The sand changes into steel": "Review the claim against the observed properties",
+            "Every combination forms a new substance": "Review the claim against the observed properties",
+            "The paperclips lose their magnetism": "Review the claim against the observed properties"
+          },
+          "estimatedSeconds": 50,
+          "proof": {
+            "op": "science",
+            "values": [],
+            "result": 0
+          },
+          "format": "vocabulary",
+          "source": "Family-provided Grade 5 Mixtures & Chemical Reactions review sheet"
+        },
+        {
+          "id": "mix-solution:0",
+          "skill": "mix-solution",
+          "difficulty": 1,
+          "kind": "choice",
+          "family": "vocabulary",
+          "text": "Which description belongs on the SOLUTION intel card?",
+          "answer": "A mixture with substances mixed evenly throughout a liquid",
+          "equivalents": [],
+          "choices": [
+            "A mixture with large pieces always settling at the bottom",
+            "Any solid that melts",
+            "A reaction that must produce bubbles",
+            "A mixture with substances mixed evenly throughout a liquid"
+          ],
+          "solution": "The review sheet describes a solution as a mixture in which substances are mixed evenly throughout a liquid.",
+          "hint": "A dissolved substance is still present, spread throughout the liquid.",
+          "misconceptions": {
+            "A mixture with large pieces always settling at the bottom": "Review the claim against the observed properties",
+            "Any solid that melts": "Review the claim against the observed properties",
+            "A reaction that must produce bubbles": "Review the claim against the observed properties"
+          },
+          "estimatedSeconds": 50,
+          "proof": {
+            "op": "science",
+            "values": [],
+            "result": 0
+          },
+          "format": "vocabulary",
+          "source": "Family-provided Grade 5 Mixtures & Chemical Reactions review sheet"
+        }
+      ],
+      "responses": [
+        {
+          "question": {
+            "id": "mix-mixture:0",
+            "skill": "mix-mixture",
+            "difficulty": 1,
+            "kind": "choice",
+            "family": "vocabulary",
+            "text": "A squad pours sand and steel paperclips into one supply tray. Why is this a mixture?",
+            "answer": "Two substances are combined and keep their original properties",
+            "equivalents": [],
+            "choices": [
+              "Two substances are combined and keep their original properties",
+              "The sand changes into steel",
+              "Every combination forms a new substance",
+              "The paperclips lose their magnetism"
+            ],
+            "solution": "The sand is still sand, and the steel paperclips still have their own properties. Combining materials can make a mixture without a chemical change.",
+            "hint": "Ask whether the original materials keep their own properties.",
+            "misconceptions": {
+              "The sand changes into steel": "Review the claim against the observed properties",
+              "Every combination forms a new substance": "Review the claim against the observed properties",
+              "The paperclips lose their magnetism": "Review the claim against the observed properties"
+            },
+            "estimatedSeconds": 50,
+            "proof": {
+              "op": "science",
+              "values": [],
+              "result": 0
+            },
+            "format": "vocabulary",
+            "source": "Family-provided Grade 5 Mixtures & Chemical Reactions review sheet"
+          },
+          "answers": [
+            "Two substances are combined and keep their original properties"
+          ],
+          "correct": true,
+          "firstCorrect": true,
+          "independent": true,
+          "hinted": false,
+          "seconds": 20,
+          "at": 1792629828991,
+          "error": "None",
+          "work": "First answer"
+        }
+      ],
+      "startedAt": 1792629828991,
+      "draft": {
+        "answer": "old draft",
+        "work": "saved mixtures",
+        "hinted": false,
+        "answers": [],
+        "elapsed": 0
+      }
+    }
+  ]
+}
