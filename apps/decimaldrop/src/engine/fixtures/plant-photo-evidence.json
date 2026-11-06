@@ -1,0 +1,1428 @@
+{
+  "version": 1,
+  "sessions": [
+    {
+      "unit": "plants",
+      "id": "770e8055-c07a-421a-8dea-8b3bcea80c5d",
+      "mode": "quick",
+      "diagnostic": false,
+      "target": [
+        "plant-photo"
+      ],
+      "questions": [
+        {
+          "id": "plant-photo:0",
+          "skill": "plant-photo",
+          "difficulty": 1,
+          "kind": "choice",
+          "family": "vocabulary",
+          "text": "What process lets green plants use light to make food?",
+          "answer": "Photosynthesis",
+          "equivalents": [],
+          "choices": [
+            "Phytoremediation",
+            "Aquaponics",
+            "Hydroponics",
+            "Photosynthesis"
+          ],
+          "solution": "Photosynthesis uses light energy to make sugar from carbon dioxide and water. The other terms describe growing systems or cleanup.",
+          "hint": "Choose the food-making process, rather than a growing location.",
+          "misconceptions": {
+            "Hydroponics": "Review the plant matter and energy evidence",
+            "Phytoremediation": "Review the plant matter and energy evidence",
+            "Aquaponics": "Review the plant matter and energy evidence"
+          },
+          "estimatedSeconds": 50,
+          "proof": {
+            "op": "science",
+            "values": [],
+            "result": 0
+          },
+          "format": "vocabulary",
+          "source": "Family-provided Matter and Energy in Plants lesson photos (2026-11-05)"
+        },
+        {
+          "id": "plant-photo:1",
+          "skill": "plant-photo",
+          "difficulty": 2,
+          "kind": "choice",
+          "family": "energy-model",
+          "text": "Which energy arrow best represents photosynthesis?",
+          "answer": "Light energy → chemical energy in sugar",
+          "equivalents": [],
+          "choices": [
+            "Light energy → chemical energy in sugar",
+            "Light energy → mineral nutrients",
+            "Chemical energy in soil → light energy",
+            "Oxygen energy → sunlight"
+          ],
+          "solution": "Photosynthesis transforms light energy into chemical energy stored in food. It does not turn sunlight into minerals.",
+          "hint": "Identify the energy source and the form stored in food.",
+          "misconceptions": {
+            "Chemical energy in soil → light energy": "Review the plant matter and energy evidence",
+            "Light energy → mineral nutrients": "Review the plant matter and energy evidence",
+            "Oxygen energy → sunlight": "Review the plant matter and energy evidence"
+          },
+          "estimatedSeconds": 50,
+          "proof": {
+            "op": "science",
+            "values": [],
+            "result": 0
+          },
+          "format": "energy-model",
+          "source": "Family-provided Matter and Energy in Plants lesson photos (2026-11-05)"
+        },
+        {
+          "id": "plant-photo:2",
+          "skill": "plant-photo",
+          "difficulty": 2,
+          "kind": "choice",
+          "family": "scenario",
+          "text": "A leaf receives sunlight, water, and carbon dioxide. What food can it make?",
+          "answer": "Sugar",
+          "equivalents": [],
+          "choices": [
+            "Mineral fertilizer",
+            "Sugar",
+            "Soil",
+            "Fish waste"
+          ],
+          "solution": "The plant makes sugar through photosynthesis. Soil and fertilizer can provide support or nutrients, but they are not the food produced.",
+          "hint": "Plant food and mineral fertilizer are different things.",
+          "misconceptions": {
+            "Soil": "Review the plant matter and energy evidence",
+            "Fish waste": "Review the plant matter and energy evidence",
+            "Mineral fertilizer": "Review the plant matter and energy evidence"
+          },
+          "estimatedSeconds": 50,
+          "proof": {
+            "op": "science",
+            "values": [],
+            "result": 0
+          },
+          "format": "scenario",
+          "source": "Family-provided Matter and Energy in Plants lesson photos (2026-11-05)"
+        },
+        {
+          "id": "plant-photo:3",
+          "skill": "plant-photo",
+          "difficulty": 3,
+          "kind": "choice",
+          "family": "claim",
+          "text": "A teammate calls sunlight a kind of plant food. Which correction is most accurate?",
+          "answer": "Light supplies energy used to make sugar; sugar is food",
+          "equivalents": [],
+          "choices": [
+            "Light supplies energy used to make sugar; sugar is food",
+            "Leaves store the light unchanged as a material instead of making sugar",
+            "Sunlight supplies minerals directly, so no food-making process is needed",
+            "Light is the sugar already present in the air that leaves absorb"
+          ],
+          "solution": "Sunlight supplies energy, while the plant makes sugar as food. This keeps energy sources separate from substances made by the plant.",
+          "hint": "Separate the energy used in a process from its food product.",
+          "misconceptions": {
+            "Light is the sugar already present in the air that leaves absorb": "Review the plant matter and energy evidence",
+            "Sunlight supplies minerals directly, so no food-making process is needed": "Review the plant matter and energy evidence",
+            "Leaves store the light unchanged as a material instead of making sugar": "Review the plant matter and energy evidence"
+          },
+          "estimatedSeconds": 80,
+          "proof": {
+            "op": "science",
+            "values": [],
+            "result": 0
+          },
+          "format": "claim",
+          "source": "Family-provided Matter and Energy in Plants lesson photos (2026-11-05)"
+        },
+        {
+          "id": "plant-photo:4",
+          "skill": "plant-photo",
+          "difficulty": 2,
+          "kind": "choice",
+          "family": "compare",
+          "text": "How does photosynthesis differ from hydroponics?",
+          "answer": "One is a food-making process; the other is growing without soil",
+          "equivalents": [],
+          "choices": [
+            "Both are names for removing pollutants",
+            "Photosynthesis requires soil, while hydroponics prevents food making",
+            "Only hydroponic plants can make sugar",
+            "One is a food-making process; the other is growing without soil"
+          ],
+          "solution": "A plant can photosynthesize while growing hydroponically. The terms describe different aspects of its life.",
+          "hint": "A process inside a plant can happen in different growing systems.",
+          "misconceptions": {
+            "Both are names for removing pollutants": "Review the plant matter and energy evidence",
+            "Only hydroponic plants can make sugar": "Review the plant matter and energy evidence",
+            "Photosynthesis requires soil, while hydroponics prevents food making": "Review the plant matter and energy evidence"
+          },
+          "estimatedSeconds": 50,
+          "proof": {
+            "op": "science",
+            "values": [],
+            "result": 0
+          },
+          "format": "compare",
+          "source": "Family-provided Matter and Energy in Plants lesson photos (2026-11-05)"
+        },
+        {
+          "id": "plant-photo:5",
+          "skill": "plant-photo",
+          "difficulty": 3,
+          "kind": "choice",
+          "family": "evidence",
+          "text": "Two similar plants have water and nutrients. One receives suitable light and one stays dark for a long period. Which explanation best predicts a difference?",
+          "answer": "The dark plant lacks the light energy needed for photosynthesis",
+          "equivalents": [],
+          "choices": [
+            "The dark plant lacks the light energy needed for photosynthesis",
+            "The dark plant can obtain all needed food energy from the mineral solution",
+            "Any stored food proves the dark plant can make new sugar indefinitely",
+            "The light plant receives more soil food simply because its leaves are brighter"
+          ],
+          "solution": "Light is an energy input to photosynthesis. Stored food may support a plant temporarily, so darkness does not mean every plant immediately dies.",
+          "hint": "Consider the missing input and avoid an instant-death assumption.",
+          "misconceptions": {
+            "The dark plant can obtain all needed food energy from the mineral solution": "Review the plant matter and energy evidence",
+            "Any stored food proves the dark plant can make new sugar indefinitely": "Review the plant matter and energy evidence",
+            "The light plant receives more soil food simply because its leaves are brighter": "Review the plant matter and energy evidence"
+          },
+          "estimatedSeconds": 80,
+          "proof": {
+            "op": "science",
+            "values": [],
+            "result": 0
+          },
+          "format": "evidence",
+          "source": "Family-provided Matter and Energy in Plants lesson photos (2026-11-05)"
+        }
+      ],
+      "responses": [
+        {
+          "question": {
+            "id": "plant-photo:0",
+            "skill": "plant-photo",
+            "difficulty": 1,
+            "kind": "choice",
+            "family": "vocabulary",
+            "text": "What process lets green plants use light to make food?",
+            "answer": "Photosynthesis",
+            "equivalents": [],
+            "choices": [
+              "Phytoremediation",
+              "Aquaponics",
+              "Hydroponics",
+              "Photosynthesis"
+            ],
+            "solution": "Photosynthesis uses light energy to make sugar from carbon dioxide and water. The other terms describe growing systems or cleanup.",
+            "hint": "Choose the food-making process, rather than a growing location.",
+            "misconceptions": {
+              "Hydroponics": "Review the plant matter and energy evidence",
+              "Phytoremediation": "Review the plant matter and energy evidence",
+              "Aquaponics": "Review the plant matter and energy evidence"
+            },
+            "estimatedSeconds": 50,
+            "proof": {
+              "op": "science",
+              "values": [],
+              "result": 0
+            },
+            "format": "vocabulary",
+            "source": "Family-provided Matter and Energy in Plants lesson photos (2026-11-05)"
+          },
+          "answers": [
+            "Photosynthesis"
+          ],
+          "correct": true,
+          "firstCorrect": true,
+          "independent": true,
+          "hinted": false,
+          "seconds": 30,
+          "at": 1793942221299,
+          "error": "None",
+          "work": ""
+        },
+        {
+          "question": {
+            "id": "plant-photo:1",
+            "skill": "plant-photo",
+            "difficulty": 2,
+            "kind": "choice",
+            "family": "energy-model",
+            "text": "Which energy arrow best represents photosynthesis?",
+            "answer": "Light energy → chemical energy in sugar",
+            "equivalents": [],
+            "choices": [
+              "Light energy → chemical energy in sugar",
+              "Light energy → mineral nutrients",
+              "Chemical energy in soil → light energy",
+              "Oxygen energy → sunlight"
+            ],
+            "solution": "Photosynthesis transforms light energy into chemical energy stored in food. It does not turn sunlight into minerals.",
+            "hint": "Identify the energy source and the form stored in food.",
+            "misconceptions": {
+              "Chemical energy in soil → light energy": "Review the plant matter and energy evidence",
+              "Light energy → mineral nutrients": "Review the plant matter and energy evidence",
+              "Oxygen energy → sunlight": "Review the plant matter and energy evidence"
+            },
+            "estimatedSeconds": 50,
+            "proof": {
+              "op": "science",
+              "values": [],
+              "result": 0
+            },
+            "format": "energy-model",
+            "source": "Family-provided Matter and Energy in Plants lesson photos (2026-11-05)"
+          },
+          "answers": [
+            "Light energy → chemical energy in sugar"
+          ],
+          "correct": true,
+          "firstCorrect": true,
+          "independent": true,
+          "hinted": false,
+          "seconds": 30,
+          "at": 1793942221299,
+          "error": "None",
+          "work": ""
+        },
+        {
+          "question": {
+            "id": "plant-photo:2",
+            "skill": "plant-photo",
+            "difficulty": 2,
+            "kind": "choice",
+            "family": "scenario",
+            "text": "A leaf receives sunlight, water, and carbon dioxide. What food can it make?",
+            "answer": "Sugar",
+            "equivalents": [],
+            "choices": [
+              "Mineral fertilizer",
+              "Sugar",
+              "Soil",
+              "Fish waste"
+            ],
+            "solution": "The plant makes sugar through photosynthesis. Soil and fertilizer can provide support or nutrients, but they are not the food produced.",
+            "hint": "Plant food and mineral fertilizer are different things.",
+            "misconceptions": {
+              "Soil": "Review the plant matter and energy evidence",
+              "Fish waste": "Review the plant matter and energy evidence",
+              "Mineral fertilizer": "Review the plant matter and energy evidence"
+            },
+            "estimatedSeconds": 50,
+            "proof": {
+              "op": "science",
+              "values": [],
+              "result": 0
+            },
+            "format": "scenario",
+            "source": "Family-provided Matter and Energy in Plants lesson photos (2026-11-05)"
+          },
+          "answers": [
+            "Sugar"
+          ],
+          "correct": true,
+          "firstCorrect": true,
+          "independent": true,
+          "hinted": false,
+          "seconds": 30,
+          "at": 1793942221299,
+          "error": "None",
+          "work": ""
+        },
+        {
+          "question": {
+            "id": "plant-photo:3",
+            "skill": "plant-photo",
+            "difficulty": 3,
+            "kind": "choice",
+            "family": "claim",
+            "text": "A teammate calls sunlight a kind of plant food. Which correction is most accurate?",
+            "answer": "Light supplies energy used to make sugar; sugar is food",
+            "equivalents": [],
+            "choices": [
+              "Light supplies energy used to make sugar; sugar is food",
+              "Leaves store the light unchanged as a material instead of making sugar",
+              "Sunlight supplies minerals directly, so no food-making process is needed",
+              "Light is the sugar already present in the air that leaves absorb"
+            ],
+            "solution": "Sunlight supplies energy, while the plant makes sugar as food. This keeps energy sources separate from substances made by the plant.",
+            "hint": "Separate the energy used in a process from its food product.",
+            "misconceptions": {
+              "Light is the sugar already present in the air that leaves absorb": "Review the plant matter and energy evidence",
+              "Sunlight supplies minerals directly, so no food-making process is needed": "Review the plant matter and energy evidence",
+              "Leaves store the light unchanged as a material instead of making sugar": "Review the plant matter and energy evidence"
+            },
+            "estimatedSeconds": 80,
+            "proof": {
+              "op": "science",
+              "values": [],
+              "result": 0
+            },
+            "format": "claim",
+            "source": "Family-provided Matter and Energy in Plants lesson photos (2026-11-05)"
+          },
+          "answers": [
+            "Light supplies energy used to make sugar; sugar is food"
+          ],
+          "correct": true,
+          "firstCorrect": true,
+          "independent": true,
+          "hinted": false,
+          "seconds": 30,
+          "at": 1793942221299,
+          "error": "None",
+          "work": ""
+        },
+        {
+          "question": {
+            "id": "plant-photo:4",
+            "skill": "plant-photo",
+            "difficulty": 2,
+            "kind": "choice",
+            "family": "compare",
+            "text": "How does photosynthesis differ from hydroponics?",
+            "answer": "One is a food-making process; the other is growing without soil",
+            "equivalents": [],
+            "choices": [
+              "Both are names for removing pollutants",
+              "Photosynthesis requires soil, while hydroponics prevents food making",
+              "Only hydroponic plants can make sugar",
+              "One is a food-making process; the other is growing without soil"
+            ],
+            "solution": "A plant can photosynthesize while growing hydroponically. The terms describe different aspects of its life.",
+            "hint": "A process inside a plant can happen in different growing systems.",
+            "misconceptions": {
+              "Both are names for removing pollutants": "Review the plant matter and energy evidence",
+              "Only hydroponic plants can make sugar": "Review the plant matter and energy evidence",
+              "Photosynthesis requires soil, while hydroponics prevents food making": "Review the plant matter and energy evidence"
+            },
+            "estimatedSeconds": 50,
+            "proof": {
+              "op": "science",
+              "values": [],
+              "result": 0
+            },
+            "format": "compare",
+            "source": "Family-provided Matter and Energy in Plants lesson photos (2026-11-05)"
+          },
+          "answers": [
+            "One is a food-making process; the other is growing without soil"
+          ],
+          "correct": true,
+          "firstCorrect": true,
+          "independent": true,
+          "hinted": false,
+          "seconds": 30,
+          "at": 1793942221299,
+          "error": "None",
+          "work": ""
+        },
+        {
+          "question": {
+            "id": "plant-photo:5",
+            "skill": "plant-photo",
+            "difficulty": 3,
+            "kind": "choice",
+            "family": "evidence",
+            "text": "Two similar plants have water and nutrients. One receives suitable light and one stays dark for a long period. Which explanation best predicts a difference?",
+            "answer": "The dark plant lacks the light energy needed for photosynthesis",
+            "equivalents": [],
+            "choices": [
+              "The dark plant lacks the light energy needed for photosynthesis",
+              "The dark plant can obtain all needed food energy from the mineral solution",
+              "Any stored food proves the dark plant can make new sugar indefinitely",
+              "The light plant receives more soil food simply because its leaves are brighter"
+            ],
+            "solution": "Light is an energy input to photosynthesis. Stored food may support a plant temporarily, so darkness does not mean every plant immediately dies.",
+            "hint": "Consider the missing input and avoid an instant-death assumption.",
+            "misconceptions": {
+              "The dark plant can obtain all needed food energy from the mineral solution": "Review the plant matter and energy evidence",
+              "Any stored food proves the dark plant can make new sugar indefinitely": "Review the plant matter and energy evidence",
+              "The light plant receives more soil food simply because its leaves are brighter": "Review the plant matter and energy evidence"
+            },
+            "estimatedSeconds": 80,
+            "proof": {
+              "op": "science",
+              "values": [],
+              "result": 0
+            },
+            "format": "evidence",
+            "source": "Family-provided Matter and Energy in Plants lesson photos (2026-11-05)"
+          },
+          "answers": [
+            "The dark plant lacks the light energy needed for photosynthesis"
+          ],
+          "correct": true,
+          "firstCorrect": true,
+          "independent": true,
+          "hinted": false,
+          "seconds": 30,
+          "at": 1793942221299,
+          "error": "None",
+          "work": ""
+        }
+      ],
+      "startedAt": 1793942221299,
+      "draft": {
+        "answer": "",
+        "work": "",
+        "hinted": false,
+        "answers": [],
+        "elapsed": 0
+      },
+      "endedAt": 1793942221299,
+      "early": false
+    },
+    {
+      "unit": "plants",
+      "id": "415e1752-8074-470c-942a-d1d9f14d3a06",
+      "mode": "quick",
+      "diagnostic": false,
+      "target": [
+        "plant-photo"
+      ],
+      "questions": [
+        {
+          "id": "plant-photo:6",
+          "skill": "plant-photo",
+          "difficulty": 3,
+          "kind": "choice",
+          "family": "reasoning",
+          "text": "Why is “plants create energy from nothing” a poor explanation?",
+          "answer": "They transform incoming light energy into energy stored in food",
+          "equivalents": [],
+          "choices": [
+            "The energy starts to exist only when carbon dioxide enters the leaf",
+            "The plant turns matter into newly created energy with no energy input",
+            "They transform incoming light energy into energy stored in food",
+            "The plant obtains all food energy by absorbing mineral nutrients"
+          ],
+          "solution": "The energy is transferred and transformed, not created from nothing. Food can store chemical energy before it is eaten.",
+          "hint": "Trace where the energy came from before it was stored.",
+          "misconceptions": {
+            "The energy starts to exist only when carbon dioxide enters the leaf": "Review the plant matter and energy evidence",
+            "The plant obtains all food energy by absorbing mineral nutrients": "Review the plant matter and energy evidence",
+            "The plant turns matter into newly created energy with no energy input": "Review the plant matter and energy evidence"
+          },
+          "estimatedSeconds": 80,
+          "proof": {
+            "op": "science",
+            "values": [],
+            "result": 0
+          },
+          "format": "reasoning",
+          "source": "Family-provided Matter and Energy in Plants lesson photos (2026-11-05)"
+        },
+        {
+          "id": "plant-photo:7",
+          "skill": "plant-photo",
+          "difficulty": 2,
+          "kind": "choice",
+          "family": "application",
+          "text": "A greenhouse uses suitable lamps instead of sunshine. What question matters for food making?",
+          "answer": "Whether the plants receive usable light for photosynthesis",
+          "equivalents": [],
+          "choices": [
+            "Whether a lamp replaces carbon dioxide and water",
+            "Whether lamps make soil into sugar without leaves",
+            "Whether the plants receive usable light for photosynthesis",
+            "Whether the lamps can be absorbed as minerals"
+          ],
+          "solution": "Plants need suitable light energy, not necessarily direct outdoor sunshine. Water and carbon dioxide are still needed.",
+          "hint": "Changing the source of light does not remove the other needs.",
+          "misconceptions": {
+            "Whether the lamps can be absorbed as minerals": "Review the plant matter and energy evidence",
+            "Whether a lamp replaces carbon dioxide and water": "Review the plant matter and energy evidence",
+            "Whether lamps make soil into sugar without leaves": "Review the plant matter and energy evidence"
+          },
+          "estimatedSeconds": 50,
+          "proof": {
+            "op": "science",
+            "values": [],
+            "result": 0
+          },
+          "format": "application",
+          "source": "Family-provided Matter and Energy in Plants lesson photos (2026-11-05)"
+        },
+        {
+          "id": "plant-photo:8",
+          "skill": "plant-photo",
+          "difficulty": 1,
+          "kind": "choice",
+          "family": "label-model",
+          "text": "Which label belongs on the arrow from the Sun to a green leaf?",
+          "answer": "Light energy",
+          "equivalents": [],
+          "choices": [
+            "Carbon dioxide matter",
+            "Stored sugar matter",
+            "Dissolved minerals",
+            "Light energy"
+          ],
+          "solution": "The Sun supplies light energy for photosynthesis. Carbon dioxide and water are matter inputs; minerals are not light.",
+          "hint": "Distinguish an energy input from a material input.",
+          "misconceptions": {
+            "Dissolved minerals": "Review the plant matter and energy evidence",
+            "Carbon dioxide matter": "Review the plant matter and energy evidence",
+            "Stored sugar matter": "Review the plant matter and energy evidence"
+          },
+          "estimatedSeconds": 50,
+          "proof": {
+            "op": "science",
+            "values": [],
+            "result": 0
+          },
+          "format": "label-model",
+          "source": "Family-provided Matter and Energy in Plants lesson photos (2026-11-05)"
+        },
+        {
+          "id": "plant-photo:9",
+          "skill": "plant-photo",
+          "difficulty": 2,
+          "kind": "choice",
+          "family": "explain",
+          "text": "The squad calls photosynthesis a food-making process. Which change supports that description?",
+          "answer": "Carbon dioxide and water become sugar using light",
+          "equivalents": [],
+          "choices": [
+            "Carbon dioxide and water become sugar using light",
+            "Leaves change oxygen into soil using sugar",
+            "Roots turn all absorbed minerals directly into sunlight",
+            "Water becomes fertilizer without an energy input"
+          ],
+          "solution": "Photosynthesis uses light energy to make sugar from carbon dioxide and water, releasing oxygen. Sugar is the food product.",
+          "hint": "Choose the process with the correct matter inputs and food output.",
+          "misconceptions": {
+            "Roots turn all absorbed minerals directly into sunlight": "Review the plant matter and energy evidence",
+            "Leaves change oxygen into soil using sugar": "Review the plant matter and energy evidence",
+            "Water becomes fertilizer without an energy input": "Review the plant matter and energy evidence"
+          },
+          "estimatedSeconds": 50,
+          "proof": {
+            "op": "science",
+            "values": [],
+            "result": 0
+          },
+          "format": "explain",
+          "source": "Family-provided Matter and Energy in Plants lesson photos (2026-11-05)"
+        },
+        {
+          "id": "plant-photo:10",
+          "skill": "plant-photo",
+          "difficulty": 3,
+          "kind": "choice",
+          "family": "error-correction",
+          "text": "A student labels both sugar and sunlight as material ingredients entering a leaf during photosynthesis. What is the best correction?",
+          "answer": "Light supplies energy; sugar is a product",
+          "equivalents": [],
+          "choices": [
+            "Light supplies soil; sugar is unchanged",
+            "Light supplies energy; sugar is a product",
+            "Light supplies minerals; sugar is an input",
+            "Light supplies water; sugar is a gas input"
+          ],
+          "solution": "The model should show sunlight as an energy input and sugar as a food output. Water and carbon dioxide are the matter inputs.",
+          "hint": "Separate what enters, what is made, and what powers the change.",
+          "misconceptions": {
+            "Light supplies minerals; sugar is an input": "Review the plant matter and energy evidence",
+            "Light supplies water; sugar is a gas input": "Review the plant matter and energy evidence",
+            "Light supplies soil; sugar is unchanged": "Review the plant matter and energy evidence"
+          },
+          "estimatedSeconds": 80,
+          "proof": {
+            "op": "science",
+            "values": [],
+            "result": 0
+          },
+          "format": "error-correction",
+          "source": "Family-provided Matter and Energy in Plants lesson photos (2026-11-05)"
+        },
+        {
+          "id": "plant-photo:11",
+          "skill": "plant-photo",
+          "difficulty": 2,
+          "kind": "choice",
+          "family": "connect",
+          "text": "Which paired description correctly names photosynthesis and its energy change?",
+          "answer": "Food making; light energy becomes stored chemical energy",
+          "equivalents": [],
+          "choices": [
+            "Food making; light energy becomes stored chemical energy",
+            "Seed dispersal; air changes into gravity",
+            "Mineral uptake; roots create light energy",
+            "Water transport; chemical energy becomes soil"
+          ],
+          "solution": "Photosynthesis makes food, storing captured light energy as chemical energy in sugar. It is different from transport or seed dispersal.",
+          "hint": "Match the process to making sugar, not merely moving water.",
+          "misconceptions": {
+            "Water transport; chemical energy becomes soil": "Review the plant matter and energy evidence",
+            "Mineral uptake; roots create light energy": "Review the plant matter and energy evidence",
+            "Seed dispersal; air changes into gravity": "Review the plant matter and energy evidence"
+          },
+          "estimatedSeconds": 50,
+          "proof": {
+            "op": "science",
+            "values": [],
+            "result": 0
+          },
+          "format": "connect",
+          "source": "Family-provided Matter and Energy in Plants lesson photos (2026-11-05)"
+        }
+      ],
+      "responses": [
+        {
+          "question": {
+            "id": "plant-photo:6",
+            "skill": "plant-photo",
+            "difficulty": 3,
+            "kind": "choice",
+            "family": "reasoning",
+            "text": "Why is “plants create energy from nothing” a poor explanation?",
+            "answer": "They transform incoming light energy into energy stored in food",
+            "equivalents": [],
+            "choices": [
+              "The energy starts to exist only when carbon dioxide enters the leaf",
+              "The plant turns matter into newly created energy with no energy input",
+              "They transform incoming light energy into energy stored in food",
+              "The plant obtains all food energy by absorbing mineral nutrients"
+            ],
+            "solution": "The energy is transferred and transformed, not created from nothing. Food can store chemical energy before it is eaten.",
+            "hint": "Trace where the energy came from before it was stored.",
+            "misconceptions": {
+              "The energy starts to exist only when carbon dioxide enters the leaf": "Review the plant matter and energy evidence",
+              "The plant obtains all food energy by absorbing mineral nutrients": "Review the plant matter and energy evidence",
+              "The plant turns matter into newly created energy with no energy input": "Review the plant matter and energy evidence"
+            },
+            "estimatedSeconds": 80,
+            "proof": {
+              "op": "science",
+              "values": [],
+              "result": 0
+            },
+            "format": "reasoning",
+            "source": "Family-provided Matter and Energy in Plants lesson photos (2026-11-05)"
+          },
+          "answers": [
+            "They transform incoming light energy into energy stored in food"
+          ],
+          "correct": true,
+          "firstCorrect": true,
+          "independent": true,
+          "hinted": false,
+          "seconds": 30,
+          "at": 1793942221299,
+          "error": "None",
+          "work": ""
+        },
+        {
+          "question": {
+            "id": "plant-photo:7",
+            "skill": "plant-photo",
+            "difficulty": 2,
+            "kind": "choice",
+            "family": "application",
+            "text": "A greenhouse uses suitable lamps instead of sunshine. What question matters for food making?",
+            "answer": "Whether the plants receive usable light for photosynthesis",
+            "equivalents": [],
+            "choices": [
+              "Whether a lamp replaces carbon dioxide and water",
+              "Whether lamps make soil into sugar without leaves",
+              "Whether the plants receive usable light for photosynthesis",
+              "Whether the lamps can be absorbed as minerals"
+            ],
+            "solution": "Plants need suitable light energy, not necessarily direct outdoor sunshine. Water and carbon dioxide are still needed.",
+            "hint": "Changing the source of light does not remove the other needs.",
+            "misconceptions": {
+              "Whether the lamps can be absorbed as minerals": "Review the plant matter and energy evidence",
+              "Whether a lamp replaces carbon dioxide and water": "Review the plant matter and energy evidence",
+              "Whether lamps make soil into sugar without leaves": "Review the plant matter and energy evidence"
+            },
+            "estimatedSeconds": 50,
+            "proof": {
+              "op": "science",
+              "values": [],
+              "result": 0
+            },
+            "format": "application",
+            "source": "Family-provided Matter and Energy in Plants lesson photos (2026-11-05)"
+          },
+          "answers": [
+            "Whether the plants receive usable light for photosynthesis"
+          ],
+          "correct": true,
+          "firstCorrect": true,
+          "independent": true,
+          "hinted": false,
+          "seconds": 30,
+          "at": 1793942221300,
+          "error": "None",
+          "work": ""
+        },
+        {
+          "question": {
+            "id": "plant-photo:8",
+            "skill": "plant-photo",
+            "difficulty": 1,
+            "kind": "choice",
+            "family": "label-model",
+            "text": "Which label belongs on the arrow from the Sun to a green leaf?",
+            "answer": "Light energy",
+            "equivalents": [],
+            "choices": [
+              "Carbon dioxide matter",
+              "Stored sugar matter",
+              "Dissolved minerals",
+              "Light energy"
+            ],
+            "solution": "The Sun supplies light energy for photosynthesis. Carbon dioxide and water are matter inputs; minerals are not light.",
+            "hint": "Distinguish an energy input from a material input.",
+            "misconceptions": {
+              "Dissolved minerals": "Review the plant matter and energy evidence",
+              "Carbon dioxide matter": "Review the plant matter and energy evidence",
+              "Stored sugar matter": "Review the plant matter and energy evidence"
+            },
+            "estimatedSeconds": 50,
+            "proof": {
+              "op": "science",
+              "values": [],
+              "result": 0
+            },
+            "format": "label-model",
+            "source": "Family-provided Matter and Energy in Plants lesson photos (2026-11-05)"
+          },
+          "answers": [
+            "Light energy"
+          ],
+          "correct": true,
+          "firstCorrect": true,
+          "independent": true,
+          "hinted": false,
+          "seconds": 30,
+          "at": 1793942221300,
+          "error": "None",
+          "work": ""
+        },
+        {
+          "question": {
+            "id": "plant-photo:9",
+            "skill": "plant-photo",
+            "difficulty": 2,
+            "kind": "choice",
+            "family": "explain",
+            "text": "The squad calls photosynthesis a food-making process. Which change supports that description?",
+            "answer": "Carbon dioxide and water become sugar using light",
+            "equivalents": [],
+            "choices": [
+              "Carbon dioxide and water become sugar using light",
+              "Leaves change oxygen into soil using sugar",
+              "Roots turn all absorbed minerals directly into sunlight",
+              "Water becomes fertilizer without an energy input"
+            ],
+            "solution": "Photosynthesis uses light energy to make sugar from carbon dioxide and water, releasing oxygen. Sugar is the food product.",
+            "hint": "Choose the process with the correct matter inputs and food output.",
+            "misconceptions": {
+              "Roots turn all absorbed minerals directly into sunlight": "Review the plant matter and energy evidence",
+              "Leaves change oxygen into soil using sugar": "Review the plant matter and energy evidence",
+              "Water becomes fertilizer without an energy input": "Review the plant matter and energy evidence"
+            },
+            "estimatedSeconds": 50,
+            "proof": {
+              "op": "science",
+              "values": [],
+              "result": 0
+            },
+            "format": "explain",
+            "source": "Family-provided Matter and Energy in Plants lesson photos (2026-11-05)"
+          },
+          "answers": [
+            "Carbon dioxide and water become sugar using light"
+          ],
+          "correct": true,
+          "firstCorrect": true,
+          "independent": true,
+          "hinted": false,
+          "seconds": 30,
+          "at": 1793942221300,
+          "error": "None",
+          "work": ""
+        },
+        {
+          "question": {
+            "id": "plant-photo:10",
+            "skill": "plant-photo",
+            "difficulty": 3,
+            "kind": "choice",
+            "family": "error-correction",
+            "text": "A student labels both sugar and sunlight as material ingredients entering a leaf during photosynthesis. What is the best correction?",
+            "answer": "Light supplies energy; sugar is a product",
+            "equivalents": [],
+            "choices": [
+              "Light supplies soil; sugar is unchanged",
+              "Light supplies energy; sugar is a product",
+              "Light supplies minerals; sugar is an input",
+              "Light supplies water; sugar is a gas input"
+            ],
+            "solution": "The model should show sunlight as an energy input and sugar as a food output. Water and carbon dioxide are the matter inputs.",
+            "hint": "Separate what enters, what is made, and what powers the change.",
+            "misconceptions": {
+              "Light supplies minerals; sugar is an input": "Review the plant matter and energy evidence",
+              "Light supplies water; sugar is a gas input": "Review the plant matter and energy evidence",
+              "Light supplies soil; sugar is unchanged": "Review the plant matter and energy evidence"
+            },
+            "estimatedSeconds": 80,
+            "proof": {
+              "op": "science",
+              "values": [],
+              "result": 0
+            },
+            "format": "error-correction",
+            "source": "Family-provided Matter and Energy in Plants lesson photos (2026-11-05)"
+          },
+          "answers": [
+            "Light supplies energy; sugar is a product"
+          ],
+          "correct": true,
+          "firstCorrect": true,
+          "independent": true,
+          "hinted": false,
+          "seconds": 30,
+          "at": 1793942221300,
+          "error": "None",
+          "work": ""
+        },
+        {
+          "question": {
+            "id": "plant-photo:11",
+            "skill": "plant-photo",
+            "difficulty": 2,
+            "kind": "choice",
+            "family": "connect",
+            "text": "Which paired description correctly names photosynthesis and its energy change?",
+            "answer": "Food making; light energy becomes stored chemical energy",
+            "equivalents": [],
+            "choices": [
+              "Food making; light energy becomes stored chemical energy",
+              "Seed dispersal; air changes into gravity",
+              "Mineral uptake; roots create light energy",
+              "Water transport; chemical energy becomes soil"
+            ],
+            "solution": "Photosynthesis makes food, storing captured light energy as chemical energy in sugar. It is different from transport or seed dispersal.",
+            "hint": "Match the process to making sugar, not merely moving water.",
+            "misconceptions": {
+              "Water transport; chemical energy becomes soil": "Review the plant matter and energy evidence",
+              "Mineral uptake; roots create light energy": "Review the plant matter and energy evidence",
+              "Seed dispersal; air changes into gravity": "Review the plant matter and energy evidence"
+            },
+            "estimatedSeconds": 50,
+            "proof": {
+              "op": "science",
+              "values": [],
+              "result": 0
+            },
+            "format": "connect",
+            "source": "Family-provided Matter and Energy in Plants lesson photos (2026-11-05)"
+          },
+          "answers": [
+            "Food making; light energy becomes stored chemical energy"
+          ],
+          "correct": true,
+          "firstCorrect": true,
+          "independent": true,
+          "hinted": false,
+          "seconds": 30,
+          "at": 1793942221300,
+          "error": "None",
+          "work": ""
+        }
+      ],
+      "startedAt": 1793942221299,
+      "draft": {
+        "answer": "",
+        "work": "",
+        "hinted": false,
+        "answers": [],
+        "elapsed": 0
+      },
+      "endedAt": 1793942221300,
+      "early": false
+    },
+    {
+      "unit": "plants",
+      "id": "48039942-583a-40ec-91ba-4cedb2da327e",
+      "mode": "quick",
+      "diagnostic": false,
+      "target": [
+        "plant-photo"
+      ],
+      "questions": [
+        {
+          "id": "plant-photo:0",
+          "skill": "plant-photo",
+          "difficulty": 1,
+          "kind": "choice",
+          "family": "vocabulary",
+          "text": "What process lets green plants use light to make food?",
+          "answer": "Photosynthesis",
+          "equivalents": [],
+          "choices": [
+            "Phytoremediation",
+            "Aquaponics",
+            "Hydroponics",
+            "Photosynthesis"
+          ],
+          "solution": "Photosynthesis uses light energy to make sugar from carbon dioxide and water. The other terms describe growing systems or cleanup.",
+          "hint": "Choose the food-making process, rather than a growing location.",
+          "misconceptions": {
+            "Hydroponics": "Review the plant matter and energy evidence",
+            "Phytoremediation": "Review the plant matter and energy evidence",
+            "Aquaponics": "Review the plant matter and energy evidence"
+          },
+          "estimatedSeconds": 50,
+          "proof": {
+            "op": "science",
+            "values": [],
+            "result": 0
+          },
+          "format": "vocabulary",
+          "source": "Family-provided Matter and Energy in Plants lesson photos (2026-11-05)"
+        },
+        {
+          "id": "plant-photo:1",
+          "skill": "plant-photo",
+          "difficulty": 2,
+          "kind": "choice",
+          "family": "energy-model",
+          "text": "Which energy arrow best represents photosynthesis?",
+          "answer": "Light energy → chemical energy in sugar",
+          "equivalents": [],
+          "choices": [
+            "Light energy → chemical energy in sugar",
+            "Light energy → mineral nutrients",
+            "Chemical energy in soil → light energy",
+            "Oxygen energy → sunlight"
+          ],
+          "solution": "Photosynthesis transforms light energy into chemical energy stored in food. It does not turn sunlight into minerals.",
+          "hint": "Identify the energy source and the form stored in food.",
+          "misconceptions": {
+            "Chemical energy in soil → light energy": "Review the plant matter and energy evidence",
+            "Light energy → mineral nutrients": "Review the plant matter and energy evidence",
+            "Oxygen energy → sunlight": "Review the plant matter and energy evidence"
+          },
+          "estimatedSeconds": 50,
+          "proof": {
+            "op": "science",
+            "values": [],
+            "result": 0
+          },
+          "format": "energy-model",
+          "source": "Family-provided Matter and Energy in Plants lesson photos (2026-11-05)"
+        },
+        {
+          "id": "plant-photo:2",
+          "skill": "plant-photo",
+          "difficulty": 2,
+          "kind": "choice",
+          "family": "scenario",
+          "text": "A leaf receives sunlight, water, and carbon dioxide. What food can it make?",
+          "answer": "Sugar",
+          "equivalents": [],
+          "choices": [
+            "Mineral fertilizer",
+            "Sugar",
+            "Soil",
+            "Fish waste"
+          ],
+          "solution": "The plant makes sugar through photosynthesis. Soil and fertilizer can provide support or nutrients, but they are not the food produced.",
+          "hint": "Plant food and mineral fertilizer are different things.",
+          "misconceptions": {
+            "Soil": "Review the plant matter and energy evidence",
+            "Fish waste": "Review the plant matter and energy evidence",
+            "Mineral fertilizer": "Review the plant matter and energy evidence"
+          },
+          "estimatedSeconds": 50,
+          "proof": {
+            "op": "science",
+            "values": [],
+            "result": 0
+          },
+          "format": "scenario",
+          "source": "Family-provided Matter and Energy in Plants lesson photos (2026-11-05)"
+        },
+        {
+          "id": "plant-photo:3",
+          "skill": "plant-photo",
+          "difficulty": 3,
+          "kind": "choice",
+          "family": "claim",
+          "text": "A teammate calls sunlight a kind of plant food. Which correction is most accurate?",
+          "answer": "Light supplies energy used to make sugar; sugar is food",
+          "equivalents": [],
+          "choices": [
+            "Light supplies energy used to make sugar; sugar is food",
+            "Leaves store the light unchanged as a material instead of making sugar",
+            "Sunlight supplies minerals directly, so no food-making process is needed",
+            "Light is the sugar already present in the air that leaves absorb"
+          ],
+          "solution": "Sunlight supplies energy, while the plant makes sugar as food. This keeps energy sources separate from substances made by the plant.",
+          "hint": "Separate the energy used in a process from its food product.",
+          "misconceptions": {
+            "Light is the sugar already present in the air that leaves absorb": "Review the plant matter and energy evidence",
+            "Sunlight supplies minerals directly, so no food-making process is needed": "Review the plant matter and energy evidence",
+            "Leaves store the light unchanged as a material instead of making sugar": "Review the plant matter and energy evidence"
+          },
+          "estimatedSeconds": 80,
+          "proof": {
+            "op": "science",
+            "values": [],
+            "result": 0
+          },
+          "format": "claim",
+          "source": "Family-provided Matter and Energy in Plants lesson photos (2026-11-05)"
+        },
+        {
+          "id": "plant-photo:4",
+          "skill": "plant-photo",
+          "difficulty": 2,
+          "kind": "choice",
+          "family": "compare",
+          "text": "How does photosynthesis differ from hydroponics?",
+          "answer": "One is a food-making process; the other is growing without soil",
+          "equivalents": [],
+          "choices": [
+            "Both are names for removing pollutants",
+            "Photosynthesis requires soil, while hydroponics prevents food making",
+            "Only hydroponic plants can make sugar",
+            "One is a food-making process; the other is growing without soil"
+          ],
+          "solution": "A plant can photosynthesize while growing hydroponically. The terms describe different aspects of its life.",
+          "hint": "A process inside a plant can happen in different growing systems.",
+          "misconceptions": {
+            "Both are names for removing pollutants": "Review the plant matter and energy evidence",
+            "Only hydroponic plants can make sugar": "Review the plant matter and energy evidence",
+            "Photosynthesis requires soil, while hydroponics prevents food making": "Review the plant matter and energy evidence"
+          },
+          "estimatedSeconds": 50,
+          "proof": {
+            "op": "science",
+            "values": [],
+            "result": 0
+          },
+          "format": "compare",
+          "source": "Family-provided Matter and Energy in Plants lesson photos (2026-11-05)"
+        },
+        {
+          "id": "plant-photo:5",
+          "skill": "plant-photo",
+          "difficulty": 3,
+          "kind": "choice",
+          "family": "evidence",
+          "text": "Two similar plants have water and nutrients. One receives suitable light and one stays dark for a long period. Which explanation best predicts a difference?",
+          "answer": "The dark plant lacks the light energy needed for photosynthesis",
+          "equivalents": [],
+          "choices": [
+            "The dark plant lacks the light energy needed for photosynthesis",
+            "The dark plant can obtain all needed food energy from the mineral solution",
+            "Any stored food proves the dark plant can make new sugar indefinitely",
+            "The light plant receives more soil food simply because its leaves are brighter"
+          ],
+          "solution": "Light is an energy input to photosynthesis. Stored food may support a plant temporarily, so darkness does not mean every plant immediately dies.",
+          "hint": "Consider the missing input and avoid an instant-death assumption.",
+          "misconceptions": {
+            "The dark plant can obtain all needed food energy from the mineral solution": "Review the plant matter and energy evidence",
+            "Any stored food proves the dark plant can make new sugar indefinitely": "Review the plant matter and energy evidence",
+            "The light plant receives more soil food simply because its leaves are brighter": "Review the plant matter and energy evidence"
+          },
+          "estimatedSeconds": 80,
+          "proof": {
+            "op": "science",
+            "values": [],
+            "result": 0
+          },
+          "format": "evidence",
+          "source": "Family-provided Matter and Energy in Plants lesson photos (2026-11-05)"
+        }
+      ],
+      "responses": [
+        {
+          "question": {
+            "id": "plant-photo:0",
+            "skill": "plant-photo",
+            "difficulty": 1,
+            "kind": "choice",
+            "family": "vocabulary",
+            "text": "What process lets green plants use light to make food?",
+            "answer": "Photosynthesis",
+            "equivalents": [],
+            "choices": [
+              "Phytoremediation",
+              "Aquaponics",
+              "Hydroponics",
+              "Photosynthesis"
+            ],
+            "solution": "Photosynthesis uses light energy to make sugar from carbon dioxide and water. The other terms describe growing systems or cleanup.",
+            "hint": "Choose the food-making process, rather than a growing location.",
+            "misconceptions": {
+              "Hydroponics": "Review the plant matter and energy evidence",
+              "Phytoremediation": "Review the plant matter and energy evidence",
+              "Aquaponics": "Review the plant matter and energy evidence"
+            },
+            "estimatedSeconds": 50,
+            "proof": {
+              "op": "science",
+              "values": [],
+              "result": 0
+            },
+            "format": "vocabulary",
+            "source": "Family-provided Matter and Energy in Plants lesson photos (2026-11-05)"
+          },
+          "answers": [
+            "Photosynthesis"
+          ],
+          "correct": true,
+          "firstCorrect": true,
+          "independent": true,
+          "hinted": false,
+          "seconds": 30,
+          "at": 1793942221300,
+          "error": "None",
+          "work": ""
+        },
+        {
+          "question": {
+            "id": "plant-photo:1",
+            "skill": "plant-photo",
+            "difficulty": 2,
+            "kind": "choice",
+            "family": "energy-model",
+            "text": "Which energy arrow best represents photosynthesis?",
+            "answer": "Light energy → chemical energy in sugar",
+            "equivalents": [],
+            "choices": [
+              "Light energy → chemical energy in sugar",
+              "Light energy → mineral nutrients",
+              "Chemical energy in soil → light energy",
+              "Oxygen energy → sunlight"
+            ],
+            "solution": "Photosynthesis transforms light energy into chemical energy stored in food. It does not turn sunlight into minerals.",
+            "hint": "Identify the energy source and the form stored in food.",
+            "misconceptions": {
+              "Chemical energy in soil → light energy": "Review the plant matter and energy evidence",
+              "Light energy → mineral nutrients": "Review the plant matter and energy evidence",
+              "Oxygen energy → sunlight": "Review the plant matter and energy evidence"
+            },
+            "estimatedSeconds": 50,
+            "proof": {
+              "op": "science",
+              "values": [],
+              "result": 0
+            },
+            "format": "energy-model",
+            "source": "Family-provided Matter and Energy in Plants lesson photos (2026-11-05)"
+          },
+          "answers": [
+            "Light energy → chemical energy in sugar"
+          ],
+          "correct": true,
+          "firstCorrect": true,
+          "independent": true,
+          "hinted": false,
+          "seconds": 30,
+          "at": 1793942221300,
+          "error": "None",
+          "work": ""
+        },
+        {
+          "question": {
+            "id": "plant-photo:2",
+            "skill": "plant-photo",
+            "difficulty": 2,
+            "kind": "choice",
+            "family": "scenario",
+            "text": "A leaf receives sunlight, water, and carbon dioxide. What food can it make?",
+            "answer": "Sugar",
+            "equivalents": [],
+            "choices": [
+              "Mineral fertilizer",
+              "Sugar",
+              "Soil",
+              "Fish waste"
+            ],
+            "solution": "The plant makes sugar through photosynthesis. Soil and fertilizer can provide support or nutrients, but they are not the food produced.",
+            "hint": "Plant food and mineral fertilizer are different things.",
+            "misconceptions": {
+              "Soil": "Review the plant matter and energy evidence",
+              "Fish waste": "Review the plant matter and energy evidence",
+              "Mineral fertilizer": "Review the plant matter and energy evidence"
+            },
+            "estimatedSeconds": 50,
+            "proof": {
+              "op": "science",
+              "values": [],
+              "result": 0
+            },
+            "format": "scenario",
+            "source": "Family-provided Matter and Energy in Plants lesson photos (2026-11-05)"
+          },
+          "answers": [
+            "Sugar"
+          ],
+          "correct": true,
+          "firstCorrect": true,
+          "independent": true,
+          "hinted": false,
+          "seconds": 30,
+          "at": 1793942221300,
+          "error": "None",
+          "work": ""
+        },
+        {
+          "question": {
+            "id": "plant-photo:3",
+            "skill": "plant-photo",
+            "difficulty": 3,
+            "kind": "choice",
+            "family": "claim",
+            "text": "A teammate calls sunlight a kind of plant food. Which correction is most accurate?",
+            "answer": "Light supplies energy used to make sugar; sugar is food",
+            "equivalents": [],
+            "choices": [
+              "Light supplies energy used to make sugar; sugar is food",
+              "Leaves store the light unchanged as a material instead of making sugar",
+              "Sunlight supplies minerals directly, so no food-making process is needed",
+              "Light is the sugar already present in the air that leaves absorb"
+            ],
+            "solution": "Sunlight supplies energy, while the plant makes sugar as food. This keeps energy sources separate from substances made by the plant.",
+            "hint": "Separate the energy used in a process from its food product.",
+            "misconceptions": {
+              "Light is the sugar already present in the air that leaves absorb": "Review the plant matter and energy evidence",
+              "Sunlight supplies minerals directly, so no food-making process is needed": "Review the plant matter and energy evidence",
+              "Leaves store the light unchanged as a material instead of making sugar": "Review the plant matter and energy evidence"
+            },
+            "estimatedSeconds": 80,
+            "proof": {
+              "op": "science",
+              "values": [],
+              "result": 0
+            },
+            "format": "claim",
+            "source": "Family-provided Matter and Energy in Plants lesson photos (2026-11-05)"
+          },
+          "answers": [
+            "Light supplies energy used to make sugar; sugar is food"
+          ],
+          "correct": true,
+          "firstCorrect": true,
+          "independent": true,
+          "hinted": false,
+          "seconds": 30,
+          "at": 1793942221300,
+          "error": "None",
+          "work": ""
+        },
+        {
+          "question": {
+            "id": "plant-photo:4",
+            "skill": "plant-photo",
+            "difficulty": 2,
+            "kind": "choice",
+            "family": "compare",
+            "text": "How does photosynthesis differ from hydroponics?",
+            "answer": "One is a food-making process; the other is growing without soil",
+            "equivalents": [],
+            "choices": [
+              "Both are names for removing pollutants",
+              "Photosynthesis requires soil, while hydroponics prevents food making",
+              "Only hydroponic plants can make sugar",
+              "One is a food-making process; the other is growing without soil"
+            ],
+            "solution": "A plant can photosynthesize while growing hydroponically. The terms describe different aspects of its life.",
+            "hint": "A process inside a plant can happen in different growing systems.",
+            "misconceptions": {
+              "Both are names for removing pollutants": "Review the plant matter and energy evidence",
+              "Only hydroponic plants can make sugar": "Review the plant matter and energy evidence",
+              "Photosynthesis requires soil, while hydroponics prevents food making": "Review the plant matter and energy evidence"
+            },
+            "estimatedSeconds": 50,
+            "proof": {
+              "op": "science",
+              "values": [],
+              "result": 0
+            },
+            "format": "compare",
+            "source": "Family-provided Matter and Energy in Plants lesson photos (2026-11-05)"
+          },
+          "answers": [
+            "One is a food-making process; the other is growing without soil"
+          ],
+          "correct": true,
+          "firstCorrect": true,
+          "independent": true,
+          "hinted": false,
+          "seconds": 30,
+          "at": 1793942221300,
+          "error": "None",
+          "work": ""
+        },
+        {
+          "question": {
+            "id": "plant-photo:5",
+            "skill": "plant-photo",
+            "difficulty": 3,
+            "kind": "choice",
+            "family": "evidence",
+            "text": "Two similar plants have water and nutrients. One receives suitable light and one stays dark for a long period. Which explanation best predicts a difference?",
+            "answer": "The dark plant lacks the light energy needed for photosynthesis",
+            "equivalents": [],
+            "choices": [
+              "The dark plant lacks the light energy needed for photosynthesis",
+              "The dark plant can obtain all needed food energy from the mineral solution",
+              "Any stored food proves the dark plant can make new sugar indefinitely",
+              "The light plant receives more soil food simply because its leaves are brighter"
+            ],
+            "solution": "Light is an energy input to photosynthesis. Stored food may support a plant temporarily, so darkness does not mean every plant immediately dies.",
+            "hint": "Consider the missing input and avoid an instant-death assumption.",
+            "misconceptions": {
+              "The dark plant can obtain all needed food energy from the mineral solution": "Review the plant matter and energy evidence",
+              "Any stored food proves the dark plant can make new sugar indefinitely": "Review the plant matter and energy evidence",
+              "The light plant receives more soil food simply because its leaves are brighter": "Review the plant matter and energy evidence"
+            },
+            "estimatedSeconds": 80,
+            "proof": {
+              "op": "science",
+              "values": [],
+              "result": 0
+            },
+            "format": "evidence",
+            "source": "Family-provided Matter and Energy in Plants lesson photos (2026-11-05)"
+          },
+          "answers": [
+            "The dark plant lacks the light energy needed for photosynthesis"
+          ],
+          "correct": true,
+          "firstCorrect": true,
+          "independent": true,
+          "hinted": false,
+          "seconds": 30,
+          "at": 1793942221301,
+          "error": "None",
+          "work": ""
+        }
+      ],
+      "startedAt": 1793942221300,
+      "draft": {
+        "answer": "",
+        "work": "",
+        "hinted": false,
+        "answers": [],
+        "elapsed": 0
+      },
+      "endedAt": 1793942221301,
+      "early": false
+    }
+  ],
+  "active": null,
+  "xp": 510,
+  "sound": false,
+  "selectedUnit": "plants"
+}
