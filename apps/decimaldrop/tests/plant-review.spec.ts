@@ -19,6 +19,8 @@ test('study outline, deep reading and self-checks preserve evidence and a parked
 });
 test('reading suggestions adapt to sustained quiz evidence while keeping every topic available',async({page:p})=>{
  const progress=JSON.parse(readFileSync(new URL('../src/engine/fixtures/plant-photo-evidence.json',import.meta.url),'utf8'));
+ // Keep the strong-evidence scenario fresh when this test runs in future weeks.
+ for(const session of progress.sessions)for(const response of session.responses)response.at=Date.now();
  await p.goto('./');await p.locator('input[type=file]').setInputFiles({name:'plant-evidence.json',mimeType:'application/json',buffer:Buffer.from(JSON.stringify(progress))});await expect(p.getByText('Progress imported successfully.')).toBeVisible();
  const suggestions=p.getByRole('complementary',{name:'Suggested review'});await expect(suggestions.getByRole('button',{name:'Photosynthesis: making food →',exact:true})).toHaveCount(0);
  await p.getByRole('navigation',{name:'Study topic outline'}).getByRole('link',{name:'Photosynthesis: making food',exact:true}).click();await expect(p.locator('#study-photosynthesis .review-status')).toHaveText('Keep fresh');
