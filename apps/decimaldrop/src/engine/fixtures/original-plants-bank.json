@@ -1,0 +1,1399 @@
+[
+  {
+    "skill": "plant-photo",
+    "text": "What process lets green plants use light to make food?",
+    "answers": [
+      "Photosynthesis",
+      "Hydroponics",
+      "Phytoremediation",
+      "Aquaponics"
+    ],
+    "solution": "Photosynthesis uses light energy to make sugar from carbon dioxide and water. The other terms describe growing systems or cleanup.",
+    "hint": "Choose the food-making process, rather than a growing location.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "plant-photo",
+    "text": "Which energy arrow best represents photosynthesis?",
+    "answers": [
+      "Light energy \u2192 chemical energy in sugar",
+      "Chemical energy in soil \u2192 light energy",
+      "Light energy \u2192 mineral nutrients",
+      "Oxygen energy \u2192 sunlight"
+    ],
+    "solution": "Photosynthesis transforms light energy into chemical energy stored in food. It does not turn sunlight into minerals.",
+    "hint": "Identify the energy source and the form stored in food.",
+    "format": "energy-model",
+    "difficulty": 2,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "plant-photo",
+    "text": "A leaf receives sunlight, water, and carbon dioxide. What food can it make?",
+    "answers": [
+      "Sugar",
+      "Soil",
+      "Fish waste",
+      "Mineral fertilizer"
+    ],
+    "solution": "The plant makes sugar through photosynthesis. Soil and fertilizer can provide support or nutrients, but they are not the food produced.",
+    "hint": "Plant food and mineral fertilizer are different things.",
+    "format": "scenario",
+    "difficulty": 2,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "plant-photo",
+    "text": "A teammate calls sunlight a kind of plant food. Which correction is most accurate?",
+    "answers": [
+      "Light supplies energy used to make sugar; sugar is food",
+      "Light is the sugar already present in the air that leaves absorb",
+      "Sunlight supplies minerals directly, so no food-making process is needed",
+      "Leaves store the light unchanged as a material instead of making sugar"
+    ],
+    "solution": "Sunlight supplies energy, while the plant makes sugar as food. This keeps energy sources separate from substances made by the plant.",
+    "hint": "Separate the energy used in a process from its food product.",
+    "format": "claim",
+    "difficulty": 3,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "plant-photo",
+    "text": "How does photosynthesis differ from hydroponics?",
+    "answers": [
+      "One is a food-making process; the other is growing without soil",
+      "Both are names for removing pollutants",
+      "Only hydroponic plants can make sugar",
+      "Photosynthesis requires soil, while hydroponics prevents food making"
+    ],
+    "solution": "A plant can photosynthesize while growing hydroponically. The terms describe different aspects of its life.",
+    "hint": "A process inside a plant can happen in different growing systems.",
+    "format": "compare",
+    "difficulty": 2,
+    "photoNumbers": [
+      1,
+      2
+    ]
+  },
+  {
+    "skill": "plant-photo",
+    "text": "Two similar plants have water and nutrients. One receives suitable light and one stays dark for a long period. Which explanation best predicts a difference?",
+    "answers": [
+      "The dark plant lacks the light energy needed for photosynthesis",
+      "The dark plant can obtain all needed food energy from the mineral solution",
+      "Any stored food proves the dark plant can make new sugar indefinitely",
+      "The light plant receives more soil food simply because its leaves are brighter"
+    ],
+    "solution": "Light is an energy input to photosynthesis. Stored food may support a plant temporarily, so darkness does not mean every plant immediately dies.",
+    "hint": "Consider the missing input and avoid an instant-death assumption.",
+    "format": "evidence",
+    "difficulty": 3,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "plant-photo",
+    "text": "Why is \u201cplants create energy from nothing\u201d a poor explanation?",
+    "answers": [
+      "They transform incoming light energy into energy stored in food",
+      "The energy starts to exist only when carbon dioxide enters the leaf",
+      "The plant obtains all food energy by absorbing mineral nutrients",
+      "The plant turns matter into newly created energy with no energy input"
+    ],
+    "solution": "The energy is transferred and transformed, not created from nothing. Food can store chemical energy before it is eaten.",
+    "hint": "Trace where the energy came from before it was stored.",
+    "format": "reasoning",
+    "difficulty": 3,
+    "photoNumbers": [
+      1,
+      2
+    ]
+  },
+  {
+    "skill": "plant-photo",
+    "text": "A greenhouse uses suitable lamps instead of sunshine. What question matters for food making?",
+    "answers": [
+      "Whether the plants receive usable light for photosynthesis",
+      "Whether the lamps can be absorbed as minerals",
+      "Whether a lamp replaces carbon dioxide and water",
+      "Whether lamps make soil into sugar without leaves"
+    ],
+    "solution": "Plants need suitable light energy, not necessarily direct outdoor sunshine. Water and carbon dioxide are still needed.",
+    "hint": "Changing the source of light does not remove the other needs.",
+    "format": "application",
+    "difficulty": 2,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "plant-matter",
+    "text": "Which gas from the air is used to make sugar during photosynthesis?",
+    "answers": [
+      "Carbon dioxide",
+      "Oxygen as the carbon source",
+      "Nitrogen as ready-made sugar",
+      "Water vapor as the only ingredient"
+    ],
+    "solution": "Carbon dioxide supplies carbon used in making sugar. Oxygen is released during photosynthesis rather than being its carbon source.",
+    "hint": "Look for the air input named in the lesson.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "plant-matter",
+    "text": "Which pair provides material inputs for photosynthesis?",
+    "answers": [
+      "Carbon dioxide and water",
+      "Sugar and oxygen",
+      "Light and a royal flag",
+      "Soil and glass"
+    ],
+    "solution": "Water and carbon dioxide are substances used in food making. Light supplies energy, while sugar and oxygen are products.",
+    "hint": "Distinguish substances used from energy supplied.",
+    "format": "input-model",
+    "difficulty": 2,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "plant-matter",
+    "text": "Which pair identifies products of photosynthesis?",
+    "answers": [
+      "Sugar and oxygen",
+      "Carbon dioxide and fertilizer",
+      "Water and sunlight",
+      "Sand and minerals"
+    ],
+    "solution": "The process produces sugar and oxygen from carbon dioxide and water using light. Energy and matter have different roles.",
+    "hint": "Read the process from inputs toward outputs.",
+    "format": "output-model",
+    "difficulty": 2,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "plant-matter",
+    "text": "A plant gains mass while its pot loses very little soil. Which explanation is most reasonable?",
+    "answers": [
+      "Much of the new plant matter comes from air and water",
+      "All the plant\u2019s added mass must come from mineral particles removed from soil",
+      "The added mass is sunlight stored as matter without carbon dioxide or water",
+      "A plant gaining mass proves it requires no outside material sources"
+    ],
+    "solution": "Plants build much of their matter using carbon dioxide and water. They also require mineral nutrients, but do not gain all their mass by consuming soil.",
+    "hint": "Trace material sources beyond the potting soil.",
+    "format": "claim",
+    "difficulty": 3,
+    "photoNumbers": [
+      1,
+      2
+    ]
+  },
+  {
+    "skill": "plant-matter",
+    "text": "How are mineral nutrients different from the sugar a plant makes?",
+    "answers": [
+      "Minerals support plant functions; sugar is energy-containing food",
+      "Minerals are sunlight stored in a bottle",
+      "Sugar enters only through roots as fertilizer",
+      "Minerals remove the need for carbon dioxide"
+    ],
+    "solution": "Plants need minerals, but minerals are not the sugar produced by photosynthesis. Fertilizer does not replace food making.",
+    "hint": "Do not use the word nutrient to mean every substance has the same job.",
+    "format": "compare",
+    "difficulty": 2,
+    "photoNumbers": [
+      1,
+      2
+    ]
+  },
+  {
+    "skill": "plant-matter",
+    "text": "Which statement correctly follows oxygen in the lesson\u2019s photosynthesis model?",
+    "answers": [
+      "It is produced and released from leaves",
+      "It is the only material that enters roots",
+      "It is changed directly into sunlight",
+      "It is a mineral supplied by gravel"
+    ],
+    "solution": "Oxygen is released as a product of photosynthesis. The lesson distinguishes it from carbon dioxide taken in by the plant.",
+    "hint": "Compare the two gases\u2019 roles in this specific process.",
+    "format": "gas-evidence",
+    "difficulty": 2,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "plant-matter",
+    "text": "Why can light not be listed as a mineral ingredient in a sugar-making model?",
+    "answers": [
+      "Light is an energy input, while minerals are matter",
+      "Minerals are the plant\u2019s main energy supply and light is the food substance",
+      "Anything required by a plant must be the same kind of material ingredient",
+      "Sugar is produced without matter inputs because light replaces carbon dioxide"
+    ],
+    "solution": "The model should distinguish energy entering as light from matter entering as substances. Both are important but not interchangeable.",
+    "hint": "Ask whether something is energy or a material substance.",
+    "format": "reasoning",
+    "difficulty": 3,
+    "photoNumbers": [
+      1,
+      2
+    ]
+  },
+  {
+    "skill": "plant-matter",
+    "text": "A hydroponic plant has light and nutrient solution. What must the air still provide for photosynthesis?",
+    "answers": [
+      "Carbon dioxide",
+      "Ready-made soil particles",
+      "Sugar crystals as the only food source",
+      "Fish scales in every system"
+    ],
+    "solution": "Hydroponics does not remove the need for carbon dioxide. The plant still makes food using the normal photosynthesis inputs.",
+    "hint": "A different growing medium does not change the basic food-making process.",
+    "format": "application",
+    "difficulty": 2,
+    "photoNumbers": [
+      1,
+      2
+    ]
+  },
+  {
+    "skill": "plant-parts",
+    "text": "Which plant structures mainly absorb water from the growing environment?",
+    "answers": [
+      "Roots",
+      "Flowers",
+      "Fruits",
+      "Seeds stored in a packet"
+    ],
+    "solution": "Roots absorb water and dissolved mineral nutrients. Other structures have different functions in the plant.",
+    "hint": "Start tracing water at the part in contact with the water supply.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "photoNumbers": [
+      1,
+      2
+    ]
+  },
+  {
+    "skill": "plant-parts",
+    "text": "Which simplified route traces water toward food-making leaves?",
+    "answers": [
+      "Roots \u2192 stems \u2192 leaves",
+      "Leaves \u2192 fruit \u2192 sunlight",
+      "Stems \u2192 soil \u2192 air",
+      "Flowers \u2192 compass \u2192 roots"
+    ],
+    "solution": "Water absorbed by roots is transported through stems toward leaves. This is a material pathway, not an energy transformation.",
+    "hint": "Follow water from its entry point to the leaves.",
+    "format": "path-model",
+    "difficulty": 2,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "plant-parts",
+    "text": "Where does carbon dioxide enter a leaf in the supplied explanation?",
+    "answers": [
+      "Through openings in the leaf",
+      "Through seeds being eaten by animals",
+      "Only through mineral grains in soil",
+      "Only through the flower\u2019s colored petals"
+    ],
+    "solution": "Carbon dioxide enters through leaf openings. Water normally follows a different path through roots and stems.",
+    "hint": "Compare the gas pathway with the water pathway.",
+    "format": "scenario",
+    "difficulty": 2,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "plant-parts",
+    "text": "A diagram shows roots absorbing sunshine and leaves taking in soil. Which revision is strongest?",
+    "answers": [
+      "Show roots absorbing water and leaves absorbing light and taking in carbon dioxide",
+      "Show roots taking in ready-made sugar from every soil and leaves only releasing gases",
+      "Keep the root arrow as light because roots supply all energy to the leaves",
+      "Show minerals entering the leaves as the only source of plant food energy"
+    ],
+    "solution": "The corrected model assigns different functions to structures. Leaves and roots do not obtain the same inputs in the same way.",
+    "hint": "Match each structure with the input it actually helps obtain.",
+    "format": "claim",
+    "difficulty": 3,
+    "photoNumbers": [
+      1,
+      2
+    ]
+  },
+  {
+    "skill": "plant-parts",
+    "text": "How do roots and stems cooperate in the water pathway?",
+    "answers": [
+      "Roots take in water; stems help transport it",
+      "Stems make soil; roots turn it into sunlight",
+      "Both only produce seeds",
+      "Roots supply light while stems supply carbon dioxide from soil"
+    ],
+    "solution": "Absorption and transport are connected but distinct jobs. Water must reach the parts using it after entering through roots.",
+    "hint": "Separate getting water into the plant from moving it inside.",
+    "format": "compare",
+    "difficulty": 2,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "plant-parts",
+    "text": "A plant has healthy roots but most leaves are removed. Which concern directly relates to photosynthesis?",
+    "answers": [
+      "There is less leaf area available to absorb light",
+      "The roots will automatically replace all the leaves\u2019 light-absorbing work",
+      "Stored food means the plant will never need to make any new sugar",
+      "The remaining growing medium will now supply every bit of food energy"
+    ],
+    "solution": "Leaves help capture light for photosynthesis. Stored resources and remaining tissues matter too, so an immediate universal outcome is not established.",
+    "hint": "Focus on the affected structure\u2019s role without exaggerating the consequence.",
+    "format": "evidence",
+    "difficulty": 3,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "plant-parts",
+    "text": "Why can a support material alone not do the job of roots?",
+    "answers": [
+      "Holding a plant upright is different from absorbing water and nutrients",
+      "A support material automatically supplies water even when no water is present",
+      "Any material holding roots provides all the mineral nutrients the plant needs",
+      "The only purpose of roots is support, so a nonliving medium does every root job"
+    ],
+    "solution": "A medium can hold roots in place, while roots still need access to water and nutrients. Physical support and absorption are different functions.",
+    "hint": "Distinguish the medium\u2019s role from the living structure\u2019s role.",
+    "format": "reasoning",
+    "difficulty": 3,
+    "photoNumbers": [
+      2,
+      5
+    ]
+  },
+  {
+    "skill": "plant-parts",
+    "text": "Which structure is directly involved in both taking in carbon dioxide and releasing photosynthesis oxygen?",
+    "answers": [
+      "Leaf openings",
+      "A bottle\u2019s foil cover",
+      "The seed packet",
+      "A gravel support layer"
+    ],
+    "solution": "Leaf openings allow gas exchange. Equipment in a growing system can support conditions but does not replace living structures.",
+    "hint": "Look for the structure on the plant rather than the equipment around it.",
+    "format": "application",
+    "difficulty": 2,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "plant-roles",
+    "text": "Why are green plants called producers?",
+    "answers": [
+      "They make their own food",
+      "They eat only fruit",
+      "They make all their minerals from sunlight",
+      "They must consume animals for energy"
+    ],
+    "solution": "Producers make food rather than obtaining all their food by eating other organisms. Green plants use photosynthesis to do this.",
+    "hint": "Use the food-making meaning of producer.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "photoNumbers": [
+      1,
+      2
+    ]
+  },
+  {
+    "skill": "plant-roles",
+    "text": "Which path follows food energy to a person eating an apple?",
+    "answers": [
+      "Sunlight \u2192 apple tree\u2019s food \u2192 person",
+      "Soil minerals \u2192 sunlight \u2192 person",
+      "Person \u2192 apple \u2192 the sun",
+      "Water bottle \u2192 fish tank \u2192 sunlight"
+    ],
+    "solution": "The tree captures light energy and stores chemical energy in food. Eating the apple transfers some of that food energy to the consumer.",
+    "hint": "Trace the original source before the food is eaten.",
+    "format": "energy-model",
+    "difficulty": 2,
+    "photoNumbers": [
+      1,
+      2
+    ]
+  },
+  {
+    "skill": "plant-roles",
+    "text": "A caterpillar eats a green leaf. Which pairing is correct?",
+    "answers": [
+      "Plant: producer; caterpillar: consumer",
+      "Plant: consumer; caterpillar: producer",
+      "Both are producers because both grow",
+      "Both make sugar directly from sunlight"
+    ],
+    "solution": "The plant makes food, while the caterpillar obtains food by eating. Growth alone does not make an organism a producer.",
+    "hint": "Classify by how food is obtained, not whether the organism grows.",
+    "format": "scenario",
+    "difficulty": 2,
+    "photoNumbers": [
+      2
+    ]
+  },
+  {
+    "skill": "plant-roles",
+    "text": "A teammate says an apple tree becomes a consumer when roots absorb minerals. Which correction is strongest?",
+    "answers": [
+      "Absorbing minerals does not mean eating food; the tree still produces sugar",
+      "Taking in water or minerals is the same as eating ready-made food",
+      "Only plants rooted in soil can be called producers, regardless of food making",
+      "Producing sugar removes any need for materials from the surrounding environment"
+    ],
+    "solution": "Mineral uptake and food making are distinct. A plant remains a producer even though it obtains materials from its surroundings.",
+    "hint": "Do not equate every absorbed substance with eating food.",
+    "format": "claim",
+    "difficulty": 3,
+    "photoNumbers": [
+      1,
+      2
+    ]
+  },
+  {
+    "skill": "plant-roles",
+    "text": "A lettuce plant grows in nutrient solution instead of soil. Does its producer role change?",
+    "answers": [
+      "No; it can still make food using light",
+      "Yes; water makes it a fish",
+      "Yes; nutrient solution prevents photosynthesis",
+      "No; producers never need any materials"
+    ],
+    "solution": "Growing location does not decide the role. A green lettuce plant can photosynthesize in a properly supplied hydroponic system.",
+    "hint": "Classify by food making rather than the growing medium.",
+    "format": "compare",
+    "difficulty": 2,
+    "photoNumbers": [
+      1,
+      2
+    ]
+  },
+  {
+    "skill": "plant-roles",
+    "text": "Which evidence most directly supports calling a green plant a producer?",
+    "answers": [
+      "It makes sugar from carbon dioxide and water using light",
+      "Its roots absorb mineral nutrients from the water around them",
+      "It grows taller after receiving a suitable amount of fertilizer",
+      "It has green leaves and was placed in a bright growing area"
+    ],
+    "solution": "The defining evidence concerns food production. Size, color of equipment, and where it was bought do not establish the ecological role.",
+    "hint": "Choose evidence that directly addresses the definition.",
+    "format": "evidence",
+    "difficulty": 3,
+    "photoNumbers": [
+      1,
+      2
+    ]
+  },
+  {
+    "skill": "plant-roles",
+    "text": "Why is a plant-eating animal a consumer even though its food was once made using sunlight?",
+    "answers": [
+      "It obtains the food by eating rather than making it by photosynthesis",
+      "Receiving energy that originated in sunlight makes every eater a producer",
+      "The animal\u2019s body converts the eaten leaf directly into new incoming sunlight",
+      "The animal gets its food energy chiefly from minerals it absorbs with the leaf"
+    ],
+    "solution": "The original energy source does not make every organism along the pathway a producer. How it obtains food matters.",
+    "hint": "Distinguish where energy originated from how this organism gets food.",
+    "format": "reasoning",
+    "difficulty": 3,
+    "photoNumbers": [
+      2
+    ]
+  },
+  {
+    "skill": "plant-roles",
+    "text": "Which set is correctly classified?",
+    "answers": [
+      "Corn plant: producer; corn-eating person: consumer",
+      "Corn plant: consumer; corn-eating person: producer",
+      "Corn plant and person: both hydroponics systems",
+      "Corn plant and person: both make all food from air"
+    ],
+    "solution": "The corn plant produces food and the eater consumes plant products. Their roles differ even though energy passes between them.",
+    "hint": "Follow the food-making and food-eating actions.",
+    "format": "classification",
+    "difficulty": 2,
+    "photoNumbers": [
+      2
+    ]
+  },
+  {
+    "skill": "plant-energy",
+    "text": "In what form is energy stored in the sugar a plant makes?",
+    "answers": [
+      "Chemical energy",
+      "Only sound energy",
+      "Only gravitational energy",
+      "A mineral called sunlight"
+    ],
+    "solution": "The lesson describes light energy transformed into chemical energy stored in sugar. That food can later support life processes.",
+    "hint": "Name the stored form rather than the incoming source.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "photoNumbers": [
+      1,
+      2
+    ]
+  },
+  {
+    "skill": "plant-energy",
+    "text": "Which group lists uses of food energy by a plant?",
+    "answers": [
+      "Growth, repair, and reproduction",
+      "Only feeding humans and never the plant",
+      "Only holding the pot upright",
+      "Replacing every need for water and air"
+    ],
+    "solution": "Plants use food energy for their own life processes, including growth, repair, and reproduction. They do not make food solely for people.",
+    "hint": "Look for activities of the living plant itself.",
+    "format": "uses-model",
+    "difficulty": 2,
+    "photoNumbers": [
+      2
+    ]
+  },
+  {
+    "skill": "plant-energy",
+    "text": "A person eats corn. What happens to energy stored in the corn?",
+    "answers": [
+      "Some food energy becomes available to the person",
+      "All the energy turns back into sunlight before eating",
+      "The energy is created for the first time in the mouth",
+      "Only the corn\u2019s support pot transfers energy"
+    ],
+    "solution": "Eating plant products can pass chemical energy to a consumer. The energy was already stored before the food was eaten.",
+    "hint": "Keep the energy pathway continuous rather than inventing a new source.",
+    "format": "scenario",
+    "difficulty": 2,
+    "photoNumbers": [
+      2
+    ]
+  },
+  {
+    "skill": "plant-energy",
+    "text": "Which correction addresses \u201cplants make food only for animals\u201d?",
+    "answers": [
+      "Plants also use their food for their own growth, repair, and reproduction",
+      "The plant needs minerals but never uses the sugar that its leaves make",
+      "Stored food matters only for animals, while plant growth requires no energy",
+      "Only seeds use food energy; an established plant uses water instead of food"
+    ],
+    "solution": "Plants are living organisms with their own energy needs. Consumers may later obtain some energy by eating plants or plant products.",
+    "hint": "Consider the plant\u2019s needs before considering its eaters.",
+    "format": "claim",
+    "difficulty": 3,
+    "photoNumbers": [
+      2
+    ]
+  },
+  {
+    "skill": "plant-energy",
+    "text": "Which pairing correctly distinguishes storage and use?",
+    "answers": [
+      "Sugar stores chemical energy; growth is one use of food energy",
+      "A rock stores sunlight as fertilizer; roots use it as a compass",
+      "A seed packet makes sugar; a pot reproduces",
+      "Water is always the only food energy store"
+    ],
+    "solution": "Food can store chemical energy, and life processes use it. A growing system\u2019s nonliving equipment has different roles.",
+    "hint": "Separate an energy-containing substance from a process requiring energy.",
+    "format": "compare",
+    "difficulty": 2,
+    "photoNumbers": [
+      1,
+      2
+    ]
+  },
+  {
+    "skill": "plant-energy",
+    "text": "A plant remains alive briefly after being put in darkness. What should that observation NOT be used to prove?",
+    "answers": [
+      "That plants never need light to make food",
+      "The plant may have used food stored before it was placed in darkness",
+      "A brief observation does not establish every long-term growth condition",
+      "A plant can remain alive for some time without making new food"
+    ],
+    "solution": "Stored food can support a plant temporarily. A short observation does not refute the role of light in photosynthesis.",
+    "hint": "Compare temporary survival with continued food production.",
+    "format": "evidence",
+    "difficulty": 3,
+    "photoNumbers": [
+      1,
+      2
+    ]
+  },
+  {
+    "skill": "plant-energy",
+    "text": "Why can energy in an apple be traced back to sunlight?",
+    "answers": [
+      "The tree used light energy while making food that stores chemical energy",
+      "The apple\u2019s energy comes chiefly from mineral nutrients absorbed from soil",
+      "The apple creates its own energy after it has separated from the tree",
+      "The eater creates all the food energy only when the apple is consumed"
+    ],
+    "solution": "The plant\u2019s photosynthesis connects light energy with stored food energy. The consumer receives energy that already had a source.",
+    "hint": "Trace backward from food to the process that made it.",
+    "format": "reasoning",
+    "difficulty": 3,
+    "photoNumbers": [
+      1,
+      2
+    ]
+  },
+  {
+    "skill": "plant-energy",
+    "text": "A model of food energy should include which connection?",
+    "answers": [
+      "Plant food can support the plant and also pass energy to an eater",
+      "Only animals need energy, so plants have no uses for food",
+      "Food changes into a producer as soon as it is eaten",
+      "Sunlight removes every need for material inputs"
+    ],
+    "solution": "The model should represent both plant uses and transfer to consumers. Matter inputs remain needed during food making.",
+    "hint": "Include the producer\u2019s life processes as well as the consumer\u2019s meal.",
+    "format": "application",
+    "difficulty": 2,
+    "photoNumbers": [
+      1,
+      2
+    ]
+  },
+  {
+    "skill": "plant-hydro",
+    "text": "What is hydroponics?",
+    "answers": [
+      "Growing plants without soil using a supplied nutrient solution",
+      "Using plants only to clean a polluted field",
+      "Raising fish with no plants",
+      "A process that turns sunlight into a mineral"
+    ],
+    "solution": "Hydroponics supplies water and dissolved mineral nutrients without soil. Plants still need light and air to make food.",
+    "hint": "The term describes a growing method, not a different photosynthesis process.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "photoNumbers": [
+      2,
+      3
+    ]
+  },
+  {
+    "skill": "plant-hydro",
+    "text": "In a hydroponic system, what can nutrient-free rocks provide?",
+    "answers": [
+      "Physical support for roots",
+      "All the sugar the plant will ever need",
+      "A replacement for every mineral nutrient",
+      "A way to remove the need for light"
+    ],
+    "solution": "A growing medium may support roots without supplying nutrients. The nutrient solution serves a different role.",
+    "hint": "Separate support from dissolved nutrient supply.",
+    "format": "support-model",
+    "difficulty": 2,
+    "photoNumbers": [
+      2,
+      5
+    ]
+  },
+  {
+    "skill": "plant-hydro",
+    "text": "A gardener has a small sunny patio and little soil space. Why might hydroponics be useful?",
+    "answers": [
+      "It can grow plants in a managed system without a soil bed",
+      "It guarantees growth without water or nutrients",
+      "It works only on very large farms",
+      "It means the plants no longer need suitable light"
+    ],
+    "solution": "The photos describe use in small spaces as well as larger farms. Hydroponics changes the growing setup, not all the plants\u2019 needs.",
+    "hint": "Match the method\u2019s useful feature to the available space.",
+    "format": "scenario",
+    "difficulty": 2,
+    "photoNumbers": [
+      2,
+      3
+    ]
+  },
+  {
+    "skill": "plant-hydro",
+    "text": "A teammate interprets \u201cno soil\u201d as \u201cplain water supplies every long-term need.\u201d Which correction is best?",
+    "answers": [
+      "Mineral nutrients still need to be supplied, along with other suitable conditions",
+      "Every plain-water supply contains a complete, suitable mineral balance",
+      "The support medium always supplies every mineral even if it contains none",
+      "Light supplies all the minerals that are missing from the water"
+    ],
+    "solution": "Soil is not essential as a medium, but mineral nutrients remain necessary. Nutrient-rich water is an important part of the supplied growing method.",
+    "hint": "Removing soil does not remove the need for minerals.",
+    "format": "claim",
+    "difficulty": 3,
+    "photoNumbers": [
+      2,
+      3
+    ]
+  },
+  {
+    "skill": "plant-hydro",
+    "text": "Which distinction explains soil-based and hydroponic growing?",
+    "answers": [
+      "Hydroponics supplies nutrients without requiring soil as the medium",
+      "Soil-based plants never photosynthesize",
+      "Hydroponic plants must get all their energy from fertilizer",
+      "Hydroponics is defined only by whether the container is indoors"
+    ],
+    "solution": "Both can support photosynthesizing plants. The key distinction is the growing medium and nutrient delivery, not whether food making occurs.",
+    "hint": "Compare methods of growing, not different kinds of food-making chemistry.",
+    "format": "compare",
+    "difficulty": 2,
+    "photoNumbers": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "skill": "plant-hydro",
+    "text": "A lettuce plant grows for weeks in a soil-free system supplied with nutrients, water, air, and light. What does this support?",
+    "answers": [
+      "Soil itself is not required when the plant\u2019s needs are met",
+      "Any plant can now grow for the same time with all of those inputs removed",
+      "The observed growth proves pure water alone provides every long-term need",
+      "The result proves mineral nutrients supply all the plant\u2019s food energy"
+    ],
+    "solution": "The result supports soil-free growth under those conditions. It does not justify dropping the supplied nutrients or other inputs.",
+    "hint": "Keep all the conditions of the observation in your claim.",
+    "format": "evidence",
+    "difficulty": 3,
+    "photoNumbers": [
+      2,
+      3
+    ]
+  },
+  {
+    "skill": "plant-hydro",
+    "text": "Why does \u201cfertilizer is plant food\u201d risk confusing this lesson\u2019s model?",
+    "answers": [
+      "Fertilizer supplies mineral nutrients; the plant makes sugar using light",
+      "Fertilizer provides the energy in sugar directly, so light is only for warmth",
+      "Minerals and sugars have the same role because both can enter a growing system",
+      "A hydroponic plant obtains ready-made sugar from any nutrient solution"
+    ],
+    "solution": "The distinction keeps mineral supply separate from photosynthesis and chemical energy in sugar. Both processes contribute to plant health.",
+    "hint": "Clarify the different jobs rather than treating all inputs as food.",
+    "format": "reasoning",
+    "difficulty": 3,
+    "photoNumbers": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "skill": "plant-hydro",
+    "text": "Which setup best matches the supplied hydroponics description?",
+    "answers": [
+      "Roots supported above nutrient-rich water with access through a wick",
+      "Roots kept dry inside a sealed dark container",
+      "A pot containing only plastic leaves and dry rocks",
+      "A fish tank that contains no plant and no growing area"
+    ],
+    "solution": "The setup supplies water and minerals to living plants without soil. Support and access to the solution are both relevant.",
+    "hint": "Look for a plant, no soil requirement, and a path to nutrient solution.",
+    "format": "application",
+    "difficulty": 2,
+    "photoNumbers": [
+      2,
+      5
+    ]
+  },
+  {
+    "skill": "plant-aqua",
+    "text": "What combination is central to aquaponics?",
+    "answers": [
+      "Raising aquatic animals together with hydroponic plant growing",
+      "Only growing plants in dry soil",
+      "Only using sunlight to clean a rock",
+      "Only collecting rainwater with no organisms"
+    ],
+    "solution": "Aquaponics links aquatic-animal care with soil-free plant growing. The linked system cycles water and can use waste-derived nutrients.",
+    "hint": "Look for both an aquatic-animal part and a plant-growing part.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "plant-aqua",
+    "text": "Which simplified path fits the aquaponics reading?",
+    "answers": [
+      "Water from the aquatic-animal area \u2192 plant-growing area \u2192 back through the system",
+      "Sunlight \u2192 fish scales \u2192 soil-only planting",
+      "Plants \u2192 dry gravel \u2192 no returning water",
+      "Fish tank \u2192 ocean \u2192 no plant-growing area"
+    ],
+    "solution": "The supplied model circulates water between aquatic animals and hydroponic plants. It is not just two unrelated containers.",
+    "hint": "Follow the water connection between the two parts.",
+    "format": "cycle-model",
+    "difficulty": 2,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "plant-aqua",
+    "text": "What can fish waste contribute to the linked plant-growing system?",
+    "answers": [
+      "A source of nutrients through processes in the water system",
+      "All the light energy needed for photosynthesis",
+      "A guarantee that no monitoring is needed",
+      "A replacement for carbon dioxide in making sugar"
+    ],
+    "solution": "Waste-derived substances can supply plant nutrients through system processes. They do not replace light energy or every other plant need.",
+    "hint": "Distinguish mineral supply from the source of food energy.",
+    "format": "scenario",
+    "difficulty": 2,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "plant-aqua",
+    "text": "A teammate says aquaponic plants get all their sugar directly from fish waste. Which correction is strongest?",
+    "answers": [
+      "They still make sugar using light, carbon dioxide, and water",
+      "Waste-derived mineral nutrients are identical to the sugar plants make",
+      "The connected water route removes the plant\u2019s need for carbon dioxide",
+      "Plant roots get all food energy directly from the fish rather than light"
+    ],
+    "solution": "The system can supply nutrients while plants still photosynthesize. Nutrient sources and food making are different parts of the explanation.",
+    "hint": "Use the same food-making model for a different growing setup.",
+    "format": "claim",
+    "difficulty": 3,
+    "photoNumbers": [
+      1,
+      3
+    ]
+  },
+  {
+    "skill": "plant-aqua",
+    "text": "What additional living component distinguishes aquaponics from a plant-only hydroponic system?",
+    "answers": [
+      "Aquatic animals such as fish",
+      "A requirement for ordinary garden soil",
+      "A rule that no plant receives light",
+      "Only an empty container of water"
+    ],
+    "solution": "Aquaponics includes an aquatic-animal component linked with plant growing. Hydroponics alone does not require fish.",
+    "hint": "Identify what is added to the plant-growing method.",
+    "format": "compare",
+    "difficulty": 2,
+    "photoNumbers": [
+      2,
+      3
+    ]
+  },
+  {
+    "skill": "plant-aqua",
+    "text": "Why is placing one fish beside one potted plant not enough to demonstrate aquaponics?",
+    "answers": [
+      "The nutrient and water connection between the parts must be shown",
+      "Putting containers nearby guarantees a nutrient flow even without a water link",
+      "Having a fish and a plant in one photo is enough to prove a managed system",
+      "Any potted plant beside a fish tank must obtain nutrients from that tank"
+    ],
+    "solution": "Aquaponics describes a linked growing system, not mere proximity. Evidence should show how water and nutrient flows connect its parts.",
+    "hint": "Look for functional connections rather than just two labels.",
+    "format": "evidence",
+    "difficulty": 3,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "plant-aqua",
+    "text": "Which explanation keeps matter and energy distinct in aquaponics?",
+    "answers": [
+      "Waste-derived nutrients can move through water while light powers plant food making",
+      "Nutrients in fish waste are the plant\u2019s main replacement for light energy",
+      "Recirculating water removes the need for any incoming energy to make food",
+      "The water\u2019s movement creates the sugar directly, without photosynthesis"
+    ],
+    "solution": "Matter can circulate through the system, while the plant\u2019s light input has a separate role. A pump\u2019s movement is not photosynthesis.",
+    "hint": "Trace a material pathway and an energy source separately.",
+    "format": "reasoning",
+    "difficulty": 3,
+    "photoNumbers": [
+      1,
+      3
+    ]
+  },
+  {
+    "skill": "plant-aqua",
+    "text": "Which observation would best show that the two parts of an aquaponic model are connected?",
+    "answers": [
+      "Water is directed from the animal area through the plant area and recirculated",
+      "Both containers are painted the same color",
+      "Both labels have the word science on them",
+      "The fish tank is photographed near a seed packet"
+    ],
+    "solution": "A visible water route supports the claimed connection. Appearance alone does not establish nutrient or water transfer.",
+    "hint": "Choose evidence about the system\u2019s working pathway.",
+    "format": "application",
+    "difficulty": 2,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "plant-air",
+    "text": "What is an epiphyte in the supplied lesson?",
+    "answers": [
+      "A plant that grows on another plant for support",
+      "Any animal that eats tree leaves",
+      "A plant that can live without water indefinitely",
+      "A mineral that dissolves in a fish tank"
+    ],
+    "solution": "Epiphytes use other plants as growing places. They still need water, nutrients, light, and air for their own life processes.",
+    "hint": "Focus on the growing location without removing the plant\u2019s basic needs.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "photoNumbers": [
+      4
+    ]
+  },
+  {
+    "skill": "plant-air",
+    "text": "Which sources can supply an epiphyte with water and nutrients?",
+    "answers": [
+      "Rain and material reaching it from the surrounding environment",
+      "Only sugar stolen from every supporting tree",
+      "Only nutrients produced from sunshine",
+      "Only deep soil directly around every root"
+    ],
+    "solution": "The lesson emphasizes air and rain; debris and deposited material can supply nutrients. Support does not necessarily mean drawing food from the host.",
+    "hint": "Separate environmental supplies from the structure providing support.",
+    "format": "source-model",
+    "difficulty": 2,
+    "photoNumbers": [
+      4
+    ]
+  },
+  {
+    "skill": "plant-air",
+    "text": "An orchid grows on a branch and makes sugar in its green leaves. Which explanation fits?",
+    "answers": [
+      "The branch can provide support while the orchid makes its own food",
+      "The orchid must be a consumer because it touches a tree",
+      "The branch replaces the orchid\u2019s need for sunlight",
+      "Every orchid always grows only on branches"
+    ],
+    "solution": "The example fits an epiphytic growing habit. It does not establish that every orchid has that habit or that the plant eats its support.",
+    "hint": "Distinguish this example from an unsupported claim about every orchid.",
+    "format": "scenario",
+    "difficulty": 2,
+    "photoNumbers": [
+      4
+    ]
+  },
+  {
+    "skill": "plant-air",
+    "text": "A teammate says any plant growing on a tree must steal the tree\u2019s food. What is the best response?",
+    "answers": [
+      "Some are epiphytes using the tree as support while making their own food",
+      "Every attachment to a branch proves the growing plant takes sugar from that tree",
+      "Any plant growing above soil can receive all its energy from the supporting bark",
+      "A branch provides all water and minerals automatically without other sources"
+    ],
+    "solution": "The epiphyte example shows why growing location alone does not establish parasitism. Different tree-growing plants can have different relationships.",
+    "hint": "A location is not enough evidence to establish how food is obtained.",
+    "format": "claim",
+    "difficulty": 3,
+    "photoNumbers": [
+      4
+    ]
+  },
+  {
+    "skill": "plant-air",
+    "text": "What do a green epiphyte and a green hydroponic lettuce plant have in common?",
+    "answers": [
+      "Both can make food without growing in ordinary soil",
+      "Neither needs water or minerals",
+      "Both must obtain every nutrient from fish",
+      "Neither needs carbon dioxide"
+    ],
+    "solution": "Both illustrate alternatives to ordinary soil growing. Their water and nutrient sources may differ while their photosynthesis needs remain.",
+    "hint": "Look for a shared growing feature without dropping basic needs.",
+    "format": "compare",
+    "difficulty": 2,
+    "photoNumbers": [
+      2,
+      4
+    ]
+  },
+  {
+    "skill": "plant-air",
+    "text": "A researcher observes one bromeliad growing on a tree. Which conclusion exceeds that evidence?",
+    "answers": [
+      "Every bromeliad must grow only on trees",
+      "The observed bromeliad uses the branch as one growing location",
+      "This example could be investigated as a possible epiphyte",
+      "Further observations could help identify this plant\u2019s water supply"
+    ],
+    "solution": "One example cannot establish the habits of every member of a group. The lesson gives examples, not universal rules for all orchids, mosses, or bromeliads.",
+    "hint": "Watch for an \u201cevery\u201d claim based on a single observation.",
+    "format": "evidence",
+    "difficulty": 3,
+    "photoNumbers": [
+      4
+    ]
+  },
+  {
+    "skill": "plant-air",
+    "text": "Why is the nickname air plant not evidence that a plant needs no water?",
+    "answers": [
+      "The plant can receive water from rain or moisture in its surroundings",
+      "A soil-free location guarantees water is never needed for growth",
+      "Any plant with the word air in its name receives food energy from minerals",
+      "A common name is enough evidence to replace observations of plant needs"
+    ],
+    "solution": "Common names are not complete explanations of needs. The supplied reading explicitly connects these plants with water from their environment.",
+    "hint": "Use the described sources rather than interpreting a nickname literally.",
+    "format": "reasoning",
+    "difficulty": 3,
+    "photoNumbers": [
+      4
+    ]
+  },
+  {
+    "skill": "plant-air",
+    "text": "Which example best illustrates support without soil in this lesson?",
+    "answers": [
+      "An epiphytic plant attached to a tree branch",
+      "A plant making all its food by consuming a branch",
+      "A seed packet stored on a shelf without a living plant",
+      "A leaf that turns every mineral into sunlight"
+    ],
+    "solution": "The branch supplies a growing place, while the epiphyte obtains its supplies and makes food. It is a living-plant example rather than stored equipment.",
+    "hint": "Identify a living plant\u2019s support relationship.",
+    "format": "classification",
+    "difficulty": 2,
+    "photoNumbers": [
+      4
+    ]
+  },
+  {
+    "skill": "plant-clean",
+    "text": "What does phytoremediation use to help clean contaminated places?",
+    "answers": [
+      "Plants",
+      "Only magnetic compasses",
+      "Only seed-packet labels",
+      "Only ordinary plastic pots"
+    ],
+    "solution": "Phytoremediation uses plants to help manage pollutants. Which plants and methods work depends on the contaminant and conditions.",
+    "hint": "The word refers to a plant-based cleanup method.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "photoNumbers": [
+      4
+    ]
+  },
+  {
+    "skill": "plant-clean",
+    "text": "Which pathway fits the cleanup example in the reading?",
+    "answers": [
+      "A plant takes up some pollutants and stores them in its tissues",
+      "Sunlight removes all matter from the site instantly",
+      "A container label turns every pollutant into water",
+      "Minerals stop every plant from growing"
+    ],
+    "solution": "Some plants can take up and store pollutants; some processes can transform certain contaminants. This is not instant universal removal.",
+    "hint": "Trace where a contaminant could go instead of assuming it vanishes.",
+    "format": "process-model",
+    "difficulty": 2,
+    "photoNumbers": [
+      4
+    ]
+  },
+  {
+    "skill": "plant-clean",
+    "text": "Why are sunflowers mentioned in the cleanup section?",
+    "answers": [
+      "As an example of plants used in phytoremediation",
+      "As proof that every sunflower makes any soil harmless",
+      "As plants that never need mineral nutrients",
+      "As organisms that make food without light"
+    ],
+    "solution": "The sunflower is an example within a cleanup method. An example does not prove all plants treat all pollutants under all conditions.",
+    "hint": "Keep an example separate from a universal guarantee.",
+    "format": "scenario",
+    "difficulty": 2,
+    "photoNumbers": [
+      4
+    ]
+  },
+  {
+    "skill": "plant-clean",
+    "text": "A teammate says planting flowers guarantees every polluted site is safe the next day. Which correction is strongest?",
+    "answers": [
+      "Effectiveness depends on the pollutant, plant, conditions, and time",
+      "A healthy-looking flower alone proves all target pollutants have been removed",
+      "The name of the method establishes that any plant will treat any contaminant",
+      "Planting sunflowers guarantees identical results regardless of conditions"
+    ],
+    "solution": "Plant-based cleanup has limits and must be evaluated. The lesson\u2019s general example is not a guarantee for every site.",
+    "hint": "Look for evidence and conditions rather than an absolute claim.",
+    "format": "claim",
+    "difficulty": 3,
+    "photoNumbers": [
+      4
+    ]
+  },
+  {
+    "skill": "plant-clean",
+    "text": "How does phytoremediation differ from hydroponics?",
+    "answers": [
+      "One concerns cleanup using plants; the other concerns growing without soil",
+      "Both names mean raising fish only",
+      "Hydroponics always requires polluted water",
+      "Phytoremediation means every plant is grown in gravel"
+    ],
+    "solution": "These terms describe different purposes or methods. A question about cleanup is different from one about soil-free nutrient delivery.",
+    "hint": "Identify the purpose addressed by each term.",
+    "format": "compare",
+    "difficulty": 2,
+    "photoNumbers": [
+      2,
+      4
+    ]
+  },
+  {
+    "skill": "plant-clean",
+    "text": "Which observation is most relevant to evaluating a plant-based water treatment?",
+    "answers": [
+      "Measurements show the target pollutant decreases under the tested conditions",
+      "The treated plants grew taller, but the pollutant was not measured",
+      "The water appeared clearer, without checking the target pollutant",
+      "A different pollutant decreased in a different site with different conditions"
+    ],
+    "solution": "Measurements tied to the target pollutant directly address cleanup. Names and appearances alone do not establish treatment effectiveness.",
+    "hint": "Choose evidence that measures the claim being made.",
+    "format": "evidence",
+    "difficulty": 3,
+    "photoNumbers": [
+      4
+    ]
+  },
+  {
+    "skill": "plant-clean",
+    "text": "If a pollutant is stored in roots, why is \u201cthe pollutant no longer exists\u201d an incorrect conclusion?",
+    "answers": [
+      "Storage in tissue changes its location, not necessarily its identity",
+      "Any material entering a root has necessarily been changed into a harmless substance",
+      "A pollutant absorbed by a plant has necessarily ceased to be matter",
+      "Healthy-looking plant tissue proves that every stored contaminant is harmless"
+    ],
+    "solution": "Taking up a material is not the same as destroying it. Some contaminants may be transformed, but that requires relevant evidence.",
+    "hint": "Distinguish moving a substance from changing or eliminating it.",
+    "format": "reasoning",
+    "difficulty": 3,
+    "photoNumbers": [
+      4
+    ]
+  },
+  {
+    "skill": "plant-clean",
+    "text": "Which question should scientists ask before claiming a plant treatment worked?",
+    "answers": [
+      "What pollutant was measured, and how did its amount change?",
+      "Was the plant\u2019s name written in green ink?",
+      "Did the container have a science sticker?",
+      "Was a sunflower mentioned anywhere in the report?"
+    ],
+    "solution": "A supported claim identifies the target material and the evidence of change. A familiar plant example is not enough by itself.",
+    "hint": "Connect the claim with a measured before-and-after comparison.",
+    "format": "application",
+    "difficulty": 2,
+    "photoNumbers": [
+      4
+    ]
+  },
+  {
+    "skill": "plant-investigate",
+    "text": "What is the main job of the cloth wick in the bottle activity?",
+    "answers": [
+      "Providing a path for water to reach the growing medium",
+      "Making sunlight inside the bottle",
+      "Creating every mineral from nothing",
+      "Turning the seeds into fertilizer"
+    ],
+    "solution": "The cloth connects the water supply below with the growing area above. It helps move water rather than making food or minerals.",
+    "hint": "Trace the physical connection between reservoir and growing area.",
+    "format": "wick",
+    "difficulty": 1,
+    "photoNumbers": [
+      5
+    ]
+  },
+  {
+    "skill": "plant-investigate",
+    "text": "What is the role of the growing medium in the supplied bottle system?",
+    "answers": [
+      "Supporting the seeds and roots",
+      "Replacing all need for water",
+      "Guaranteeing every nutrient without a solution",
+      "Taking the place of light for photosynthesis"
+    ],
+    "solution": "The medium provides support; the solution supplies water and added minerals. The roles should not be treated as identical.",
+    "hint": "Compare physical support with the substances dissolved in water.",
+    "format": "medium",
+    "difficulty": 2,
+    "photoNumbers": [
+      5
+    ]
+  },
+  {
+    "skill": "plant-investigate",
+    "text": "How should the amount of fertilizer be chosen for the activity?",
+    "answers": [
+      "Follow the product label for the stated water amount",
+      "Use the same large scoop for every product",
+      "Double the dose whenever the bottle is smaller",
+      "Replace all water with dry fertilizer"
+    ],
+    "solution": "The photographed directions refer to the fertilizer label. They do not provide one universal dose suitable for every formulation.",
+    "hint": "Use the source of dosing directions named in the activity.",
+    "format": "instructions",
+    "difficulty": 2,
+    "photoNumbers": [
+      5
+    ]
+  },
+  {
+    "skill": "plant-investigate",
+    "text": "To compare nutrient solution with plain water, which plan is fairest?",
+    "answers": [
+      "Keep plant type, light, water access, and time comparable while changing nutrient supply",
+      "Use different plant species because that makes nutrient effects easier to isolate",
+      "Give one group more light and more nutrients to identify the effect of nutrients alone",
+      "Compare unequal observation periods without recording the difference"
+    ],
+    "solution": "Changing several conditions at once makes it harder to explain a difference. A planned comparison isolates the chosen factor as well as practical conditions allow.",
+    "hint": "Change the factor being studied and control other important conditions.",
+    "format": "fair-test",
+    "difficulty": 3,
+    "photoNumbers": [
+      2,
+      5
+    ]
+  },
+  {
+    "skill": "plant-investigate",
+    "text": "Which source tells the student how deep to plant the seeds in the pictured activity?",
+    "answers": [
+      "The seed packet\u2019s directions",
+      "The bottle\u2019s color alone",
+      "The fish\u2019s size",
+      "The name of the sunniest room"
+    ],
+    "solution": "The activity directs the student to the seed packet for planting depth. Different seeds can have different instructions.",
+    "hint": "Choose a source with information about the particular seeds.",
+    "format": "seed-packet",
+    "difficulty": 2,
+    "photoNumbers": [
+      5
+    ]
+  },
+  {
+    "skill": "plant-investigate",
+    "text": "One seedling droops in a bottle system. What is the strongest next step?",
+    "answers": [
+      "Check water access, light, nutrients, and observations before assigning one cause",
+      "Add more fertilizer immediately because drooping always identifies a nutrient shortage",
+      "Declare the medium unsuitable without checking the water route or other conditions",
+      "Conclude one seedling proves every hydroponic setup will have the same outcome"
+    ],
+    "solution": "A symptom can have more than one cause. Checking conditions and collecting evidence is stronger than making a single confident diagnosis.",
+    "hint": "An observation can guide investigation without identifying one certain cause.",
+    "format": "evidence",
+    "difficulty": 3,
+    "photoNumbers": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "skill": "plant-investigate",
+    "text": "Why should the wick reach the reservoir rather than stop above the water?",
+    "answers": [
+      "It needs contact with the water supply to provide the intended path",
+      "A dry wick disconnected from the reservoir can provide the same water access",
+      "The wick only supplies minerals, so contact with any water is irrelevant",
+      "The growing medium will always move reservoir water across an empty air gap"
+    ],
+    "solution": "The designed pathway depends on contact between the water supply and the wick. A disconnected component does not provide the intended transfer.",
+    "hint": "Check whether the parts form a continuous working connection.",
+    "format": "reasoning",
+    "difficulty": 3,
+    "photoNumbers": [
+      5
+    ]
+  },
+  {
+    "skill": "plant-investigate",
+    "text": "Which record would best support a comparison of two growing conditions?",
+    "answers": [
+      "Repeated observations of similar plants over the same period",
+      "Only the names given to the bottles",
+      "Only the color of each label",
+      "One picture taken before either group is planted"
+    ],
+    "solution": "Comparable repeated observations give evidence about growth. Labels and a single pre-planting photo do not establish outcomes.",
+    "hint": "Record results related to the question over comparable times.",
+    "format": "recording",
+    "difficulty": 2,
+    "photoNumbers": [
+      5
+    ]
+  }
+]

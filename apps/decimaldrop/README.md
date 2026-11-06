@@ -9,7 +9,7 @@ The family’s [Grade 5 Social Studies and Science year-plan photo and transcrip
 - **Math → Adding & Subtracting Decimals / Tilted Totals:** original 348-question bank plus 132 new Fortnite mission variants (480 seeded math questions, with additional deterministic generation).
 - **Math → Multiplying Decimals / Product Peaks:** 192 validated seeded questions across 12 subskills, plus deterministic generation. Family-approved provisional Chapter 4 scope, visibly unverified; app labels are not official Go Math! lesson titles. Covers whole and decimal factors, place value, models, estimation, powers of ten, zeros/regrouping, scaling, money, measurement, multi-step stories, missing factors, and reasoning.
 - **Science → Mixtures & Chemical Reactions / Reaction Royale:** 80 authored questions covering every section of the supplied Grade 5 review sheet: mixtures, solutions, new substances, gas, temperature, new solids, new smells, color, physical-change counterexamples, and evidence-based explanations.
-- **Science → Matter and Energy in Plants / Canopy Camp:** 80 original questions across 10 skills and 12 study cards, based on [five supplied lesson photos](docs/reference/plants-2026-11-05/README.md). Covers photosynthesis, matter inputs/outputs, plant structures, producers/consumers, stored energy, hydroponics, aquaponics, epiphytes, phytoremediation, and the bottle-and-wick activity. Supplied-material scope is confirmed; exact quiz coverage is unconfirmed.
+- **Science → Matter and Energy in Plants / Canopy Camp:** 120 original questions across 10 skills, 12 quick study cards, and a 12-topic adaptive guide, based on [22 supplied lesson images](docs/reference/plants-2026-11-05/README.md). Covers photosynthesis, matter inputs/outputs, plant structures, producers/consumers, stored energy, hydroponics, aquaponics, epiphytes, phytoremediation, and the bottle-and-wick activity. Supplied-material scope is confirmed; exact quiz coverage is unconfirmed.
 - **Science → Properties of Matter / Loot Lab:** 100 reviewed questions adapted from James’s TVA quiz, covering vocabulary, magnetism, electrical and thermal conductivity, solubility, measurement, mass/weight, observable properties, states, and investigation.
 
 - **Social Studies → How and Why Europeans Came to the New World / Compass Cove:** TCI Lesson 4, with 184 original multiple-choice questions across 12 skills and 18 study cards. Scope is checked against [33 supplied classroom screenshots](docs/reference/tci-lesson-4-2026-10-21/README.md): introduction, nine numbered sections, summary, and the separately labeled Read & Do and Explore readings. Exact quiz coverage remains unconfirmed. The screenshots were moved unchanged from Desktop, with original names and SHA-256 verification.
@@ -131,7 +131,7 @@ XP rewards answered challenges (10), independent first-try success (+10), correc
 - `src/engine/social-studies.ts` / `exploration-bank.json`: sourced Lesson 4 taxonomy and 184 original questions
 - `src/engine/lesson-four-intel.ts`: 18 original summaries and writing prompts
 - `docs/social-studies-lesson-4.md`: lesson sources, coverage, and edition limitations
-- `src/engine/plants.ts` / `plants-bank.json`: supplied-photo plant taxonomy, 80 original questions, and 12 study cards
+- `src/engine/plants.ts` / `plants-bank.json`: supplied-photo plant taxonomy, 120 original questions, and 12 study cards
 - `docs/reference/`: original family-provided year-plan photo and transcription
 - `src/engine/session.ts`: diagnostic/adaptive selection, attempts, sessions, rewards
 - `src/engine/assessment.ts`: conservative mastery, readiness, recommendations
@@ -151,3 +151,9 @@ Commit source and build output together; merging to the website's `master` branc
 The existing GitHub Pages custom domain and all other games use the same deployment as before.
 The old local app and the live site have different browser origins: export local progress and
 import it on https://thecarlislekids.com/decimaldrop/ to transfer saved work.
+
+### Canopy Camp study & review
+
+The unit now follows all 22 supplied images: 120 questions (12 per skill), 12 quick intel cards, and 12 expandable reading topics. The guide shows the full outline with concise overviews, deeper explanations, and optional self-check answers. Suggestions prioritize sustained practice needs, stale evidence, and evidence gaps using only plants quiz evidence. Opening or reading a topic does not affect mastery, XP, or saved missions. Reading expansion state resets when leaving the lobby. Skill-level evidence can apply to multiple reading topics; it does not certify each section separately.
+
+The additional vocabulary, growth models, seed reserves, climate correction, and claim–evidence–reasoning work are mapped in the [source coverage notes](docs/reference/plants-2026-11-05/README.md). Original 80 plant definitions and all earlier units remain unchanged; appended questions retain the same ten skill IDs. Exact classroom quiz coverage remains unconfirmed.

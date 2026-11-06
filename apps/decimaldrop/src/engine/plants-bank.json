@@ -1395,5 +1395,719 @@
     "photoNumbers": [
       5
     ]
+  },
+  {
+    "skill": "plant-matter",
+    "text": "A squad inflates a balloon. Which explanation shows why the added air is matter?",
+    "answers": [
+      "It has mass and takes up space",
+      "It can only be matter if it is visible",
+      "It has no mass because it is a gas",
+      "It becomes matter only after it freezes"
+    ],
+    "solution": "Air is matter: gases have mass and occupy space. Being invisible does not make air an energy source instead of matter.",
+    "hint": "Use the two defining properties of matter.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "sourceFiles": [
+      "IMG_0490.HEIC",
+      "IMG_5869.jpeg"
+    ]
+  },
+  {
+    "skill": "plant-matter",
+    "text": "Which sentence uses material to mean matter from which something is made?",
+    "answers": [
+      "The chair is made from wood",
+      "The chair grew taller yesterday",
+      "The chair feels heavy to lift",
+      "The chair stands beside a window"
+    ],
+    "solution": "Wood is a material because it is matter used to make the chair. Growth describes change, and weight describes gravity’s pull.",
+    "hint": "Ask what the object is made from.",
+    "format": "classify",
+    "difficulty": 1,
+    "sourceFiles": [
+      "IMG_0490.HEIC",
+      "IMG_5870.jpeg"
+    ]
+  },
+  {
+    "skill": "plant-matter",
+    "text": "Which statement correctly distinguishes a seed’s mass from its weight?",
+    "answers": [
+      "Mass is its amount of matter; weight is gravity’s pull on it",
+      "Mass is its height; weight is the number of leaves",
+      "Mass is stored light; weight is stored water",
+      "Mass and weight both mean the space it takes up"
+    ],
+    "solution": "Mass measures the amount of matter. Weight is the force of gravity on that mass. Neither word means the same thing as volume.",
+    "hint": "One word describes matter; the other describes a force.",
+    "format": "compare",
+    "difficulty": 2,
+    "sourceFiles": [
+      "IMG_0490.HEIC"
+    ]
+  },
+  {
+    "skill": "plant-matter",
+    "text": "A growth diagram shows water + sunlight → all new plant matter. Which revision best separates matter from energy?",
+    "answers": [
+      "Add carbon dioxide as matter and show light supplying energy",
+      "Replace water with oxygen and show soil supplying all energy",
+      "Keep only sunlight because light supplies all new material",
+      "Add fertilizer and label sunlight as a mineral"
+    ],
+    "solution": "Water and carbon dioxide supply matter for photosynthesis. Light provides energy, not material. The revised model must distinguish these inputs.",
+    "hint": "Find the missing input from air and check what light supplies.",
+    "format": "correct-model",
+    "difficulty": 3,
+    "sourceFiles": [
+      "IMG_0496.HEIC",
+      "IMG_0497.heic"
+    ]
+  },
+  {
+    "skill": "plant-photo",
+    "text": "Which label belongs on the arrow from the Sun to a green leaf?",
+    "answers": [
+      "Light energy",
+      "Dissolved minerals",
+      "Carbon dioxide matter",
+      "Stored sugar matter"
+    ],
+    "solution": "The Sun supplies light energy for photosynthesis. Carbon dioxide and water are matter inputs; minerals are not light.",
+    "hint": "Distinguish an energy input from a material input.",
+    "format": "label-model",
+    "difficulty": 1,
+    "sourceFiles": [
+      "IMG_0490.HEIC",
+      "IMG_5873.jpeg"
+    ]
+  },
+  {
+    "skill": "plant-photo",
+    "text": "The squad calls photosynthesis a food-making process. Which change supports that description?",
+    "answers": [
+      "Carbon dioxide and water become sugar using light",
+      "Roots turn all absorbed minerals directly into sunlight",
+      "Leaves change oxygen into soil using sugar",
+      "Water becomes fertilizer without an energy input"
+    ],
+    "solution": "Photosynthesis uses light energy to make sugar from carbon dioxide and water, releasing oxygen. Sugar is the food product.",
+    "hint": "Choose the process with the correct matter inputs and food output.",
+    "format": "explain",
+    "difficulty": 2,
+    "sourceFiles": [
+      "IMG_0490.HEIC",
+      "IMG_0493.HEIC"
+    ]
+  },
+  {
+    "skill": "plant-photo",
+    "text": "A student labels both sugar and sunlight as material ingredients entering a leaf during photosynthesis. What is the best correction?",
+    "answers": [
+      "Light supplies energy; sugar is a product",
+      "Light supplies minerals; sugar is an input",
+      "Light supplies water; sugar is a gas input",
+      "Light supplies soil; sugar is unchanged"
+    ],
+    "solution": "The model should show sunlight as an energy input and sugar as a food output. Water and carbon dioxide are the matter inputs.",
+    "hint": "Separate what enters, what is made, and what powers the change.",
+    "format": "error-correction",
+    "difficulty": 3,
+    "sourceFiles": [
+      "IMG_0496.HEIC"
+    ]
+  },
+  {
+    "skill": "plant-photo",
+    "text": "Which paired description correctly names photosynthesis and its energy change?",
+    "answers": [
+      "Food making; light energy becomes stored chemical energy",
+      "Water transport; chemical energy becomes soil",
+      "Mineral uptake; roots create light energy",
+      "Seed dispersal; air changes into gravity"
+    ],
+    "solution": "Photosynthesis makes food, storing captured light energy as chemical energy in sugar. It is different from transport or seed dispersal.",
+    "hint": "Match the process to making sugar, not merely moving water.",
+    "format": "connect",
+    "difficulty": 2,
+    "sourceFiles": [
+      "IMG_0490.HEIC",
+      "IMG_0493.HEIC"
+    ]
+  },
+  {
+    "skill": "plant-parts",
+    "text": "A seedling has roots, a stem, and leaves. What word names these parts as features with jobs?",
+    "answers": [
+      "Structures",
+      "Consumers",
+      "Pollutants",
+      "Products"
+    ],
+    "solution": "Roots, stems, and leaves are structures. Their different jobs help the plant obtain inputs, transport materials, and make food.",
+    "hint": "Think of the word for the parts of an organism.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "sourceFiles": [
+      "IMG_5874.jpeg"
+    ]
+  },
+  {
+    "skill": "plant-parts",
+    "text": "A table lists leaves → light and roots → water. What important matter input should be added at leaves?",
+    "answers": [
+      "Carbon dioxide from air",
+      "Sugar from the Sun",
+      "Soil from the stem",
+      "Minerals from sunlight"
+    ],
+    "solution": "Leaves capture light and take in carbon dioxide from air. Roots absorb water. Light is energy; carbon dioxide and water supply matter.",
+    "hint": "Consider the gas needed for food making.",
+    "format": "complete-model",
+    "difficulty": 2,
+    "sourceFiles": [
+      "IMG_0496.HEIC"
+    ]
+  },
+  {
+    "skill": "plant-parts",
+    "text": "Water reaches roots in the bottle lab. Which structure normally carries it toward the leaves?",
+    "answers": [
+      "The stem",
+      "The flower petal",
+      "The seed coat",
+      "The fruit"
+    ],
+    "solution": "Stems transport water from roots toward leaves. A model should connect the structures by the material they move.",
+    "hint": "Trace the route between the roots and leaves.",
+    "format": "trace",
+    "difficulty": 1,
+    "sourceFiles": [
+      "IMG_0496.HEIC",
+      "IMG_5854.jpeg"
+    ]
+  },
+  {
+    "skill": "plant-parts",
+    "text": "A plant model puts carbon dioxide entering the roots from sunlight. Which replacement is sound?",
+    "answers": [
+      "Carbon dioxide enters leaves from air",
+      "Carbon dioxide enters fruit from rocks",
+      "Carbon dioxide enters roots from light",
+      "Carbon dioxide enters stems as fertilizer"
+    ],
+    "solution": "Carbon dioxide is a gas in air that can enter leaf openings. Sunlight is an energy source, not a source of carbon dioxide.",
+    "hint": "Identify both the correct source and the entry structure.",
+    "format": "correct-model",
+    "difficulty": 3,
+    "sourceFiles": [
+      "IMG_0496.HEIC"
+    ]
+  },
+  {
+    "skill": "plant-energy",
+    "text": "Which observation is the clearest example of seedling growth?",
+    "answers": [
+      "New roots and leaves develop over several days",
+      "A leaf blows from one side of a tray to another",
+      "A pot is moved from a shelf onto a table",
+      "Water is poured from a cup into a bottle"
+    ],
+    "solution": "Growth can increase size and complexity. Developing new roots and leaves is growth; relocating a leaf or container is movement.",
+    "hint": "Look for a change in the organism, not its location.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "sourceFiles": [
+      "IMG_0490.HEIC",
+      "IMG_5871.jpeg"
+    ]
+  },
+  {
+    "skill": "plant-energy",
+    "text": "A seed sprouts before it has green leaves. What supplies food for that earliest growth?",
+    "answers": [
+      "Food stored in the seed",
+      "Sugar made by the empty bottle",
+      "Food created by the growing medium alone",
+      "Sunlight stored as a mineral in water"
+    ],
+    "solution": "Stored seed food supports early germination. Once green leaves develop, photosynthesis can make more food for continued growth.",
+    "hint": "A seed contains supplies for its beginning stages.",
+    "format": "explain",
+    "difficulty": 2,
+    "sourceFiles": [
+      "IMG_0496.HEIC",
+      "IMG_0497.heic"
+    ]
+  },
+  {
+    "skill": "plant-energy",
+    "text": "Which sequence best matches a seed developing into a young plant?",
+    "answers": [
+      "Seed takes in water → root emerges → shoot and leaves develop",
+      "Mature fruit forms → roots disappear → seed takes in water",
+      "Leaves become soil → stem absorbs light → seed grows",
+      "Root takes in sunlight → flower becomes water → shoot forms"
+    ],
+    "solution": "Seeds take in water during germination, roots emerge, and shoots and leaves develop. This sequence tracks increasing structures through time.",
+    "hint": "Start with the seed and follow the first new structures.",
+    "format": "sequence",
+    "difficulty": 2,
+    "sourceFiles": [
+      "IMG_0490.HEIC",
+      "IMG_0496.HEIC"
+    ]
+  },
+  {
+    "skill": "plant-energy",
+    "text": "Two seeds sprout in darkness for a short time. Which conclusion goes beyond the evidence?",
+    "answers": [
+      "Green plants never need light for continued growth",
+      "Stored food may support early seed growth",
+      "Seeds can change before green leaves form",
+      "A longer investigation would give more evidence"
+    ],
+    "solution": "Short-term sprouting can use stored seed food. It does not show that a green plant can continue making food without light.",
+    "hint": "Separate an early observation from a claim about the whole life of a plant.",
+    "format": "evaluate-evidence",
+    "difficulty": 3,
+    "sourceFiles": [
+      "IMG_0492.HEIC",
+      "IMG_0497.heic"
+    ]
+  },
+  {
+    "skill": "plant-roles",
+    "text": "Which claim best explains why the green plants in this lesson are producers?",
+    "answers": [
+      "They use light to make their own food",
+      "They obtain food by eating smaller plants",
+      "They receive ready-made sugar from sunlight",
+      "They turn every mineral directly into energy"
+    ],
+    "solution": "Producers such as green plants make food through photosynthesis. They do not get ready-made sugar from the Sun or eat soil.",
+    "hint": "Focus on how they obtain food.",
+    "format": "explain",
+    "difficulty": 1,
+    "sourceFiles": [
+      "IMG_5867.jpeg",
+      "IMG_5855.jpeg"
+    ]
+  },
+  {
+    "skill": "plant-roles",
+    "text": "A mushroom stays in one place, and a bean plant stays rooted. Is staying in one place enough to show both make food by photosynthesis?",
+    "answers": [
+      "No; food-making process determines producer status",
+      "Yes; all organisms that stay still capture sunlight",
+      "Yes; movement alone determines food source",
+      "No; rooted plants cannot make their own food"
+    ],
+    "solution": "Being stationary does not establish how food is obtained. Green plants photosynthesize; a mushroom gets food differently.",
+    "hint": "Use how food is obtained rather than movement alone.",
+    "format": "compare",
+    "difficulty": 3,
+    "sourceFiles": [
+      "IMG_5867.jpeg",
+      "IMG_5855.jpeg"
+    ]
+  },
+  {
+    "skill": "plant-roles",
+    "text": "A caterpillar eats a leaf that a green plant grew. Which path traces the original source of its food energy?",
+    "answers": [
+      "Sunlight → plant food → caterpillar",
+      "Minerals → sunlight → caterpillar",
+      "Caterpillar → leaf → sunlight",
+      "Soil → caterpillar → sunlight"
+    ],
+    "solution": "Light energy is stored in the plant’s food as chemical energy. Eating the leaf passes some of that stored energy to the caterpillar.",
+    "hint": "Follow energy from the source to food to the eater.",
+    "format": "trace",
+    "difficulty": 2,
+    "sourceFiles": [
+      "IMG_5855.jpeg",
+      "IMG_5873.jpeg"
+    ]
+  },
+  {
+    "skill": "plant-roles",
+    "text": "No animal visits a greenhouse for a week. Do its green plants stop being producers?",
+    "answers": [
+      "No; they can still make their own food",
+      "Yes; a producer must be eaten each day",
+      "Yes; without animals they become consumers",
+      "No; producers obtain all food from soil"
+    ],
+    "solution": "Producer describes food making, not how often an organism is eaten. The plants can photosynthesize when their needs are met.",
+    "hint": "A role is based on obtaining food, not having visitors.",
+    "format": "apply",
+    "difficulty": 2,
+    "sourceFiles": [
+      "IMG_5855.jpeg",
+      "IMG_5867.jpeg"
+    ]
+  },
+  {
+    "skill": "plant-hydro",
+    "text": "A soil-free seedling forms leaves in nutrient water. Which claim matches this observation without overstating it?",
+    "answers": [
+      "Plants can grow without soil when their needs are met",
+      "Plants never need minerals or carbon dioxide",
+      "Water supplies every need for every plant forever",
+      "Light supplies all the matter in new leaves"
+    ],
+    "solution": "The observation supports soil-free growth under suitable conditions. Air, water, light energy, nutrients, and seed reserves must be considered.",
+    "hint": "State what the observation supports, without claiming all needs disappeared.",
+    "format": "claim-evidence",
+    "difficulty": 3,
+    "sourceFiles": [
+      "IMG_0492.HEIC",
+      "IMG_0497.heic"
+    ]
+  },
+  {
+    "skill": "plant-hydro",
+    "text": "Which description best identifies hydroponics in a field guide?",
+    "answers": [
+      "Growing plants without soil using a nutrient-water supply",
+      "Growing plants on branches using only host-tree sugar",
+      "Growing plants only in outdoor soil beds",
+      "Using plants only to measure air temperature"
+    ],
+    "solution": "Hydroponics is soil-free growing with a supply of dissolved nutrients in water. It is not defined by location or by growing on a tree.",
+    "hint": "Identify the growing method, not just whether it is indoors.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "sourceFiles": [
+      "IMG_0493.HEIC",
+      "IMG_5856.jpeg"
+    ]
+  },
+  {
+    "skill": "plant-hydro",
+    "text": "A seed sprouts on a wet paper towel with no added minerals. What is the most careful interpretation?",
+    "answers": [
+      "Early seed reserves do not prove plain water meets every long-term need",
+      "The seed proves that minerals never matter to plants",
+      "The paper must have supplied all future plant food",
+      "The water must have turned into sunlight"
+    ],
+    "solution": "Early seed growth can draw on stored supplies. Continued healthy growth still requires suitable conditions and mineral nutrients.",
+    "hint": "Distinguish a brief germination trial from long-term growth.",
+    "format": "interpret",
+    "difficulty": 3,
+    "sourceFiles": [
+      "IMG_0492.HEIC",
+      "IMG_0497.heic"
+    ]
+  },
+  {
+    "skill": "plant-hydro",
+    "text": "A squad removes soil but keeps light, air, nutrient water, and root support. Which question is this setup most directly designed to explore?",
+    "answers": [
+      "Can plants grow when soil is absent but other needs are met?",
+      "Can plants grow without any source of matter?",
+      "Can plants make food with no energy supply?",
+      "Can plants grow without water or air?"
+    ],
+    "solution": "The setup removes soil while retaining other supplies. It explores whether soil itself is necessary, not whether matter or energy is unnecessary.",
+    "hint": "Name the condition removed and notice what stays available.",
+    "format": "investigation-design",
+    "difficulty": 2,
+    "sourceFiles": [
+      "IMG_0492.HEIC",
+      "IMG_0497.heic"
+    ]
+  },
+  {
+    "skill": "plant-aqua",
+    "text": "Which pair of parts belongs in an aquaponics overview diagram?",
+    "answers": [
+      "Aquatic animals and hydroponic plants",
+      "Only dry seeds and sealed empty bottles",
+      "Only tree branches and epiphytes",
+      "Only polluted soil and sunflowers"
+    ],
+    "solution": "Aquaponics links raising aquatic animals with hydroponic growing. Its water and nutrient flows connect the animal and plant parts.",
+    "hint": "The name combines aquatic animals with a soil-free growing system.",
+    "format": "label-model",
+    "difficulty": 1,
+    "sourceFiles": [
+      "IMG_0493.HEIC",
+      "IMG_5856.jpeg"
+    ]
+  },
+  {
+    "skill": "plant-aqua",
+    "text": "A diagram shows fish waste supplying plant nutrients but leaves out light. What should a science explanation add?",
+    "answers": [
+      "Plants still need light energy to make sugar",
+      "Fish waste replaces every need for light",
+      "Roots create sunlight from fish food",
+      "Fish make all the sugar for plant leaves"
+    ],
+    "solution": "Fish-linked waste can supply mineral nutrients through the system. Plants still use light energy for photosynthesis and make their own sugar.",
+    "hint": "Nutrients and the energy used to make food are different supplies.",
+    "format": "correct-model",
+    "difficulty": 3,
+    "sourceFiles": [
+      "IMG_0493.HEIC",
+      "IMG_5856.jpeg"
+    ]
+  },
+  {
+    "skill": "plant-aqua",
+    "text": "Which feature distinguishes an aquaponic system from a hydroponic system without animals?",
+    "answers": [
+      "An aquatic-animal component is linked to plant growing",
+      "All water must stay still permanently",
+      "Neither system needs mineral nutrients",
+      "Only aquaponics uses photosynthesis"
+    ],
+    "solution": "Aquaponics adds a linked aquatic-animal component. Both approaches can grow plants in nutrient water, and green plants in both photosynthesize.",
+    "hint": "Compare the components rather than changing how leaves make food.",
+    "format": "compare",
+    "difficulty": 2,
+    "sourceFiles": [
+      "IMG_0493.HEIC",
+      "IMG_5856.jpeg"
+    ]
+  },
+  {
+    "skill": "plant-aqua",
+    "text": "Why is a circular water arrow useful in an aquaponics model?",
+    "answers": [
+      "It represents water moving between linked system parts",
+      "It means water creates energy without light",
+      "It proves no maintenance is ever needed",
+      "It means nutrients disappear before reaching plants"
+    ],
+    "solution": "A circular arrow models water circulation among connected parts. It does not prove that the system manages itself or supplies energy without light.",
+    "hint": "Explain what the arrow represents without adding unsupported claims.",
+    "format": "interpret-model",
+    "difficulty": 2,
+    "sourceFiles": [
+      "IMG_0493.HEIC",
+      "IMG_5856.jpeg"
+    ]
+  },
+  {
+    "skill": "plant-air",
+    "text": "Which description belongs beside epiphyte in a vocabulary guide?",
+    "answers": [
+      "A plant growing on another plant for support",
+      "A plant that must get all sugar from its host",
+      "A fish raised together with root vegetables",
+      "A mineral added to hydroponic water"
+    ],
+    "solution": "An epiphyte grows on another plant as support. Green epiphytes can make their own food rather than necessarily taking the host’s sugar.",
+    "hint": "Separate a place to grow from a food supply.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "sourceFiles": [
+      "IMG_0493.HEIC",
+      "IMG_5857.jpeg"
+    ]
+  },
+  {
+    "skill": "plant-air",
+    "text": "A green epiphyte receives rain but no host-tree sugar. Which source can still provide its food?",
+    "answers": [
+      "Its own photosynthesis",
+      "Its branch turning into ready-made sugar",
+      "The air replacing all need for light",
+      "The host’s bark automatically becoming its roots"
+    ],
+    "solution": "A green epiphyte uses light energy, carbon dioxide, and water to make sugar. The host can serve as support without supplying food.",
+    "hint": "Recall what a green plant can make in its leaves.",
+    "format": "explain",
+    "difficulty": 2,
+    "sourceFiles": [
+      "IMG_0493.HEIC",
+      "IMG_5857.jpeg"
+    ]
+  },
+  {
+    "skill": "plant-air",
+    "text": "A guide says every plant found on a tree steals the tree’s food. Which evidence would challenge that generalization?",
+    "answers": [
+      "An epiphyte uses the tree for support and makes its own sugar",
+      "The epiphyte takes sugar directly from the host’s tissues",
+      "The epiphyte cannot make sugar and relies on host food",
+      "The host supplies both support and all of the epiphyte’s food"
+    ],
+    "solution": "Evidence of support without taking host food challenges the claim. Location alone does not show whether a plant is a parasite.",
+    "hint": "Choose evidence about the food source, not just appearance.",
+    "format": "evaluate-claim",
+    "difficulty": 3,
+    "sourceFiles": [
+      "IMG_0493.HEIC",
+      "IMG_5857.jpeg"
+    ]
+  },
+  {
+    "skill": "plant-air",
+    "text": "Which supply pairing correctly describes a green epiphyte?",
+    "answers": [
+      "Branch: support; sunlight: energy for food making",
+      "Branch: sunlight; rain: all ready-made food",
+      "Air: no matter; branch: all sugar",
+      "Sunlight: mineral nutrients; rain: support only"
+    ],
+    "solution": "The branch provides physical support and sunlight supplies energy. Rain and surrounding material can provide water and nutrients.",
+    "hint": "Match each source to the role it really plays.",
+    "format": "match-function",
+    "difficulty": 2,
+    "sourceFiles": [
+      "IMG_0493.HEIC",
+      "IMG_5857.jpeg"
+    ]
+  },
+  {
+    "skill": "plant-clean",
+    "text": "A field guide defines phytoremediation. Which wording is most accurate?",
+    "answers": [
+      "Using plants to help treat certain pollutants",
+      "Growing every plant without any water",
+      "Growing fish without a nutrient cycle",
+      "Turning every pollutant into harmless food instantly"
+    ],
+    "solution": "Phytoremediation uses plants to help treat particular contamination. The pollutant, plant, and conditions determine whether it helps.",
+    "hint": "The method concerns plant-assisted cleanup and has limits.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "sourceFiles": [
+      "IMG_0493.HEIC",
+      "IMG_5857.jpeg"
+    ]
+  },
+  {
+    "skill": "plant-clean",
+    "text": "A treatment plant stores a pollutant in its tissues. What can be concluded from storage alone?",
+    "answers": [
+      "The pollutant was taken up, but may not have been destroyed",
+      "Every pollutant at the site is now harmless",
+      "All polluted water is safe for drinking",
+      "The plant no longer needs photosynthesis"
+    ],
+    "solution": "Uptake and storage can move pollutants into plant tissues without destroying them. Storage alone does not prove site-wide safety.",
+    "hint": "Distinguish moving a material from changing its identity.",
+    "format": "interpret-evidence",
+    "difficulty": 3,
+    "sourceFiles": [
+      "IMG_0493.HEIC",
+      "IMG_5857.jpeg"
+    ]
+  },
+  {
+    "skill": "plant-clean",
+    "text": "Which record would best help evaluate a plant-based cleanup trial?",
+    "answers": [
+      "Pollutant measurements using the same method over time",
+      "Leaf greenness alone, without pollutant measurements",
+      "Plant height alone, without testing the soil or water",
+      "Root length alone, without any before-treatment data"
+    ],
+    "solution": "Repeated pollutant measurements directly address whether contamination changes. Plant appearance or size alone does not show whether pollutants decreased.",
+    "hint": "Choose a measurement of the outcome the trial is trying to change.",
+    "format": "choose-evidence",
+    "difficulty": 2,
+    "sourceFiles": [
+      "IMG_0493.HEIC",
+      "IMG_5857.jpeg"
+    ]
+  },
+  {
+    "skill": "plant-clean",
+    "text": "Two cleanup plots show lower pollution after rain, but only one has treatment plants. Why compare both plots?",
+    "answers": [
+      "Rain or other shared conditions may explain some change",
+      "Comparison proves all plants work on all pollutants",
+      "The planted plot no longer needs measurements",
+      "The unplanted plot supplies light to the other"
+    ],
+    "solution": "A comparable untreated plot helps reveal changes due to rainfall or other shared factors. A decrease in one plot alone does not isolate the plant effect.",
+    "hint": "Ask whether another condition could also change the measurement.",
+    "format": "fair-test",
+    "difficulty": 3,
+    "sourceFiles": [
+      "IMG_0493.HEIC",
+      "IMG_5857.jpeg"
+    ]
+  },
+  {
+    "skill": "plant-investigate",
+    "text": "A notebook says, “The plants grew because they got bigger.” What is missing from the reasoning?",
+    "answers": [
+      "A process linking growth to matter and energy inputs",
+      "The exact color of every plant container",
+      "A statement that soil supplies all new matter",
+      "A claim that sunlight is a mineral"
+    ],
+    "solution": "Scientific reasoning connects observations with a process. Air and water supply matter; photosynthesis uses light energy to make food for growth.",
+    "hint": "Repeating the claim does not explain why it happened.",
+    "format": "evaluate-reasoning",
+    "difficulty": 3,
+    "sourceFiles": [
+      "IMG_0497.heic"
+    ]
+  },
+  {
+    "skill": "plant-investigate",
+    "text": "In a trial, soil-free seedlings developed new leaves. Which notebook sentence is evidence rather than a general claim or prediction?",
+    "answers": [
+      "We recorded new leaves on the soil-free seedlings",
+      "All plants can grow under every condition",
+      "Our seedlings will probably grow tomorrow",
+      "Light is the material that becomes all leaves"
+    ],
+    "solution": "Evidence reports what was actually observed or measured. A broad claim or prediction is different from recorded trial results.",
+    "hint": "Find the sentence that describes an observation.",
+    "format": "claim-evidence",
+    "difficulty": 2,
+    "sourceFiles": [
+      "IMG_0497.heic",
+      "IMG_0492.HEIC"
+    ]
+  },
+  {
+    "skill": "plant-investigate",
+    "text": "A review sheet claims plants grow only in warm environments. Which correction is scientifically sound?",
+    "answers": [
+      "Different plants can grow in different climates, including cold regions",
+      "Every plant grows equally well at every temperature",
+      "Temperature never affects plant growth",
+      "Cold places contain no plant life"
+    ],
+    "solution": "Plants are adapted to different environments, including cold ones. This corrects the warm-only claim without saying temperature never matters.",
+    "hint": "Avoid replacing one absolute claim with another.",
+    "format": "error-correction",
+    "difficulty": 2,
+    "sourceFiles": [
+      "IMG_0495.HEIC"
+    ]
+  },
+  {
+    "skill": "plant-investigate",
+    "text": "Which four-fact summary best connects the needs of a growing green plant?",
+    "answers": [
+      "Air supplies carbon dioxide; roots absorb water; light supplies energy; sugar supports growth",
+      "Air supplies no matter; roots absorb light; soil is all food; leaves only decorate",
+      "Water supplies light; roots make air; sugar is a mineral; soil becomes all leaves",
+      "Air supplies sugar; water replaces light; roots absorb sunlight; leaves eat minerals"
+    ],
+    "solution": "A connected summary distinguishes matter inputs, plant structures, light energy, and food that supports growth. It should not call sunlight a material.",
+    "hint": "Connect the source of matter with the source of energy and the food made.",
+    "format": "summarize",
+    "difficulty": 3,
+    "sourceFiles": [
+      "IMG_0494.heic",
+      "IMG_0496.HEIC",
+      "IMG_5878.jpeg"
+    ]
   }
 ]
