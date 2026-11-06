@@ -23,3 +23,5 @@
 .curriculum-sources a{text-decoration:underline;text-underline-offset:3px;overflow-wrap:anywhere}
 .curriculum-sources a:hover{color:var(--lime)}
 @media(max-width:480px){.subject-tabs{width:100%}.subject-tabs button{flex:1;justify-content:center;padding:10px 8px;gap:5px;font-size:11px}}
+
+.unit-plants{border-bottom-color:#79df9a}.unit-plants .unit-card-art{color:#79df9a}

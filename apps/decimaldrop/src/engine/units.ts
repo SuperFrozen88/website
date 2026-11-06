@@ -1,8 +1,10 @@
 import type { Skill } from './types';
-export type UnitId = 'decimals' | 'mixtures' | 'matter' | 'multiplication' | 'exploration';
+export type UnitId = 'decimals' | 'mixtures' | 'matter' | 'multiplication' | 'exploration' | 'plants';
 export interface Unit { id:UnitId; subject:'Math'|'Science'|'Social Studies'; title:string; zone:string; subtitle:string; standard:string; source:string; verified:boolean; rarity:string; accent:string; intel:{title:string;text:string}[]; sources?:{title:string;url:string}[]; }
 import { explorationUnit } from './social-studies';
+import { plantsUnit, plantSkills } from './plants';
 export const units:Unit[] = [
+ plantsUnit,
  explorationUnit,
  {id:'multiplication',subject:'Math',title:'Multiplying Decimals',zone:'Product Peaks',subtitle:'Scale your supply drops. Explain every product.',standard:'5.NBT.B.7',source:'Provisional Go Math! Grade 5 Chapter 4 scope; edition and chapter contents unverified. App labels are not official lesson titles.',verified:false,rarity:'LEGENDARY',accent:'#ffcc66',intel:[
  {title:'Whole-number bridge',text:'2.4 × 3 means 24 tenths × 3 = 72 tenths = 7.2. Multiply the units, then name their value.'},
@@ -59,5 +61,5 @@ const scienceDefinitions:[UnitId,string,string,string,string][]=[
  ['matter','matter-state','States of matter','States & changes of state','Describe solid, liquid, and gas using shape, volume, and physical changes.'],
  ['matter','matter-investigate','Scientific reasoning','Fair tests & material choices','Choose a material from property evidence and keep comparison tests fair.'],
 ];
-export const scienceSkills:Skill[]=scienceDefinitions.map(([unit,id,group,name,nextStep])=>({unit,id,group,name,nextStep}));
-export const unitOfSkill=(id:string):UnitId=>id.startsWith('ss-')?'exploration':id.startsWith('mul-')?'multiplication':id.startsWith('mix-')?'mixtures':id.startsWith('matter-')?'matter':'decimals';
+export const scienceSkills:Skill[]=[...scienceDefinitions.map(([unit,id,group,name,nextStep])=>({unit,id,group,name,nextStep})),...plantSkills];
+export const unitOfSkill=(id:string):UnitId=>id.startsWith('plant-')?'plants':id.startsWith('ss-')?'exploration':id.startsWith('mul-')?'multiplication':id.startsWith('mix-')?'mixtures':id.startsWith('matter-')?'matter':'decimals';
