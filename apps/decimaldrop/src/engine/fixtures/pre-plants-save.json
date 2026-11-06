@@ -1,0 +1,2247 @@
+{
+  "baselineCommit": "fa6ae8e",
+  "questionHashes": [
+    {
+      "id": "mix-mixture:0",
+      "sha256": "7c2532182247879cf25b57f94fe6297b117871b725ab072d9988b0cefe21dda4"
+    },
+    {
+      "id": "mix-mixture:1",
+      "sha256": "14813b8a8a0b60ee7c0da1fd173478b7cfa0af2a77e095d54772e0176d0cd4c6"
+    },
+    {
+      "id": "mix-mixture:2",
+      "sha256": "4fef9ea938cfe5a31368a4afa09ddeb4a6e8fb898aae7ebf24e2311ca787e974"
+    },
+    {
+      "id": "mix-mixture:3",
+      "sha256": "81ff8b602d2b232d4c680afd563e776360dd6956a33bb3730a1a351237227dc4"
+    },
+    {
+      "id": "mix-mixture:4",
+      "sha256": "44ed54db23fa2106e11c0ea06ffb1508e6bf198c9d674b738b0f64b8c533e09a"
+    },
+    {
+      "id": "mix-mixture:5",
+      "sha256": "f509ba3c8c0bf34478dd7ce6913bf6b80af10841eefe89b893d915444dad8e7d"
+    },
+    {
+      "id": "mix-mixture:6",
+      "sha256": "705f8922eefac3c173273df28e5614aebe8afce057656356e21951a36f344df4"
+    },
+    {
+      "id": "mix-mixture:7",
+      "sha256": "5b680394e997567935963da83403cb9521b07d5269682991646d5b5074adf25b"
+    },
+    {
+      "id": "mix-solution:0",
+      "sha256": "8a9273fdd3b9aa66c666dc39164e74a2c3dbbac3d9bd594d8680f53a03969952"
+    },
+    {
+      "id": "mix-solution:1",
+      "sha256": "73ff2c4ac43511dcebb8fc6023e7d6c7312fa93dc84cd1ca2557bb5a471bfcaa"
+    },
+    {
+      "id": "mix-solution:2",
+      "sha256": "55a5411323580b220a53b9ee871cd7a097ffe9b82588ef2d6837d38d56dd1851"
+    },
+    {
+      "id": "mix-solution:3",
+      "sha256": "0c73b0d9b28c2a3a8d76ffb82c59cc6c835794692b592245ad3a5c75fe579408"
+    },
+    {
+      "id": "mix-solution:4",
+      "sha256": "e39d9b022b84205fe43c7764c7af764896ec1b45b47dc2e574f45ac45f249353"
+    },
+    {
+      "id": "mix-solution:5",
+      "sha256": "e868562f1aee079fc120265abb3cb01348f2a60b7b3e899b8a59019f15256d41"
+    },
+    {
+      "id": "mix-solution:6",
+      "sha256": "f5644598d7d33c4a77163a017b994b7a59395fb81f8c1c4cfb1f665513b16a8c"
+    },
+    {
+      "id": "mix-solution:7",
+      "sha256": "0079d96e8458b35d75bd3aea1d3e5ace1f151cb32480de7fbea0dd9933f68678"
+    },
+    {
+      "id": "mix-reaction:0",
+      "sha256": "20ee26d07ee55dac34f120c2cc25e1b3fbbf79fb7e6bd71817402ba3dd253fc6"
+    },
+    {
+      "id": "mix-reaction:1",
+      "sha256": "8ef9870f1cd356d7c73cfbcb112baffb6b101c656c6b4046efc2018d0ab73acb"
+    },
+    {
+      "id": "mix-reaction:2",
+      "sha256": "bbec20e683dfdf4731a5823e9dd55a3d19824c3b7018d9632e31627191ba7a0b"
+    },
+    {
+      "id": "mix-reaction:3",
+      "sha256": "3133c9ed5459b6cebfc131119002ea8d04d3589599825880262af7a10214e109"
+    },
+    {
+      "id": "mix-reaction:4",
+      "sha256": "3fd474b5fb8e101f5bf97e3ef129e3a18be7acc664d5fde0948618320ae74052"
+    },
+    {
+      "id": "mix-reaction:5",
+      "sha256": "820c8fd31b6e8c9554ce14c454e22401e73872829f35ae02ce8879a7dcdba254"
+    },
+    {
+      "id": "mix-reaction:6",
+      "sha256": "9818b0f8c534ac27d01e7e113731bde9bfed641935e00ff5b472e85fd806c357"
+    },
+    {
+      "id": "mix-reaction:7",
+      "sha256": "a60b86433744f7848fb758545fef059b7c7474e99efc2c5a0495bf3233428082"
+    },
+    {
+      "id": "mix-gas:0",
+      "sha256": "643e39b1a5ff634a5b8b2671e79da196418c5d0210f50c5cc58242eb3c4a49cf"
+    },
+    {
+      "id": "mix-gas:1",
+      "sha256": "f7ea8ef384916be83385d69e0e006ad1ca27769e44c146e19a2a4adbbf218f3f"
+    },
+    {
+      "id": "mix-gas:2",
+      "sha256": "0a80c6e05199931e82e31b562f3e4e7ff637e3101d596806f8ec8471496a591f"
+    },
+    {
+      "id": "mix-gas:3",
+      "sha256": "0fd7342a9d205c2658745789a7920089f94b286817c87db7a5e59bacd9d2d10f"
+    },
+    {
+      "id": "mix-gas:4",
+      "sha256": "93bba13b19f92cc40f491b5853720d9168392db76ff83945868685111c256248"
+    },
+    {
+      "id": "mix-gas:5",
+      "sha256": "a7e0dfbb9170ed8aea0f1fc8f219f273726c5ca3db634c7ef241ff76a79e3021"
+    },
+    {
+      "id": "mix-gas:6",
+      "sha256": "787d305188436085f7839166e4490e370bb33a072a1f017d5b6df39771870e40"
+    },
+    {
+      "id": "mix-gas:7",
+      "sha256": "dcdd11a13436b221a60a7506b7c8d1ebdb83b8bf61477dcef069e506ef2abd0e"
+    },
+    {
+      "id": "mix-temperature:0",
+      "sha256": "6f868b931f93db2199790972969e7fc2f88eebb77ce51f6b4a943b948a4ad519"
+    },
+    {
+      "id": "mix-temperature:1",
+      "sha256": "6c015259e87e775a377866412772223aa5079beb9665962879a22d3411de0a9e"
+    },
+    {
+      "id": "mix-temperature:2",
+      "sha256": "6562a627137110847d36e050d959add63d23201b9a8c9e0e20f7cb3a8518818f"
+    },
+    {
+      "id": "mix-temperature:3",
+      "sha256": "0aa1c2230b0195dcbe96359e40bdf902117bbc4be4747e1047c53c3519fffb8c"
+    },
+    {
+      "id": "mix-temperature:4",
+      "sha256": "6f190b954ce763c41b9e1da82840bb390bd01f0587f41632ea44f817e9e61412"
+    },
+    {
+      "id": "mix-temperature:5",
+      "sha256": "fbbde3cacf115ea3038355942593783c16d30b9ef49a03eae9608c061c071923"
+    },
+    {
+      "id": "mix-temperature:6",
+      "sha256": "6d5d10e28ed4f8c78b6331959d2f6c60bec612b135538c15943758e776444fec"
+    },
+    {
+      "id": "mix-temperature:7",
+      "sha256": "64d5a5e654ea210cf51c41a43c66501b5c2430e97efbe960646c6506791a3c91"
+    },
+    {
+      "id": "mix-solid:0",
+      "sha256": "1a83e9c6b3ca32b8e9dd7798651eea2e39811a5846075c003095cd1163229772"
+    },
+    {
+      "id": "mix-solid:1",
+      "sha256": "bc4f3f995e652fd17f487840823421c75e0dff7313efc805e6d486e4dd668ef9"
+    },
+    {
+      "id": "mix-solid:2",
+      "sha256": "a448897d625dc093f1e258d83913784b6401361cae5c935974049be8aa08618f"
+    },
+    {
+      "id": "mix-solid:3",
+      "sha256": "2fef8642a18f52451e9ff044bf0fcc0f39c6196da097796d2baa9fe56703f1e6"
+    },
+    {
+      "id": "mix-solid:4",
+      "sha256": "6079b42c98fc0cf8ec8e30271294e628d3519f7c75a990c28dc0b95279f006b7"
+    },
+    {
+      "id": "mix-solid:5",
+      "sha256": "679e4df6ecbd81a16b39e7ef79e4e53fbf2e336e10ba0c9d698a737e4da363d7"
+    },
+    {
+      "id": "mix-solid:6",
+      "sha256": "fd41fd08d4669e7a1297483c9e10608bcf4e449689848380778ee241d6bf236b"
+    },
+    {
+      "id": "mix-solid:7",
+      "sha256": "cb71f12202568cf3eec8e4fbaeaf2702f2130bda68d93718f1f02e892e8bd082"
+    },
+    {
+      "id": "mix-smell:0",
+      "sha256": "d21805cae73b347aab438ff518fd218633684ae0e2814f2b09a846a37c8239c3"
+    },
+    {
+      "id": "mix-smell:1",
+      "sha256": "873208d29aa2c30fdc80826494d718f048004b8db21ff9f24a7951e5f1b44827"
+    },
+    {
+      "id": "mix-smell:2",
+      "sha256": "b007cbba38c8fba6473b25d7c89feb499d4bdbae636edb555ed0908c400e7a38"
+    },
+    {
+      "id": "mix-smell:3",
+      "sha256": "5794d5814bdfd521a6b8d581c96fa27312f04b36e2fcaf26c21a8650c7285e71"
+    },
+    {
+      "id": "mix-smell:4",
+      "sha256": "96d2a59cbf68ab36bb25e1b2e874a3a9125e7abfc7740a7c439aba96574e61c5"
+    },
+    {
+      "id": "mix-smell:5",
+      "sha256": "c9866eafcd42229513fb075cf85d6c4539651d1a2869cd97989eab3323e34f1e"
+    },
+    {
+      "id": "mix-smell:6",
+      "sha256": "0fb7db999b8ad461c979d6ceda4f07ba9202119a22d98eaade587705df5bcf52"
+    },
+    {
+      "id": "mix-smell:7",
+      "sha256": "606935feb967975246173e751b30b36b2e9e8b4f847490687742359f1229b7e3"
+    },
+    {
+      "id": "mix-color:0",
+      "sha256": "d1429dd223f678d5dd50514029e47b91e630e071fa0ef5ff8c5d2ea33530e6f5"
+    },
+    {
+      "id": "mix-color:1",
+      "sha256": "37c4148f247add16d8352f6529738beea1c634ecb99804fe070545675b278486"
+    },
+    {
+      "id": "mix-color:2",
+      "sha256": "a4b061d834004af9109d1f06885125a6799cdb7d8959462837df28e6892e8ea8"
+    },
+    {
+      "id": "mix-color:3",
+      "sha256": "c799b85299b9ce9b6ec3a51dce7a22e66445c16a58717d5449ce5158df87767a"
+    },
+    {
+      "id": "mix-color:4",
+      "sha256": "32ec4e773556484dde58d939cc06629a1896db719ff466f86bf55af853ae4691"
+    },
+    {
+      "id": "mix-color:5",
+      "sha256": "6d1e013259944a6b487577544b470ebf268ecd0f7a62a4bbd5875fdaef40eb1a"
+    },
+    {
+      "id": "mix-color:6",
+      "sha256": "dbdaad1734281687f544fb3cffaf951eb9e75a6a969b11cbc76145f108d95da6"
+    },
+    {
+      "id": "mix-color:7",
+      "sha256": "aaac7c24a223d04c2791b5487271f2c31390a3fc13e2e9d8f0ed69dde213445f"
+    },
+    {
+      "id": "mix-physical:0",
+      "sha256": "3ba1f9717e43b5791eabfd0ccac79133fdddb4da3daea28329ac5d35894187c2"
+    },
+    {
+      "id": "mix-physical:1",
+      "sha256": "6402f73cfdd9b0c71efea068e5a5f75ff504af5e729ca3e1d0adf67296682956"
+    },
+    {
+      "id": "mix-physical:2",
+      "sha256": "29760741398c7f32c6f0621391f10c1ddd1703cc52c9e7d5462df1b1470733ff"
+    },
+    {
+      "id": "mix-physical:3",
+      "sha256": "ed9fd73e02e5041229a7c46a10c2883550160e82722913296103c1aabd03d7db"
+    },
+    {
+      "id": "mix-physical:4",
+      "sha256": "b4729100a527037cec0fcde36a7256b56e1dfaa85bfeb277afcc7707e517e301"
+    },
+    {
+      "id": "mix-physical:5",
+      "sha256": "06ec730851edc609e8a70b9ef07743cdb95ac0c63f34cd0ff0dd9a43b8817551"
+    },
+    {
+      "id": "mix-physical:6",
+      "sha256": "036f110f4d64e99d6748640b423c3e584026689a768f76f96f73475e04f84d6c"
+    },
+    {
+      "id": "mix-physical:7",
+      "sha256": "f0e4cb68610afae90a03fc94a6f6eecf0496b8f4d43ad7b03bf4c5ab0106752a"
+    },
+    {
+      "id": "mix-reasoning:0",
+      "sha256": "572c242ea6a882779d215d320f85d2e3110ec9d39e5d0746fd814ea64ea1b88c"
+    },
+    {
+      "id": "mix-reasoning:1",
+      "sha256": "bfa08ebb37d85f986e81ccbcb15de8692d1e55e42ffd191a48474c292d68bd9a"
+    },
+    {
+      "id": "mix-reasoning:2",
+      "sha256": "dc552250338d21f5125c184de297326fbffae42650b8b98e1b38a491d3310739"
+    },
+    {
+      "id": "mix-reasoning:3",
+      "sha256": "434300370d427bcc27b4578fdc1e14f0243e3fd0a370c1457ab336cc2bd00d43"
+    },
+    {
+      "id": "mix-reasoning:4",
+      "sha256": "81675da4f3cadbd47ec8c9fbae68c070b01662c3c4bcdb5f59879165552bdfa5"
+    },
+    {
+      "id": "mix-reasoning:5",
+      "sha256": "043551538214d1d3c834831a3a68e59cf3f7a3c021b8be7b8c3d1aa9c3f7eafe"
+    },
+    {
+      "id": "mix-reasoning:6",
+      "sha256": "a65c16e2b0af2fc0d646cab2bff522d355a7eda4ac38c6ad60542cde2da8e966"
+    },
+    {
+      "id": "mix-reasoning:7",
+      "sha256": "87837775bd73b094919d67ffe78d9ad792f98d26c3bb060d5b1e038f6065a21f"
+    },
+    {
+      "id": "matter-vocab:0",
+      "sha256": "99e361ace8c0acd687b0182e3b05a954e2ad4aec64d85b888872c13597e6ea26"
+    },
+    {
+      "id": "matter-vocab:1",
+      "sha256": "cb7e45821b719f590a27e14860d34de5536de0725d4805b8f94181357e218bf3"
+    },
+    {
+      "id": "matter-vocab:2",
+      "sha256": "fe2b9eb5095c2592683777afcf3520e5c71c4ac993788dfe9b6f0000af87399f"
+    },
+    {
+      "id": "matter-vocab:3",
+      "sha256": "a2941db0568829c82c0ceba1fd6b92643c5bc011099dcad21e4e8c11c2e5b610"
+    },
+    {
+      "id": "matter-vocab:4",
+      "sha256": "165303bb42fe43c0bc3a23204745abc5b41f13c710a034ed5253ce9ad9a6fa3a"
+    },
+    {
+      "id": "matter-vocab:5",
+      "sha256": "b9b562a65e85f5347655e1cb1cc2101da185f56b20a14bdf99bbad2997d0ce80"
+    },
+    {
+      "id": "matter-vocab:6",
+      "sha256": "97b273ad0cc02a54aa1b47712a44347d00f2c251b8fbf668384d31b6b8deabab"
+    },
+    {
+      "id": "matter-vocab:7",
+      "sha256": "77d06cdada116a0773c0c4156e22efc09f0ec715c60d23c01887ee5c4eeb3e19"
+    },
+    {
+      "id": "matter-vocab:8",
+      "sha256": "3561991b470b4fc4db77bf9847428c9ff2099e59c0e245c98b15cb80b863977d"
+    },
+    {
+      "id": "matter-vocab:9",
+      "sha256": "b5aebee2c74b0c76042f44df6f58d8161a18daa766191df050562eab975aa7e1"
+    },
+    {
+      "id": "matter-magnet:0",
+      "sha256": "dbdaf9131a45f6ef631abf4547186a01169ed797b8751a64c4572e42ed06915a"
+    },
+    {
+      "id": "matter-magnet:1",
+      "sha256": "b18e4163a89454aab3c3f240f3036d81170d2cead40cc8ef6448ba1a221eb2ca"
+    },
+    {
+      "id": "matter-magnet:2",
+      "sha256": "eb3134882641c41d0c75f5c375e4a43b07539350fb9e63facb782f8735d594cb"
+    },
+    {
+      "id": "matter-magnet:3",
+      "sha256": "fb0c2e254a1309e7f3484766eae05c3983ed3b86bda0409398d493178b0e2a8b"
+    },
+    {
+      "id": "matter-magnet:4",
+      "sha256": "74aaf95c6605cafc9fd4cc1559429132d4593dc727ff1e7088c9a01e34b3cb46"
+    },
+    {
+      "id": "matter-magnet:5",
+      "sha256": "0ab9160fea2be1ed94d9fa174fe75239b551ca7a06588af6882a060cc256fcea"
+    },
+    {
+      "id": "matter-magnet:6",
+      "sha256": "ce4f01c6ef2672e32b3040d614cb014d25aa1fddfc4ab801bd7fcf8d93b2e533"
+    },
+    {
+      "id": "matter-magnet:7",
+      "sha256": "2b108e9fabb5692247510010c59e7ae6b23941d9a939038dd471adcfef152521"
+    },
+    {
+      "id": "matter-magnet:8",
+      "sha256": "168bfcac24dc059c49a81616f08a4af296ae0093ad4038438822774d23e7f496"
+    },
+    {
+      "id": "matter-magnet:9",
+      "sha256": "a218b3f36c526f88a9136e3a311043739291c815e6d9eedac00c0f9b471f9ac0"
+    },
+    {
+      "id": "matter-electric:0",
+      "sha256": "919199afcf2947d4e4b8d761e4239fe5b2f503aea910299453d14bcb5dd72325"
+    },
+    {
+      "id": "matter-electric:1",
+      "sha256": "1dac05727e4fb50e51d9b4fa6bdc1f8fd1073bee57103713d220b9226e02ecc0"
+    },
+    {
+      "id": "matter-electric:2",
+      "sha256": "dbf4cf905f8d04ab29e7825bea3f77a12d3d6f354e789b6a1784f2b0c7bc83e8"
+    },
+    {
+      "id": "matter-electric:3",
+      "sha256": "f1fb770ef52f5bb1bff4b1d00507eddd19ec331ee84ceaf1800bb44be2222cbc"
+    },
+    {
+      "id": "matter-electric:4",
+      "sha256": "e919c1bd18911d2a2a583cc39c9d289182e3e2948ec7021a10ab9ecedc707c26"
+    },
+    {
+      "id": "matter-electric:5",
+      "sha256": "24f5765a6c32d2e02cdf2948a4adad3dda86a96277e8d1ac39511187777d385c"
+    },
+    {
+      "id": "matter-electric:6",
+      "sha256": "d077dd9a2385f0e92758ec639c116a58bb868f23fc5e8a1c7441c980ea42d5d7"
+    },
+    {
+      "id": "matter-electric:7",
+      "sha256": "292c74fc795074c47423f2957cb321ca38e917a4d3bc30f51a727fd5929cd43c"
+    },
+    {
+      "id": "matter-electric:8",
+      "sha256": "606896299af8457d3ef10fda354a64c07c7723562aa350b46437999d14bc4d0c"
+    },
+    {
+      "id": "matter-electric:9",
+      "sha256": "084938ea5d2fdba41e49c139a664fb046d2dd5dfb833fe25526c6d0c0ec47103"
+    },
+    {
+      "id": "matter-heat:0",
+      "sha256": "ecd2053c5c5c97c47fb8c0c2b187266234890ed18c3675cf94eaa9f8a4affbcc"
+    },
+    {
+      "id": "matter-heat:1",
+      "sha256": "a43eab6b4d9f35b6ebfe14485b2173373c88e527646435502098c950f316dc0e"
+    },
+    {
+      "id": "matter-heat:2",
+      "sha256": "32f06c282946c8f08ce0464a9a09c02ca3cd29cc2667a3b06c69bfda0788b001"
+    },
+    {
+      "id": "matter-heat:3",
+      "sha256": "c7741e522e39a7c722ce1c6318a043e3eaa3239344a90e9dd12a0723a51a2b14"
+    },
+    {
+      "id": "matter-heat:4",
+      "sha256": "f6e1f4b41fb22153279d7dd4acd07445833506d8ca6ff866c3348e7c8f2c92e4"
+    },
+    {
+      "id": "matter-heat:5",
+      "sha256": "63402cf50f3e1da3d6b0c46d3acbbf84e17c7c7c6615d64ed21c5af274ed0943"
+    },
+    {
+      "id": "matter-heat:6",
+      "sha256": "995b630a2dbf18f9431a7a0e14d50323d9249753899d41e97017abe4cc2dc932"
+    },
+    {
+      "id": "matter-heat:7",
+      "sha256": "c7d71fbbcd13c56427ac6dd8723743bcf21f1f6d8ab99c18c4c138f4e90099fe"
+    },
+    {
+      "id": "matter-heat:8",
+      "sha256": "3df8dc9f453a8d7da0284136c05319d73e90ecc6440980c6aba45d90e3cbeca6"
+    },
+    {
+      "id": "matter-heat:9",
+      "sha256": "3892a799eaf13888f7e9671cd98bd5f94bd3d7bea2f3866d19930ba2b78f31a0"
+    },
+    {
+      "id": "matter-soluble:0",
+      "sha256": "5539ff944a977f4735600aa853c29aa472439954c9258999b9e975e1a227e5fa"
+    },
+    {
+      "id": "matter-soluble:1",
+      "sha256": "a8f8643e0b24f66a75e2079c2631827b7a74a5a535debf18a3121416c7ad8b45"
+    },
+    {
+      "id": "matter-soluble:2",
+      "sha256": "092e2efdc2c53874894228f926fb44e55b50191e2ae98652689d71c36c5466da"
+    },
+    {
+      "id": "matter-soluble:3",
+      "sha256": "fc13577ef38633ccc079f2fbb7e94ba9b85855c245478c8b88878f5b623b42a2"
+    },
+    {
+      "id": "matter-soluble:4",
+      "sha256": "9e1fe37dccef5ce14d12c78dab7a4317a0019da416d970afd826cdbf2b52724b"
+    },
+    {
+      "id": "matter-soluble:5",
+      "sha256": "ef710d936bc7f46960edb806e15e707f49f21d5b7cb00c7a4a2616cae588cf4b"
+    },
+    {
+      "id": "matter-soluble:6",
+      "sha256": "cbea9699a502daee7ce02574abfccdcf8e0f9b0f4c8a2e8d5ffe8e712b8b2cce"
+    },
+    {
+      "id": "matter-soluble:7",
+      "sha256": "fd5e62173739910e62bed4d81380082acace47308c1d2cbb4c5ab4e2d518a545"
+    },
+    {
+      "id": "matter-soluble:8",
+      "sha256": "d59be49551dc5593539f9628cd14a87498bec14dffdf04963b7e22ba5ebf60c3"
+    },
+    {
+      "id": "matter-soluble:9",
+      "sha256": "5afa112533628a9fa3dadee4e9b8524d07b5e04afe48e5f289e2b53112a989e8"
+    },
+    {
+      "id": "matter-measure:0",
+      "sha256": "382d0e94e5ab983770987f17a5aa8290e8123f14c8b694012c73f9916f0dab2c"
+    },
+    {
+      "id": "matter-measure:1",
+      "sha256": "afc6cd5e811f28cdbcc5bd4c060cd094566232d18edfefafc95a60a05e3303d6"
+    },
+    {
+      "id": "matter-measure:2",
+      "sha256": "5a8dda4f612ce221979c66b2345cabac92ed85ea31e1c00ea2656470d260a123"
+    },
+    {
+      "id": "matter-measure:3",
+      "sha256": "51f513b877c67193bb8a3985a406450020e6642e2917ea61b1c6478a5ff8921d"
+    },
+    {
+      "id": "matter-measure:4",
+      "sha256": "6d2743458eef8cfb5d0527861515b88bef0bcb856c5777112f4e23524bfe31ec"
+    },
+    {
+      "id": "matter-measure:5",
+      "sha256": "64865eefa12ee9ec6c25267f9e4e948e28ce3444f590bada0e854861254f35a0"
+    },
+    {
+      "id": "matter-measure:6",
+      "sha256": "2ba58ea475632031825c95a774209e0b3c0a8ff0f7300f797243a7684e507637"
+    },
+    {
+      "id": "matter-measure:7",
+      "sha256": "a52fa6f1a864f0a72cc4f9d38b499799d1fcbca54ee8ba110e2bea2bd90fa827"
+    },
+    {
+      "id": "matter-measure:8",
+      "sha256": "bcaebfa73d41fce9e4ecc4831fe188fa36100386e2b5d3b270f2225d651e5f02"
+    },
+    {
+      "id": "matter-measure:9",
+      "sha256": "2e015ca1c89ad29bedf721dc550ff99cb34fc1b24bf37a26269aa698854ecc10"
+    },
+    {
+      "id": "matter-mass:0",
+      "sha256": "1c74e3cbcdef6d994e9802d7fd9b432057c93a55a34630ffeaca0c33b3798b5b"
+    },
+    {
+      "id": "matter-mass:1",
+      "sha256": "d59c0b86ef27aab12a09ebd1cf90f5462aa625714d82829fc56734924336778a"
+    },
+    {
+      "id": "matter-mass:2",
+      "sha256": "bf1cd8e03ec36e487ae1280ef48cc6cc058ad8caf8fd660a08fb316330c3c342"
+    },
+    {
+      "id": "matter-mass:3",
+      "sha256": "d25473046ce4bc5680cbc6d0d8786140794b3fef0d8a250a5f158e54c21b46ed"
+    },
+    {
+      "id": "matter-mass:4",
+      "sha256": "4434bb815f0d1f4a47dd55a14ffd30b67e0aa618e7617c310533b05192c45ec0"
+    },
+    {
+      "id": "matter-mass:5",
+      "sha256": "e7e52afcfed17b10347c282b81f6428fcac5ac9133bf2a452119309f71b6d827"
+    },
+    {
+      "id": "matter-mass:6",
+      "sha256": "3b7f54b35a452be242e1aa1d951710a16955d2210cd7ba8e9d7e55d9e948a3e4"
+    },
+    {
+      "id": "matter-mass:7",
+      "sha256": "fad74f0bcab3d3568aeb2a22e987858be8e5b91bb1c3a27189d15a412655ca28"
+    },
+    {
+      "id": "matter-mass:8",
+      "sha256": "eb1ebd5f2913e9843357ebbc2246a413de0c754ec4e07805c29b6e3a6fddda88"
+    },
+    {
+      "id": "matter-mass:9",
+      "sha256": "1a39f5dd1fa0f09cf90f2a25bc91d5cd65b2d1d6d6e119ef67d8d970ddfce6d2"
+    },
+    {
+      "id": "matter-observe:0",
+      "sha256": "b3f37fc61eb15a41c442b06a785b9a2891ee97439116e270584cfd99677940c9"
+    },
+    {
+      "id": "matter-observe:1",
+      "sha256": "9b3b315b50873c4b87062887bb21faea9b0c1463ad7a2a65209471ddb35ed32f"
+    },
+    {
+      "id": "matter-observe:2",
+      "sha256": "f3307808ffc7f03e08ce05c9c0578fd23a863d33f1375506ed02d44635f84d82"
+    },
+    {
+      "id": "matter-observe:3",
+      "sha256": "ae10308e5f20ba68a60a4c26359a12de05e40ca5527e3449b6565876d103cae7"
+    },
+    {
+      "id": "matter-observe:4",
+      "sha256": "786a9556de96ffe1ae7ca747e7f57b0969dfb9d85283ac6bd0ca666ea93fbb03"
+    },
+    {
+      "id": "matter-observe:5",
+      "sha256": "260149339696e420c36f48fcbbeed3d46b6e83e7b8268863ff4f71a97d95deaa"
+    },
+    {
+      "id": "matter-observe:6",
+      "sha256": "2bb9aca33c2340afc37b87fc403185481397f0776065c6bf57360b8bbac798f4"
+    },
+    {
+      "id": "matter-observe:7",
+      "sha256": "e247b02c42eee0f3b3bb0b747330beb60860a4f0a0a61f1ef92348a72a5828ca"
+    },
+    {
+      "id": "matter-observe:8",
+      "sha256": "1ef50a48f336cd476d3ace0e04c9a433d315fe01763759d063b7ec36508ac52a"
+    },
+    {
+      "id": "matter-observe:9",
+      "sha256": "8f44b1fd44abbf819451af92856e9853c5c1c4f9c8b24e5a0ec4fadffd2c40f7"
+    },
+    {
+      "id": "matter-state:0",
+      "sha256": "7b48c6a44a8f27ca959ba38b7aded8845b77776afbffc4d49d5875d34b4ad2b9"
+    },
+    {
+      "id": "matter-state:1",
+      "sha256": "56d525bddbaae8f7b37b8ebba6ae2d52af8e6b182724b954967f103e916f46ca"
+    },
+    {
+      "id": "matter-state:2",
+      "sha256": "46a4586b61d73a908ab5e5796be2395a3bc2d86ed95c4247cb025e01b5640926"
+    },
+    {
+      "id": "matter-state:3",
+      "sha256": "e72fa604ce544f7bd4a4af9cec4362be3f7e7d14928a0de31ef39ccc5d4ddc96"
+    },
+    {
+      "id": "matter-state:4",
+      "sha256": "28f0beab2d440d3662dc8aad12b4ad649d09cb6ddc0e066ec21b09d8e81137f3"
+    },
+    {
+      "id": "matter-state:5",
+      "sha256": "c3cabb4f893a916fe83a17592a362e1f8212cf6473cb6832ebb368a734d50dc4"
+    },
+    {
+      "id": "matter-state:6",
+      "sha256": "2e1b721acb95b0515cac21690c18bc669bddc9868232e96947c283695adbf7a6"
+    },
+    {
+      "id": "matter-state:7",
+      "sha256": "8b78be123db30f65a252da825add1d29c7cda3fdf926f7ab6d58f0eb67b18012"
+    },
+    {
+      "id": "matter-state:8",
+      "sha256": "2eef03f11a6a507062ba7f0f80c15949f20616244eecfcbf7153b7c86f044ebd"
+    },
+    {
+      "id": "matter-state:9",
+      "sha256": "7a3978c0b389f3edd8b2518cea0029097b408bc76f1c0caf61914a5450c6ebc1"
+    },
+    {
+      "id": "matter-investigate:0",
+      "sha256": "8910613c5042838292405ee847b6d54c80b5537c98c64f659031f331c3d38604"
+    },
+    {
+      "id": "matter-investigate:1",
+      "sha256": "fe4312ba514fc01da0aa428dd91562bbede263c55962c6dd57ca7d08367843f7"
+    },
+    {
+      "id": "matter-investigate:2",
+      "sha256": "dba5ff3a78ba303ac68d161ca65bd2462ff2c03cfd8cc58b476764b7a70a7ab8"
+    },
+    {
+      "id": "matter-investigate:3",
+      "sha256": "14381a7ed2b0bfda076ba06360a0f47837c0558bb0f25716b596af9c686569cd"
+    },
+    {
+      "id": "matter-investigate:4",
+      "sha256": "de22a9ce37a627138d87dfb482924527bc1abf32118aff438becf6303082d5ff"
+    },
+    {
+      "id": "matter-investigate:5",
+      "sha256": "30dd7cbb6c2a4731241af7b3b5e2d1e26c89ec345e9547e883641fe1dcc4823e"
+    },
+    {
+      "id": "matter-investigate:6",
+      "sha256": "6055162398c51a843a11d4a4abeb2ac762cdd5a944d277a0c17aeb356bc7d232"
+    },
+    {
+      "id": "matter-investigate:7",
+      "sha256": "74fafc182e7961f18169ade7c710d20007a5d8aa8b651fdd15120582095af605"
+    },
+    {
+      "id": "matter-investigate:8",
+      "sha256": "471a3bf5fcfbf9f1584cf267a1109c9284b9d954e86d8eced1ab1861dcf01dea"
+    },
+    {
+      "id": "matter-investigate:9",
+      "sha256": "1487a782a994c119105fec369aff1c5d94812ad962af3b1cd0e7c9b8afa79e39"
+    }
+  ],
+  "progress": {
+    "version": 1,
+    "sessions": [
+      {
+        "unit": "matter",
+        "id": "a4aa1faf-04ec-433e-b25c-24204bdd74c8",
+        "mode": "standard",
+        "diagnostic": true,
+        "target": [],
+        "questions": [
+          {
+            "id": "matter-vocab:0",
+            "skill": "matter-vocab",
+            "difficulty": 1,
+            "kind": "choice",
+            "family": "vocabulary",
+            "text": "MATTER means…",
+            "answer": "Anything that has mass and takes up space",
+            "equivalents": [],
+            "choices": [
+              "Anything that has mass and takes up space",
+              "To use the senses to gain knowledge",
+              "The heaviness of an object",
+              "How hot or cold something is"
+            ],
+            "solution": "Matter is anything that has mass and takes up space: your squad training ball, the air inside it, even you!",
+            "hint": "Name the property: amount of matter, space occupied, or hot/cold.",
+            "misconceptions": {
+              "How hot or cold something is": "Review the claim against the observed properties",
+              "To use the senses to gain knowledge": "Review the claim against the observed properties",
+              "The heaviness of an object": "Review the claim against the observed properties"
+            },
+            "estimatedSeconds": 50,
+            "proof": {
+              "op": "science",
+              "values": [],
+              "result": 0
+            },
+            "format": "vocabulary",
+            "source": "Adapted from James’s TVA Properties of Matter quiz"
+          },
+          {
+            "id": "matter-magnet:0",
+            "skill": "matter-magnet",
+            "difficulty": 2,
+            "kind": "choice",
+            "family": "application",
+            "text": "What property do a steel screw, an iron nail, and a paperclip have in common?",
+            "answer": "They are magnetic.",
+            "equivalents": [],
+            "choices": [
+              "They are nonmagnetic.",
+              "They are magnetic.",
+              "They are insulators.",
+              "They are all soluble in water."
+            ],
+            "solution": "Steel and iron are attracted to magnets. A paperclip is made of steel.",
+            "hint": "Color and being metal do not guarantee attraction to a magnet.",
+            "misconceptions": {
+              "They are insulators.": "Review the claim against the observed properties",
+              "They are all soluble in water.": "Review the claim against the observed properties",
+              "They are nonmagnetic.": "Review the claim against the observed properties"
+            },
+            "estimatedSeconds": 50,
+            "proof": {
+              "op": "science",
+              "values": [],
+              "result": 0
+            },
+            "format": "application",
+            "source": "Adapted from James’s TVA Properties of Matter quiz"
+          },
+          {
+            "id": "matter-electric:0",
+            "skill": "matter-electric",
+            "difficulty": 2,
+            "kind": "choice",
+            "family": "application",
+            "text": "Students want to know which objects can conduct electricity. What do they need for their investigation?",
+            "answer": "A circuit and an energy source",
+            "equivalents": [],
+            "choices": [
+              "A circuit and an energy source",
+              "A heat source and a magnet",
+              "A light source and a circuit",
+              "A circuit and a magnet"
+            ],
+            "solution": "To test electrical conductivity, put the object in a circuit with a battery (energy source) and see if the bulb lights.",
+            "hint": "Think about whether current can pass through the material in a working circuit.",
+            "misconceptions": {
+              "A circuit and a magnet": "Review the claim against the observed properties",
+              "A heat source and a magnet": "Review the claim against the observed properties",
+              "A light source and a circuit": "Review the claim against the observed properties"
+            },
+            "estimatedSeconds": 50,
+            "proof": {
+              "op": "science",
+              "values": [],
+              "result": 0
+            },
+            "format": "application",
+            "source": "Adapted from James’s TVA Properties of Matter quiz"
+          },
+          {
+            "id": "matter-heat:0",
+            "skill": "matter-heat",
+            "difficulty": 2,
+            "kind": "choice",
+            "family": "application",
+            "text": "What property can be investigated by exposing different materials to heat?",
+            "answer": "Thermal conductivity",
+            "equivalents": [],
+            "choices": [
+              "Electrical conductivity",
+              "Shape",
+              "Magnetism",
+              "Thermal conductivity"
+            ],
+            "solution": "Thermal conductivity = how well a material lets heat move through it.",
+            "hint": "A thermal conductor transfers heat more easily than an insulator.",
+            "misconceptions": {
+              "Electrical conductivity": "Review the claim against the observed properties",
+              "Magnetism": "Review the claim against the observed properties",
+              "Shape": "Review the claim against the observed properties"
+            },
+            "estimatedSeconds": 50,
+            "proof": {
+              "op": "science",
+              "values": [],
+              "result": 0
+            },
+            "format": "application",
+            "source": "Adapted from James’s TVA Properties of Matter quiz"
+          },
+          {
+            "id": "matter-soluble:0",
+            "skill": "matter-soluble",
+            "difficulty": 2,
+            "kind": "choice",
+            "family": "vocabulary",
+            "text": "Something that dissolves in water is described as…",
+            "answer": "Soluble",
+            "equivalents": [],
+            "choices": [
+              "Magnetic",
+              "Insoluble",
+              "A conductor",
+              "Soluble"
+            ],
+            "solution": "Soluble = dissolves (like sugar or salt in water).",
+            "hint": "Dissolving spreads a substance through water; it does not make the substance disappear.",
+            "misconceptions": {
+              "Magnetic": "Review the claim against the observed properties",
+              "Insoluble": "Review the claim against the observed properties",
+              "A conductor": "Review the claim against the observed properties"
+            },
+            "estimatedSeconds": 50,
+            "proof": {
+              "op": "science",
+              "values": [],
+              "result": 0
+            },
+            "format": "vocabulary",
+            "source": "Adapted from James’s TVA Properties of Matter quiz"
+          },
+          {
+            "id": "matter-measure:0",
+            "skill": "matter-measure",
+            "difficulty": 2,
+            "kind": "choice",
+            "family": "application",
+            "text": "Which tool measures the MASS of an object?",
+            "answer": "Balance or scale",
+            "equivalents": [],
+            "choices": [
+              "Graduated cylinder",
+              "Ruler",
+              "Thermometer",
+              "Balance or scale"
+            ],
+            "solution": "A balance or scale measures mass in grams (g) or kilograms (kg).",
+            "hint": "Match the measured property to the tool and its units.",
+            "misconceptions": {
+              "Thermometer": "Review the claim against the observed properties",
+              "Graduated cylinder": "Review the claim against the observed properties",
+              "Ruler": "Review the claim against the observed properties"
+            },
+            "estimatedSeconds": 50,
+            "proof": {
+              "op": "science",
+              "values": [],
+              "result": 0
+            },
+            "format": "application",
+            "source": "Adapted from James’s TVA Properties of Matter quiz"
+          },
+          {
+            "id": "matter-mass:0",
+            "skill": "matter-mass",
+            "difficulty": 2,
+            "kind": "choice",
+            "family": "application",
+            "text": "What is the difference between mass and weight?",
+            "answer": "Mass is the amount of matter; weight is gravity's pull on that mass",
+            "equivalents": [],
+            "choices": [
+              "They are exactly the same thing",
+              "Mass changes on the Moon but weight doesn't",
+              "Weight is the amount of space something takes up",
+              "Mass is the amount of matter; weight is gravity's pull on that mass"
+            ],
+            "solution": "Mass = how much stuff. Weight = how hard gravity pulls on that stuff.",
+            "hint": "Mass is amount of matter. Weight depends on gravity.",
+            "misconceptions": {
+              "They are exactly the same thing": "Review the claim against the observed properties",
+              "Weight is the amount of space something takes up": "Review the claim against the observed properties",
+              "Mass changes on the Moon but weight doesn't": "Review the claim against the observed properties"
+            },
+            "estimatedSeconds": 50,
+            "proof": {
+              "op": "science",
+              "values": [],
+              "result": 0
+            },
+            "format": "application",
+            "source": "Adapted from James’s TVA Properties of Matter quiz"
+          },
+          {
+            "id": "matter-observe:0",
+            "skill": "matter-observe",
+            "difficulty": 2,
+            "kind": "choice",
+            "family": "application",
+            "text": "Which property can you observe just by LOOKING at something?",
+            "answer": "Color",
+            "equivalents": [],
+            "choices": [
+              "Mass",
+              "Magnetism",
+              "Color",
+              "Electrical conductivity"
+            ],
+            "solution": "Color is observed with your eyes. The others need tools or tests.",
+            "hint": "Use the property described in the observation.",
+            "misconceptions": {
+              "Mass": "Review the claim against the observed properties",
+              "Electrical conductivity": "Review the claim against the observed properties",
+              "Magnetism": "Review the claim against the observed properties"
+            },
+            "estimatedSeconds": 50,
+            "proof": {
+              "op": "science",
+              "values": [],
+              "result": 0
+            },
+            "format": "application",
+            "source": "Adapted from James’s TVA Properties of Matter quiz"
+          },
+          {
+            "id": "matter-state:0",
+            "skill": "matter-state",
+            "difficulty": 1,
+            "kind": "choice",
+            "family": "vocabulary",
+            "text": "Which state of matter has a definite shape AND definite volume?",
+            "answer": "Solid",
+            "equivalents": [],
+            "choices": [
+              "Gas",
+              "Liquid",
+              "Solid",
+              "None of them"
+            ],
+            "solution": "Solids (like a plastic building brick) keep their shape and volume.",
+            "hint": "Compare whether shape and volume stay fixed.",
+            "misconceptions": {
+              "Liquid": "Review the claim against the observed properties",
+              "Gas": "Review the claim against the observed properties",
+              "None of them": "Review the claim against the observed properties"
+            },
+            "estimatedSeconds": 50,
+            "proof": {
+              "op": "science",
+              "values": [],
+              "result": 0
+            },
+            "format": "vocabulary",
+            "source": "Adapted from James’s TVA Properties of Matter quiz"
+          },
+          {
+            "id": "matter-investigate:0",
+            "skill": "matter-investigate",
+            "difficulty": 2,
+            "kind": "choice",
+            "family": "application",
+            "text": "You want to know which material keeps a hot drink warm the longest. What should you measure?",
+            "answer": "The temperature of each drink over time",
+            "equivalents": [],
+            "choices": [
+              "The temperature of each drink over time",
+              "The color of each cup",
+              "Whether each cup is magnetic",
+              "The mass of each cup"
+            ],
+            "solution": "Track temperature with a thermometer to compare thermal insulators.",
+            "hint": "Choose evidence for the property being tested. Keep other conditions the same.",
+            "misconceptions": {
+              "The mass of each cup": "Review the claim against the observed properties",
+              "Whether each cup is magnetic": "Review the claim against the observed properties",
+              "The color of each cup": "Review the claim against the observed properties"
+            },
+            "estimatedSeconds": 50,
+            "proof": {
+              "op": "science",
+              "values": [],
+              "result": 0
+            },
+            "format": "application",
+            "source": "Adapted from James’s TVA Properties of Matter quiz"
+          },
+          {
+            "id": "matter-vocab:6",
+            "skill": "matter-vocab",
+            "difficulty": 2,
+            "kind": "choice",
+            "family": "application",
+            "text": "STANDARD UNITS are…",
+            "answer": "Units with agreed-upon values that everyone uses to measure the same thing",
+            "equivalents": [],
+            "choices": [
+              "Units with agreed-upon values that everyone uses to measure the same thing",
+              "Only units used in the USA",
+              "Units you make up, like 'shoe lengths'",
+              "Things you observe with your senses"
+            ],
+            "solution": "Standard units (grams, meters, liters) mean the same thing to everyone, so results can be compared.",
+            "hint": "Name the property: amount of matter, space occupied, or hot/cold.",
+            "misconceptions": {
+              "Units you make up, like 'shoe lengths'": "Review the claim against the observed properties",
+              "Only units used in the USA": "Review the claim against the observed properties",
+              "Things you observe with your senses": "Review the claim against the observed properties"
+            },
+            "estimatedSeconds": 50,
+            "proof": {
+              "op": "science",
+              "values": [],
+              "result": 0
+            },
+            "format": "application",
+            "source": "Adapted from James’s TVA Properties of Matter quiz"
+          },
+          {
+            "id": "matter-magnet:1",
+            "skill": "matter-magnet",
+            "difficulty": 3,
+            "kind": "choice",
+            "family": "reasoning",
+            "text": "A plain carbon-steel paperclip is recovered from a supply crate. Which set of properties best describes it?",
+            "answer": "Silver, magnetic, conductor of electricity",
+            "equivalents": [],
+            "choices": [
+              "Silver, magnetic, conductor of electricity",
+              "Silver, soluble in water, conductor of electricity",
+              "Silver, magnetic, insulator",
+              "Silver, nonmagnetic, insulator"
+            ],
+            "solution": "A paperclip is steel: silver colored, magnetic, and metal conducts electricity.",
+            "hint": "Color and being metal do not guarantee attraction to a magnet.",
+            "misconceptions": {
+              "Silver, nonmagnetic, insulator": "Review the claim against the observed properties",
+              "Silver, magnetic, insulator": "Review the claim against the observed properties",
+              "Silver, soluble in water, conductor of electricity": "Review the claim against the observed properties"
+            },
+            "estimatedSeconds": 80,
+            "proof": {
+              "op": "science",
+              "values": [],
+              "result": 0
+            },
+            "format": "reasoning",
+            "source": "Adapted from James’s TVA Properties of Matter quiz"
+          }
+        ],
+        "responses": [
+          {
+            "question": {
+              "id": "matter-vocab:0",
+              "skill": "matter-vocab",
+              "difficulty": 1,
+              "kind": "choice",
+              "family": "vocabulary",
+              "text": "MATTER means…",
+              "answer": "Anything that has mass and takes up space",
+              "equivalents": [],
+              "choices": [
+                "Anything that has mass and takes up space",
+                "To use the senses to gain knowledge",
+                "The heaviness of an object",
+                "How hot or cold something is"
+              ],
+              "solution": "Matter is anything that has mass and takes up space: your squad training ball, the air inside it, even you!",
+              "hint": "Name the property: amount of matter, space occupied, or hot/cold.",
+              "misconceptions": {
+                "How hot or cold something is": "Review the claim against the observed properties",
+                "To use the senses to gain knowledge": "Review the claim against the observed properties",
+                "The heaviness of an object": "Review the claim against the observed properties"
+              },
+              "estimatedSeconds": 50,
+              "proof": {
+                "op": "science",
+                "values": [],
+                "result": 0
+              },
+              "format": "vocabulary",
+              "source": "Adapted from James’s TVA Properties of Matter quiz"
+            },
+            "answers": [
+              "Anything that has mass and takes up space"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 20,
+            "at": 1793927563141,
+            "error": "None",
+            "work": "Prior science evidence"
+          },
+          {
+            "question": {
+              "id": "matter-magnet:0",
+              "skill": "matter-magnet",
+              "difficulty": 2,
+              "kind": "choice",
+              "family": "application",
+              "text": "What property do a steel screw, an iron nail, and a paperclip have in common?",
+              "answer": "They are magnetic.",
+              "equivalents": [],
+              "choices": [
+                "They are nonmagnetic.",
+                "They are magnetic.",
+                "They are insulators.",
+                "They are all soluble in water."
+              ],
+              "solution": "Steel and iron are attracted to magnets. A paperclip is made of steel.",
+              "hint": "Color and being metal do not guarantee attraction to a magnet.",
+              "misconceptions": {
+                "They are insulators.": "Review the claim against the observed properties",
+                "They are all soluble in water.": "Review the claim against the observed properties",
+                "They are nonmagnetic.": "Review the claim against the observed properties"
+              },
+              "estimatedSeconds": 50,
+              "proof": {
+                "op": "science",
+                "values": [],
+                "result": 0
+              },
+              "format": "application",
+              "source": "Adapted from James’s TVA Properties of Matter quiz"
+            },
+            "answers": [
+              "They are magnetic."
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 20,
+            "at": 1793927563141,
+            "error": "None",
+            "work": "Prior science evidence"
+          },
+          {
+            "question": {
+              "id": "matter-electric:0",
+              "skill": "matter-electric",
+              "difficulty": 2,
+              "kind": "choice",
+              "family": "application",
+              "text": "Students want to know which objects can conduct electricity. What do they need for their investigation?",
+              "answer": "A circuit and an energy source",
+              "equivalents": [],
+              "choices": [
+                "A circuit and an energy source",
+                "A heat source and a magnet",
+                "A light source and a circuit",
+                "A circuit and a magnet"
+              ],
+              "solution": "To test electrical conductivity, put the object in a circuit with a battery (energy source) and see if the bulb lights.",
+              "hint": "Think about whether current can pass through the material in a working circuit.",
+              "misconceptions": {
+                "A circuit and a magnet": "Review the claim against the observed properties",
+                "A heat source and a magnet": "Review the claim against the observed properties",
+                "A light source and a circuit": "Review the claim against the observed properties"
+              },
+              "estimatedSeconds": 50,
+              "proof": {
+                "op": "science",
+                "values": [],
+                "result": 0
+              },
+              "format": "application",
+              "source": "Adapted from James’s TVA Properties of Matter quiz"
+            },
+            "answers": [
+              "A circuit and an energy source"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 20,
+            "at": 1793927563141,
+            "error": "None",
+            "work": "Prior science evidence"
+          },
+          {
+            "question": {
+              "id": "matter-heat:0",
+              "skill": "matter-heat",
+              "difficulty": 2,
+              "kind": "choice",
+              "family": "application",
+              "text": "What property can be investigated by exposing different materials to heat?",
+              "answer": "Thermal conductivity",
+              "equivalents": [],
+              "choices": [
+                "Electrical conductivity",
+                "Shape",
+                "Magnetism",
+                "Thermal conductivity"
+              ],
+              "solution": "Thermal conductivity = how well a material lets heat move through it.",
+              "hint": "A thermal conductor transfers heat more easily than an insulator.",
+              "misconceptions": {
+                "Electrical conductivity": "Review the claim against the observed properties",
+                "Magnetism": "Review the claim against the observed properties",
+                "Shape": "Review the claim against the observed properties"
+              },
+              "estimatedSeconds": 50,
+              "proof": {
+                "op": "science",
+                "values": [],
+                "result": 0
+              },
+              "format": "application",
+              "source": "Adapted from James’s TVA Properties of Matter quiz"
+            },
+            "answers": [
+              "Thermal conductivity"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 20,
+            "at": 1793927563141,
+            "error": "None",
+            "work": "Prior science evidence"
+          },
+          {
+            "question": {
+              "id": "matter-soluble:0",
+              "skill": "matter-soluble",
+              "difficulty": 2,
+              "kind": "choice",
+              "family": "vocabulary",
+              "text": "Something that dissolves in water is described as…",
+              "answer": "Soluble",
+              "equivalents": [],
+              "choices": [
+                "Magnetic",
+                "Insoluble",
+                "A conductor",
+                "Soluble"
+              ],
+              "solution": "Soluble = dissolves (like sugar or salt in water).",
+              "hint": "Dissolving spreads a substance through water; it does not make the substance disappear.",
+              "misconceptions": {
+                "Magnetic": "Review the claim against the observed properties",
+                "Insoluble": "Review the claim against the observed properties",
+                "A conductor": "Review the claim against the observed properties"
+              },
+              "estimatedSeconds": 50,
+              "proof": {
+                "op": "science",
+                "values": [],
+                "result": 0
+              },
+              "format": "vocabulary",
+              "source": "Adapted from James’s TVA Properties of Matter quiz"
+            },
+            "answers": [
+              "Soluble"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 20,
+            "at": 1793927563142,
+            "error": "None",
+            "work": "Prior science evidence"
+          },
+          {
+            "question": {
+              "id": "matter-measure:0",
+              "skill": "matter-measure",
+              "difficulty": 2,
+              "kind": "choice",
+              "family": "application",
+              "text": "Which tool measures the MASS of an object?",
+              "answer": "Balance or scale",
+              "equivalents": [],
+              "choices": [
+                "Graduated cylinder",
+                "Ruler",
+                "Thermometer",
+                "Balance or scale"
+              ],
+              "solution": "A balance or scale measures mass in grams (g) or kilograms (kg).",
+              "hint": "Match the measured property to the tool and its units.",
+              "misconceptions": {
+                "Thermometer": "Review the claim against the observed properties",
+                "Graduated cylinder": "Review the claim against the observed properties",
+                "Ruler": "Review the claim against the observed properties"
+              },
+              "estimatedSeconds": 50,
+              "proof": {
+                "op": "science",
+                "values": [],
+                "result": 0
+              },
+              "format": "application",
+              "source": "Adapted from James’s TVA Properties of Matter quiz"
+            },
+            "answers": [
+              "Balance or scale"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 20,
+            "at": 1793927563142,
+            "error": "None",
+            "work": "Prior science evidence"
+          },
+          {
+            "question": {
+              "id": "matter-mass:0",
+              "skill": "matter-mass",
+              "difficulty": 2,
+              "kind": "choice",
+              "family": "application",
+              "text": "What is the difference between mass and weight?",
+              "answer": "Mass is the amount of matter; weight is gravity's pull on that mass",
+              "equivalents": [],
+              "choices": [
+                "They are exactly the same thing",
+                "Mass changes on the Moon but weight doesn't",
+                "Weight is the amount of space something takes up",
+                "Mass is the amount of matter; weight is gravity's pull on that mass"
+              ],
+              "solution": "Mass = how much stuff. Weight = how hard gravity pulls on that stuff.",
+              "hint": "Mass is amount of matter. Weight depends on gravity.",
+              "misconceptions": {
+                "They are exactly the same thing": "Review the claim against the observed properties",
+                "Weight is the amount of space something takes up": "Review the claim against the observed properties",
+                "Mass changes on the Moon but weight doesn't": "Review the claim against the observed properties"
+              },
+              "estimatedSeconds": 50,
+              "proof": {
+                "op": "science",
+                "values": [],
+                "result": 0
+              },
+              "format": "application",
+              "source": "Adapted from James’s TVA Properties of Matter quiz"
+            },
+            "answers": [
+              "Mass is the amount of matter; weight is gravity's pull on that mass"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 20,
+            "at": 1793927563142,
+            "error": "None",
+            "work": "Prior science evidence"
+          },
+          {
+            "question": {
+              "id": "matter-observe:0",
+              "skill": "matter-observe",
+              "difficulty": 2,
+              "kind": "choice",
+              "family": "application",
+              "text": "Which property can you observe just by LOOKING at something?",
+              "answer": "Color",
+              "equivalents": [],
+              "choices": [
+                "Mass",
+                "Magnetism",
+                "Color",
+                "Electrical conductivity"
+              ],
+              "solution": "Color is observed with your eyes. The others need tools or tests.",
+              "hint": "Use the property described in the observation.",
+              "misconceptions": {
+                "Mass": "Review the claim against the observed properties",
+                "Electrical conductivity": "Review the claim against the observed properties",
+                "Magnetism": "Review the claim against the observed properties"
+              },
+              "estimatedSeconds": 50,
+              "proof": {
+                "op": "science",
+                "values": [],
+                "result": 0
+              },
+              "format": "application",
+              "source": "Adapted from James’s TVA Properties of Matter quiz"
+            },
+            "answers": [
+              "Color"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 20,
+            "at": 1793927563142,
+            "error": "None",
+            "work": "Prior science evidence"
+          },
+          {
+            "question": {
+              "id": "matter-state:0",
+              "skill": "matter-state",
+              "difficulty": 1,
+              "kind": "choice",
+              "family": "vocabulary",
+              "text": "Which state of matter has a definite shape AND definite volume?",
+              "answer": "Solid",
+              "equivalents": [],
+              "choices": [
+                "Gas",
+                "Liquid",
+                "Solid",
+                "None of them"
+              ],
+              "solution": "Solids (like a plastic building brick) keep their shape and volume.",
+              "hint": "Compare whether shape and volume stay fixed.",
+              "misconceptions": {
+                "Liquid": "Review the claim against the observed properties",
+                "Gas": "Review the claim against the observed properties",
+                "None of them": "Review the claim against the observed properties"
+              },
+              "estimatedSeconds": 50,
+              "proof": {
+                "op": "science",
+                "values": [],
+                "result": 0
+              },
+              "format": "vocabulary",
+              "source": "Adapted from James’s TVA Properties of Matter quiz"
+            },
+            "answers": [
+              "Solid"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 20,
+            "at": 1793927563142,
+            "error": "None",
+            "work": "Prior science evidence"
+          },
+          {
+            "question": {
+              "id": "matter-investigate:0",
+              "skill": "matter-investigate",
+              "difficulty": 2,
+              "kind": "choice",
+              "family": "application",
+              "text": "You want to know which material keeps a hot drink warm the longest. What should you measure?",
+              "answer": "The temperature of each drink over time",
+              "equivalents": [],
+              "choices": [
+                "The temperature of each drink over time",
+                "The color of each cup",
+                "Whether each cup is magnetic",
+                "The mass of each cup"
+              ],
+              "solution": "Track temperature with a thermometer to compare thermal insulators.",
+              "hint": "Choose evidence for the property being tested. Keep other conditions the same.",
+              "misconceptions": {
+                "The mass of each cup": "Review the claim against the observed properties",
+                "Whether each cup is magnetic": "Review the claim against the observed properties",
+                "The color of each cup": "Review the claim against the observed properties"
+              },
+              "estimatedSeconds": 50,
+              "proof": {
+                "op": "science",
+                "values": [],
+                "result": 0
+              },
+              "format": "application",
+              "source": "Adapted from James’s TVA Properties of Matter quiz"
+            },
+            "answers": [
+              "The temperature of each drink over time"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 20,
+            "at": 1793927563142,
+            "error": "None",
+            "work": "Prior science evidence"
+          },
+          {
+            "question": {
+              "id": "matter-vocab:6",
+              "skill": "matter-vocab",
+              "difficulty": 2,
+              "kind": "choice",
+              "family": "application",
+              "text": "STANDARD UNITS are…",
+              "answer": "Units with agreed-upon values that everyone uses to measure the same thing",
+              "equivalents": [],
+              "choices": [
+                "Units with agreed-upon values that everyone uses to measure the same thing",
+                "Only units used in the USA",
+                "Units you make up, like 'shoe lengths'",
+                "Things you observe with your senses"
+              ],
+              "solution": "Standard units (grams, meters, liters) mean the same thing to everyone, so results can be compared.",
+              "hint": "Name the property: amount of matter, space occupied, or hot/cold.",
+              "misconceptions": {
+                "Units you make up, like 'shoe lengths'": "Review the claim against the observed properties",
+                "Only units used in the USA": "Review the claim against the observed properties",
+                "Things you observe with your senses": "Review the claim against the observed properties"
+              },
+              "estimatedSeconds": 50,
+              "proof": {
+                "op": "science",
+                "values": [],
+                "result": 0
+              },
+              "format": "application",
+              "source": "Adapted from James’s TVA Properties of Matter quiz"
+            },
+            "answers": [
+              "Units with agreed-upon values that everyone uses to measure the same thing"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 20,
+            "at": 1793927563142,
+            "error": "None",
+            "work": "Prior science evidence"
+          },
+          {
+            "question": {
+              "id": "matter-magnet:1",
+              "skill": "matter-magnet",
+              "difficulty": 3,
+              "kind": "choice",
+              "family": "reasoning",
+              "text": "A plain carbon-steel paperclip is recovered from a supply crate. Which set of properties best describes it?",
+              "answer": "Silver, magnetic, conductor of electricity",
+              "equivalents": [],
+              "choices": [
+                "Silver, magnetic, conductor of electricity",
+                "Silver, soluble in water, conductor of electricity",
+                "Silver, magnetic, insulator",
+                "Silver, nonmagnetic, insulator"
+              ],
+              "solution": "A paperclip is steel: silver colored, magnetic, and metal conducts electricity.",
+              "hint": "Color and being metal do not guarantee attraction to a magnet.",
+              "misconceptions": {
+                "Silver, nonmagnetic, insulator": "Review the claim against the observed properties",
+                "Silver, magnetic, insulator": "Review the claim against the observed properties",
+                "Silver, soluble in water, conductor of electricity": "Review the claim against the observed properties"
+              },
+              "estimatedSeconds": 80,
+              "proof": {
+                "op": "science",
+                "values": [],
+                "result": 0
+              },
+              "format": "reasoning",
+              "source": "Adapted from James’s TVA Properties of Matter quiz"
+            },
+            "answers": [
+              "Silver, magnetic, conductor of electricity"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 20,
+            "at": 1793927563142,
+            "error": "None",
+            "work": "Prior science evidence"
+          }
+        ],
+        "startedAt": 1793927563140,
+        "draft": {
+          "answer": "",
+          "work": "",
+          "hinted": false,
+          "answers": [],
+          "elapsed": 0
+        },
+        "endedAt": 1793927563142,
+        "early": false
+      }
+    ],
+    "active": {
+      "unit": "exploration",
+      "id": "1bec2dac-b65b-4674-afa1-18aceff45ebb",
+      "mode": "standard",
+      "diagnostic": true,
+      "target": [],
+      "questions": [
+        {
+          "id": "ss-overview:0",
+          "skill": "ss-overview",
+          "difficulty": 1,
+          "kind": "choice",
+          "family": "vocabulary",
+          "text": "In this lesson, what does the European term “New World” refer to?",
+          "answer": "The Americas",
+          "equivalents": [],
+          "choices": [
+            "The Asian trading regions Europeans hoped to reach",
+            "The African ports used on routes toward Asia",
+            "The European kingdoms sponsoring ocean voyages",
+            "The Americas"
+          ],
+          "solution": "Europeans used “New World” for the Americas. Indigenous peoples had lived there long before these European voyages.",
+          "hint": "Think about whose point of view made these lands seem “new.”",
+          "misconceptions": {},
+          "estimatedSeconds": 50,
+          "format": "vocabulary",
+          "source": "NPS: Prelude to Jamestown; TCI published topic outline",
+          "proof": {
+            "op": "history",
+            "values": [],
+            "result": 0
+          }
+        },
+        {
+          "id": "ss-ocean:0",
+          "skill": "ss-ocean",
+          "difficulty": 1,
+          "kind": "choice",
+          "family": "vocabulary",
+          "text": "Which instrument used the angle of the sun or stars to help sailors estimate latitude?",
+          "answer": "An astrolabe",
+          "equivalents": [],
+          "choices": [
+            "An astrolabe",
+            "A map showing coastlines and possible sailing routes",
+            "A ship’s log recording cargo and daily voyage events",
+            "A magnetic compass that indicated a ship’s heading"
+          ],
+          "solution": "An astrolabe helped measure the angle of a visible heavenly body. Sailors could use that information to estimate latitude.",
+          "hint": "Latitude means position north or south of the equator.",
+          "misconceptions": {},
+          "estimatedSeconds": 50,
+          "format": "vocabulary",
+          "source": "NPS: Navigating the Atlantic World",
+          "proof": {
+            "op": "history",
+            "values": [],
+            "result": 0
+          }
+        }
+      ],
+      "responses": [
+        {
+          "question": {
+            "id": "ss-overview:0",
+            "skill": "ss-overview",
+            "difficulty": 1,
+            "kind": "choice",
+            "family": "vocabulary",
+            "text": "In this lesson, what does the European term “New World” refer to?",
+            "answer": "The Americas",
+            "equivalents": [],
+            "choices": [
+              "The Asian trading regions Europeans hoped to reach",
+              "The African ports used on routes toward Asia",
+              "The European kingdoms sponsoring ocean voyages",
+              "The Americas"
+            ],
+            "solution": "Europeans used “New World” for the Americas. Indigenous peoples had lived there long before these European voyages.",
+            "hint": "Think about whose point of view made these lands seem “new.”",
+            "misconceptions": {},
+            "estimatedSeconds": 50,
+            "format": "vocabulary",
+            "source": "NPS: Prelude to Jamestown; TCI published topic outline",
+            "proof": {
+              "op": "history",
+              "values": [],
+              "result": 0
+            }
+          },
+          "answers": [
+            "The Americas"
+          ],
+          "correct": true,
+          "firstCorrect": true,
+          "independent": true,
+          "hinted": false,
+          "seconds": 20,
+          "at": 1793927563143,
+          "error": "None",
+          "work": "Before plants"
+        }
+      ],
+      "startedAt": 1793927563143,
+      "draft": {
+        "answer": "old draft",
+        "work": "preserved exploration",
+        "hinted": false,
+        "answers": [],
+        "elapsed": 0
+      }
+    },
+    "xp": 290,
+    "sound": false,
+    "selectedUnit": "exploration",
+    "paused": [
+      {
+        "unit": "decimals",
+        "id": "275bd84c-dc29-45f3-9e6d-d22f48e53076",
+        "mode": "standard",
+        "diagnostic": true,
+        "target": [],
+        "questions": [
+          {
+            "id": "digit:0",
+            "skill": "digit",
+            "difficulty": 2,
+            "kind": "numeric",
+            "family": "digit-0",
+            "text": "In 2.200, what is the value of the digit 2 in the tenths place?",
+            "answer": "0.2",
+            "equivalents": [
+              "0.200"
+            ],
+            "solution": "The tenths place is 1 place to the right of the decimal point. 2 tenths = 0.2.",
+            "hint": "Name each place as you move right from the decimal point.",
+            "misconceptions": {
+              "1.2": "Place-value misunderstanding",
+              "0.3": "Place-value misunderstanding"
+            },
+            "estimatedSeconds": 60,
+            "proof": {
+              "op": "identity",
+              "values": [
+                200
+              ],
+              "result": 200
+            }
+          },
+          {
+            "id": "round:0",
+            "skill": "round",
+            "difficulty": 2,
+            "kind": "numeric",
+            "family": "round-0",
+            "text": "Round EACH number to the nearest whole number, then estimate the sum.",
+            "expression": "2.38 + 2.64",
+            "answer": "5",
+            "equivalents": [
+              "5.000"
+            ],
+            "solution": "2.38 rounds to 2 and 2.64 rounds to 3. Estimate: 2 + 3 = 5.",
+            "hint": "Look at the tenths digit to round each number first.",
+            "misconceptions": {
+              "6": "Rounding error",
+              "5.1": "Rounding error"
+            },
+            "estimatedSeconds": 60,
+            "proof": {
+              "op": "round",
+              "values": [
+                2380,
+                2640
+              ],
+              "result": 5000
+            }
+          }
+        ],
+        "responses": [
+          {
+            "question": {
+              "id": "digit:0",
+              "skill": "digit",
+              "difficulty": 2,
+              "kind": "numeric",
+              "family": "digit-0",
+              "text": "In 2.200, what is the value of the digit 2 in the tenths place?",
+              "answer": "0.2",
+              "equivalents": [
+                "0.200"
+              ],
+              "solution": "The tenths place is 1 place to the right of the decimal point. 2 tenths = 0.2.",
+              "hint": "Name each place as you move right from the decimal point.",
+              "misconceptions": {
+                "1.2": "Place-value misunderstanding",
+                "0.3": "Place-value misunderstanding"
+              },
+              "estimatedSeconds": 60,
+              "proof": {
+                "op": "identity",
+                "values": [
+                  200
+                ],
+                "result": 200
+              }
+            },
+            "answers": [
+              "0.2"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 20,
+            "at": 1793927563143,
+            "error": "None",
+            "work": "Before plants"
+          }
+        ],
+        "startedAt": 1793927563142,
+        "draft": {
+          "answer": "old draft",
+          "work": "preserved decimals",
+          "hinted": false,
+          "answers": [],
+          "elapsed": 0
+        }
+      },
+      {
+        "unit": "multiplication",
+        "id": "46a4c330-46fd-43a6-b27c-c43aa98607d5",
+        "mode": "standard",
+        "diagnostic": true,
+        "target": [],
+        "questions": [
+          {
+            "id": "mul-whole:0",
+            "skill": "mul-whole",
+            "difficulty": 2,
+            "kind": "numeric",
+            "family": "mul-whole-0",
+            "format": "calculate",
+            "text": "Calculate 1.2 × 2.",
+            "answer": "2.4",
+            "equivalents": [
+              "2.40"
+            ],
+            "solution": "1.2 × 2 = 2.4. Multiply 12 × 2 = 24; the factors have 1 decimal places in all. Divide that whole-number product by 10 and keep all places.",
+            "hint": "Think of equal groups. Multiply the digits and preserve the value of each decimal place.",
+            "misconceptions": {},
+            "estimatedSeconds": 60,
+            "source": "Provisional family-approved scope; 5.NBT.B.7. Chapter 4 contents unverified.",
+            "proof": {
+              "op": "multiply",
+              "values": [],
+              "result": 0,
+              "operands": [
+                "1.2",
+                "2"
+              ],
+              "exact": "2.4"
+            }
+          },
+          {
+            "id": "mul-decimal:0",
+            "skill": "mul-decimal",
+            "difficulty": 2,
+            "kind": "numeric",
+            "family": "mul-decimal-0",
+            "format": "calculate",
+            "text": "Calculate 2.5 × 0.3.",
+            "answer": "0.75",
+            "equivalents": [
+              "0.750"
+            ],
+            "solution": "2.5 × 0.3 = 0.75. Multiply 25 × 03 = 75; the factors have 2 decimal places in all. Divide that whole-number product by 100 and keep all places.",
+            "hint": "Tenths times tenths give hundredths. Count places in both factors, then check the size.",
+            "misconceptions": {},
+            "estimatedSeconds": 60,
+            "source": "Provisional family-approved scope; 5.NBT.B.7. Chapter 4 contents unverified.",
+            "proof": {
+              "op": "multiply",
+              "values": [],
+              "result": 0,
+              "operands": [
+                "2.5",
+                "0.3"
+              ],
+              "exact": "0.75"
+            }
+          }
+        ],
+        "responses": [
+          {
+            "question": {
+              "id": "mul-whole:0",
+              "skill": "mul-whole",
+              "difficulty": 2,
+              "kind": "numeric",
+              "family": "mul-whole-0",
+              "format": "calculate",
+              "text": "Calculate 1.2 × 2.",
+              "answer": "2.4",
+              "equivalents": [
+                "2.40"
+              ],
+              "solution": "1.2 × 2 = 2.4. Multiply 12 × 2 = 24; the factors have 1 decimal places in all. Divide that whole-number product by 10 and keep all places.",
+              "hint": "Think of equal groups. Multiply the digits and preserve the value of each decimal place.",
+              "misconceptions": {},
+              "estimatedSeconds": 60,
+              "source": "Provisional family-approved scope; 5.NBT.B.7. Chapter 4 contents unverified.",
+              "proof": {
+                "op": "multiply",
+                "values": [],
+                "result": 0,
+                "operands": [
+                  "1.2",
+                  "2"
+                ],
+                "exact": "2.4"
+              }
+            },
+            "answers": [
+              "2.4"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 20,
+            "at": 1793927563143,
+            "error": "None",
+            "work": "Before plants"
+          }
+        ],
+        "startedAt": 1793927563143,
+        "draft": {
+          "answer": "old draft",
+          "work": "preserved multiplication",
+          "hinted": false,
+          "answers": [],
+          "elapsed": 0
+        }
+      },
+      {
+        "unit": "mixtures",
+        "id": "4389674a-e965-4110-b34c-fed81ac45cc4",
+        "mode": "standard",
+        "diagnostic": true,
+        "target": [],
+        "questions": [
+          {
+            "id": "mix-mixture:0",
+            "skill": "mix-mixture",
+            "difficulty": 1,
+            "kind": "choice",
+            "family": "vocabulary",
+            "text": "A squad pours sand and steel paperclips into one supply tray. Why is this a mixture?",
+            "answer": "Two substances are combined and keep their original properties",
+            "equivalents": [],
+            "choices": [
+              "Two substances are combined and keep their original properties",
+              "The sand changes into steel",
+              "Every combination forms a new substance",
+              "The paperclips lose their magnetism"
+            ],
+            "solution": "The sand is still sand, and the steel paperclips still have their own properties. Combining materials can make a mixture without a chemical change.",
+            "hint": "Ask whether the original materials keep their own properties.",
+            "misconceptions": {
+              "The sand changes into steel": "Review the claim against the observed properties",
+              "Every combination forms a new substance": "Review the claim against the observed properties",
+              "The paperclips lose their magnetism": "Review the claim against the observed properties"
+            },
+            "estimatedSeconds": 50,
+            "proof": {
+              "op": "science",
+              "values": [],
+              "result": 0
+            },
+            "format": "vocabulary",
+            "source": "Family-provided Grade 5 Mixtures & Chemical Reactions review sheet"
+          },
+          {
+            "id": "mix-solution:0",
+            "skill": "mix-solution",
+            "difficulty": 1,
+            "kind": "choice",
+            "family": "vocabulary",
+            "text": "Which description belongs on the SOLUTION intel card?",
+            "answer": "A mixture with substances mixed evenly throughout a liquid",
+            "equivalents": [],
+            "choices": [
+              "A mixture with large pieces always settling at the bottom",
+              "Any solid that melts",
+              "A reaction that must produce bubbles",
+              "A mixture with substances mixed evenly throughout a liquid"
+            ],
+            "solution": "The review sheet describes a solution as a mixture in which substances are mixed evenly throughout a liquid.",
+            "hint": "A dissolved substance is still present, spread throughout the liquid.",
+            "misconceptions": {
+              "A mixture with large pieces always settling at the bottom": "Review the claim against the observed properties",
+              "Any solid that melts": "Review the claim against the observed properties",
+              "A reaction that must produce bubbles": "Review the claim against the observed properties"
+            },
+            "estimatedSeconds": 50,
+            "proof": {
+              "op": "science",
+              "values": [],
+              "result": 0
+            },
+            "format": "vocabulary",
+            "source": "Family-provided Grade 5 Mixtures & Chemical Reactions review sheet"
+          }
+        ],
+        "responses": [
+          {
+            "question": {
+              "id": "mix-mixture:0",
+              "skill": "mix-mixture",
+              "difficulty": 1,
+              "kind": "choice",
+              "family": "vocabulary",
+              "text": "A squad pours sand and steel paperclips into one supply tray. Why is this a mixture?",
+              "answer": "Two substances are combined and keep their original properties",
+              "equivalents": [],
+              "choices": [
+                "Two substances are combined and keep their original properties",
+                "The sand changes into steel",
+                "Every combination forms a new substance",
+                "The paperclips lose their magnetism"
+              ],
+              "solution": "The sand is still sand, and the steel paperclips still have their own properties. Combining materials can make a mixture without a chemical change.",
+              "hint": "Ask whether the original materials keep their own properties.",
+              "misconceptions": {
+                "The sand changes into steel": "Review the claim against the observed properties",
+                "Every combination forms a new substance": "Review the claim against the observed properties",
+                "The paperclips lose their magnetism": "Review the claim against the observed properties"
+              },
+              "estimatedSeconds": 50,
+              "proof": {
+                "op": "science",
+                "values": [],
+                "result": 0
+              },
+              "format": "vocabulary",
+              "source": "Family-provided Grade 5 Mixtures & Chemical Reactions review sheet"
+            },
+            "answers": [
+              "Two substances are combined and keep their original properties"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 20,
+            "at": 1793927563143,
+            "error": "None",
+            "work": "Before plants"
+          }
+        ],
+        "startedAt": 1793927563143,
+        "draft": {
+          "answer": "old draft",
+          "work": "preserved mixtures",
+          "hinted": false,
+          "answers": [],
+          "elapsed": 0
+        }
+      },
+      {
+        "unit": "matter",
+        "id": "4f4e7158-dc2d-49c4-ad46-21292e863cd2",
+        "mode": "standard",
+        "diagnostic": true,
+        "target": [],
+        "questions": [
+          {
+            "id": "matter-electric:1",
+            "skill": "matter-electric",
+            "difficulty": 1,
+            "kind": "choice",
+            "family": "vocabulary",
+            "text": "A material that lets electricity flow through it easily is called a…",
+            "answer": "Conductor",
+            "equivalents": [],
+            "choices": [
+              "Insulator",
+              "Magnet",
+              "Solution",
+              "Conductor"
+            ],
+            "solution": "Conductors (like metals) let electricity flow.",
+            "hint": "Think about whether current can pass through the material in a working circuit.",
+            "misconceptions": {
+              "Insulator": "Review the claim against the observed properties",
+              "Magnet": "Review the claim against the observed properties",
+              "Solution": "Review the claim against the observed properties"
+            },
+            "estimatedSeconds": 50,
+            "proof": {
+              "op": "science",
+              "values": [],
+              "result": 0
+            },
+            "format": "vocabulary",
+            "source": "Adapted from James’s TVA Properties of Matter quiz"
+          },
+          {
+            "id": "matter-heat:2",
+            "skill": "matter-heat",
+            "difficulty": 3,
+            "kind": "choice",
+            "family": "reasoning",
+            "text": "Why do pots and pans often have plastic or wooden handles?",
+            "answer": "Plastic and wood slow heat transfer toward the handle",
+            "equivalents": [],
+            "choices": [
+              "Plastic and wood are magnetic",
+              "Plastic conducts heat better than metal",
+              "Plastic and wood slow heat transfer toward the handle",
+              "They make the pan cook faster"
+            ],
+            "solution": "Plastic and wood are poor thermal conductors. They slow heat transfer compared with metal, so the handle warms more slowly.",
+            "hint": "A thermal conductor transfers heat more easily than an insulator.",
+            "misconceptions": {
+              "Plastic and wood are magnetic": "Review the claim against the observed properties",
+              "They make the pan cook faster": "Review the claim against the observed properties",
+              "Plastic conducts heat better than metal": "Review the claim against the observed properties"
+            },
+            "estimatedSeconds": 80,
+            "proof": {
+              "op": "science",
+              "values": [],
+              "result": 0
+            },
+            "format": "reasoning",
+            "source": "Adapted from James’s TVA Properties of Matter quiz"
+          }
+        ],
+        "responses": [
+          {
+            "question": {
+              "id": "matter-electric:1",
+              "skill": "matter-electric",
+              "difficulty": 1,
+              "kind": "choice",
+              "family": "vocabulary",
+              "text": "A material that lets electricity flow through it easily is called a…",
+              "answer": "Conductor",
+              "equivalents": [],
+              "choices": [
+                "Insulator",
+                "Magnet",
+                "Solution",
+                "Conductor"
+              ],
+              "solution": "Conductors (like metals) let electricity flow.",
+              "hint": "Think about whether current can pass through the material in a working circuit.",
+              "misconceptions": {
+                "Insulator": "Review the claim against the observed properties",
+                "Magnet": "Review the claim against the observed properties",
+                "Solution": "Review the claim against the observed properties"
+              },
+              "estimatedSeconds": 50,
+              "proof": {
+                "op": "science",
+                "values": [],
+                "result": 0
+              },
+              "format": "vocabulary",
+              "source": "Adapted from James’s TVA Properties of Matter quiz"
+            },
+            "answers": [
+              "Conductor"
+            ],
+            "correct": true,
+            "firstCorrect": true,
+            "independent": true,
+            "hinted": false,
+            "seconds": 20,
+            "at": 1793927563143,
+            "error": "None",
+            "work": "Before plants"
+          }
+        ],
+        "startedAt": 1793927563143,
+        "draft": {
+          "answer": "old draft",
+          "work": "preserved matter",
+          "hinted": false,
+          "answers": [],
+          "elapsed": 0
+        }
+      }
+    ]
+  }
+}

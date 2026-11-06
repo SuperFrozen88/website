@@ -6,8 +6,8 @@ Pages publishes the root of the `master` branch. Keep `CNAME` unchanged.
 ## Decimal Drop
 
 Play at **https://thecarlislekids.com/decimaldrop/**, also linked from the home page.
-Choose Math → Adding & Subtracting Decimals or Multiplying Decimals, Science → Mixtures & Chemical Reactions / Properties of Matter, or Social Studies → How and Why Europeans Came to the New World (TCI Lesson 4).
-The science units follow the supplied school review and the earlier TVA quiz, with a Battle Royale theme.
+Choose Math → Adding & Subtracting Decimals or Multiplying Decimals, Science → Mixtures & Chemical Reactions / Properties of Matter / Matter and Energy in Plants, or Social Studies → How and Why Europeans Came to the New World (TCI Lesson 4).
+The science units follow supplied school materials and the earlier TVA quiz, with a Battle Royale theme. Matter and Energy in Plants adds 80 original questions and 12 study cards based on [five supplied lesson photos](apps/decimaldrop/docs/reference/plants-2026-11-05/README.md), with independent evidence and a sixth saved mission.
 Social Studies includes 184 original Lesson 4 study questions across 12 skills, 18 study cards, immediate explanations, and independent readiness. Its scope is checked against the family’s [33 classroom lesson screenshots](apps/decimaldrop/docs/reference/tci-lesson-4-2026-10-21/README.md): introduction, nine numbered sections, summary, and the supplied Read & Do and Explore readings. Exact classroom quiz coverage remains unconfirmed. The family’s [SS/Science year-plan photo](apps/decimaldrop/docs/reference/README.md) is retained for future units.
 Multiplication uses a family-approved provisional Chapter 4 scope, marked unverified until the edition’s contents are supplied. Its 192 seeded questions and deterministic generators keep evidence separate from the original unit.
 Existing decimal progress is preserved, and each unit has its own readiness and paused mission.

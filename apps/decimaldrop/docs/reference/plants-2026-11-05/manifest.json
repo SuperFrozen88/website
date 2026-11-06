@@ -1,0 +1,41 @@
+{
+  "source": "~/Downloads/2026_11_05-science_photos",
+  "count": 5,
+  "files": [
+    {
+      "filename": "IMG_5854.jpeg",
+      "bytes": 402120,
+      "sha256": "1221263c5e56c61eb8b24a3a066810b2c308899b12cd73ce6a04afd446aaf2f9",
+      "number": 1,
+      "topics": "Photosynthesis, matter inputs/outputs, roots/stems/leaves"
+    },
+    {
+      "filename": "IMG_5855.jpeg",
+      "bytes": 481246,
+      "sha256": "9213768f55c5e52337a5cac9ee32f41b4e7818631fde043642dcfb8398a1f0d6",
+      "number": 2,
+      "topics": "Producers/consumers, energy uses, hydroponics"
+    },
+    {
+      "filename": "IMG_5856.jpeg",
+      "bytes": 512207,
+      "sha256": "4a8588e4dd8ffeaa4ed857c05bdfd944855dafa9babf57f1920672c1ea32e34b",
+      "number": 3,
+      "topics": "Hydroponic applications and aquaponics"
+    },
+    {
+      "filename": "IMG_5857.jpeg",
+      "bytes": 336561,
+      "sha256": "cc5aa2b4b91212c3a1dd61c2c55799cb13e46100f67aee04a9fc34a87064f794",
+      "number": 4,
+      "topics": "Epiphytes and phytoremediation"
+    },
+    {
+      "filename": "IMG_5858.jpeg",
+      "bytes": 462376,
+      "sha256": "99e4cb8129df4ebbd7cc38325deaf8010327a5377938ae27dcc83e7d14333789",
+      "number": 5,
+      "topics": "Bottle-and-wick activity, through step 8"
+    }
+  ]
+}
