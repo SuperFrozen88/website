@@ -1,0 +1,2458 @@
+[
+  {
+    "skill": "web-why",
+    "text": "According to the lesson, what does food provide your body?",
+    "answers": [
+      "The energy it needs",
+      "Sunlight it can store",
+      "Soil for its bones",
+      "Nothing but flavor"
+    ],
+    "solution": "Food provides the energy your body needs to grow, repair itself, maintain body temperature, and move. Flavor is a bonus, not the reason food matters.",
+    "hint": "Think about what lets you run, heal, and grow.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "web-why",
+    "text": "Which list matches the four ways the lesson says your body uses food energy?",
+    "answers": [
+      "Grow, repair itself, maintain body temperature, and move",
+      "Grow, make sunlight, breathe water, and sleep",
+      "Move, make oxygen, absorb sunlight, and shrink",
+      "Repair itself, make soil, make sugar, and glow"
+    ],
+    "solution": "The lesson names four jobs: growing, repairing itself, maintaining body temperature, and moving. Making sugar from sunlight is what producers do, not people.",
+    "hint": "Pick the list where every job is something a human body really does.",
+    "format": "recall",
+    "difficulty": 2,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "web-why",
+    "text": "You scrape your knee and it heals over a week. Which use of food energy is that?",
+    "answers": [
+      "Repairing itself",
+      "Maintaining body temperature",
+      "Moving",
+      "Making food from sunlight"
+    ],
+    "solution": "Healing a scrape is your body repairing itself, and repair takes energy from food.",
+    "hint": "What is the body doing to the damaged skin?",
+    "format": "scenario",
+    "difficulty": 2,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "web-why",
+    "text": "On a freezing morning, your body stays warm inside. Which use of food energy helps?",
+    "answers": [
+      "Maintaining body temperature",
+      "Repairing itself",
+      "Growing taller",
+      "Getting energy straight from the Sun"
+    ],
+    "solution": "Keeping your body warm is maintaining body temperature, one of the four uses of food energy in the lesson.",
+    "hint": "Which job is about staying warm?",
+    "format": "scenario",
+    "difficulty": 1,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "web-why",
+    "text": "A fifth grader is two inches taller than last year. Which use of food energy does this show?",
+    "answers": [
+      "Growing",
+      "Repairing itself",
+      "Maintaining body temperature",
+      "Decomposing"
+    ],
+    "solution": "Getting taller is growth. The lesson says food gives your body energy to grow.",
+    "hint": "What changed about the student’s size?",
+    "format": "scenario",
+    "difficulty": 1,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "web-why",
+    "text": "Running laps at recess uses food energy for which job?",
+    "answers": [
+      "Moving",
+      "Repairing itself",
+      "Making sugar",
+      "Decomposing"
+    ],
+    "solution": "Running is movement. Your muscles use energy from food to move.",
+    "hint": "What is your body doing during a lap?",
+    "format": "scenario",
+    "difficulty": 1,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "web-why",
+    "text": "Maya says, “Food is only for taste. If I liked plain food, I wouldn’t need to eat.” What is the best response?",
+    "answers": [
+      "Food gives the body energy to grow, repair, stay warm, and move, whatever it tastes like",
+      "She is right; taste is the only reason to eat",
+      "Food is only needed for moving, not for growing",
+      "Only adults need energy from food"
+    ],
+    "solution": "Taste is enjoyable, but the lesson explains that food provides energy for growing, repairing, maintaining body temperature, and moving.",
+    "hint": "Ask what food does for the body, not how it tastes.",
+    "format": "misconception",
+    "difficulty": 2,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "web-why",
+    "text": "Bacon and eggs, a hamburger, and jambalaya are very different meals. What do they have in common?",
+    "answers": [
+      "Each one provides food energy for your body",
+      "Each one makes its own food from sunlight",
+      "Each one is a producer",
+      "Each one has no energy until it is cooked"
+    ],
+    "solution": "Every meal in the lesson gives your body food energy. Cooking changes food but is not where food energy comes from.",
+    "hint": "Think about why the lesson mentions these meals.",
+    "format": "reasoning",
+    "difficulty": 2,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "web-why",
+    "text": "Why would someone who went without enough food for a long time have trouble growing and healing?",
+    "answers": [
+      "Their body would not get enough energy for growth and repair",
+      "Their body would make food from sunlight instead",
+      "Skipping food gives the body extra energy",
+      "Growing and healing do not use any energy"
+    ],
+    "solution": "Growing and repairing both use energy, and that energy comes from food. Without enough food, the body cannot do these jobs well.",
+    "hint": "Connect growing and healing to what food supplies.",
+    "format": "reasoning",
+    "difficulty": 3,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "web-why",
+    "text": "Which activity is NOT one of the lesson’s four uses of food energy in your body?",
+    "answers": [
+      "Turning sunlight into sugar",
+      "Healing a cut",
+      "Walking to school",
+      "Keeping your body warm"
+    ],
+    "solution": "Healing, walking, and staying warm match repair, movement, and body temperature. People cannot turn sunlight into sugar; producers do that.",
+    "hint": "Three choices are things your body does. Find the one only producers do.",
+    "format": "misconception",
+    "difficulty": 3,
+    "photoNumbers": [
+      1,
+      2
+    ]
+  },
+  {
+    "skill": "web-sun",
+    "text": "Where does all the food energy that passes between organisms first come from?",
+    "answers": [
+      "The Sun",
+      "The soil",
+      "Water",
+      "Decomposers"
+    ],
+    "solution": "The lesson says all the food energy that passes between organisms comes from the Sun.",
+    "hint": "Trace the energy back to the very beginning.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "web-sun",
+    "text": "How does the Sun’s energy first get into a food chain?",
+    "answers": [
+      "Plants use sunlight to make their own food",
+      "Animals soak up sunlight through their fur",
+      "Mushrooms collect sunlight from dead logs",
+      "Rain carries sunlight into the soil"
+    ],
+    "solution": "Plants and other producers use sunlight to make their own food. That energy passes to other organisms when they eat the plants.",
+    "hint": "Which organisms can make their own food?",
+    "format": "model",
+    "difficulty": 2,
+    "photoNumbers": [
+      1,
+      2
+    ]
+  },
+  {
+    "skill": "web-sun",
+    "text": "A grasshopper eats grass. Where did the energy in the grass originally come from?",
+    "answers": [
+      "Sunlight the grass used to make food",
+      "The grasshopper’s body",
+      "The mouse that eats the grasshopper",
+      "The bugs living in the soil"
+    ],
+    "solution": "Grass uses sunlight to make food. The grasshopper gets that energy by eating the grass.",
+    "hint": "Ask how the grass got its energy before anything ate it.",
+    "format": "scenario",
+    "difficulty": 2,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "web-sun",
+    "text": "Which statement about energy in a food chain is true?",
+    "answers": [
+      "It starts with sunlight captured by plants and passes to eaters",
+      "It starts with the top predator and moves down to plants",
+      "It starts in decomposers and moves to plants",
+      "Each animal makes its own energy from nothing"
+    ],
+    "solution": "Energy enters when plants use sunlight to make food. It passes along when organisms eat one another.",
+    "hint": "Where does the chain begin, and which way does energy go?",
+    "format": "model",
+    "difficulty": 2,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "web-sun",
+    "text": "Your hamburger bun is made from wheat. Which path shows how the bun’s energy reached you?",
+    "answers": [
+      "Sun → wheat → you",
+      "You → wheat → Sun",
+      "Wheat → Sun → you",
+      "Soil → you → wheat"
+    ],
+    "solution": "The wheat plant used sunlight to make food, and you got that energy by eating the bun.",
+    "hint": "Start with the original energy source and end with the eater.",
+    "format": "model",
+    "difficulty": 2,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "web-sun",
+    "text": "What happens to energy when an animal eats a plant?",
+    "answers": [
+      "Energy stored in the plant passes to the animal",
+      "The plant’s energy goes back to the Sun",
+      "The animal makes brand-new sunlight",
+      "No energy moves between them"
+    ],
+    "solution": "When an animal eats a plant, energy the plant made using sunlight passes to the animal.",
+    "hint": "Think about what the animal gains by eating.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "web-sun",
+    "text": "If sunlight stopped reaching a meadow for a long time, what would happen first?",
+    "answers": [
+      "Grass could not make food, so less energy would enter the food chain",
+      "Hawks would get more energy",
+      "Mice would start making their own food",
+      "Decomposers would replace the Sun"
+    ],
+    "solution": "Grass needs sunlight to make food. Without it, less energy enters the chain, and every eater depends on that energy.",
+    "hint": "Which organism uses sunlight directly?",
+    "format": "reasoning",
+    "difficulty": 3,
+    "photoNumbers": [
+      1,
+      2
+    ]
+  },
+  {
+    "skill": "web-sun",
+    "text": "Jambalaya has rice, shrimp, and sausage. Where did all the food energy in it begin?",
+    "answers": [
+      "The Sun",
+      "The stove",
+      "The spices",
+      "The pan"
+    ],
+    "solution": "The stove heats the food, but the food energy began as sunlight captured by producers. Rice is a plant, and the shrimp and sausage came from animals that ate producers or other consumers.",
+    "hint": "Cooking makes food hot. Where did the food energy itself come from?",
+    "format": "scenario",
+    "difficulty": 2,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "web-sun",
+    "text": "Leo says, “Animals that eat only meat don’t depend on the Sun.” What is wrong with that claim?",
+    "answers": [
+      "The animals they eat got energy from plants, which used sunlight",
+      "Nothing; meat-eaters are separate from the Sun",
+      "Meat-eaters make food from sunlight",
+      "Only decomposers depend on the Sun"
+    ],
+    "solution": "A hawk eats a snake, the snake ate a mouse, and the mouse ate a grasshopper that ate grass. The grass captured the sunlight, so the hawk’s energy still came from the Sun.",
+    "hint": "Follow the meat back through each thing that was eaten.",
+    "format": "misconception",
+    "difficulty": 3,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "web-sun",
+    "text": "Which word best describes the Sun’s role in every food chain in this lesson?",
+    "answers": [
+      "The original energy source",
+      "A consumer",
+      "A decomposer",
+      "A herbivore"
+    ],
+    "solution": "The Sun is not an organism in the chain. It is the original source of the energy that producers capture.",
+    "hint": "The Sun does not eat anything. What does it provide?",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "web-sun",
+    "text": "In the class roundtable, students said all food chains and webs get energy from the Sun. Which evidence supports that?",
+    "answers": [
+      "Grass uses sunlight to make food",
+      "Hawks hunt during daylight",
+      "Mushrooms grow in the shade",
+      "Animals warm up in the sunshine"
+    ],
+    "solution": "Producers such as grass use sunlight to make food, and every other organism gets energy by eating producers or animals that ate them.",
+    "hint": "Which choice shows sunlight becoming food?",
+    "format": "reasoning",
+    "difficulty": 2,
+    "photoNumbers": [
+      10
+    ]
+  },
+  {
+    "skill": "web-sun",
+    "text": "The graphic organizer draws arrows from the Sun to an oak tree, grass, and algae. What do those arrows show?",
+    "answers": [
+      "Each producer gets its energy from the Sun",
+      "The Sun eats the plants",
+      "The plants give their energy to the Sun",
+      "The plants are consumers"
+    ],
+    "solution": "The organizer says plants get energy from the Sun. The arrows point from the Sun to each producer because energy flows that way.",
+    "hint": "Arrows follow the energy.",
+    "format": "diagram",
+    "difficulty": 2,
+    "photoNumbers": [
+      4
+    ]
+  },
+  {
+    "skill": "web-chain",
+    "text": "What is a food chain?",
+    "answers": [
+      "The movement of food energy from one organism to another",
+      "A list of foods a person likes best",
+      "A row of plants growing in a garden",
+      "A chain that holds a nest together"
+    ],
+    "solution": "The lesson defines a food chain as the movement of food energy from one organism to another.",
+    "hint": "Think about what moves along the chain.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "web-chain",
+    "text": "Which food chain from the lesson is in the correct order?",
+    "answers": [
+      "Grass → grasshopper → mouse → snake → hawk",
+      "Hawk → snake → mouse → grasshopper → grass",
+      "Grass → mouse → hawk → grasshopper → snake",
+      "Grasshopper → grass → snake → mouse → hawk"
+    ],
+    "solution": "Grass makes food from sunlight, a grasshopper eats the grass, a mouse eats the grasshopper, a snake eats the mouse, and the hawk eats the snake.",
+    "hint": "Start with the producer, then follow who eats whom.",
+    "format": "model",
+    "difficulty": 2,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "web-chain",
+    "text": "In the lesson’s food chain, what does the mouse eat?",
+    "answers": [
+      "The grasshopper",
+      "The grass",
+      "The snake",
+      "The hawk"
+    ],
+    "solution": "In grass → grasshopper → mouse → snake → hawk, the mouse gets energy by eating the grasshopper.",
+    "hint": "Look at the link just before the mouse.",
+    "format": "recall",
+    "difficulty": 1,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "web-chain",
+    "text": "What eats the snake in the lesson’s food chain?",
+    "answers": [
+      "The hawk",
+      "The mouse",
+      "The grasshopper",
+      "The mushrooms"
+    ],
+    "solution": "The hawk eats the snake for energy. It is the last animal in the chain.",
+    "hint": "Look at the link just after the snake.",
+    "format": "recall",
+    "difficulty": 1,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "web-chain",
+    "text": "Which organism starts the lesson’s food chain?",
+    "answers": [
+      "Grass",
+      "Hawk",
+      "Mouse",
+      "Snake"
+    ],
+    "solution": "Grass starts the chain because it uses sunlight to make its own food.",
+    "hint": "Which one does not eat anything?",
+    "format": "recall",
+    "difficulty": 1,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "web-chain",
+    "text": "In the lesson’s grass-to-hawk example, what job do the mushrooms do?",
+    "answers": [
+      "They break down dead materials left behind",
+      "They are eaten by the grass",
+      "They hunt the hawk",
+      "They give sunlight to the grass"
+    ],
+    "solution": "The lesson says any dead materials left behind are broken down by the mushrooms.",
+    "hint": "What happens to dead organisms in the example?",
+    "format": "recall",
+    "difficulty": 2,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "web-chain",
+    "text": "Which of these food chains starts correctly?",
+    "answers": [
+      "Lettuce → rabbit → fox",
+      "Fox → rabbit → lettuce",
+      "Rabbit → lettuce → fox",
+      "Fox → lettuce → rabbit"
+    ],
+    "solution": "A food chain starts with a producer. Lettuce makes food from sunlight, a rabbit eats lettuce, and a fox eats the rabbit.",
+    "hint": "Find the chain that starts with a plant.",
+    "format": "model",
+    "difficulty": 2,
+    "photoNumbers": [
+      1,
+      2
+    ]
+  },
+  {
+    "skill": "web-chain",
+    "text": "In a pond, small fish eat pond plants and herons eat small fish. Which food chain is correct?",
+    "answers": [
+      "Pond plants → small fish → heron",
+      "Heron → small fish → pond plants",
+      "Small fish → pond plants → heron",
+      "Pond plants → heron → small fish"
+    ],
+    "solution": "Energy goes from the pond plants (the producer) to the small fish that eat them, then to the heron.",
+    "hint": "Put the producer first, then each eater in order.",
+    "format": "scenario",
+    "difficulty": 2,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "web-chain",
+    "text": "If all the mice disappeared from grass → grasshopper → mouse → snake → hawk, which organism would lose its food in that chain?",
+    "answers": [
+      "The snake",
+      "The grass",
+      "The grasshopper",
+      "The mushrooms"
+    ],
+    "solution": "In this chain, the snake gets energy by eating the mouse. Without mice, the snake loses that food. In a real food web it might eat something else.",
+    "hint": "Which organism eats the mouse?",
+    "format": "reasoning",
+    "difficulty": 3,
+    "photoNumbers": [
+      1,
+      2
+    ]
+  },
+  {
+    "skill": "web-chain",
+    "text": "In grass → grasshopper → mouse → snake → hawk, which organism gets energy that has passed through the most links?",
+    "answers": [
+      "The hawk",
+      "The grass",
+      "The grasshopper",
+      "The mouse"
+    ],
+    "solution": "The Sun’s energy goes into the grass, then the grasshopper, the mouse, and the snake before it reaches the hawk at the end.",
+    "hint": "Count the steps from the start of the chain.",
+    "format": "reasoning",
+    "difficulty": 3,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "web-chain",
+    "text": "Which food chain from the graphic organizer is in the correct order?",
+    "answers": [
+      "Oak tree → squirrel → eagle",
+      "Eagle → squirrel → oak tree",
+      "Squirrel → oak tree → eagle",
+      "Oak tree → eagle → squirrel"
+    ],
+    "solution": "The oak tree is the producer, the squirrel eats from the oak tree, and the eagle eats the squirrel.",
+    "hint": "Start with the producer.",
+    "format": "model",
+    "difficulty": 1,
+    "photoNumbers": [
+      4
+    ]
+  },
+  {
+    "skill": "web-chain",
+    "text": "On the graphic organizer’s pond chain, which organism eats the minnows?",
+    "answers": [
+      "Bass",
+      "Algae",
+      "Cow",
+      "Squirrel"
+    ],
+    "solution": "The organizer’s chain is algae → minnows → bass, so the bass eats the minnows.",
+    "hint": "Look at the link right after the minnows.",
+    "format": "recall",
+    "difficulty": 1,
+    "photoNumbers": [
+      4
+    ]
+  },
+  {
+    "skill": "web-chain",
+    "text": "In grass → cow → humans, what role do the humans play?",
+    "answers": [
+      "Consumers that get energy by eating the cow",
+      "Producers that make food from sunlight",
+      "Decomposers that break down dead grass",
+      "The energy source for the chain"
+    ],
+    "solution": "Humans are at the end of this chain. They are consumers who get energy by eating the cow, which got energy from the grass.",
+    "hint": "Do humans make food or eat it?",
+    "format": "scenario",
+    "difficulty": 2,
+    "photoNumbers": [
+      4
+    ]
+  },
+  {
+    "skill": "web-arrows",
+    "text": "In a food chain diagram, what do the arrows show?",
+    "answers": [
+      "How energy is passed from one organism to another",
+      "Which animal is the biggest",
+      "Which way the wind blows",
+      "Where each animal sleeps"
+    ],
+    "solution": "The lesson says the arrows show how energy is passed from one organism to the next.",
+    "hint": "The arrows follow something that moves when organisms eat.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "web-arrows",
+    "text": "Which way should the arrow point between grass and a grasshopper?",
+    "answers": [
+      "From the grass to the grasshopper",
+      "From the grasshopper to the grass",
+      "Both ways equally",
+      "No arrow; they are not connected"
+    ],
+    "solution": "The grasshopper eats the grass, so energy moves from the grass to the grasshopper. The arrow points toward the eater.",
+    "hint": "Which way does the energy travel when the grasshopper eats?",
+    "format": "diagram",
+    "difficulty": 2,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "web-arrows",
+    "text": "In “mouse → snake,” what does the arrow mean?",
+    "answers": [
+      "Energy moves from the mouse to the snake when the snake eats it",
+      "The mouse eats the snake",
+      "The mouse turns into a snake",
+      "The snake gives energy to the mouse"
+    ],
+    "solution": "An arrow points from the food to the eater. Here the snake eats the mouse and gets its energy.",
+    "hint": "The arrow points toward the organism that gets the energy.",
+    "format": "diagram",
+    "difficulty": 2,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "web-arrows",
+    "text": "Kai drew “hawk → snake” to show that the hawk eats the snake. How should he fix it?",
+    "answers": [
+      "Point the arrow from the snake to the hawk",
+      "Leave it; arrows point from the eater to the food",
+      "Remove the arrow because hawks are not in food chains",
+      "Point the arrow from the hawk to the Sun"
+    ],
+    "solution": "Energy flows from the snake to the hawk when the hawk eats it, so the arrow should be “snake → hawk.”",
+    "hint": "Arrows follow the energy, not the hunter.",
+    "format": "misconception",
+    "difficulty": 3,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "web-arrows",
+    "text": "In the lesson’s diagram, many arrows point to the mushrooms. What does that show?",
+    "answers": [
+      "Energy from many dead organisms ends up with the mushrooms",
+      "Mushrooms eat living hawks",
+      "Mushrooms give energy to all the animals",
+      "Mushrooms are where the food chain begins"
+    ],
+    "solution": "Mushrooms break down dead materials from the grass and from every animal, so arrows from all of them point to the mushrooms.",
+    "hint": "What do mushrooms do with dead materials?",
+    "format": "diagram",
+    "difficulty": 3,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "web-arrows",
+    "text": "An arrow points from a deer to a mountain lion. Which statement is correct?",
+    "answers": [
+      "The mountain lion eats the deer and gets its energy",
+      "The deer eats the mountain lion",
+      "The deer makes food for the mountain lion from sunlight",
+      "They do not interact"
+    ],
+    "solution": "The arrow points from the food to the eater, so the mountain lion eats the deer.",
+    "hint": "Which organism does the arrow point toward?",
+    "format": "scenario",
+    "difficulty": 2,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "web-arrows",
+    "text": "Which arrow is drawn correctly?",
+    "answers": [
+      "Grass → grasshopper",
+      "Grasshopper → grass",
+      "Hawk → snake",
+      "Snake → mouse"
+    ],
+    "solution": "Energy flows from food to eater. The grasshopper eats grass, so “grass → grasshopper” is correct. The others point backward.",
+    "hint": "For each choice, ask which one is doing the eating.",
+    "format": "diagram",
+    "difficulty": 2,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "web-arrows",
+    "text": "A good way to read an arrow in a food chain is...",
+    "answers": [
+      "“is eaten by” or “gives energy to”",
+      "“eats”",
+      "“is bigger than”",
+      "“lives next to”"
+    ],
+    "solution": "“Grass → grasshopper” reads “grass is eaten by the grasshopper” or “grass gives energy to the grasshopper.”",
+    "hint": "Try reading “grass → grasshopper” out loud with each choice.",
+    "format": "vocabulary",
+    "difficulty": 2,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "web-arrows",
+    "text": "In the diagram, an arrow goes from the grass straight to the mushrooms. What could this show?",
+    "answers": [
+      "Mushrooms break down dead grass and get its energy",
+      "Grass eats mushrooms",
+      "Mushrooms give sunlight to grass",
+      "Grass hunts mushrooms"
+    ],
+    "solution": "Mushrooms are decomposers. When grass dies, they break it down and get its energy, so the arrow points from the grass to the mushrooms.",
+    "hint": "Remember what mushrooms do with dead materials.",
+    "format": "diagram",
+    "difficulty": 3,
+    "photoNumbers": [
+      1,
+      3
+    ]
+  },
+  {
+    "skill": "web-arrows",
+    "text": "How many arrows does it take to connect grass → grasshopper → mouse → snake → hawk as one chain?",
+    "answers": [
+      "4",
+      "5",
+      "3",
+      "1"
+    ],
+    "solution": "Five organisms have four connections between them: grass to grasshopper, grasshopper to mouse, mouse to snake, and snake to hawk.",
+    "hint": "Count the gaps between the organisms, not the organisms.",
+    "format": "model",
+    "difficulty": 3,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "web-arrows",
+    "text": "Students said energy in a food chain flows “like a one-way street.” What does that mean?",
+    "answers": [
+      "Energy moves from the food to the eater, not back",
+      "Energy goes back and forth between eater and food",
+      "Energy can only move along roads",
+      "Energy moves from the hawk back to the grass"
+    ],
+    "solution": "When an organism gets eaten, its energy moves to the eater. It does not flow back, so the arrows all go one way.",
+    "hint": "Which way does energy go when something is eaten?",
+    "format": "misconception",
+    "difficulty": 2,
+    "photoNumbers": [
+      10
+    ]
+  },
+  {
+    "skill": "web-arrows",
+    "text": "On the Stringy Connections class food web, what do the arrows show?",
+    "answers": [
+      "The flow of energy from one organism to another",
+      "Which organisms are friends",
+      "Where each organism lives",
+      "Which organism is the fastest"
+    ],
+    "solution": "The worksheet asks students to use arrows to show the flow of energy from one organism to another.",
+    "hint": "Read the directions for drawing the class food web.",
+    "format": "diagram",
+    "difficulty": 1,
+    "photoNumbers": [
+      5
+    ]
+  },
+  {
+    "skill": "web-web",
+    "text": "What is a food web?",
+    "answers": [
+      "A group of overlapping or connected food chains",
+      "One straight food chain",
+      "A spider’s web for catching food",
+      "A list of only the plants in an area"
+    ],
+    "solution": "The lesson defines a food web as a group of overlapping or connected food chains.",
+    "hint": "A web is made of many strands joined together.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "photoNumbers": [
+      2
+    ]
+  },
+  {
+    "skill": "web-web",
+    "text": "Why do food chains in an environment cross each other?",
+    "answers": [
+      "Organisms eat more than one thing, so they belong to many food chains",
+      "Every animal eats exactly one food",
+      "Plants move from one chain to another",
+      "The Sun connects only to hawks"
+    ],
+    "solution": "Just as you eat more than one food, organisms eat more than one thing. That puts them in several food chains, and the chains cross.",
+    "hint": "Think about how many kinds of food one animal eats.",
+    "format": "reasoning",
+    "difficulty": 2,
+    "photoNumbers": [
+      2
+    ]
+  },
+  {
+    "skill": "web-web",
+    "text": "The lesson compares food webs to a school lunch tray. What idea does the tray show?",
+    "answers": [
+      "Like you, organisms eat more than one kind of food",
+      "Organisms eat only one food at a time",
+      "Lunch trays are producers",
+      "Food webs include only human food"
+    ],
+    "solution": "A lunch tray holds many foods. Organisms also eat more than one thing, which links many food chains into a web.",
+    "hint": "What do you notice about how many foods are on the tray?",
+    "format": "model",
+    "difficulty": 2,
+    "photoNumbers": [
+      2
+    ]
+  },
+  {
+    "skill": "web-web",
+    "text": "Which statement about the size of a food web matches the lesson?",
+    "answers": [
+      "A food web can be big or small",
+      "A food web must have exactly five organisms",
+      "A food web is always bigger than an ocean",
+      "A food web includes only animals"
+    ],
+    "solution": "The lesson says a food web can be big or small, with many kinds of plants and animals or just a few.",
+    "hint": "Does the lesson set a required number of organisms?",
+    "format": "recall",
+    "difficulty": 1,
+    "photoNumbers": [
+      2
+    ]
+  },
+  {
+    "skill": "web-web",
+    "text": "Big or small, the organisms in a food web fall into which two categories?",
+    "answers": [
+      "Producers or consumers",
+      "Plants or rocks",
+      "Hawks or snakes",
+      "Herbivores or decomposers"
+    ],
+    "solution": "The lesson says every organism in a food web is either a producer or a consumer. Decomposers are a special group of consumers.",
+    "hint": "One category makes food; the other eats it.",
+    "format": "vocabulary",
+    "difficulty": 2,
+    "photoNumbers": [
+      2,
+      3
+    ]
+  },
+  {
+    "skill": "web-web",
+    "text": "A snake eats mice and also eats frogs. What does this mean in a food web?",
+    "answers": [
+      "The snake is part of more than one food chain",
+      "The snake is a producer",
+      "The snake can only be in one food chain",
+      "The snake no longer needs energy"
+    ],
+    "solution": "Because the snake eats two kinds of animals, it belongs to at least two food chains. Those chains connect at the snake.",
+    "hint": "How many different food chains lead to the snake?",
+    "format": "scenario",
+    "difficulty": 2,
+    "photoNumbers": [
+      2
+    ]
+  },
+  {
+    "skill": "web-web",
+    "text": "Which best describes the difference between a food chain and a food web?",
+    "answers": [
+      "A chain is one path of energy; a web is many connected paths",
+      "A chain has more organisms than a web",
+      "A web has only plants; a chain has only animals",
+      "They mean exactly the same thing"
+    ],
+    "solution": "A food chain shows one path of energy. A food web shows many chains that overlap and connect.",
+    "hint": "Picture one line compared with a net of lines.",
+    "format": "model",
+    "difficulty": 2,
+    "photoNumbers": [
+      1,
+      2
+    ]
+  },
+  {
+    "skill": "web-web",
+    "text": "Owls and snakes both eat mice. How does this connect food chains?",
+    "answers": [
+      "The mouse links a chain to the owl with a chain to the snake",
+      "Mice make food for owls from sunlight",
+      "Owls and snakes become producers",
+      "It removes the mouse from the web"
+    ],
+    "solution": "The mouse is eaten by two different consumers, so it is a crossing point where two food chains meet.",
+    "hint": "Find the organism both chains share.",
+    "format": "reasoning",
+    "difficulty": 3,
+    "photoNumbers": [
+      2
+    ]
+  },
+  {
+    "skill": "web-web",
+    "text": "Why can a food web show more about an environment than one food chain?",
+    "answers": [
+      "It shows that most organisms eat, and are eaten by, more than one kind of organism",
+      "It leaves out the producers",
+      "It shows only the biggest animal",
+      "It shows that energy comes from the soil"
+    ],
+    "solution": "A single chain shows one path. A web shows the many feeding connections that really exist, because organisms eat more than one thing.",
+    "hint": "What does a web include that one chain leaves out?",
+    "format": "reasoning",
+    "difficulty": 3,
+    "photoNumbers": [
+      2
+    ]
+  },
+  {
+    "skill": "web-web",
+    "text": "In a meadow, grasshoppers eat grass and rabbits also eat grass. What do these two food chains share?",
+    "answers": [
+      "Grass, the producer at the start of both",
+      "A hawk at the start of both",
+      "No organisms at all",
+      "A decomposer as the first link"
+    ],
+    "solution": "Both chains start with grass. Shared organisms like this are where food chains connect into a web.",
+    "hint": "Which organism shows up in both chains?",
+    "format": "scenario",
+    "difficulty": 3,
+    "photoNumbers": [
+      2
+    ]
+  },
+  {
+    "skill": "web-web",
+    "text": "The comparison diagram says food chains are “direct.” What does that mean?",
+    "answers": [
+      "A chain shows one thing eating another in a single path",
+      "A chain shows many paths crossing",
+      "A chain has no producers",
+      "A chain shows energy flowing backward"
+    ],
+    "solution": "A food chain is one straight path: one thing eats another. A food web is a bunch of food chains together.",
+    "hint": "Picture one line instead of a net.",
+    "format": "model",
+    "difficulty": 2,
+    "photoNumbers": [
+      9
+    ]
+  },
+  {
+    "skill": "web-web",
+    "text": "According to the comparison diagram, which is true of both food chains and food webs?",
+    "answers": [
+      "Both show producers, consumers, and energy moving",
+      "Both show only one organism",
+      "Both include only decomposers",
+      "Both show energy moving from eaters back to the Sun"
+    ],
+    "solution": "The overlap in the diagram says chains and webs both have plants and animals, both show consumers and producers, and both show energy moving.",
+    "hint": "Look at the part where the two shapes overlap.",
+    "format": "model",
+    "difficulty": 2,
+    "photoNumbers": [
+      9
+    ]
+  },
+  {
+    "skill": "web-producer",
+    "text": "What is a producer?",
+    "answers": [
+      "An organism that gets its energy directly from the Sun",
+      "An organism that eats only animals",
+      "An organism that breaks down dead things",
+      "An animal that hunts at night"
+    ],
+    "solution": "The lesson says producers are organisms that get their energy directly from the Sun by turning sunlight into food.",
+    "hint": "Producers make, or “produce,” their own food.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "photoNumbers": [
+      2
+    ]
+  },
+  {
+    "skill": "web-producer",
+    "text": "Which of these is a producer?",
+    "answers": [
+      "Lettuce",
+      "Bald eagle",
+      "Deer",
+      "Mushroom"
+    ],
+    "solution": "Lettuce turns sunlight into food, so it is a producer. Eagles and deer are consumers, and mushrooms are decomposers.",
+    "hint": "Which one makes its own food from sunlight?",
+    "format": "recall",
+    "difficulty": 1,
+    "photoNumbers": [
+      2,
+      3
+    ]
+  },
+  {
+    "skill": "web-producer",
+    "text": "You eat a lettuce salad. According to the lesson, what have you eaten?",
+    "answers": [
+      "A producer",
+      "A decomposer",
+      "A carnivore",
+      "A consumer that hunts"
+    ],
+    "solution": "The lesson says that if you have eaten lettuce or another vegetable, you have eaten a producer.",
+    "hint": "Lettuce is a plant that makes its own food.",
+    "format": "scenario",
+    "difficulty": 1,
+    "photoNumbers": [
+      2
+    ]
+  },
+  {
+    "skill": "web-producer",
+    "text": "How does the lettuce plant help your body?",
+    "answers": [
+      "It changes sunlight into food your body uses as fuel",
+      "It gives your body sunlight directly",
+      "It decomposes the food in your stomach",
+      "It eats other organisms for you"
+    ],
+    "solution": "Lettuce changes sunlight into food. When you eat it, your body uses that food as fuel.",
+    "hint": "Follow the energy from the Sun to the lettuce to you.",
+    "format": "model",
+    "difficulty": 2,
+    "photoNumbers": [
+      2
+    ]
+  },
+  {
+    "skill": "web-producer",
+    "text": "Why does the lesson say producers are very important to life on Earth?",
+    "answers": [
+      "Without them, other organisms would not survive",
+      "They are the largest organisms",
+      "They eat all of the consumers",
+      "They break down every dead animal"
+    ],
+    "solution": "Producers bring the Sun’s energy into food webs. Other organisms get energy by eating them, so without producers they could not survive.",
+    "hint": "Ask where every consumer’s energy starts.",
+    "format": "recall",
+    "difficulty": 2,
+    "photoNumbers": [
+      2
+    ]
+  },
+  {
+    "skill": "web-producer",
+    "text": "A garden has rows of lettuce, onions, and cabbage. What do these plants have in common?",
+    "answers": [
+      "They are producers that make food from sunlight",
+      "They are consumers that eat insects",
+      "They are decomposers",
+      "They get energy by eating the soil"
+    ],
+    "solution": "Garden vegetables are plants, and plants are producers that use sunlight to make food.",
+    "hint": "Are these organisms making food or eating it?",
+    "format": "scenario",
+    "difficulty": 2,
+    "photoNumbers": [
+      2
+    ]
+  },
+  {
+    "skill": "web-producer",
+    "text": "Ava says, “Plants get their food by eating the soil.” Which correction matches the lesson?",
+    "answers": [
+      "Plants are producers that make their own food using sunlight",
+      "Plants eat dead animals for food",
+      "Plants eat insects at night",
+      "Plants get food only from fertilizer"
+    ],
+    "solution": "Producers make food by combining carbon dioxide and water using sunlight. They do not eat soil.",
+    "hint": "How does the lesson say producers get energy?",
+    "format": "misconception",
+    "difficulty": 3,
+    "photoNumbers": [
+      2
+    ]
+  },
+  {
+    "skill": "web-producer",
+    "text": "Which organism in grass → grasshopper → mouse → snake → hawk is the producer?",
+    "answers": [
+      "Grass",
+      "Grasshopper",
+      "Snake",
+      "Hawk"
+    ],
+    "solution": "Grass is the only organism in the chain that uses sunlight to make its own food.",
+    "hint": "Which one does not need to eat?",
+    "format": "recall",
+    "difficulty": 1,
+    "photoNumbers": [
+      1,
+      2
+    ]
+  },
+  {
+    "skill": "web-producer",
+    "text": "Which sentence best explains why producers come first in food chains?",
+    "answers": [
+      "They capture energy from the Sun, and other organisms get energy by eating them",
+      "They are always the smallest organisms",
+      "They eat the animals after them in the chain",
+      "They are the last to receive energy"
+    ],
+    "solution": "Food chains follow energy. Producers bring it in from the Sun, and every other link gets energy by eating.",
+    "hint": "Where does the energy enter the chain?",
+    "format": "reasoning",
+    "difficulty": 3,
+    "photoNumbers": [
+      1,
+      2
+    ]
+  },
+  {
+    "skill": "web-producer",
+    "text": "If a disease killed all the grass in a field, what would the lesson’s ideas predict?",
+    "answers": [
+      "Grasshoppers and the animals that depend on them would lose food energy",
+      "Hawks would make more food",
+      "Nothing would change for the animals",
+      "Mice would start making food from sunlight"
+    ],
+    "solution": "Grass is the producer. Without it, grasshoppers lose food, and so do the mice, snakes, and hawks that depend on them.",
+    "hint": "Follow the chain from the producer to every eater.",
+    "format": "reasoning",
+    "difficulty": 3,
+    "photoNumbers": [
+      1,
+      2
+    ]
+  },
+  {
+    "skill": "web-producer",
+    "text": "The graphic organizer says all food webs begin with...",
+    "answers": [
+      "Plants",
+      "Eagles",
+      "Decomposers",
+      "Humans"
+    ],
+    "solution": "The organizer says all food webs begin with plants, which are called producers because they make their own food.",
+    "hint": "What makes its own food?",
+    "format": "recall",
+    "difficulty": 1,
+    "photoNumbers": [
+      4
+    ]
+  },
+  {
+    "skill": "web-producer",
+    "text": "Which list contains only producers from the class food web?",
+    "answers": [
+      "Cattails, dandelions, red alpine campion, and oak tree",
+      "Bee, deer, and mouse",
+      "Wolf, eagle, and owl",
+      "Earthworms, mushrooms, and bacteria"
+    ],
+    "solution": "The class listed cattails, dandelions, red alpine campion, and the oak tree as producers. They are plants that make food using the Sun’s energy.",
+    "hint": "Find the list made of plants.",
+    "format": "recall",
+    "difficulty": 2,
+    "photoNumbers": [
+      5
+    ]
+  },
+  {
+    "skill": "web-producer",
+    "text": "Algae starts one of the graphic organizer’s food chains. Why does it belong at the start?",
+    "answers": [
+      "It makes its own food using the Sun’s energy, like a plant",
+      "It eats the minnows",
+      "It is a decomposer",
+      "It eats the bass"
+    ],
+    "solution": "Algae is placed in the producer spot because it uses the Sun’s energy to make its own food. Minnows eat it, and bass eat the minnows.",
+    "hint": "What do all the organisms in the first boxes have in common?",
+    "format": "reasoning",
+    "difficulty": 3,
+    "photoNumbers": [
+      4
+    ]
+  },
+  {
+    "skill": "web-recipe",
+    "text": "Producers combine carbon dioxide, water, and sunlight to make which two things?",
+    "answers": [
+      "Oxygen and sugar",
+      "Soil and salt",
+      "Carbon dioxide and water",
+      "Protein and fat"
+    ],
+    "solution": "The lesson says producers combine carbon dioxide from the air with water and sunlight to produce oxygen and sugar.",
+    "hint": "Name the two things that are made, not the ingredients.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "photoNumbers": [
+      2
+    ]
+  },
+  {
+    "skill": "web-recipe",
+    "text": "Where does a producer get the carbon dioxide it uses to make food?",
+    "answers": [
+      "From the air",
+      "From eating insects",
+      "From the Sun",
+      "From decomposers"
+    ],
+    "solution": "The lesson says producers take carbon dioxide from the air.",
+    "hint": "The lesson names where carbon dioxide comes from.",
+    "format": "recall",
+    "difficulty": 1,
+    "photoNumbers": [
+      2
+    ]
+  },
+  {
+    "skill": "web-recipe",
+    "text": "Which of these is an ingredient producers use to make food?",
+    "answers": [
+      "Water",
+      "Oxygen",
+      "Sugar",
+      "Meat"
+    ],
+    "solution": "Water and carbon dioxide go in, along with sunlight. Oxygen and sugar come out. Producers do not use meat.",
+    "hint": "Ingredients go in; products come out.",
+    "format": "model",
+    "difficulty": 2,
+    "photoNumbers": [
+      2
+    ]
+  },
+  {
+    "skill": "web-recipe",
+    "text": "Which of these does a producer make?",
+    "answers": [
+      "Sugar",
+      "Carbon dioxide",
+      "Sunlight",
+      "Water"
+    ],
+    "solution": "Producers make sugar and oxygen. Carbon dioxide, water, and sunlight are what they start with.",
+    "hint": "Choose something that comes out of the process.",
+    "format": "model",
+    "difficulty": 2,
+    "photoNumbers": [
+      2
+    ]
+  },
+  {
+    "skill": "web-recipe",
+    "text": "What does sunlight provide when a producer makes food?",
+    "answers": [
+      "The energy for the process",
+      "The carbon dioxide",
+      "The water",
+      "The soil"
+    ],
+    "solution": "Sunlight supplies the energy. The materials are carbon dioxide from the air and water.",
+    "hint": "Which choice is energy rather than a material?",
+    "format": "reasoning",
+    "difficulty": 2,
+    "photoNumbers": [
+      2
+    ]
+  },
+  {
+    "skill": "web-recipe",
+    "text": "The lesson says producers turn sunlight into food through what kind of process?",
+    "answers": [
+      "A chemical process",
+      "A freezing process",
+      "A hunting process",
+      "A decomposing process"
+    ],
+    "solution": "Producers turn sunlight into food through a chemical process: carbon dioxide and water change into sugar and oxygen.",
+    "hint": "New substances are made during this process.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "photoNumbers": [
+      2
+    ]
+  },
+  {
+    "skill": "web-recipe",
+    "text": "Which model best shows how a producer makes food?",
+    "answers": [
+      "Carbon dioxide + water + sunlight → sugar + oxygen",
+      "Sugar + oxygen → sunlight + soil",
+      "Soil + meat → water + sunlight",
+      "Oxygen + sunlight → carbon dioxide + rock"
+    ],
+    "solution": "Ingredients go on the left of the arrow and products on the right: carbon dioxide, water, and sunlight make sugar and oxygen.",
+    "hint": "Check that the ingredients and products match the lesson.",
+    "format": "model",
+    "difficulty": 2,
+    "photoNumbers": [
+      2
+    ]
+  },
+  {
+    "skill": "web-recipe",
+    "text": "A plant is kept in a dark closet for weeks. Why would it struggle to make food?",
+    "answers": [
+      "It lacks the sunlight needed to make sugar",
+      "It gets too much sunlight",
+      "It cannot catch any insects",
+      "Closets have no air"
+    ],
+    "solution": "Producers need sunlight to make sugar. Without light, the plant cannot make food, even with water and air.",
+    "hint": "Which ingredient from the lesson is missing in a dark closet?",
+    "format": "scenario",
+    "difficulty": 3,
+    "photoNumbers": [
+      2
+    ]
+  },
+  {
+    "skill": "web-recipe",
+    "text": "Jordan says, “Plants take in oxygen and sugar to make carbon dioxide.” What is wrong?",
+    "answers": [
+      "He has it backward: plants use carbon dioxide and water to make sugar and oxygen",
+      "Nothing; that is correct",
+      "Plants use soil to make sunlight",
+      "Plants only make water"
+    ],
+    "solution": "Jordan reversed the process. Carbon dioxide and water go in, and sugar and oxygen come out.",
+    "hint": "Compare what goes in with what comes out.",
+    "format": "misconception",
+    "difficulty": 3,
+    "photoNumbers": [
+      2
+    ]
+  },
+  {
+    "skill": "web-recipe",
+    "text": "Grass makes sugar using sunlight. When a grasshopper eats the grass, which product carries the energy it gets?",
+    "answers": [
+      "Sugar",
+      "Oxygen",
+      "Carbon dioxide",
+      "Water"
+    ],
+    "solution": "The sugar a producer makes is its food and holds the energy from sunlight. That food energy passes to the grasshopper.",
+    "hint": "Which product is the producer’s food?",
+    "format": "reasoning",
+    "difficulty": 3,
+    "photoNumbers": [
+      1,
+      2
+    ]
+  },
+  {
+    "skill": "web-consumer",
+    "text": "What is a consumer?",
+    "answers": [
+      "An organism that eats other organisms for energy",
+      "An organism that makes food from sunlight",
+      "A rock that stores energy",
+      "An organism that never needs energy"
+    ],
+    "solution": "The lesson says consumers cannot use the Sun’s energy to make food, so they consume, or eat, other organisms.",
+    "hint": "To “consume” means to eat.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "web-consumer",
+    "text": "Why is a bald eagle a consumer?",
+    "answers": [
+      "It cannot use the Sun’s energy to make food, so it eats other organisms",
+      "It makes sugar in its feathers",
+      "It builds a nest out of sticks",
+      "It lives high up in a tree"
+    ],
+    "solution": "A bald eagle cannot make food from sunlight. It must eat other organisms for energy, which makes it a consumer.",
+    "hint": "Ask how the eagle gets its energy.",
+    "format": "reasoning",
+    "difficulty": 2,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "web-consumer",
+    "text": "The lesson’s example of a consumer that eats producers is the...",
+    "answers": [
+      "Deer",
+      "Bald eagle",
+      "Mushroom",
+      "Lettuce"
+    ],
+    "solution": "The lesson says a consumer, such as the deer, may eat producers.",
+    "hint": "Which animal eats plants?",
+    "format": "recall",
+    "difficulty": 1,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "web-consumer",
+    "text": "The bald eagle is the lesson’s example of a consumer that eats...",
+    "answers": [
+      "Other consumers",
+      "Only producers",
+      "Only sunlight",
+      "Only dead logs"
+    ],
+    "solution": "The lesson says some consumers, such as the bald eagle, may eat other consumers.",
+    "hint": "Eagles hunt animals, not plants.",
+    "format": "recall",
+    "difficulty": 1,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "web-consumer",
+    "text": "A bald eagle builds its nest from sticks. Does that make it a producer?",
+    "answers": [
+      "No. It still gets its energy by eating other organisms",
+      "Yes, because sticks come from trees",
+      "Yes, because its nest is in the sunlight",
+      "No, because eagles do not need energy"
+    ],
+    "solution": "Using sticks to build a nest has nothing to do with food energy. The eagle cannot make food from sunlight, so it is a consumer.",
+    "hint": "Producers are defined by how they get energy, not by what they build.",
+    "format": "misconception",
+    "difficulty": 3,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "web-consumer",
+    "text": "Which of these organisms is a consumer?",
+    "answers": [
+      "Mouse",
+      "Grass",
+      "Lettuce",
+      "Cabbage"
+    ],
+    "solution": "A mouse eats other organisms, such as grasshoppers, for energy. Grass, lettuce, and cabbage are producers.",
+    "hint": "Find the one that has to eat.",
+    "format": "recall",
+    "difficulty": 1,
+    "photoNumbers": [
+      1,
+      3
+    ]
+  },
+  {
+    "skill": "web-consumer",
+    "text": "What is the main difference between a producer and a consumer?",
+    "answers": [
+      "A producer makes food from sunlight; a consumer eats other organisms",
+      "A producer is always bigger than a consumer",
+      "A consumer makes food from sunlight; a producer eats",
+      "There is no difference"
+    ],
+    "solution": "Producers get energy directly from the Sun by making food. Consumers must eat other organisms to get energy.",
+    "hint": "Compare how each one gets its energy.",
+    "format": "model",
+    "difficulty": 2,
+    "photoNumbers": [
+      2,
+      3
+    ]
+  },
+  {
+    "skill": "web-consumer",
+    "text": "A caterpillar munches on living leaves all day. Which statement is true?",
+    "answers": [
+      "It is a consumer that eats a producer",
+      "It is a producer because it is green",
+      "It is a decomposer because it eats leaves",
+      "It gets energy directly from sunlight"
+    ],
+    "solution": "The caterpillar eats living leaves for energy, so it is a consumer eating a producer. Decomposers eat dead organisms.",
+    "hint": "Is the caterpillar making food or eating it?",
+    "format": "scenario",
+    "difficulty": 2,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "web-consumer",
+    "text": "Grasshoppers eat grass, mice eat grasshoppers, and snakes eat mice. Which of these are consumers?",
+    "answers": [
+      "The grasshopper, the mouse, and the snake",
+      "Only the snake",
+      "Only the grasshopper",
+      "None of them"
+    ],
+    "solution": "All three animals eat other organisms for energy, so all three are consumers. Only the grass is a producer.",
+    "hint": "Check each animal: does it eat something?",
+    "format": "reasoning",
+    "difficulty": 3,
+    "photoNumbers": [
+      1,
+      3
+    ]
+  },
+  {
+    "skill": "web-consumer",
+    "text": "A student sitting in the sun says, “I’m getting my food energy right now!” Why is that wrong?",
+    "answers": [
+      "People are consumers and cannot use sunlight to make food",
+      "People are producers, but only at noon",
+      "Sunlight feeds only decomposers",
+      "It is correct"
+    ],
+    "solution": "Sunlight may warm you, but people cannot make food from it. As consumers, we get food energy by eating other organisms.",
+    "hint": "Are people producers or consumers?",
+    "format": "misconception",
+    "difficulty": 3,
+    "photoNumbers": [
+      1,
+      3
+    ]
+  },
+  {
+    "skill": "web-consumer",
+    "text": "The graphic organizer says animals are called consumers because...",
+    "answers": [
+      "They eat plants or other animals",
+      "They make their own food",
+      "They break down only dead matter",
+      "They get energy directly from the Sun"
+    ],
+    "solution": "The organizer says animals get energy from plants or other animals, so they are called consumers.",
+    "hint": "“Consume” means to eat.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "photoNumbers": [
+      4
+    ]
+  },
+  {
+    "skill": "web-consumer",
+    "text": "In grass → cow → humans, which organisms are consumers?",
+    "answers": [
+      "The cow and the humans",
+      "Only the grass",
+      "The grass and the cow",
+      "None of them"
+    ],
+    "solution": "The cow eats grass and humans eat the cow, so both are consumers. Grass is the producer.",
+    "hint": "Which organisms must eat to get energy?",
+    "format": "scenario",
+    "difficulty": 2,
+    "photoNumbers": [
+      4
+    ]
+  },
+  {
+    "skill": "web-diet",
+    "text": "What do you call a consumer that eats only plants?",
+    "answers": [
+      "Herbivore",
+      "Carnivore",
+      "Omnivore",
+      "Producer"
+    ],
+    "solution": "The lesson says consumers that eat only plants are called herbivores.",
+    "hint": "“Herb” is a clue about plants.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "web-diet",
+    "text": "What do you call a consumer that eats only animals?",
+    "answers": [
+      "Carnivore",
+      "Herbivore",
+      "Omnivore",
+      "Decomposer"
+    ],
+    "solution": "The lesson says consumers that eat only animals are called carnivores.",
+    "hint": "The word part “carn-” means meat.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "web-diet",
+    "text": "What do you call a consumer that eats both plants and animals?",
+    "answers": [
+      "Omnivore",
+      "Herbivore",
+      "Carnivore",
+      "Producer"
+    ],
+    "solution": "The lesson says a consumer that eats both plants and animals is called an omnivore.",
+    "hint": "The word part “omni-” means all.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "web-diet",
+    "text": "A deer eats grass, leaves, and twigs. How should it be classified?",
+    "answers": [
+      "Herbivore",
+      "Carnivore",
+      "Omnivore",
+      "Decomposer"
+    ],
+    "solution": "Grass, leaves, and twigs all come from plants, so a deer that eats only plants is a herbivore.",
+    "hint": "Are all of these foods plants, animals, or both?",
+    "format": "scenario",
+    "difficulty": 2,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "web-diet",
+    "text": "A bald eagle catches fish and other animals. How should it be classified?",
+    "answers": [
+      "Carnivore",
+      "Herbivore",
+      "Omnivore",
+      "Producer"
+    ],
+    "solution": "An eagle that eats only animals is a carnivore.",
+    "hint": "Does the eagle eat any plants?",
+    "format": "scenario",
+    "difficulty": 2,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "web-diet",
+    "text": "Someone eats a hamburger with lettuce and tomato. Based on this meal, what are they?",
+    "answers": [
+      "Omnivore",
+      "Herbivore",
+      "Carnivore",
+      "Producer"
+    ],
+    "solution": "The beef came from an animal, and the lettuce and tomato came from plants. Eating both makes the person an omnivore.",
+    "hint": "Sort each part of the meal into plant or animal.",
+    "format": "scenario",
+    "difficulty": 2,
+    "photoNumbers": [
+      1,
+      3
+    ]
+  },
+  {
+    "skill": "web-diet",
+    "text": "A grasshopper eats only grass. Which word describes it?",
+    "answers": [
+      "Herbivore",
+      "Carnivore",
+      "Omnivore",
+      "Decomposer"
+    ],
+    "solution": "Grass is a plant, and a consumer that eats only plants is a herbivore.",
+    "hint": "Grass is a plant, not an animal.",
+    "format": "scenario",
+    "difficulty": 1,
+    "photoNumbers": [
+      1,
+      3
+    ]
+  },
+  {
+    "skill": "web-diet",
+    "text": "A family eats bacon and eggs for breakfast and a salad for lunch. What does this menu suggest about them?",
+    "answers": [
+      "They are omnivores",
+      "They are herbivores",
+      "They are carnivores",
+      "They are producers"
+    ],
+    "solution": "Bacon and eggs come from animals, and salad comes from plants. Eating both makes them omnivores.",
+    "hint": "Check whether the meals include plants, animals, or both.",
+    "format": "reasoning",
+    "difficulty": 2,
+    "photoNumbers": [
+      1,
+      3
+    ]
+  },
+  {
+    "skill": "web-diet",
+    "text": "Sam says, “Snakes are omnivores because they live in the grass.” What is the best correction?",
+    "answers": [
+      "Where an animal lives doesn’t decide its group; a snake that eats only animals is a carnivore",
+      "He is correct; living in grass makes an animal an omnivore",
+      "Snakes are producers",
+      "Snakes are herbivores because grass is nearby"
+    ],
+    "solution": "The groups depend on what a consumer eats, not where it lives. The snake in the lesson eats mice, so it is a carnivore.",
+    "hint": "Ask what the snake eats, not where it lives.",
+    "format": "misconception",
+    "difficulty": 3,
+    "photoNumbers": [
+      1,
+      3
+    ]
+  },
+  {
+    "skill": "web-diet",
+    "text": "A bear eats berries, roots, and fish. Why is “carnivore” the wrong label?",
+    "answers": [
+      "It eats plants too, so it is an omnivore",
+      "It eats no animals at all",
+      "Bears are producers",
+      "Carnivores eat only plants"
+    ],
+    "solution": "Berries and roots are plants and fish are animals. An animal that eats both is an omnivore, not a carnivore.",
+    "hint": "Does the bear eat only animals?",
+    "format": "reasoning",
+    "difficulty": 3,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "web-diet",
+    "text": "In the class food web, the bee and the deer were listed as...",
+    "answers": [
+      "Herbivores",
+      "Carnivores",
+      "Omnivores",
+      "Producers"
+    ],
+    "solution": "The class listed the bee and the deer as herbivores because they eat only plants or plant parts.",
+    "hint": "Bees visit flowers; deer eat plants.",
+    "format": "recall",
+    "difficulty": 1,
+    "photoNumbers": [
+      5
+    ]
+  },
+  {
+    "skill": "web-diet",
+    "text": "Which group from the class food web was listed as carnivores?",
+    "answers": [
+      "Wolf, eagle, frog, owl, and snake",
+      "Bee and deer",
+      "Mouse, fish, bear, and turtle",
+      "Cattails and dandelions"
+    ],
+    "solution": "The class listed the wolf, eagle, frog, owl, and snake as carnivores: consumers that eat only animals.",
+    "hint": "Find the animals that hunt other animals.",
+    "format": "recall",
+    "difficulty": 2,
+    "photoNumbers": [
+      5
+    ]
+  },
+  {
+    "skill": "web-diet",
+    "text": "The class listed the bear and the turtle as omnivores. What does that tell you about their diets?",
+    "answers": [
+      "They eat both plants and animals",
+      "They eat only plants",
+      "They eat only animals",
+      "They eat only dead organisms"
+    ],
+    "solution": "An omnivore eats both plants and animals.",
+    "hint": "Recall what “omni-” means.",
+    "format": "reasoning",
+    "difficulty": 2,
+    "photoNumbers": [
+      5
+    ]
+  },
+  {
+    "skill": "web-decomposer",
+    "text": "What do decomposers eat?",
+    "answers": [
+      "Dead organisms",
+      "Only living plants",
+      "Sunlight",
+      "Only living animals"
+    ],
+    "solution": "The lesson says decomposers eat only dead organisms.",
+    "hint": "Think about the rotting log in the lesson.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "web-decomposer",
+    "text": "Which group is made up of decomposers?",
+    "answers": [
+      "Mushrooms, other fungi, and bacteria",
+      "Deer, rabbits, and grasshoppers",
+      "Lettuce, onions, and cabbage",
+      "Hawks, eagles, and snakes"
+    ],
+    "solution": "The lesson names mushrooms, other fungi, and bacteria as decomposers.",
+    "hint": "Which group breaks down dead things?",
+    "format": "recall",
+    "difficulty": 1,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "web-decomposer",
+    "text": "The lesson calls decomposers a special group of which kind of organism?",
+    "answers": [
+      "Consumers",
+      "Producers",
+      "Herbivores",
+      "Carnivores"
+    ],
+    "solution": "Decomposers are a special group of consumers. They cannot make food from sunlight, so they eat dead organisms.",
+    "hint": "Do decomposers make their own food or eat?",
+    "format": "vocabulary",
+    "difficulty": 2,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "web-decomposer",
+    "text": "What do decomposers return to the food web?",
+    "answers": [
+      "Nutrients from dead organisms",
+      "Sunlight",
+      "Living animals",
+      "Fresh rainwater"
+    ],
+    "solution": "Decomposers break down the nutrients in dead organisms and return them to the food web.",
+    "hint": "What is left in a dead organism that living things can use again?",
+    "format": "recall",
+    "difficulty": 2,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "web-decomposer",
+    "text": "A tree dies in a forest. According to the lesson, what happens next?",
+    "answers": [
+      "Bacteria and fungi break it down and return its nutrients to the soil",
+      "The tree turns into sunlight",
+      "Hawks eat the tree",
+      "Nothing; dead trees never change"
+    ],
+    "solution": "In the lesson’s example, bacteria and fungi consume the dead tree and return its nutrients to the soil.",
+    "hint": "Which organisms eat dead things?",
+    "format": "scenario",
+    "difficulty": 2,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "web-decomposer",
+    "text": "After fungi break down a dead tree, how does the forest grass benefit?",
+    "answers": [
+      "It absorbs the returned nutrients and uses them to grow",
+      "It eats the fungi",
+      "It gets sunlight from the fungi",
+      "It stops growing"
+    ],
+    "solution": "The lesson says the grass absorbs the nutrients that decomposers returned to the soil and uses them to grow.",
+    "hint": "Follow the nutrients from the tree to the soil to the grass.",
+    "format": "model",
+    "difficulty": 2,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "web-decomposer",
+    "text": "In the lesson’s food chain diagram, which organisms break down dead materials left behind?",
+    "answers": [
+      "Mushrooms",
+      "Grasshoppers",
+      "Hawks",
+      "Grass"
+    ],
+    "solution": "The lesson says any dead materials left behind in the grass-to-hawk example are broken down by the mushrooms.",
+    "hint": "Look for the decomposers in the picture.",
+    "format": "recall",
+    "difficulty": 1,
+    "photoNumbers": [
+      1
+    ]
+  },
+  {
+    "skill": "web-decomposer",
+    "text": "Mushrooms are growing on a rotting log. What are they doing?",
+    "answers": [
+      "Breaking down the dead wood and getting energy from it",
+      "Making food from sunlight like lettuce",
+      "Hunting insects inside the log",
+      "Turning the log back into a living tree"
+    ],
+    "solution": "Mushrooms are decomposers. They eat the dead log, break it down, and return nutrients to the soil.",
+    "hint": "Is the log living or dead?",
+    "format": "scenario",
+    "difficulty": 2,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "web-decomposer",
+    "text": "A dead mouse and a fallen leaf are on the forest floor. Which can decomposers break down?",
+    "answers": [
+      "Both the mouse and the leaf",
+      "Only the leaf",
+      "Only the mouse",
+      "Neither one"
+    ],
+    "solution": "Decomposers may eat dead producers or dead consumers, so they can break down both the leaf and the mouse.",
+    "hint": "Are both of these dead organisms?",
+    "format": "reasoning",
+    "difficulty": 3,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "web-decomposer",
+    "text": "If a forest had no decomposers, what problem would develop?",
+    "answers": [
+      "Dead organisms would pile up, and their nutrients would not return to the soil",
+      "Plants would get extra nutrients",
+      "The Sun would stop shining",
+      "Animals would stop needing food"
+    ],
+    "solution": "Without decomposers, dead organisms would not be broken down, and plants would lose the nutrients that are normally returned to the soil.",
+    "hint": "Think about what decomposers usually do for the soil.",
+    "format": "reasoning",
+    "difficulty": 3,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "web-decomposer",
+    "text": "According to the graphic organizer, what do decomposers such as bacteria return to the soil?",
+    "answers": [
+      "Some of the matter from dead plants and animals",
+      "Sunlight",
+      "Living animals",
+      "Fresh rainwater"
+    ],
+    "solution": "The organizer says decomposers such as bacteria break down dead plants and animals and return some matter to the soil.",
+    "hint": "What is left after a dead organism breaks down?",
+    "format": "recall",
+    "difficulty": 1,
+    "photoNumbers": [
+      4
+    ]
+  },
+  {
+    "skill": "web-decomposer",
+    "text": "Which path of nutrients does the Decomposition Race reflection describe?",
+    "answers": [
+      "Soil → plant → animal → back to the soil after decomposition",
+      "Sun → soil → animal → Sun",
+      "Animal → plant → Sun → rock",
+      "Soil only; nutrients never move"
+    ],
+    "solution": "The reflection says nutrients go from the soil to a plant, possibly to an animal that eats the plant, and back to the soil when the plant or animal dies and decomposes.",
+    "hint": "Follow nutrients in a loop that ends where it started.",
+    "format": "model",
+    "difficulty": 3,
+    "photoNumbers": [
+      7
+    ]
+  },
+  {
+    "skill": "web-detritivore",
+    "text": "In the class food web, how were earthworms classified?",
+    "answers": [
+      "Detritivores and decomposers",
+      "Producers",
+      "Herbivores",
+      "Carnivores"
+    ],
+    "solution": "The class listed earthworms, mushrooms, and bacteria together as detritivores and decomposers.",
+    "hint": "Earthworms eat dead material in the soil.",
+    "format": "recall",
+    "difficulty": 1,
+    "photoNumbers": [
+      5
+    ]
+  },
+  {
+    "skill": "web-detritivore",
+    "text": "What do detritivores, such as earthworms, do to dead material?",
+    "answers": [
+      "Eat it and break it into smaller pieces",
+      "Make it from sunlight",
+      "Turn it back into a living plant",
+      "Hunt it while it is still alive"
+    ],
+    "solution": "The CER explains that detritivores break the apple into smaller parts, which helps decomposers finish breaking it down.",
+    "hint": "Think about what the worms did to the apple.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "photoNumbers": [
+      8
+    ]
+  },
+  {
+    "skill": "web-detritivore",
+    "text": "Why did breaking the apple into smaller parts help it decompose faster?",
+    "answers": [
+      "Bacteria could decompose the smaller parts more quickly",
+      "The smaller parts got more sunlight and grew",
+      "The smaller parts turned into worms",
+      "Breaking it apart stopped decomposition"
+    ],
+    "solution": "The CER reasoning says detritivores break the apple into smaller parts, allowing the bacteria to decompose the parts more quickly.",
+    "hint": "Smaller pieces give decomposers more to work on at once.",
+    "format": "reasoning",
+    "difficulty": 3,
+    "photoNumbers": [
+      8
+    ]
+  },
+  {
+    "skill": "web-detritivore",
+    "text": "In the CER, the earthworms are called detritivores. What are the bacteria called?",
+    "answers": [
+      "Decomposers",
+      "Producers",
+      "Herbivores",
+      "Carnivores"
+    ],
+    "solution": "The reasoning says worms are detritivores and bacteria are decomposers.",
+    "hint": "Bacteria break down dead matter into tiny bits.",
+    "format": "vocabulary",
+    "difficulty": 2,
+    "photoNumbers": [
+      8
+    ]
+  },
+  {
+    "skill": "web-detritivore",
+    "text": "Mold grew on the apples in the Decomposition Race. What kind of organism is mold?",
+    "answers": [
+      "A fungus that acts as a decomposer",
+      "A producer that makes food from sunlight",
+      "A herbivore that eats living plants",
+      "A carnivore that hunts animals"
+    ],
+    "solution": "Mold is a fungus. Fungi are decomposers, so mold on the apple is evidence that decomposition was happening.",
+    "hint": "The lesson names fungi as decomposers.",
+    "format": "scenario",
+    "difficulty": 2,
+    "photoNumbers": [
+      3,
+      8
+    ]
+  },
+  {
+    "skill": "web-detritivore",
+    "text": "Which three organisms from the class food web were listed as detritivores and decomposers?",
+    "answers": [
+      "Earthworms, mushrooms, and bacteria",
+      "Bee, deer, and mouse",
+      "Cattails, dandelions, and oak tree",
+      "Wolf, owl, and snake"
+    ],
+    "solution": "Earthworms, mushrooms, and bacteria all break down dead organisms. The class listed them together.",
+    "hint": "Find the organisms that work on dead material.",
+    "format": "recall",
+    "difficulty": 1,
+    "photoNumbers": [
+      5
+    ]
+  },
+  {
+    "skill": "web-detritivore",
+    "text": "How do earthworms and bacteria work together on a dead apple?",
+    "answers": [
+      "Worms break it into smaller parts, and bacteria decompose those parts",
+      "Bacteria make the apple, and worms eat the bacteria",
+      "Worms make food from sunlight for the bacteria",
+      "They compete, so the apple never decays"
+    ],
+    "solution": "Detritivores like earthworms break material into smaller pieces. Decomposers like bacteria then break those pieces down more quickly.",
+    "hint": "Who does the chopping, and who finishes the job?",
+    "format": "model",
+    "difficulty": 2,
+    "photoNumbers": [
+      8
+    ]
+  },
+  {
+    "skill": "web-detritivore",
+    "text": "In the class food web, arrows from many organisms lead to the earthworms, mushrooms, and bacteria. Why?",
+    "answers": [
+      "They get energy from dead organisms of every kind",
+      "They are producers",
+      "They hunt the top predators",
+      "They give energy to the Sun"
+    ],
+    "solution": "When any plant or animal dies, detritivores and decomposers break it down, so arrows lead to them from many organisms.",
+    "hint": "What happens to every organism eventually?",
+    "format": "diagram",
+    "difficulty": 3,
+    "photoNumbers": [
+      5
+    ]
+  },
+  {
+    "skill": "web-detritivore",
+    "text": "Ty says, “Earthworms are producers because they live in the soil.” What is the best correction?",
+    "answers": [
+      "Earthworms eat dead material; living in soil does not make something a producer",
+      "He is right; anything in soil is a producer",
+      "Earthworms make food from sunlight underground",
+      "Earthworms are carnivores that hunt plants"
+    ],
+    "solution": "Producers make their own food using the Sun’s energy. Earthworms eat dead material, so they are detritivores.",
+    "hint": "Ask how earthworms get their energy.",
+    "format": "misconception",
+    "difficulty": 3,
+    "photoNumbers": [
+      5,
+      8
+    ]
+  },
+  {
+    "skill": "web-detritivore",
+    "text": "According to the reflection, what is happening to the decomposing apple?",
+    "answers": [
+      "It is decomposing and will eventually return to the soil",
+      "It is disappearing completely, with nothing left",
+      "It is turning into sunlight",
+      "It is growing into a new apple right away"
+    ],
+    "solution": "The reflection says the apple is decomposing and will eventually return to the soil.",
+    "hint": "Where does decomposing matter end up?",
+    "format": "recall",
+    "difficulty": 2,
+    "photoNumbers": [
+      7
+    ]
+  },
+  {
+    "skill": "web-detritivore",
+    "text": "The apple with earthworms was mostly gone. What does the CER say happened to its matter?",
+    "answers": [
+      "It was moved or changed, not destroyed",
+      "It vanished from existence",
+      "It became sunlight",
+      "The worms turned it into new apples"
+    ],
+    "solution": "The evidence says the matter was moved or changed. Decomposition breaks material down and returns it to the soil; matter does not just disappear.",
+    "hint": "Matter can change form or location.",
+    "format": "reasoning",
+    "difficulty": 3,
+    "photoNumbers": [
+      8
+    ]
+  },
+  {
+    "skill": "web-detritivore",
+    "text": "According to the reflection, why is decomposition good for the environment?",
+    "answers": [
+      "Dead things do not pile up, and their nutrients help new plants grow",
+      "It creates more dead plants and animals",
+      "It keeps nutrients locked away from plants",
+      "It stops plants from growing"
+    ],
+    "solution": "Without decomposition, dead plants and animals would pile up. Decomposers return matter and nutrients to the soil, where they help new plants grow.",
+    "hint": "Think about both the dead material and the soil.",
+    "format": "reasoning",
+    "difficulty": 2,
+    "photoNumbers": [
+      7
+    ]
+  },
+  {
+    "skill": "web-investigate",
+    "text": "What was the driving question of the Decomposition Race?",
+    "answers": [
+      "What factors affect the decomposition process?",
+      "How fast can earthworms crawl?",
+      "Which apple tastes the best?",
+      "How much water can soil hold?"
+    ],
+    "solution": "The investigation’s driving question was “What factors affect the decomposition process?”",
+    "hint": "The question is about what changes how decomposition happens.",
+    "format": "recall",
+    "difficulty": 1,
+    "photoNumbers": [
+      6
+    ]
+  },
+  {
+    "skill": "web-investigate",
+    "text": "What was the one planned difference between the two containers?",
+    "answers": [
+      "One container had earthworms; the other did not",
+      "One had soil; the other had none",
+      "One had apple; the other had none",
+      "One got water; the other got none"
+    ],
+    "solution": "Both containers got soil, moist paper strips, and half an apple. Only one got earthworms.",
+    "hint": "Read procedure step 5.",
+    "format": "model",
+    "difficulty": 2,
+    "photoNumbers": [
+      6
+    ]
+  },
+  {
+    "skill": "web-investigate",
+    "text": "Why did both containers get the same soil, moistened paper strips, and half of the same apple?",
+    "answers": [
+      "So earthworms were the only planned difference, making the test fair",
+      "So the containers would look nice",
+      "To give the worms more room",
+      "Because soil is a producer"
+    ],
+    "solution": "Keeping everything else the same means any difference in decomposition can be linked to the earthworms.",
+    "hint": "In a fair test, how many things should you change on purpose?",
+    "format": "reasoning",
+    "difficulty": 3,
+    "photoNumbers": [
+      6
+    ]
+  },
+  {
+    "skill": "web-investigate",
+    "text": "How much soil went into each container?",
+    "answers": [
+      "500 mL",
+      "1,000 mL",
+      "42 oz",
+      "5 mL"
+    ],
+    "solution": "Procedure step 1 says to put 500 mL of soil into each container. The group’s 1,000 mL of soil was split between the two.",
+    "hint": "The group had 1,000 mL to share between two containers.",
+    "format": "recall",
+    "difficulty": 1,
+    "photoNumbers": [
+      6
+    ]
+  },
+  {
+    "skill": "web-investigate",
+    "text": "How long did students observe the containers?",
+    "answers": [
+      "Daily for 2–3 weeks",
+      "Once, after one hour",
+      "Once a year for 3 years",
+      "Only on the first day"
+    ],
+    "solution": "Procedure step 6 says to make daily observations for 2–3 weeks and record them in the data table.",
+    "hint": "Decomposition takes time. Check step 6.",
+    "format": "recall",
+    "difficulty": 1,
+    "photoNumbers": [
+      6
+    ]
+  },
+  {
+    "skill": "web-investigate",
+    "text": "By Week 3, how did the apple with worms compare with the apple without worms?",
+    "answers": [
+      "It was mushy with many holes and falling apart",
+      "It was still fresh",
+      "It looked just as it did on the first day",
+      "It had turned back into a whole apple"
+    ],
+    "solution": "The data table shows the apple with worms became mushy with many holes and was falling apart. The apple without worms was dark and mushy but still in one piece.",
+    "hint": "Look at the Week 3 “Worms” column.",
+    "format": "data",
+    "difficulty": 2,
+    "photoNumbers": [
+      6
+    ]
+  },
+  {
+    "skill": "web-investigate",
+    "text": "What claim does the Decomposition Race CER make?",
+    "answers": [
+      "Earthworms and bacteria helped break down the apple",
+      "The apple stayed the same",
+      "Sunlight broke down the apple",
+      "The newspaper ate the apple"
+    ],
+    "solution": "The claim is that the earthworms and bacteria helped break down the apple.",
+    "hint": "A claim answers the prompt in one sentence.",
+    "format": "recall",
+    "difficulty": 1,
+    "photoNumbers": [
+      8
+    ]
+  },
+  {
+    "skill": "web-investigate",
+    "text": "Which observation is evidence for the claim that earthworms helped break down the apple?",
+    "answers": [
+      "The apple with worms decomposed more than the apple without worms",
+      "Both containers had soil",
+      "The apple was cut in half",
+      "Students used a spray bottle"
+    ],
+    "solution": "Evidence is an observation that supports the claim. Comparing the two apples shows more decomposition with worms. The other choices describe the setup.",
+    "hint": "Evidence comes from the results, not the materials list.",
+    "format": "evidence",
+    "difficulty": 3,
+    "photoNumbers": [
+      6,
+      8
+    ]
+  },
+  {
+    "skill": "web-investigate",
+    "text": "The apple without worms still turned dark and mushy. What best explains this?",
+    "answers": [
+      "Decomposers like bacteria and mold were still breaking it down, just more slowly",
+      "Nothing can decompose without worms",
+      "The apple was making food from sunlight",
+      "The apple grew bigger"
+    ],
+    "solution": "Decomposers such as bacteria and mold work even without worms. The worms sped decomposition up by breaking the apple into smaller parts.",
+    "hint": "Worms help, but are they the only decomposers?",
+    "format": "reasoning",
+    "difficulty": 3,
+    "photoNumbers": [
+      6,
+      8
+    ]
+  },
+  {
+    "skill": "web-investigate",
+    "text": "In this system, how did living things and nonliving matter interact?",
+    "answers": [
+      "Earthworms helped break down the apple and return nutrients to the soil",
+      "The soil ate the earthworms",
+      "The apple made food for the soil from sunlight",
+      "They did not interact"
+    ],
+    "solution": "The reflection says the living earthworms helped break down the apple and return nutrients (matter) back to the soil.",
+    "hint": "Connect the worms to the soil.",
+    "format": "reasoning",
+    "difficulty": 2,
+    "photoNumbers": [
+      7
+    ]
+  },
+  {
+    "skill": "web-investigate",
+    "text": "Which of these did the reflection list as a factor that affects decomposition?",
+    "answers": [
+      "Oxygen",
+      "The color of the lid",
+      "The students’ names",
+      "The day of the week"
+    ],
+    "solution": "The reflection lists factors such as what is eating the material, how much time passes, the soil, and oxygen.",
+    "hint": "Choose something that could really change how decomposers work.",
+    "format": "recall",
+    "difficulty": 2,
+    "photoNumbers": [
+      7
+    ]
+  },
+  {
+    "skill": "web-investigate",
+    "text": "In a claim–evidence–reasoning explanation, what does the reasoning do?",
+    "answers": [
+      "Uses science ideas to explain why the evidence supports the claim",
+      "Repeats the claim in different words",
+      "Lists the materials used",
+      "Gives an opinion with no science"
+    ],
+    "solution": "In the CER, the reasoning uses science ideas (detritivores and decomposers) to explain why the evidence supports the claim.",
+    "hint": "Reasoning connects evidence to the claim.",
+    "format": "vocabulary",
+    "difficulty": 2,
+    "photoNumbers": [
+      8
+    ]
+  }
+]
