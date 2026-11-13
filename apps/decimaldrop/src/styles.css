@@ -25,6 +25,7 @@
 @media(max-width:480px){.subject-tabs{width:100%}.subject-tabs button{flex:1;justify-content:center;padding:10px 8px;gap:5px;font-size:11px}}
 
 .unit-plants{border-bottom-color:#79df9a}.unit-plants .unit-card-art{color:#79df9a}
+.unit-foodwebs{border-bottom-color:#f2a65a}.unit-foodwebs .unit-card-art{color:#f2a65a}
 
 /* Evidence-aware reading remains separate from scored missions. */
 .plant-review{margin:28px 0;padding:28px;border:1px solid #35483c;border-radius:18px;background:linear-gradient(135deg,#18291f,#151c29);scroll-margin-top:24px}

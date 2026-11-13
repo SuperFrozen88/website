@@ -1,0 +1,86 @@
+{
+  "source": "Images pasted into Claude Code chat, 2026-11-12",
+  "count": 10,
+  "files": [
+    {
+      "number": 1,
+      "filename": "01-food-energy-and-food-chains.png",
+      "pastedAs": "3.png",
+      "bytes": 1372763,
+      "sha256": "0f8673daf585c56fffc72159c5059ce6a893dd91ef3f33feee2319770bf016be",
+      "topics": "Why we eat; energy from the Sun; grass→hawk food chain; arrows"
+    },
+    {
+      "number": 2,
+      "filename": "02-food-webs-and-producers.png",
+      "pastedAs": "2.png",
+      "bytes": 1447858,
+      "sha256": "c162c61803e620001b118c7fa8b9325c0e7354d7328537fb71451515b350a503",
+      "topics": "Look Out! lunch tray; Reflect: food webs; producers"
+    },
+    {
+      "number": 3,
+      "filename": "03-consumers-and-decomposers.png",
+      "pastedAs": "1.png",
+      "bytes": 1369914,
+      "sha256": "2db9503244034e1b4585edbf30238806ae3dd3e286743e14753decec541722da",
+      "topics": "Consumers, herbivores/carnivores/omnivores; decomposers"
+    },
+    {
+      "number": 4,
+      "filename": "04-food-chains-graphic-organizer.jpg",
+      "pastedAs": "4.jpg",
+      "bytes": 165559,
+      "sha256": "7506a6f9d6376b4966bead0cad764e893dcac0c8c3ae3ec1e2b781646d633d5f",
+      "topics": "Plants/animals/decomposers summary; oak→squirrel→eagle, grass→cow→humans, algae→minnows→bass"
+    },
+    {
+      "number": 5,
+      "filename": "05-stringy-connections-class-food-web.jpg",
+      "pastedAs": "5.jpg",
+      "bytes": 158499,
+      "sha256": "54e2c7ef75b743ded213ce1d34200438919d9da7d9c8569eb679e1ef4b4cd7c0",
+      "topics": "Class food web; organism classification"
+    },
+    {
+      "number": 6,
+      "filename": "06-decomposition-race-procedure.jpg",
+      "pastedAs": "6.jpg",
+      "bytes": 179866,
+      "sha256": "f2a4ce11dfd84258c696a533628a8f044a12913b2c94c84cb68a05870cd194e1",
+      "topics": "Driving question, materials, procedure, 3-week data table"
+    },
+    {
+      "number": 7,
+      "filename": "07-decomposition-race-reflection.jpg",
+      "pastedAs": "7.jpg",
+      "bytes": 183035,
+      "sha256": "70c6e10cc99d6275201941a0eeee6d18d6f00fea7bbdf99520a7a8e3b9aaad73",
+      "topics": "Reflection: differences, nutrient cycle, living/nonliving, factors"
+    },
+    {
+      "number": 8,
+      "filename": "08-decomposition-race-cer.jpg",
+      "pastedAs": "8.jpg",
+      "bytes": 106679,
+      "sha256": "7831ee59e927b1d46de55674d21fa82274a88f73009e85da3729d35346cfb766",
+      "topics": "Claim, evidence, reasoning (detritivores and decomposers)"
+    },
+    {
+      "number": 9,
+      "filename": "09-chains-vs-webs-comparison.jpg",
+      "pastedAs": "9.jpg",
+      "bytes": 163515,
+      "sha256": "c24b923ffd2474a32ef5f0c8fbf5c93a489dc64ec4a0656cc2947e51bb584350",
+      "topics": "Food chain vs food web comparison diagram"
+    },
+    {
+      "number": 10,
+      "filename": "10-food-webs-roundtable.jpg",
+      "pastedAs": "10.jpg",
+      "bytes": 171902,
+      "sha256": "8a6dbfad90ec0832ba51bf8aa6361efe276674fa360afb4ab400b95ab8d45b06",
+      "topics": "Roundtable: Sun, arrows, one-way energy flow, parts of a food web"
+    }
+  ]
+}
