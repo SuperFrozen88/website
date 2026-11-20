@@ -27,7 +27,7 @@ export function selectQuestion(p:Progress,s:Session):Question {
  };
  candidates.sort((a,b)=>rank(a.id)-rank(b.id));
  const skill=candidates[0]||unitSkills[0];
- if(unit!=='decimals'&&unit!=='multiplication'){
+ if(unit!=='decimals'&&unit!=='multiplication'&&unit!=='division'){
  const pool=[...scienceBank,...socialStudiesBank].filter(q=>q.skill===skill.id&&!s.questions.some(existing=>existing.id===q.id));
  const families=s.questions.filter(q=>q.skill===skill.id).slice(-2).map(q=>q.family);
  const formatCount=(q:Question)=>history.filter(r=>r.response.question.skill===skill.id&&r.response.question.family===q.family).length;
@@ -88,7 +88,7 @@ export function advance(p:Progress,seconds:number,early=false):Progress {
 export function submitDraft(p:Progress,answer:string,elapsed:number,work:string):Progress {
  if(!p.active)return p;
  const s=p.active,q=s.questions[s.responses.length];
- if(!answer.trim()||q.kind==='numeric'&&(q.proof.op==='multiply'?normalizeExact(answer)===null:parseDecimal(answer)===null))throw new Error('Enter a number, such as 4.50.');
+ if(!answer.trim()||q.kind==='numeric'&&(q.proof.op==='multiply'||q.proof.op==='divide'?normalizeExact(answer)===null:parseDecimal(answer)===null))throw new Error('Enter a number, such as 4.50.');
  return {...p,active:{...s,draft:{...s.draft,answer,work,elapsed,firstHinted:s.draft.firstHinted??s.draft.hinted,answers:[...s.draft.answers,answer]}}};
 }
 export function achievements(p:Progress){const responses=allResponses(p).map(r=>r.response);return [
