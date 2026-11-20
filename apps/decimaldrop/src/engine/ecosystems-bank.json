@@ -1,0 +1,2259 @@
+[
+  {
+    "skill": "eco-vocab",
+    "text": "What is an ecosystem?",
+    "answers": [
+      "All the living and nonliving things in an area and all their interactions",
+      "Only the animals that live in one place",
+      "The weather in a region over many years",
+      "A single organism and the food it eats"
+    ],
+    "solution": "An ecosystem is all the living and nonliving things in an area and all of their interactions. Animals alone, or one organism, are only parts of an ecosystem.",
+    "hint": "Look for the answer that includes living things, nonliving things, and how they affect each other.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "photoNumbers": [
+      2
+    ]
+  },
+  {
+    "skill": "eco-vocab",
+    "text": "What is an organism's environment?",
+    "answers": [
+      "The space, conditions, and all the living and nonliving things around it",
+      "Only the other animals of its own kind",
+      "Only the food it eats",
+      "The inside of its own body"
+    ],
+    "solution": "An environment is the space, conditions, and all the living and nonliving things around one organism. Food and neighbors are only parts of it.",
+    "hint": "Environment describes everything surrounding one particular organism.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "photoNumbers": [
+      2
+    ]
+  },
+  {
+    "skill": "eco-vocab",
+    "text": "A coral reef has fish, sea turtles, coral, salt water, sunlight, and rocks, and they all affect each other. Which word best names the whole reef system?",
+    "answers": [
+      "Ecosystem",
+      "Population",
+      "Organism",
+      "Producer"
+    ],
+    "solution": "The reef includes living things (fish, turtles, coral) and nonliving things (salt water, sunlight, rocks) that interact, so it is an ecosystem.",
+    "hint": "Which word covers living things, nonliving things, and their interactions all together?",
+    "format": "scenario",
+    "difficulty": 2,
+    "photoNumbers": [
+      2
+    ]
+  },
+  {
+    "skill": "eco-vocab",
+    "text": "How is an ecosystem different from an organism’s environment?",
+    "answers": [
+      "An ecosystem is everything in an area and their interactions; an environment is what surrounds one particular organism",
+      "They mean exactly the same thing",
+      "An environment has only nonliving things; an ecosystem has only living things",
+      "An ecosystem is always in the ocean; an environment is always on land"
+    ],
+    "solution": "Both include living and nonliving things. An ecosystem describes a whole area and all its interactions. An environment is described from the point of view of one organism: everything around it.",
+    "hint": "Think about whose point of view each word uses: a whole area, or one organism.",
+    "format": "compare",
+    "difficulty": 3,
+    "photoNumbers": [
+      2
+    ]
+  },
+  {
+    "skill": "eco-vocab",
+    "text": "Which is the best example of an ecosystem?",
+    "answers": [
+      "A pond where frogs, cattails, insects, water, mud, and sunlight interact",
+      "A single frog sitting on a rock",
+      "A list of animals that live in Africa",
+      "A jar of dry sand with nothing living in it"
+    ],
+    "solution": "The pond has living and nonliving parts that affect each other. One frog is an organism, a list is not a place, and dry sand has no living things.",
+    "hint": "An ecosystem needs living things, nonliving things, and interactions in one area.",
+    "format": "scenario",
+    "difficulty": 2,
+    "photoNumbers": [
+      2
+    ]
+  },
+  {
+    "skill": "eco-vocab",
+    "text": "How big can an ecosystem be?",
+    "answers": [
+      "As small as a puddle or as large as a forest",
+      "Only as large as a whole continent",
+      "Only big enough to hold trees",
+      "Exactly one square mile"
+    ],
+    "solution": "An ecosystem can be any size, from a rotting log or puddle to a forest or an ocean, as long as living and nonliving things interact there.",
+    "hint": "Size does not decide whether something is an ecosystem.",
+    "format": "vocabulary",
+    "difficulty": 2,
+    "photoNumbers": [
+      2
+    ]
+  },
+  {
+    "skill": "eco-vocab",
+    "text": "For a squirrel in a city park, which list is all part of its environment?",
+    "answers": [
+      "Trees, other squirrels, sidewalks, temperature, and rainwater",
+      "Only the acorns it eats",
+      "Only the other squirrels",
+      "Only its own fur and bones"
+    ],
+    "solution": "The environment includes everything around the squirrel: living things (trees, squirrels) and nonliving things and conditions (sidewalks, temperature, rain). Its own body is not its environment.",
+    "hint": "Pick the list with both living and nonliving things around the squirrel.",
+    "format": "scenario",
+    "difficulty": 2,
+    "photoNumbers": [
+      2
+    ]
+  },
+  {
+    "skill": "eco-vocab",
+    "text": "Why does the definition of an ecosystem include “interactions,” not just a list of things?",
+    "answers": [
+      "Because the parts affect one another, and those effects are what make the system work",
+      "Because interactions are a kind of nonliving thing",
+      "Because a list of things would be too long",
+      "Because only animals can interact"
+    ],
+    "solution": "An ecosystem is a system: plants use sunlight and water, animals eat plants, decomposers return nutrients. Those connections are what make it an ecosystem, not just a collection of things.",
+    "hint": "Think about what makes a system more than a pile of parts.",
+    "format": "reasoning",
+    "difficulty": 3,
+    "photoNumbers": [
+      2
+    ]
+  },
+  {
+    "skill": "eco-vocab",
+    "text": "The heat, sand, cactus plants, rain, and other animals around a desert tortoise make up the tortoise’s what?",
+    "answers": [
+      "Environment",
+      "Population",
+      "Food chain",
+      "Decomposer"
+    ],
+    "solution": "Everything around one organism, living and nonliving, is its environment.",
+    "hint": "The question describes everything surrounding one organism.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "photoNumbers": [
+      2
+    ]
+  },
+  {
+    "skill": "eco-vocab",
+    "text": "A student says, “A tank with only water, gravel, and a lamp is an ecosystem.” What is missing?",
+    "answers": [
+      "Living things that interact with the water, gravel, and light",
+      "More gravel",
+      "A second lamp",
+      "Nothing, because nonliving things alone make an ecosystem"
+    ],
+    "solution": "An ecosystem needs living things interacting with nonliving things. Water, gravel, and light are all nonliving, so the tank is not yet an ecosystem.",
+    "hint": "Check the definition: living AND nonliving things.",
+    "format": "scenario",
+    "difficulty": 3,
+    "photoNumbers": [
+      2
+    ]
+  },
+  {
+    "skill": "eco-vocab",
+    "text": "The ecosystem vocabulary card shows a reef with sea turtles, fish, and rocks. Why is a reef a good example of an ecosystem?",
+    "answers": [
+      "It has living and nonliving things interacting in one area",
+      "It has only animals",
+      "It has no nonliving things",
+      "It is always very cold"
+    ],
+    "solution": "A reef has living things (turtles, fish, coral) and nonliving things (rocks, water, sunlight) affecting each other in one area.",
+    "hint": "Match the picture to the definition of ecosystem.",
+    "format": "vocabulary",
+    "difficulty": 2,
+    "photoNumbers": [
+      2
+    ]
+  },
+  {
+    "skill": "eco-living",
+    "text": "Which of these is a nonliving part of an ecosystem?",
+    "answers": [
+      "Sunlight",
+      "Mushroom",
+      "Deer",
+      "Grass"
+    ],
+    "solution": "Sunlight is nonliving. Mushrooms, deer, and grass are living things: they grow, use energy, and reproduce.",
+    "hint": "Which one does not grow or reproduce?",
+    "format": "classify",
+    "difficulty": 1,
+    "photoNumbers": [
+      8
+    ]
+  },
+  {
+    "skill": "eco-living",
+    "text": "Which of these is a living part of a pond ecosystem?",
+    "answers": [
+      "Algae",
+      "Water",
+      "Rocks",
+      "Air"
+    ],
+    "solution": "Algae are living producers. Water, rocks, and air are nonliving parts of the pond.",
+    "hint": "Which one grows and makes more of itself?",
+    "format": "classify",
+    "difficulty": 1,
+    "photoNumbers": [
+      8
+    ]
+  },
+  {
+    "skill": "eco-living",
+    "text": "How can you tell a living thing from a nonliving thing?",
+    "answers": [
+      "Living things grow, use energy, and reproduce; nonliving things do not",
+      "Living things always move; nonliving things never move",
+      "Living things are always green",
+      "Nonliving things are always smaller"
+    ],
+    "solution": "Living things grow, need energy, and reproduce. Movement is not a test: water and wind move, and trees stay in place.",
+    "hint": "Think about what every living thing does, even a tree.",
+    "format": "vocabulary",
+    "difficulty": 2,
+    "photoNumbers": [
+      8
+    ]
+  },
+  {
+    "skill": "eco-living",
+    "text": "Which list contains only nonliving parts of an ecosystem?",
+    "answers": [
+      "Water, air, soil minerals, and sunlight",
+      "Water, fish, soil minerals, and sunlight",
+      "Grass, air, rocks, and bacteria",
+      "Trees, birds, worms, and mushrooms"
+    ],
+    "solution": "Water, air, minerals, and sunlight are nonliving. Fish, grass, bacteria, trees, birds, worms, and mushrooms are living.",
+    "hint": "Check every item in the list, not just the first one.",
+    "format": "classify",
+    "difficulty": 2,
+    "photoNumbers": [
+      8
+    ]
+  },
+  {
+    "skill": "eco-living",
+    "text": "Which list contains only living things?",
+    "answers": [
+      "Bacteria, fern, owl, and earthworm",
+      "Bacteria, rock, owl, and rain",
+      "Soil minerals, fern, wind, and owl",
+      "Sand, salt, water, and light"
+    ],
+    "solution": "Bacteria, ferns, owls, and earthworms all grow, use energy, and reproduce. Rocks, rain, wind, sand, salt, water, and light do not.",
+    "hint": "One nonliving item makes the whole list wrong.",
+    "format": "classify",
+    "difficulty": 2,
+    "photoNumbers": [
+      8
+    ]
+  },
+  {
+    "skill": "eco-living",
+    "text": "A dead log lies on the forest floor. Which statement is accurate?",
+    "answers": [
+      "It is no longer alive, but living things such as fungi and insects use it for food and shelter",
+      "It is still living because it is made of wood",
+      "It is no longer part of the ecosystem",
+      "It is exactly like a rock and was never alive"
+    ],
+    "solution": "The log was once alive and is not alive now. It is still part of the ecosystem: decomposers break it down and animals shelter in it.",
+    "hint": "Think about what happens to a dead log over time.",
+    "format": "reasoning",
+    "difficulty": 3,
+    "photoNumbers": [
+      8
+    ]
+  },
+  {
+    "skill": "eco-living",
+    "text": "A windstorm belongs in which group of ecosystem parts?",
+    "answers": [
+      "Nonliving factors",
+      "Living factors",
+      "Producers",
+      "Decomposers"
+    ],
+    "solution": "Wind is a nonliving condition of the environment. It can still affect living things, for example by knocking down trees.",
+    "hint": "Does wind grow or reproduce?",
+    "format": "classify",
+    "difficulty": 2,
+    "photoNumbers": [
+      8
+    ]
+  },
+  {
+    "skill": "eco-living",
+    "text": "Which is an example of a nonliving thing affecting a living thing?",
+    "answers": [
+      "A drought dries up a stream, so fish have less water",
+      "A hawk eats a mouse",
+      "A bee carries pollen between flowers",
+      "A fox raises its kits"
+    ],
+    "solution": "The drought (nonliving) changes the water available to the fish (living). The other choices are living things affecting living things.",
+    "hint": "Find the choice that starts with something that is not alive.",
+    "format": "interaction",
+    "difficulty": 3,
+    "photoNumbers": [
+      8
+    ]
+  },
+  {
+    "skill": "eco-living",
+    "text": "Which is an example of a living thing changing a nonliving part of an ecosystem?",
+    "answers": [
+      "Earthworms tunnel through soil and loosen it",
+      "Rain falls on a mountain",
+      "The Sun warms a rock",
+      "Wind blows sand into a dune"
+    ],
+    "solution": "Earthworms (living) change the soil (nonliving). Rain, Sun, rock, wind, and sand are all nonliving.",
+    "hint": "Which choice begins with a living organism?",
+    "format": "interaction",
+    "difficulty": 3,
+    "photoNumbers": [
+      8
+    ]
+  },
+  {
+    "skill": "eco-living",
+    "text": "Which of these is a condition of an environment rather than an organism?",
+    "answers": [
+      "Temperature",
+      "Rabbit",
+      "Oak tree",
+      "Mold"
+    ],
+    "solution": "Temperature is a nonliving condition. Rabbits, oak trees, and mold are organisms.",
+    "hint": "Conditions describe the surroundings, such as how hot or wet it is.",
+    "format": "classify",
+    "difficulty": 2,
+    "photoNumbers": [
+      2,
+      8
+    ]
+  },
+  {
+    "skill": "eco-living",
+    "text": "Which item in a desert ecosystem is living?",
+    "answers": [
+      "Cactus",
+      "Sand",
+      "Heat",
+      "Wind"
+    ],
+    "solution": "A cactus is a living producer. Sand, heat, and wind are nonliving.",
+    "hint": "Which one grows and makes seeds?",
+    "format": "classify",
+    "difficulty": 1,
+    "photoNumbers": [
+      8
+    ]
+  },
+  {
+    "skill": "eco-needs",
+    "text": "What does “needs” mean in this unit?",
+    "answers": [
+      "Requirements for the well-being of an organism",
+      "Things an organism wants for fun",
+      "Only the food an organism eats",
+      "Only the place an organism sleeps"
+    ],
+    "solution": "Needs are requirements for an organism’s well-being: what it must have to stay healthy and survive. Food is one need, not all of them.",
+    "hint": "Needs are things an organism cannot live well without.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "eco-needs",
+    "text": "Which list names basic needs most animals share?",
+    "answers": [
+      "Food, water, air, and shelter with enough space",
+      "Toys, food, music, and light",
+      "Water, sugar, salt, and gold",
+      "Air, rocks, ice, and sand"
+    ],
+    "solution": "Animals need food for energy, water, air (oxygen), and shelter and space to live safely.",
+    "hint": "Pick the list where every item helps an animal survive.",
+    "format": "recall",
+    "difficulty": 1,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "eco-needs",
+    "text": "A plant does not eat food. Which needs does a plant have?",
+    "answers": [
+      "Sunlight, water, air, space, and nutrients from the soil",
+      "Only water",
+      "Only soil",
+      "Meat and water"
+    ],
+    "solution": "Plants make their own food using sunlight, water, and carbon dioxide from the air. They also need space and nutrients from the soil.",
+    "hint": "Think about what a plant uses to make its own food.",
+    "format": "compare",
+    "difficulty": 2,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "eco-needs",
+    "text": "A pet hamster has food, water, and a cage, but the cage is in a closet that gets very cold at night. Which need is not being met well?",
+    "answers": [
+      "A safe temperature, which is part of good shelter",
+      "Food",
+      "Water",
+      "Air"
+    ],
+    "solution": "Food, water, and air are provided. Shelter should protect an animal from harmful conditions like cold, so the cold closet fails that need.",
+    "hint": "Which need protects an animal from weather and temperature?",
+    "format": "scenario",
+    "difficulty": 2,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "eco-needs",
+    "text": "Why do animals need shelter?",
+    "answers": [
+      "To stay safe from weather and predators and to raise their young",
+      "To make their own food",
+      "Because shelter gives them water",
+      "So they never have to move"
+    ],
+    "solution": "Shelter, such as a nest, burrow, or den, protects animals from weather and predators and gives them a safe place for young.",
+    "hint": "Think about what a burrow or nest protects an animal from.",
+    "format": "reasoning",
+    "difficulty": 2,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "eco-needs",
+    "text": "Why does an animal need space?",
+    "answers": [
+      "To find enough food, water, and shelter and to move around",
+      "Because space is a kind of food",
+      "Only so it can sleep",
+      "Animals do not need space"
+    ],
+    "solution": "An area that is too small or too crowded may not hold enough food, water, and shelter for every animal.",
+    "hint": "Space is connected to all the other resources an animal needs.",
+    "format": "reasoning",
+    "difficulty": 2,
+    "photoNumbers": [
+      3,
+      6
+    ]
+  },
+  {
+    "skill": "eco-needs",
+    "text": "Two deer live in a meadow with plenty of grass, but the only stream dries up. What is most likely to happen?",
+    "answers": [
+      "They must move to find water, or they may not survive",
+      "They will be fine because grass is enough",
+      "They will start drinking from rocks",
+      "They will become producers"
+    ],
+    "solution": "Food alone does not meet every need. Without water, the deer must find another water source or they cannot survive.",
+    "hint": "Is grass enough to meet all of a deer’s needs?",
+    "format": "scenario",
+    "difficulty": 3,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "eco-needs",
+    "text": "Which is a need, not a want, for a person?",
+    "answers": [
+      "Clean water",
+      "A video game",
+      "A new bike",
+      "Candy"
+    ],
+    "solution": "Clean water is required for health. The others may be nice to have, but a person can live well without them.",
+    "hint": "A need is something you cannot live well without.",
+    "format": "compare",
+    "difficulty": 2,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "eco-needs",
+    "text": "A mushroom breaks down dead leaves on the forest floor. Which need is it meeting?",
+    "answers": [
+      "Its need for food and energy",
+      "Its need for sunlight",
+      "Its need for shelter only",
+      "None, because mushrooms have no needs"
+    ],
+    "solution": "Decomposers get their food and energy by breaking down dead material. Mushrooms do not use sunlight to make food.",
+    "hint": "Decomposers are consumers that eat dead material.",
+    "format": "scenario",
+    "difficulty": 2,
+    "photoNumbers": [
+      2,
+      3
+    ]
+  },
+  {
+    "skill": "eco-needs",
+    "text": "In the What Do I Need? game, animals had to collect resources such as food, water, and shelter. Why did some animals not survive a round?",
+    "answers": [
+      "They could not collect enough of the resources they needed",
+      "They were too fast",
+      "They got too much water",
+      "There were more resources than animals"
+    ],
+    "solution": "Every animal needs a certain amount of food, water, and shelter. When an animal could not get enough, it did not survive the round.",
+    "hint": "Think about what “needs” means for survival.",
+    "format": "scenario",
+    "difficulty": 3,
+    "photoNumbers": [
+      6
+    ]
+  },
+  {
+    "skill": "eco-needs",
+    "text": "Besides water, what important need does a fish get from the water it lives in?",
+    "answers": [
+      "Oxygen dissolved in the water",
+      "Sunlight",
+      "Soil",
+      "Shelter from rain"
+    ],
+    "solution": "Fish take in oxygen that is dissolved in water using their gills. Air is still a need, even underwater.",
+    "hint": "What do you take in with every breath that a fish gets from water?",
+    "format": "recall",
+    "difficulty": 2,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "eco-interactions",
+    "text": "In science, what are interactions?",
+    "answers": [
+      "Actions by one thing that have an effect on a different thing",
+      "Things that happen only inside one organism",
+      "Any two things sitting near each other",
+      "Only fights between animals"
+    ],
+    "solution": "An interaction is an action by one thing that affects a different, separate thing, like sunlight warming a lizard or a bee pollinating a flower.",
+    "hint": "Look for the answer about one thing affecting another.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "eco-interactions",
+    "text": "The interactions vocabulary card shows a bowling ball knocking down pins. What idea does it show?",
+    "answers": [
+      "One thing’s action has an effect on another thing",
+      "Bowling alleys are ecosystems",
+      "Bowling pins are living things",
+      "Nothing happens to the pins"
+    ],
+    "solution": "The ball acts and the pins are affected. In an ecosystem, interactions work the same way: one part affects another.",
+    "hint": "What does the ball do to the pins?",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "eco-interactions",
+    "text": "Which is an interaction between two living things?",
+    "answers": [
+      "A spider catches a fly in its web",
+      "Rain soaks into the soil",
+      "Sunlight warms a rock",
+      "Wind moves sand"
+    ],
+    "solution": "The spider and the fly are both living. The other choices involve only nonliving things.",
+    "hint": "Both things in the answer must be alive.",
+    "format": "classify",
+    "difficulty": 2,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "eco-interactions",
+    "text": "Which is an interaction between a living thing and a nonliving thing?",
+    "answers": [
+      "A lizard warms itself on a sunny rock",
+      "A hawk eats a snake",
+      "Two wolves play together",
+      "A bee visits a flower"
+    ],
+    "solution": "The lizard is living; the rock and sunlight are nonliving. The other choices are two living things.",
+    "hint": "One part must be alive and the other must not be.",
+    "format": "classify",
+    "difficulty": 2,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "eco-interactions",
+    "text": "Which is an interaction between two nonliving things?",
+    "answers": [
+      "Waves wear away a rocky shore",
+      "A beaver cuts down a tree",
+      "A deer drinks from a stream",
+      "Plant roots crack a sidewalk"
+    ],
+    "solution": "Waves and rock are both nonliving. Beavers, deer, and plant roots are living.",
+    "hint": "Neither part of the answer can be alive.",
+    "format": "classify",
+    "difficulty": 2,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "eco-interactions",
+    "text": "A beaver builds a dam, and a stream becomes a pond. Which statement best describes what happens?",
+    "answers": [
+      "The beaver changes the water, which changes where fish and plants can live",
+      "Only the beaver is affected",
+      "Only nonliving things change",
+      "Nothing else in the ecosystem changes"
+    ],
+    "solution": "The beaver (living) changes the water (nonliving), and the new pond changes the homes and food of many other organisms. One interaction can lead to many more.",
+    "hint": "Follow the effects beyond the beaver itself.",
+    "format": "scenario",
+    "difficulty": 3,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "eco-interactions",
+    "text": "Plant roots take in water from the soil. What kind of interaction is this?",
+    "answers": [
+      "A living thing interacting with nonliving things",
+      "Two nonliving things interacting",
+      "Two living things interacting",
+      "It is not an interaction"
+    ],
+    "solution": "Roots are part of a living plant. Water and soil are nonliving. The plant takes in water that it needs.",
+    "hint": "Is the plant living? Are the water and soil living?",
+    "format": "classify",
+    "difficulty": 2,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "eco-interactions",
+    "text": "Which statement about interactions in an ecosystem is accurate?",
+    "answers": [
+      "One change can affect many other parts because the parts are connected",
+      "Interactions happen only between animals of the same kind",
+      "Nonliving things never affect living things",
+      "Interactions always harm both organisms"
+    ],
+    "solution": "Ecosystem parts are linked, so a change to one part, such as less rain, can spread to plants, plant eaters, and their predators. Many interactions help organisms.",
+    "hint": "Think about how a drought could affect more than just water.",
+    "format": "reasoning",
+    "difficulty": 3,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "eco-interactions",
+    "text": "A cow eats grass. Which kind of interaction is this?",
+    "answers": [
+      "A consumer eating a producer",
+      "Two nonliving things interacting",
+      "A decomposer breaking down waste",
+      "A producer making its own food"
+    ],
+    "solution": "The cow is a consumer and grass is a producer. When the cow eats grass, energy passes from the producer to the consumer.",
+    "hint": "Which one makes food from sunlight, and which one eats?",
+    "format": "classify",
+    "difficulty": 2,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "eco-interactions",
+    "text": "In the Decomposition Race, which was an interaction between living things and nonliving matter?",
+    "answers": [
+      "Earthworms and bacteria broke down the apple and returned matter to the soil",
+      "The container lid stayed closed",
+      "The spray bottle held water",
+      "The newspaper was cut into strips"
+    ],
+    "solution": "Earthworms and bacteria (living) broke the apple down and returned matter to the soil (nonliving). The other choices do not describe one thing affecting another in the ecosystem.",
+    "hint": "Which choice has an organism changing something?",
+    "format": "scenario",
+    "difficulty": 3,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "eco-interactions",
+    "text": "Mushrooms grow on a dead tree and slowly break it down. What kind of interaction is this?",
+    "answers": [
+      "A decomposer feeding on dead matter and returning nutrients to the soil",
+      "A producer making food from sunlight",
+      "A predator hunting live prey",
+      "Two nonliving things interacting"
+    ],
+    "solution": "Mushrooms are decomposers. They get energy from the dead tree and return nutrients to the soil for plants.",
+    "hint": "What role do mushrooms play in an ecosystem?",
+    "format": "scenario",
+    "difficulty": 2,
+    "photoNumbers": [
+      2,
+      3
+    ]
+  },
+  {
+    "skill": "eco-interdependence",
+    "text": "What does interdependence mean?",
+    "answers": [
+      "The well-being of two or more things is linked together",
+      "An organism lives completely alone",
+      "An animal changes color to hide",
+      "Nonliving things melt in the heat"
+    ],
+    "solution": "Interdependence means the well-being of two or more things is linked: what happens to one affects the other.",
+    "hint": "The word contains “depend.” Who depends on whom?",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "eco-interdependence",
+    "text": "The interdependence vocabulary card shows small birds riding on a deer’s back. How could both animals benefit?",
+    "answers": [
+      "The birds eat insects off the deer, so the birds get food and the deer loses pests",
+      "The deer carries the birds so they never need to eat",
+      "The birds give the deer sunlight",
+      "Neither animal benefits"
+    ],
+    "solution": "Birds that eat ticks and insects off large animals get food, and the large animal gets rid of pests. Their well-being is linked.",
+    "hint": "What could a small bird find to eat on a deer?",
+    "format": "scenario",
+    "difficulty": 2,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "eco-interdependence",
+    "text": "Bees visit flowers for nectar and carry pollen from flower to flower. How are bees and flowering plants interdependent?",
+    "answers": [
+      "Bees get food, and the plants get pollinated so they can make seeds",
+      "Only the bees benefit",
+      "Only the flowers benefit",
+      "Bees make the flowers’ food"
+    ],
+    "solution": "Bees get nectar and pollen for food. Plants get pollen moved between flowers, which they need to make seeds and fruit. Each helps the other.",
+    "hint": "What does each one get from the other?",
+    "format": "scenario",
+    "difficulty": 2,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "eco-interdependence",
+    "text": "If the bees in an area disappeared, what could happen to some flowering plants?",
+    "answers": [
+      "Fewer seeds and fruits could form, so those plants could decrease",
+      "The plants would grow faster",
+      "Nothing, because plants never depend on animals",
+      "The plants would start making honey"
+    ],
+    "solution": "Many plants depend on bees for pollination. Without bees, fewer seeds form, so fewer new plants grow.",
+    "hint": "Think about what bees do for flowers.",
+    "format": "prediction",
+    "difficulty": 3,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "eco-interdependence",
+    "text": "Which shows that animals depend on plants?",
+    "answers": [
+      "Animals eat plants for energy and use them for shelter",
+      "Plants make sunlight for animals",
+      "Animals get all of their water from plants",
+      "Plants eat animals"
+    ],
+    "solution": "Plants are food for many animals and provide shelter, such as nests in trees.",
+    "hint": "How do animals use plants every day?",
+    "format": "recall",
+    "difficulty": 2,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "eco-interdependence",
+    "text": "Which shows that plants depend on other organisms?",
+    "answers": [
+      "Decomposers return nutrients to the soil that plants use to grow",
+      "Animals give plants sunlight",
+      "Animals make soil out of rocks overnight",
+      "Plants do not depend on anything"
+    ],
+    "solution": "Plants need nutrients from the soil. Decomposers break down dead organisms and return those nutrients, so plants depend on them.",
+    "hint": "Think about where the nutrients in soil come from.",
+    "format": "reasoning",
+    "difficulty": 3,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "eco-interdependence",
+    "text": "In a meadow, rabbits eat grass and foxes eat rabbits. If a drought kills much of the grass, what will most likely happen to the foxes?",
+    "answers": [
+      "Foxes may decrease too, because there will be fewer rabbits to eat",
+      "Foxes will increase because they do not eat grass",
+      "Foxes will start making food from sunlight",
+      "Foxes will not be affected at all"
+    ],
+    "solution": "Foxes depend on rabbits, and rabbits depend on grass. Less grass means fewer rabbits, which means less food for foxes.",
+    "hint": "Follow the chain from the grass to the foxes.",
+    "format": "prediction",
+    "difficulty": 3,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "eco-interdependence",
+    "text": "Which sentence uses “interdependence” correctly?",
+    "answers": [
+      "Clownfish and sea anemones show interdependence because each helps the other survive",
+      "A rock shows interdependence because it sits alone",
+      "Interdependence means an animal eats only one food",
+      "Interdependence means nonliving things are alive"
+    ],
+    "solution": "A clownfish is protected by the anemone’s stinging tentacles, and the clownfish helps keep the anemone clean and safe. Their well-being is linked.",
+    "hint": "Look for two things whose well-being is linked.",
+    "format": "vocabulary",
+    "difficulty": 2,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "eco-interdependence",
+    "text": "Why do scientists say organisms in an ecosystem are interdependent, even ones that never meet?",
+    "answers": [
+      "Their food and resources are connected through food webs and the environment, so a change to one can reach others",
+      "Because they all look alike",
+      "Because they all eat the same food",
+      "Because they all share one shelter"
+    ],
+    "solution": "An owl may never meet a grasshopper, but owls eat mice that eat grasshoppers’ plants. Connections through food webs and shared resources link them.",
+    "hint": "Think about indirect connections through a food web.",
+    "format": "reasoning",
+    "difficulty": 3,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "eco-interdependence",
+    "text": "People depend on other organisms for which of these?",
+    "answers": [
+      "Food, oxygen from plants, and materials such as wood and cotton",
+      "Nothing at all",
+      "Only water",
+      "Only sunlight"
+    ],
+    "solution": "People eat plants and animals, breathe oxygen that plants release, and use plant materials such as wood and cotton.",
+    "hint": "Think about what you eat, breathe, and wear.",
+    "format": "recall",
+    "difficulty": 2,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "eco-interdependence",
+    "text": "Which human action could break an interdependent link in an ecosystem?",
+    "answers": [
+      "Spraying a chemical that kills the insects birds eat",
+      "Planting native flowers",
+      "Setting out a birdbath",
+      "Leaving dead leaves to decompose"
+    ],
+    "solution": "Killing insects removes food that birds depend on. The other actions support organisms in the ecosystem.",
+    "hint": "Which action removes something another organism depends on?",
+    "format": "prediction",
+    "difficulty": 3,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "eco-roles",
+    "text": "According to the vocabulary cards, what is a food web?",
+    "answers": [
+      "An interconnected set of food chains",
+      "A single straight line of who eats whom",
+      "A spider’s home",
+      "A list of nonliving things"
+    ],
+    "solution": "A food web is an interconnected set of food chains. Most organisms eat, and are eaten by, more than one kind of organism.",
+    "hint": "Food web = many chains connected.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "eco-roles",
+    "text": "Which organism breaks down the remains of dead plants or animals without needing internal digestion?",
+    "answers": [
+      "A decomposer, such as a mushroom",
+      "A carnivore, such as a wolf",
+      "A producer, such as grass",
+      "A herbivore, such as a deer"
+    ],
+    "solution": "Decomposers such as mushrooms break down dead remains outside their bodies instead of swallowing and digesting food inside.",
+    "hint": "This is the definition on the decomposer vocabulary card.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "photoNumbers": [
+      2
+    ]
+  },
+  {
+    "skill": "eco-roles",
+    "text": "Why are decomposers important to an ecosystem?",
+    "answers": [
+      "They break down dead things and return nutrients to the soil for producers",
+      "They make food from sunlight",
+      "They hunt the top predators",
+      "They turn water into rock"
+    ],
+    "solution": "Decomposers recycle matter. Nutrients from dead organisms go back into the soil, where plants use them to grow.",
+    "hint": "What would happen to dead leaves without them?",
+    "format": "reasoning",
+    "difficulty": 2,
+    "photoNumbers": [
+      2
+    ]
+  },
+  {
+    "skill": "eco-roles",
+    "text": "In an ocean food web like the one on the vocabulary card, which organism is a producer?",
+    "answers": [
+      "Phytoplankton (tiny plant-like plankton)",
+      "Krill",
+      "Penguin",
+      "Seal"
+    ],
+    "solution": "Phytoplankton use sunlight to make their own food, so they are the producers. Krill, penguins, and seals are consumers.",
+    "hint": "Which organism makes food from sunlight?",
+    "format": "classify",
+    "difficulty": 2,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "eco-roles",
+    "text": "In an ocean food web, krill eat phytoplankton and penguins eat krill. What are penguins?",
+    "answers": [
+      "Consumers",
+      "Producers",
+      "Decomposers",
+      "Nonliving factors"
+    ],
+    "solution": "Penguins get energy by eating other organisms, so they are consumers.",
+    "hint": "Do penguins make their own food?",
+    "format": "classify",
+    "difficulty": 2,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "eco-roles",
+    "text": "Why does a food web show an ecosystem more accurately than a single food chain?",
+    "answers": [
+      "Most organisms eat more than one thing and are eaten by more than one thing",
+      "Food chains are always wrong",
+      "Food webs leave out producers",
+      "Food webs show only nonliving things"
+    ],
+    "solution": "Real feeding relationships overlap. A seal eats fish and squid; fish are eaten by seals and birds. A web shows those many links.",
+    "hint": "Think about how many different foods most animals eat.",
+    "format": "reasoning",
+    "difficulty": 3,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "eco-roles",
+    "text": "What would most likely happen to an ecosystem without decomposers?",
+    "answers": [
+      "Dead material would pile up and nutrients would not return to the soil",
+      "Plants would grow faster",
+      "Animals would stop needing food",
+      "Nothing would change"
+    ],
+    "solution": "Without decomposers, dead plants and animals would not break down, and the soil would lose the nutrients plants need.",
+    "hint": "Decomposers recycle nutrients. What if no one did that job?",
+    "format": "prediction",
+    "difficulty": 2,
+    "photoNumbers": [
+      2
+    ]
+  },
+  {
+    "skill": "eco-roles",
+    "text": "Where does the energy in an ecosystem’s food web come from first?",
+    "answers": [
+      "The Sun, captured by producers",
+      "The soil",
+      "Decomposers",
+      "The top predator"
+    ],
+    "solution": "Producers capture energy from sunlight to make food. That energy then passes to consumers through the food web.",
+    "hint": "What do producers use to make food?",
+    "format": "recall",
+    "difficulty": 2,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "eco-roles",
+    "text": "In an ocean web, seals eat both fish and squid. If the squid population drops, what might seals do?",
+    "answers": [
+      "Eat more fish, which could reduce the fish population",
+      "Stop eating completely",
+      "Become producers",
+      "Get energy straight from the Sun"
+    ],
+    "solution": "Because seals have more than one food, they may eat more fish when squid are scarce. That can reduce the number of fish, an example of how webs connect.",
+    "hint": "A food web shows other food choices.",
+    "format": "prediction",
+    "difficulty": 3,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "eco-roles",
+    "text": "Which organism is a producer in a forest ecosystem?",
+    "answers": [
+      "Oak tree",
+      "Squirrel",
+      "Mushroom",
+      "Hawk"
+    ],
+    "solution": "An oak tree makes its own food from sunlight. Squirrels and hawks are consumers, and mushrooms are decomposers.",
+    "hint": "Which one uses sunlight to make food?",
+    "format": "classify",
+    "difficulty": 2,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "eco-roles",
+    "text": "Which is the best evidence that a mushroom is a decomposer, not a producer?",
+    "answers": [
+      "It gets energy by breaking down dead material instead of using sunlight",
+      "It is shaped like an umbrella",
+      "It grows on the ground",
+      "It has no legs"
+    ],
+    "solution": "How an organism gets energy decides its role. Mushrooms break down dead material; producers make food from sunlight.",
+    "hint": "Classify by how it gets energy, not by how it looks.",
+    "format": "reasoning",
+    "difficulty": 3,
+    "photoNumbers": [
+      2
+    ]
+  },
+  {
+    "skill": "eco-population",
+    "text": "What is a population?",
+    "answers": [
+      "All the organisms of one kind living in an area",
+      "Every living and nonliving thing in an area",
+      "One single organism",
+      "The weather of an area"
+    ],
+    "solution": "A population is all the organisms of one kind, such as all the deer, in one area. An ecosystem includes many populations plus nonliving things.",
+    "hint": "Population = one kind of organism in one place.",
+    "format": "vocabulary",
+    "difficulty": 1,
+    "photoNumbers": [
+      6
+    ]
+  },
+  {
+    "skill": "eco-population",
+    "text": "In the What Do I Need? game, the number of animals grew while the resources stayed the same. What happened to the number of survivors?",
+    "answers": [
+      "It went down",
+      "It went up",
+      "It stayed exactly the same",
+      "Every animal survived each round"
+    ],
+    "solution": "The class data showed 6 survivors, then 4, then 3, while the number of animals grew from 6 to 9 to 12.",
+    "hint": "Look at the survivors column from round 1 to round 3.",
+    "format": "data",
+    "difficulty": 2,
+    "photoNumbers": [
+      6
+    ]
+  },
+  {
+    "skill": "eco-population",
+    "text": "Why does a bigger population with the same amount of food lead to fewer survivors?",
+    "answers": [
+      "The food is shared among more animals, so some cannot get enough",
+      "Big populations need less food",
+      "More animals make more food",
+      "Food grows faster when there are more animals"
+    ],
+    "solution": "Resources are limited. When more animals compete for the same food, water, and shelter, some cannot get enough to survive.",
+    "hint": "Imagine the same pizza shared by more and more people.",
+    "format": "reasoning",
+    "difficulty": 2,
+    "photoNumbers": [
+      6,
+      7
+    ]
+  },
+  {
+    "skill": "eco-population",
+    "text": "What is competition in an ecosystem?",
+    "answers": [
+      "Organisms trying to get the same limited resources",
+      "Organisms sharing unlimited food",
+      "A plant making its own food",
+      "Rocks breaking apart"
+    ],
+    "solution": "Competition happens when organisms need the same resource, such as food, water, or space, and there is not enough for all of them.",
+    "hint": "Competition happens when there is not enough of something.",
+    "format": "vocabulary",
+    "difficulty": 2,
+    "photoNumbers": [
+      6,
+      7
+    ]
+  },
+  {
+    "skill": "eco-population",
+    "text": "A meadow has enough food for about 40 rabbits. One spring, 60 rabbits live there. What is most likely to happen?",
+    "answers": [
+      "Some rabbits will not get enough food, so the population will decrease",
+      "All 60 rabbits will thrive",
+      "The meadow will instantly grow extra grass",
+      "The rabbits will stop needing food"
+    ],
+    "solution": "The meadow cannot support 60 rabbits. Competition for food means some rabbits move away or do not survive, so the population falls.",
+    "hint": "Compare how many rabbits the meadow can feed with how many live there.",
+    "format": "prediction",
+    "difficulty": 3,
+    "photoNumbers": [
+      6,
+      7
+    ]
+  },
+  {
+    "skill": "eco-population",
+    "text": "Which change would most likely help more animals survive in the game’s ecosystem?",
+    "answers": [
+      "Adding more food, water, and shelter",
+      "Adding more animals",
+      "Removing water",
+      "Removing shelter"
+    ],
+    "solution": "More resources mean each animal is more likely to get what it needs, so more can survive.",
+    "hint": "Survival depends on resources per animal.",
+    "format": "prediction",
+    "difficulty": 3,
+    "photoNumbers": [
+      6
+    ]
+  },
+  {
+    "skill": "eco-population",
+    "text": "Which resources do animals in a population compete for?",
+    "answers": [
+      "Food, water, shelter, and space",
+      "Only sunlight",
+      "Nothing, because animals never compete",
+      "Rocks and sand"
+    ],
+    "solution": "Animals compete for the things they need: food, water, shelter, and space.",
+    "hint": "Think back to the list of needs.",
+    "format": "recall",
+    "difficulty": 2,
+    "photoNumbers": [
+      6
+    ]
+  },
+  {
+    "skill": "eco-population",
+    "text": "A pond has a big increase in frogs. What could happen to the insects the frogs eat?",
+    "answers": [
+      "The insect population may decrease because more frogs are eating them",
+      "The insect population will increase",
+      "Nothing, because frogs and insects are not connected",
+      "The insects will become producers"
+    ],
+    "solution": "More predators eat more prey, so the insect population is likely to go down.",
+    "hint": "More frogs means more insects get eaten.",
+    "format": "prediction",
+    "difficulty": 3,
+    "photoNumbers": [
+      6,
+      7
+    ]
+  },
+  {
+    "skill": "eco-population",
+    "text": "After the insect population falls, what could happen to the large frog population?",
+    "answers": [
+      "Some frogs may not survive because there is less food, so the frog population could decrease",
+      "The frogs will keep increasing forever",
+      "The frogs will switch to making their own food",
+      "The frogs will not be affected"
+    ],
+    "solution": "With fewer insects, frogs compete for less food. Some do not survive, so the frog population can shrink. Populations rise and fall together.",
+    "hint": "What do the frogs need that is now scarce?",
+    "format": "prediction",
+    "difficulty": 3,
+    "photoNumbers": [
+      6,
+      7
+    ]
+  },
+  {
+    "skill": "eco-population",
+    "text": "Plants compete too. What do crowded plants compete for?",
+    "answers": [
+      "Sunlight, water, space, and nutrients",
+      "Meat and insects",
+      "Shelter from predators only",
+      "Nothing"
+    ],
+    "solution": "Plants need sunlight, water, space for roots and leaves, and soil nutrients. Crowded plants must share these.",
+    "hint": "What does a plant need to make food and grow?",
+    "format": "recall",
+    "difficulty": 2,
+    "photoNumbers": [
+      6
+    ]
+  },
+  {
+    "skill": "eco-population",
+    "text": "Which statement best describes the relationship between population size and survival when resources are limited?",
+    "answers": [
+      "As the population increases, each animal’s share of resources decreases, so a smaller fraction survives",
+      "Population size never affects survival",
+      "Larger populations always survive better",
+      "Survival depends only on the weather"
+    ],
+    "solution": "With limited resources, more animals means less for each one. In the class data, 6 of 6 survived in round 1 but only 3 of 12 in round 3.",
+    "hint": "Think about the share of resources each animal gets.",
+    "format": "reasoning",
+    "difficulty": 3,
+    "photoNumbers": [
+      6,
+      7
+    ]
+  },
+  {
+    "skill": "eco-data",
+    "text": "Class data from What Do I Need?: Round 1: 6 survived, 0 did not. Round 2: 4 survived, 5 did not. Round 3: 3 survived, 9 did not. How many animals survived round 1?",
+    "answers": [
+      "6",
+      "0",
+      "4",
+      "3"
+    ],
+    "solution": "Round 1 shows 6 survivors and 0 animals that did not survive.",
+    "hint": "Read the survived number for round 1.",
+    "format": "data",
+    "difficulty": 1,
+    "photoNumbers": [
+      6
+    ]
+  },
+  {
+    "skill": "eco-data",
+    "text": "Class data from What Do I Need?: Round 1: 6 survived, 0 did not. Round 2: 4 survived, 5 did not. Round 3: 3 survived, 9 did not. How many animals played in round 2?",
+    "answers": [
+      "9",
+      "4",
+      "5",
+      "20"
+    ],
+    "solution": "Add the survivors and the animals that did not survive: 4 + 5 = 9 animals.",
+    "hint": "Total animals = survived + did not survive.",
+    "format": "data",
+    "difficulty": 2,
+    "photoNumbers": [
+      6
+    ]
+  },
+  {
+    "skill": "eco-data",
+    "text": "Class data from What Do I Need?: Round 1: 6 survived, 0 did not. Round 2: 4 survived, 5 did not. Round 3: 3 survived, 9 did not. How many animals played in round 3?",
+    "answers": [
+      "12",
+      "3",
+      "9",
+      "6"
+    ],
+    "solution": "3 survived and 9 did not, so 3 + 9 = 12 animals played.",
+    "hint": "Add both columns for round 3.",
+    "format": "data",
+    "difficulty": 2,
+    "photoNumbers": [
+      6
+    ]
+  },
+  {
+    "skill": "eco-data",
+    "text": "Class data from What Do I Need?: Round 1: 6 survived, 0 did not. Round 2: 4 survived, 5 did not. Round 3: 3 survived, 9 did not. Which round had the most animals that did not survive?",
+    "answers": [
+      "Round 3",
+      "Round 1",
+      "Round 2",
+      "All rounds were equal"
+    ],
+    "solution": "Round 3 had 9 animals that did not survive, more than round 2 (5) or round 1 (0).",
+    "hint": "Compare the “did not survive” column.",
+    "format": "data",
+    "difficulty": 2,
+    "photoNumbers": [
+      6
+    ]
+  },
+  {
+    "skill": "eco-data",
+    "text": "Class data from What Do I Need?: Round 1: 6 survived, 0 did not. Round 2: 4 survived, 5 did not. Round 3: 3 survived, 9 did not. What pattern does the data show?",
+    "answers": [
+      "As the number of animals increased, the number of survivors decreased",
+      "As the number of animals increased, more animals survived",
+      "The number of survivors stayed the same",
+      "The data shows no change"
+    ],
+    "solution": "Animals increased from 6 to 9 to 12, while survivors decreased from 6 to 4 to 3.",
+    "hint": "Find the total each round, then compare with the survivors.",
+    "format": "pattern",
+    "difficulty": 3,
+    "photoNumbers": [
+      6
+    ]
+  },
+  {
+    "skill": "eco-data",
+    "text": "Class data from What Do I Need?: Round 1: 6 survived, 0 did not. Round 2: 4 survived, 5 did not. Round 3: 3 survived, 9 did not. What fraction of the animals survived in round 3?",
+    "answers": [
+      "3 out of 12, or one-fourth",
+      "3 out of 9, or one-third",
+      "9 out of 12, or three-fourths",
+      "12 out of 12, or all of them"
+    ],
+    "solution": "Round 3 had 3 + 9 = 12 animals, and 3 survived. 3/12 = 1/4. Be careful: 9 is the number that did not survive, not the total.",
+    "hint": "First find the total number of animals in round 3.",
+    "format": "data",
+    "difficulty": 3,
+    "photoNumbers": [
+      6
+    ]
+  },
+  {
+    "skill": "eco-data",
+    "text": "Class data from What Do I Need?: Round 1: 6 survived, 0 did not. Round 2: 4 survived, 5 did not. Round 3: 3 survived, 9 did not. How did the total number of animals change from round to round?",
+    "answers": [
+      "It increased: 6, then 9, then 12",
+      "It decreased: 12, then 9, then 6",
+      "It stayed at 6",
+      "It went up and down"
+    ],
+    "solution": "Totals: round 1 is 6 + 0 = 6, round 2 is 4 + 5 = 9, round 3 is 3 + 9 = 12. The population grew by 3 each round.",
+    "hint": "Add the two columns for each round.",
+    "format": "pattern",
+    "difficulty": 2,
+    "photoNumbers": [
+      6
+    ]
+  },
+  {
+    "skill": "eco-data",
+    "text": "A student answered “How was each round different?” with “Each round had a different amount of survivors.” What would make this answer stronger?",
+    "answers": [
+      "Adding the numbers and a reason: survivors fell from 6 to 4 to 3 as the population grew while resources stayed the same",
+      "Making the handwriting bigger",
+      "Adding the word “very”",
+      "Leaving out the numbers"
+    ],
+    "solution": "A strong answer describes the change with data and explains it: the population grew (6, 9, 12), resources did not, so survivors dropped (6, 4, 3).",
+    "hint": "Strong answers include data and a reason.",
+    "format": "explain",
+    "difficulty": 3,
+    "photoNumbers": [
+      6
+    ]
+  },
+  {
+    "skill": "eco-data",
+    "text": "Class data from What Do I Need?: Round 1: 6 survived, 0 did not. Round 2: 4 survived, 5 did not. Round 3: 3 survived, 9 did not. If a fourth round had 15 animals with the same resources, which result is most likely?",
+    "answers": [
+      "About 3 or fewer survive, and more animals do not survive than in round 3",
+      "All 15 animals survive",
+      "More animals survive than in round 1",
+      "The number of animals that do not survive drops to 0"
+    ],
+    "solution": "The pattern shows survivors falling and losses rising as the population grows. With 15 animals and the same resources, losses would most likely grow again.",
+    "hint": "Continue the pattern in both columns.",
+    "format": "prediction",
+    "difficulty": 2,
+    "photoNumbers": [
+      6
+    ]
+  },
+  {
+    "skill": "eco-data",
+    "text": "Class data from What Do I Need?: Round 1: 6 survived, 0 did not. Round 2: 4 survived, 5 did not. Round 3: 3 survived, 9 did not. In round 2, about what fraction of the animals did not survive?",
+    "answers": [
+      "5 out of 9, a little more than half",
+      "4 out of 9, a little less than half",
+      "5 out of 4",
+      "None of them"
+    ],
+    "solution": "Round 2 had 4 + 5 = 9 animals, and 5 did not survive. 5/9 is a little more than half.",
+    "hint": "Use the round 2 total as the denominator.",
+    "format": "data",
+    "difficulty": 3,
+    "photoNumbers": [
+      6
+    ]
+  },
+  {
+    "skill": "eco-data",
+    "text": "In the What Do I Need? activity, what changed from round to round?",
+    "answers": [
+      "The number of animals (population size)",
+      "The amount of food, water, and shelter",
+      "The rules for collecting resources",
+      "Nothing changed"
+    ],
+    "solution": "The population grew each round (6, 9, 12) while the resources stayed the same, so the activity tested how population size affects survival.",
+    "hint": "Look at how the totals changed.",
+    "format": "variables",
+    "difficulty": 2,
+    "photoNumbers": [
+      6,
+      7
+    ]
+  },
+  {
+    "skill": "eco-change",
+    "text": "A wildfire burns most of the grass on a prairie. What happens first to the animals that eat grass?",
+    "answers": [
+      "They have less food, so some move away or do not survive",
+      "They have more food",
+      "Nothing happens to them",
+      "They start eating rocks"
+    ],
+    "solution": "Grass is their food. When it burns, herbivores must find food elsewhere or they may not survive.",
+    "hint": "What did those animals depend on?",
+    "format": "prediction",
+    "difficulty": 2,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "eco-change",
+    "text": "A new pond forms after heavy rains. What is most likely to happen?",
+    "answers": [
+      "Animals that need water move in, and some populations grow",
+      "All animals leave the area",
+      "Plants stop growing nearby",
+      "Nothing changes"
+    ],
+    "solution": "A new water source meets a need for many organisms, so animals and plants that need water can move in and grow.",
+    "hint": "Water is a basic need. What happens when more is available?",
+    "format": "prediction",
+    "difficulty": 2,
+    "photoNumbers": [
+      8
+    ]
+  },
+  {
+    "skill": "eco-change",
+    "text": "People build a parking lot on a field. How does this most likely affect the ecosystem?",
+    "answers": [
+      "Habitat and food are lost, so some organisms must move or may not survive",
+      "Animals get more space",
+      "Plants grow better on the pavement",
+      "It has no effect"
+    ],
+    "solution": "Pavement removes plants, soil, and shelter. Organisms that lived there lose food and homes.",
+    "hint": "What did the field provide that pavement does not?",
+    "format": "prediction",
+    "difficulty": 3,
+    "photoNumbers": [
+      3,
+      8
+    ]
+  },
+  {
+    "skill": "eco-change",
+    "text": "Wolves are removed from an area, and the deer population grows very large. What will most likely happen to the plants deer eat?",
+    "answers": [
+      "The plants will be overeaten and decrease",
+      "The plants will increase",
+      "The plants will become consumers",
+      "Nothing will happen to the plants"
+    ],
+    "solution": "Wolves kept the deer population in check. With more deer eating, plants are eaten faster than they can grow back.",
+    "hint": "Follow the effect from wolves to deer to plants.",
+    "format": "prediction",
+    "difficulty": 3,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "eco-change",
+    "text": "Which is a nonliving change that could affect an ecosystem?",
+    "answers": [
+      "A long drought",
+      "A new kind of insect arriving",
+      "A disease spreading through trees",
+      "A hawk population growing"
+    ],
+    "solution": "A drought is a change in a nonliving factor (water). The other choices are changes in living things.",
+    "hint": "Which choice is about weather or water, not organisms?",
+    "format": "classify",
+    "difficulty": 2,
+    "photoNumbers": [
+      8
+    ]
+  },
+  {
+    "skill": "eco-change",
+    "text": "Which is a living change that could affect an ecosystem?",
+    "answers": [
+      "A new species that eats native plants moves in",
+      "A flood",
+      "A change in temperature",
+      "A volcanic eruption"
+    ],
+    "solution": "A new species is a living change. Floods, temperature, and eruptions are nonliving.",
+    "hint": "Which choice is about an organism?",
+    "format": "classify",
+    "difficulty": 2,
+    "photoNumbers": [
+      8
+    ]
+  },
+  {
+    "skill": "eco-change",
+    "text": "After a flood, nutrient-rich mud is left on a riverbank. Over the next season, what is most likely?",
+    "answers": [
+      "Plants grow well there, providing food for consumers",
+      "No plants can ever grow there again",
+      "Animals avoid the area forever",
+      "The mud instantly turns into rock"
+    ],
+    "solution": "Nutrients help producers grow, and more plants mean more food for consumers. Not every change is harmful.",
+    "hint": "What do nutrients do for plants?",
+    "format": "prediction",
+    "difficulty": 3,
+    "photoNumbers": [
+      8
+    ]
+  },
+  {
+    "skill": "eco-change",
+    "text": "Why can a change to one population affect many others?",
+    "answers": [
+      "Organisms are connected through food webs and shared resources",
+      "Every organism eats the same food",
+      "Populations never change",
+      "Only producers can be affected"
+    ],
+    "solution": "Because organisms are interdependent, a change in one population changes the food or competition for others.",
+    "hint": "Think about food webs and interdependence.",
+    "format": "reasoning",
+    "difficulty": 2,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "eco-change",
+    "text": "Farmers spray a chemical that kills many insects. What could happen to birds that eat insects?",
+    "answers": [
+      "The birds may have less food, and their population may decrease",
+      "The birds will have more food",
+      "The birds will start eating the chemical",
+      "The birds are not connected to insects"
+    ],
+    "solution": "Insects are the birds’ food. Fewer insects means less food, so the bird population may drop.",
+    "hint": "What do those birds depend on?",
+    "format": "prediction",
+    "difficulty": 3,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "eco-change",
+    "text": "Students plant native flowers in a schoolyard. Which effect is most likely?",
+    "answers": [
+      "More pollinators such as bees and butterflies visit, which helps other plants make seeds",
+      "Fewer insects visit",
+      "The soil becomes nonliving",
+      "Nothing changes"
+    ],
+    "solution": "Flowers provide nectar and pollen. More pollinators visit, and their pollination helps other plants reproduce.",
+    "hint": "Who depends on flowers for food?",
+    "format": "prediction",
+    "difficulty": 3,
+    "photoNumbers": [
+      3
+    ]
+  },
+  {
+    "skill": "eco-change",
+    "text": "Which change would most likely help a population of fish in a stream?",
+    "answers": [
+      "Cleaning up pollution so the water is healthier",
+      "Dumping trash into the stream",
+      "Removing all the water plants",
+      "Damming the stream until it dries up"
+    ],
+    "solution": "Fish need clean water with oxygen. Removing pollution improves their environment; the other changes harm it.",
+    "hint": "Which choice improves a need fish have?",
+    "format": "prediction",
+    "difficulty": 2,
+    "photoNumbers": [
+      8
+    ]
+  },
+  {
+    "skill": "eco-habitat",
+    "text": "In the Zoo Tour activity, what must a strong solution do for its animal?",
+    "answers": [
+      "Meet all of the animal’s needs and solve the problems",
+      "Look colorful",
+      "Be as small as possible",
+      "Hold as many visitors as possible"
+    ],
+    "solution": "The Expert level of the rubric says the solution addressed the animal’s needs and solved all the problems.",
+    "hint": "Check the Solution row of the rubric.",
+    "format": "design",
+    "difficulty": 2,
+    "photoNumbers": [
+      5
+    ]
+  },
+  {
+    "skill": "eco-habitat",
+    "text": "A zoo is designing a home for a polar bear. Which feature best meets its needs?",
+    "answers": [
+      "Cold water for swimming, space to roam, and a den for shelter",
+      "A hot sandy floor",
+      "A tiny cage with no water",
+      "A tank of warm water only"
+    ],
+    "solution": "Polar bears live in cold Arctic environments, swim in icy water, and use dens. A good habitat copies those conditions.",
+    "hint": "Think about where polar bears live in nature.",
+    "format": "design",
+    "difficulty": 2,
+    "photoNumbers": [
+      5
+    ]
+  },
+  {
+    "skill": "eco-habitat",
+    "text": "What should a desert tortoise enclosure include?",
+    "answers": [
+      "Warm, dry areas, shade or burrows, and plants it can eat",
+      "Deep, cold water",
+      "Snow and ice",
+      "A dark room with no plants"
+    ],
+    "solution": "Desert tortoises need warmth, places to escape the heat, and plants to eat, like their natural desert environment.",
+    "hint": "Match the habitat to a desert.",
+    "format": "design",
+    "difficulty": 2,
+    "photoNumbers": [
+      5
+    ]
+  },
+  {
+    "skill": "eco-habitat",
+    "text": "A team designs a monkey habitat with food, water, and climbing branches but no shaded or sheltered area. What should they add?",
+    "answers": [
+      "Shelter or shade so the monkeys can rest and stay safe from the weather",
+      "More visitor seats",
+      "A bigger sign",
+      "Less food"
+    ],
+    "solution": "Food, water, and space for climbing are met, but shelter is a basic need too. Adding shade or shelter completes the solution.",
+    "hint": "Check the list of needs: food, water, shelter, space.",
+    "format": "design",
+    "difficulty": 3,
+    "photoNumbers": [
+      5
+    ]
+  },
+  {
+    "skill": "eco-habitat",
+    "text": "According to the Zoo Tour rubric, what makes a presentation Expert?",
+    "answers": [
+      "All members take part, stay on topic, are prepared, and finish in 3 minutes or less",
+      "Only one person talks",
+      "It goes over 10 minutes",
+      "The group goes off topic"
+    ],
+    "solution": "The Expert presentation level describes full participation, staying on topic, eye contact, preparation, enthusiasm, a 3-minute limit, and listening to other teams.",
+    "hint": "Look at the Presentation row, Expert column.",
+    "format": "rubric",
+    "difficulty": 2,
+    "photoNumbers": [
+      5
+    ]
+  },
+  {
+    "skill": "eco-habitat",
+    "text": "Which row of the Zoo Tour rubric checks whether the solution meets the animal’s needs?",
+    "answers": [
+      "Solution",
+      "Teamwork",
+      "Presentation",
+      "Name and date"
+    ],
+    "solution": "The Solution row scores how well the design addressed the animal’s needs and solved the problems.",
+    "hint": "Which row talks about the animal’s needs?",
+    "format": "rubric",
+    "difficulty": 2,
+    "photoNumbers": [
+      5
+    ]
+  },
+  {
+    "skill": "eco-habitat",
+    "text": "Why should a zoo habitat be planned around the animal’s natural environment?",
+    "answers": [
+      "The animal’s body and behavior suit those conditions, so copying them helps it meet its needs",
+      "Zoo animals do not have needs",
+      "It always makes the zoo cheaper",
+      "Natural environments do not matter"
+    ],
+    "solution": "Animals are suited to their natural environments. Matching temperature, water, food, and shelter helps a zoo animal stay healthy.",
+    "hint": "Why would a polar bear struggle in a desert?",
+    "format": "reasoning",
+    "difficulty": 3,
+    "photoNumbers": [
+      5
+    ]
+  },
+  {
+    "skill": "eco-habitat",
+    "text": "A team gives a penguin a pool but forgets any dry area. What problem does the design still have?",
+    "answers": [
+      "Penguins also need dry land to rest and nest, not just water",
+      "Penguins cannot swim",
+      "Pools are nonliving, so they are not allowed",
+      "There is no problem"
+    ],
+    "solution": "Penguins swim to hunt but rest, molt, and nest on land or ice. A habitat needs both.",
+    "hint": "Do penguins spend all their time in water?",
+    "format": "design",
+    "difficulty": 3,
+    "photoNumbers": [
+      5
+    ]
+  },
+  {
+    "skill": "eco-habitat",
+    "text": "What is the best first step for designing an animal’s habitat?",
+    "answers": [
+      "Research the animal’s needs: food, water, shelter, space, and climate",
+      "Choose the paint color",
+      "Pick the largest animal",
+      "Build first and check later"
+    ],
+    "solution": "Engineers start by understanding the problem. Here that means learning exactly what the animal needs.",
+    "hint": "Start by finding out what the animal requires.",
+    "format": "design",
+    "difficulty": 2,
+    "photoNumbers": [
+      5
+    ]
+  },
+  {
+    "skill": "eco-habitat",
+    "text": "Which behavior shows Expert teamwork on the Zoo Tour rubric?",
+    "answers": [
+      "Showing respect, listening, sharing ideas, and actively participating",
+      "Letting one person do all the work",
+      "Not getting along on many occasions",
+      "Needing several reminders to stay on task"
+    ],
+    "solution": "The Expert teamwork level describes respect, good listening, sharing ideas, collaborating, celebrating, and active participation.",
+    "hint": "Look at the Teamwork row, Expert column.",
+    "format": "rubric",
+    "difficulty": 2,
+    "photoNumbers": [
+      5
+    ]
+  },
+  {
+    "skill": "eco-habitat",
+    "text": "A frog habitat has a pond and plants, but the pond is filled with untreated tap water containing chlorine. Why is this a problem?",
+    "answers": [
+      "Frogs need clean water, and chemicals can harm them through their skin",
+      "Frogs do not need water",
+      "Chlorine gives frogs extra food",
+      "The plants make the chlorine safe instantly"
+    ],
+    "solution": "Frogs take in water through their thin skin, so chemicals like chlorine can harm them. Their water need is for clean water.",
+    "hint": "How do frogs take in water?",
+    "format": "design",
+    "difficulty": 3,
+    "photoNumbers": [
+      5
+    ]
+  },
+  {
+    "skill": "eco-cer",
+    "text": "In a claim–evidence–reasoning answer, what is the claim?",
+    "answers": [
+      "A statement that answers the question",
+      "The data you collected",
+      "The science idea that explains why",
+      "A list of materials"
+    ],
+    "solution": "The claim is your answer to the question. Evidence supports it with data, and reasoning explains why the evidence supports it.",
+    "hint": "The claim comes first and answers the prompt.",
+    "format": "cer-parts",
+    "difficulty": 1,
+    "photoNumbers": [
+      7
+    ]
+  },
+  {
+    "skill": "eco-cer",
+    "text": "What counts as evidence in a claim–evidence–reasoning answer?",
+    "answers": [
+      "Observations and data that support the claim",
+      "Your opinion",
+      "A guess",
+      "The title of the activity"
+    ],
+    "solution": "Evidence is what you observed or measured, such as the number of survivors each round.",
+    "hint": "Evidence is something you can point to in your data.",
+    "format": "cer-parts",
+    "difficulty": 1,
+    "photoNumbers": [
+      7
+    ]
+  },
+  {
+    "skill": "eco-cer",
+    "text": "What does reasoning do in a claim–evidence–reasoning answer?",
+    "answers": [
+      "Connects the evidence to the claim using a science idea",
+      "Repeats the claim in new words",
+      "Lists the materials",
+      "Gives the date of the activity"
+    ],
+    "solution": "Reasoning explains WHY the evidence supports the claim, using a science idea such as limited resources and competition.",
+    "hint": "Reasoning answers “why does this evidence prove my claim?”",
+    "format": "cer-parts",
+    "difficulty": 2,
+    "photoNumbers": [
+      7
+    ]
+  },
+  {
+    "skill": "eco-cer",
+    "text": "Prompt: Describe the relationship between population size and survival. Which is the best claim?",
+    "answers": [
+      "When a population grows and resources stay the same, fewer individuals survive",
+      "We did Explore 2",
+      "Animals are interesting",
+      "The game had three rounds"
+    ],
+    "solution": "A claim directly answers the prompt by stating the relationship. The other choices do not describe a relationship.",
+    "hint": "A claim answers the prompt in one clear sentence.",
+    "format": "claim",
+    "difficulty": 2,
+    "photoNumbers": [
+      7
+    ]
+  },
+  {
+    "skill": "eco-cer",
+    "text": "Which is the best evidence for the claim that larger populations have fewer survivors when resources are limited?",
+    "answers": [
+      "In round 1 all 6 animals survived, but in round 3 only 3 of 12 animals survived",
+      "The more people there were, the harder it was",
+      "We played a game in class",
+      "Animals need food"
+    ],
+    "solution": "Strong evidence is specific data from the investigation. The first choice compares rounds with numbers; the others are general statements.",
+    "hint": "Look for numbers from the activity.",
+    "format": "evidence",
+    "difficulty": 3,
+    "photoNumbers": [
+      6,
+      7
+    ]
+  },
+  {
+    "skill": "eco-cer",
+    "text": "Which is the best reasoning for that claim?",
+    "answers": [
+      "Resources like food are limited, so when more animals share them, some cannot get enough to survive",
+      "We did Explore 2 and saw it happen",
+      "The more people, the fewer survivors",
+      "Round 3 was the last round"
+    ],
+    "solution": "Reasoning uses a science idea, limited resources and competition, to explain why bigger populations had fewer survivors.",
+    "hint": "Reasoning explains WHY using a science idea, not just what happened.",
+    "format": "reasoning",
+    "difficulty": 3,
+    "photoNumbers": [
+      7
+    ]
+  },
+  {
+    "skill": "eco-cer",
+    "text": "A student’s reasoning says, “We did Explore 2, and the more people there were, the fewer survivors.” What is missing?",
+    "answers": [
+      "The science idea of limited resources and competition that explains why",
+      "More rounds of the game",
+      "A different claim",
+      "Nothing, because it is complete"
+    ],
+    "solution": "That sentence restates what happened. Reasoning must explain why: resources were limited, so more animals competing meant some could not get enough.",
+    "hint": "Does the sentence explain WHY?",
+    "format": "improve",
+    "difficulty": 2,
+    "photoNumbers": [
+      7
+    ]
+  },
+  {
+    "skill": "eco-cer",
+    "text": "In the Decomposition Race, a student wrote, “There was mold on the apples.” Is this a claim, evidence, or reasoning?",
+    "answers": [
+      "Evidence",
+      "Claim",
+      "Reasoning",
+      "None of these"
+    ],
+    "solution": "An observation of mold is evidence: something seen during the investigation.",
+    "hint": "Was this something observed?",
+    "format": "cer-parts",
+    "difficulty": 2,
+    "photoNumbers": [
+      7
+    ]
+  },
+  {
+    "skill": "eco-cer",
+    "text": "Which sentence is reasoning, not evidence?",
+    "answers": [
+      "Animals that cannot get enough food and water cannot survive, so a larger population with the same resources has fewer survivors",
+      "Round 2 had 4 survivors",
+      "Round 3 had 9 animals that did not survive",
+      "Round 1 had 6 survivors"
+    ],
+    "solution": "The first sentence uses a science idea to explain the pattern. The others are data points, which are evidence.",
+    "hint": "Data points are evidence. Which one explains a cause?",
+    "format": "reasoning",
+    "difficulty": 3,
+    "photoNumbers": [
+      7
+    ]
+  },
+  {
+    "skill": "eco-cer",
+    "text": "Why should evidence include numbers when you have them?",
+    "answers": [
+      "Numbers make the evidence specific and easy to check",
+      "Numbers make an answer longer",
+      "Numbers replace the need for a claim",
+      "Numbers are always reasoning"
+    ],
+    "solution": "Specific data, like “3 of 12 survived,” shows exactly what happened and lets others check it.",
+    "hint": "Compare “fewer survived” with “3 of 12 survived.”",
+    "format": "improve",
+    "difficulty": 2,
+    "photoNumbers": [
+      7
+    ]
+  },
+  {
+    "skill": "eco-cer",
+    "text": "A student wrote as evidence: “When the population of a nation increases, there is less food for everyone.” Why is this weak evidence for the class activity?",
+    "answers": [
+      "It is a general idea, not data from the activity; it fits better as reasoning",
+      "It uses too many numbers",
+      "It is a claim about plants",
+      "It is perfect evidence"
+    ],
+    "solution": "Evidence should come from the investigation, such as survivor counts. A general statement about limited food is a science idea, which belongs in reasoning.",
+    "hint": "Did this come from the class data?",
+    "format": "improve",
+    "difficulty": 3,
+    "photoNumbers": [
+      7
+    ]
+  },
+  {
+    "skill": "eco-claim",
+    "text": "Claim: Living and nonliving things interact in an ecosystem. Which is the best supporting evidence?",
+    "answers": [
+      "Plants take in water from the soil and use sunlight to make food",
+      "A rock is gray",
+      "Birds have feathers",
+      "Wolves live in packs"
+    ],
+    "solution": "Plants (living) use water, soil, and sunlight (nonliving), so this shows living and nonliving things interacting. The others do not describe a living–nonliving interaction.",
+    "hint": "Find a living thing using something nonliving.",
+    "format": "evidence",
+    "difficulty": 2,
+    "photoNumbers": [
+      8
+    ]
+  },
+  {
+    "skill": "eco-claim",
+    "text": "Claim: Living and nonliving things interact in an ecosystem. Which evidence supports the claim?",
+    "answers": [
+      "Fish get oxygen from the water they live in",
+      "Fish have fins",
+      "Two fish swim together",
+      "A fish lays eggs"
+    ],
+    "solution": "Fish (living) take in oxygen dissolved in water (nonliving). Fins and egg laying are traits; two fish swimming together is living–living.",
+    "hint": "Which choice links a living thing and a nonliving thing?",
+    "format": "evidence",
+    "difficulty": 2,
+    "photoNumbers": [
+      8
+    ]
+  },
+  {
+    "skill": "eco-claim",
+    "text": "Claim: Living and nonliving things interact in an ecosystem. Which evidence does NOT support this claim?",
+    "answers": [
+      "A hawk eats a mouse",
+      "Earthworms mix and loosen the soil",
+      "A lizard warms itself on a sunny rock",
+      "Tree roots break apart a rock"
+    ],
+    "solution": "A hawk eating a mouse is two living things interacting. It is a real interaction, but it does not support a claim about living and nonliving things.",
+    "hint": "Look for the example with no nonliving part.",
+    "format": "evidence",
+    "difficulty": 3,
+    "photoNumbers": [
+      8
+    ]
+  },
+  {
+    "skill": "eco-claim",
+    "text": "A student’s evidence says, “All organisms need water to survive.” How could it connect to the claim more clearly?",
+    "answers": [
+      "Explain that organisms take in water, a nonliving thing, from their environment",
+      "Remove the word “water”",
+      "Replace it with an opinion",
+      "Nothing needs to change"
+    ],
+    "solution": "Naming the interaction, organisms taking water from their environment, ties the fact directly to the claim about living and nonliving things.",
+    "hint": "Say how the need for water is an interaction.",
+    "format": "improve",
+    "difficulty": 2,
+    "photoNumbers": [
+      8
+    ]
+  },
+  {
+    "skill": "eco-claim",
+    "text": "Which is an example of a nonliving thing affecting living things?",
+    "answers": [
+      "Cold winter temperatures cause some animals to hibernate",
+      "A bear eats berries",
+      "A bee pollinates a flower",
+      "Wolves hunt elk"
+    ],
+    "solution": "Temperature (nonliving) changes animal behavior (living). The other choices are living–living interactions.",
+    "hint": "Which choice starts with a condition like temperature?",
+    "format": "evidence",
+    "difficulty": 2,
+    "photoNumbers": [
+      8
+    ]
+  },
+  {
+    "skill": "eco-claim",
+    "text": "Which is an example of living things affecting nonliving things?",
+    "answers": [
+      "A beaver dam changes the flow of a stream",
+      "Snow falls on a mountain",
+      "Rain fills a lake",
+      "Sunlight melts ice"
+    ],
+    "solution": "Beavers (living) change the stream (nonliving). The other choices are nonliving–nonliving.",
+    "hint": "Which choice has an organism causing the change?",
+    "format": "evidence",
+    "difficulty": 3,
+    "photoNumbers": [
+      8
+    ]
+  },
+  {
+    "skill": "eco-claim",
+    "text": "Living things rely on their ecosystem to survive. Which example shows this?",
+    "answers": [
+      "A bird builds a nest from twigs and grass in a tree",
+      "A rock rolls downhill",
+      "A cloud forms",
+      "Ice melts in spring"
+    ],
+    "solution": "The bird uses materials from its ecosystem for shelter. The others involve no living things.",
+    "hint": "Which example shows an organism using its surroundings?",
+    "format": "evidence",
+    "difficulty": 2,
+    "photoNumbers": [
+      8
+    ]
+  },
+  {
+    "skill": "eco-claim",
+    "text": "How does the Decomposition Race support the claim that living and nonliving things interact?",
+    "answers": [
+      "Earthworms and bacteria broke down the apple and returned matter to the soil",
+      "The apple was cut in half",
+      "The containers had lids",
+      "Observations were made each weekday"
+    ],
+    "solution": "Living worms and bacteria changed the apple and the soil. That is evidence of living things interacting with nonliving matter.",
+    "hint": "Which choice shows organisms changing something?",
+    "format": "evidence",
+    "difficulty": 3,
+    "photoNumbers": [
+      8
+    ]
+  },
+  {
+    "skill": "eco-claim",
+    "text": "Why does the claim organizer ask for four pieces of evidence instead of one?",
+    "answers": [
+      "Several pieces of evidence make a claim stronger and more convincing",
+      "One piece of evidence is always wrong",
+      "Claims do not need evidence",
+      "To make the page longer"
+    ],
+    "solution": "More independent examples show the claim holds in many situations, which makes it more convincing.",
+    "hint": "Is a claim stronger with one example or many?",
+    "format": "improve",
+    "difficulty": 2,
+    "photoNumbers": [
+      8
+    ]
+  },
+  {
+    "skill": "eco-claim",
+    "text": "Which set of four pieces of evidence best supports the claim that living and nonliving things interact?",
+    "answers": [
+      "Plants use sunlight; animals breathe air; fish live in water; worms loosen soil",
+      "Hawks eat mice; foxes eat rabbits; owls eat voles; snakes eat frogs",
+      "Rocks are hard; water is wet; sand is dry; air is clear",
+      "Dogs bark; cats meow; birds sing; frogs croak"
+    ],
+    "solution": "Each example in the first set links a living thing with a nonliving thing. The second set is living–living, the third is only nonliving, and the fourth describes animal sounds.",
+    "hint": "Every piece should pair something living with something nonliving.",
+    "format": "evidence",
+    "difficulty": 3,
+    "photoNumbers": [
+      8
+    ]
+  },
+  {
+    "skill": "eco-claim",
+    "text": "Which nonliving thing does almost every organism interact with?",
+    "answers": [
+      "Water",
+      "A mushroom",
+      "A hawk",
+      "Grass"
+    ],
+    "solution": "Nearly every organism needs water. Mushrooms, hawks, and grass are living things.",
+    "hint": "Which choice is nonliving?",
+    "format": "evidence",
+    "difficulty": 2,
+    "photoNumbers": [
+      8
+    ]
+  }
+]
