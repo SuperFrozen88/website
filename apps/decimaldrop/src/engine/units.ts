@@ -1,11 +1,13 @@
 import type { Skill } from './types';
-export type UnitId = 'decimals' | 'mixtures' | 'matter' | 'multiplication' | 'exploration' | 'plants' | 'foodwebs' | 'division';
+export type UnitId = 'decimals' | 'mixtures' | 'matter' | 'multiplication' | 'exploration' | 'plants' | 'foodwebs' | 'division' | 'ecosystems';
 export interface Unit { id:UnitId; subject:'Math'|'Science'|'Social Studies'; title:string; zone:string; subtitle:string; standard:string; source:string; verified:boolean; rarity:string; accent:string; intel:{title:string;text:string}[]; sources?:{title:string;url:string}[]; }
 import { explorationUnit } from './social-studies';
 import { plantsUnit, plantSkills } from './plants';
 import { foodWebsUnit, foodWebSkills } from './foodwebs';
 import { divisionUnit } from './division';
+import { ecosystemsUnit, ecosystemSkills } from './ecosystems';
 export const units:Unit[] = [
+ ecosystemsUnit,
  foodWebsUnit,
  plantsUnit,
  explorationUnit,
@@ -65,5 +67,5 @@ const scienceDefinitions:[UnitId,string,string,string,string][]=[
  ['matter','matter-state','States of matter','States & changes of state','Describe solid, liquid, and gas using shape, volume, and physical changes.'],
  ['matter','matter-investigate','Scientific reasoning','Fair tests & material choices','Choose a material from property evidence and keep comparison tests fair.'],
 ];
-export const scienceSkills:Skill[]=[...scienceDefinitions.map(([unit,id,group,name,nextStep])=>({unit,id,group,name,nextStep})),...plantSkills,...foodWebSkills];
-export const unitOfSkill=(id:string):UnitId=>id.startsWith('web-')?'foodwebs':id.startsWith('plant-')?'plants':id.startsWith('ss-')?'exploration':id.startsWith('mul-')?'multiplication':id.startsWith('div-')?'division':id.startsWith('mix-')?'mixtures':id.startsWith('matter-')?'matter':'decimals';
+export const scienceSkills:Skill[]=[...scienceDefinitions.map(([unit,id,group,name,nextStep])=>({unit,id,group,name,nextStep})),...plantSkills,...foodWebSkills,...ecosystemSkills];
+export const unitOfSkill=(id:string):UnitId=>id.startsWith('eco-')?'ecosystems':id.startsWith('web-')?'foodwebs':id.startsWith('plant-')?'plants':id.startsWith('ss-')?'exploration':id.startsWith('mul-')?'multiplication':id.startsWith('div-')?'division':id.startsWith('mix-')?'mixtures':id.startsWith('matter-')?'matter':'decimals';
