@@ -36,3 +36,5 @@
 @media(max-width:600px){.plant-review{padding:18px}.plant-review nav ol{grid-template-columns:1fr;gap:10px}.review-topics>details>summary{padding:14px;gap:8px}.review-topics strong{flex:1;min-width:0}.review-status{width:100%;margin-left:26px}.review-body{padding:8px 16px 18px}.review-suggestions{padding:14px}}
 @media(prefers-reduced-motion:reduce){.plant-review *{scroll-behavior:auto}}
 .study-entry{display:inline-block;color:#a8edba;text-decoration:underline;text-underline-offset:4px;margin:8px 0 20px;padding:12px 0;line-height:1.6}
+
+.unit-division{border-bottom-color:#7ad7ff}.unit-division .unit-card-art{color:#7ad7ff}
