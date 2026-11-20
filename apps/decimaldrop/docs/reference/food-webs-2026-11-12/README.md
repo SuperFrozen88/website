@@ -1,5 +1,7 @@
 # Food Chains and Food Webs — November 12, 2026
 
+> **Images moved (2026-11-19):** the original photos and screenshots for this folder are kept in the private `whitejs/website-references` repository (`decimaldrop/` folder), unchanged. Image links on this page work only there. The manifest here still records every file's byte count and SHA-256 hash.
+
 Ten lesson pages were supplied as images in chat and copied unchanged into [pages/](pages/), renamed into reading order. [manifest.json](manifest.json) records each file's original pasted name, byte count, and SHA-256 hash. Normal app play does not load these images.
 
 | # | Page | Coverage | Question skills |

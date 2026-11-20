@@ -1,3 +1,4 @@
+import { checkArchive } from './reference-archive';
 import { it,expect } from 'vitest';
 import { readFileSync } from 'node:fs';
 import { createHash } from 'node:crypto';
@@ -39,4 +40,4 @@ it('suggests gaps without diagnosing one wrong answer and adapts to sustained ne
  row.stale=false;expect(reviewSignal(topic,e).label).toBe('Keep fresh');
  const restored=JSON.parse(baseline);e=assess(restored,Date.now(),'plants');suggestedReview(e);expect(JSON.stringify(restored)).toBe(baseline);
 });
-it('archives the additional17 images byte-for-byte',()=>{const dir=new URL('../../docs/reference/plants-2026-11-05/additional/',import.meta.url);const m=JSON.parse(readFileSync(new URL('manifest.json',dir),'utf8'));expect(m.count).toBe(17);for(const f of m.files){const bytes=readFileSync(new URL(f.filename,dir));expect(bytes.length).toBe(f.bytes);expect(createHash('sha256').update(bytes).digest('hex')).toBe(f.sha256);}});
+it('archives the additional17 images byte-for-byte',()=>{expect(checkArchive('plants-2026-11-05/additional','',17).manifest.count).toBe(17);});

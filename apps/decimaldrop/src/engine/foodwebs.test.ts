@@ -1,3 +1,4 @@
+import { checkArchive } from './reference-archive';
 import { it,expect } from 'vitest';
 import { createHash } from 'node:crypto';
 import { readFileSync } from 'node:fs';
@@ -63,9 +64,6 @@ it('parks an older save’s missions and restores them alongside a new food web 
  p=switchUnit(p,'foodwebs');expect(p.active!.draft.work).toBe('food web draft');expect(p.xp).toBe(priorSave.progress.xp);
 });
 it('archives all 10 lesson pages without changing their bytes',()=>{
- const dir=new URL('../../docs/reference/food-webs-2026-11-12/',import.meta.url);
- const m=JSON.parse(readFileSync(new URL('manifest.json',dir),'utf8')) as {count:number;files:{filename:string;bytes:number;sha256:string}[]};
- expect(m.count).toBe(10);
- for(const f of m.files){const b=readFileSync(new URL('pages/'+f.filename,dir));expect(b.length).toBe(f.bytes);expect(createHash('sha256').update(b).digest('hex')).toBe(f.sha256);}
+ expect(checkArchive('food-webs-2026-11-12','pages',10).manifest.count).toBe(10);
  for(const q of JSON.parse(readFileSync(new URL('./foodwebs-bank.json',import.meta.url),'utf8')) as {photoNumbers:number[]}[])for(const n of q.photoNumbers)expect(n>=1&&n<=10).toBe(true);
 });
