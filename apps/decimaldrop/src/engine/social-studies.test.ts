@@ -1,3 +1,4 @@
+import { checkArchive } from './reference-archive';
 import { describe,it,expect } from 'vitest';
 import { createHash } from 'node:crypto';
 import { readFileSync } from 'node:fs';
@@ -50,8 +51,7 @@ it('preserves every original question definition and imports the previous live S
  let next=startSession(complete(p),'standard',[],'exploration');next=complete(next);expect(next.sessions.at(-1)!.questions.some(q=>q.skill==='ss-europe')).toBe(true);expect(next.sessions.at(-1)!.questions.some(q=>q.skill==='ss-exchange')).toBe(true);
 });
 it('validates screenshot-specific coverage and all 33 unchanged original images',()=>{
- const dir=new URL('../../docs/reference/tci-lesson-4-2026-10-21/',import.meta.url);const manifest=JSON.parse(readFileSync(new URL('manifest.json',dir),'utf8')) as {count:number;files:{filename:string;bytes:number;sha256:string}[]};expect(manifest.count).toBe(33);expect(manifest.files).toHaveLength(33);
- for(const file of manifest.files){const bytes=readFileSync(new URL('screenshots/'+encodeURIComponent(file.filename),dir));expect(bytes.length).toBe(file.bytes);expect(createHash('sha256').update(bytes).digest('hex')).toBe(file.sha256);}
+ expect(checkArchive('tci-lesson-4-2026-10-21','screenshots',33).manifest.files).toHaveLength(33);
  const text=socialStudiesBank.map(q=>q.text+' '+q.answer+' '+q.solution).join(' ');for(const term of ['sonar','grid','movable','scale','round','Ysabel','Old Testament','cacao','1517','1588','Counter-Reformation','triangular','immunity'])expect(text.toLowerCase().includes(term.toLowerCase()),term).toBe(true);
  expect(socialStudiesQuestion('ss-maps',8).answer).toContain('map distances');expect(socialStudiesQuestion('ss-maps',9).answer).toBe('60 kilometers');expect(socialStudiesQuestion('ss-artifacts',8).answer).toBe('Sonar');expect(socialStudiesQuestion('ss-europe',4).answer).toBe('Martin Luther');expect(socialStudiesQuestion('ss-europe',9).answer).toContain('England defeated');expect(socialStudiesQuestion('ss-exchange',1).answer).toBe('Wheat, horses, and cattle');
 });

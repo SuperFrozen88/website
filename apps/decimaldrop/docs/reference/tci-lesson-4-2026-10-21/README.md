@@ -1,5 +1,7 @@
 # TCI Lesson 4 classroom screenshots — October 21, 2026
 
+> **Images moved (2026-11-19):** the original photos and screenshots for this folder are kept in the private `whitejs/website-references` repository (`decimaldrop/` folder), unchanged. Image links on this page work only there. The manifest here still records every file's byte count and SHA-256 hash.
+
 **33 original PNG screenshots were moved from `~/Desktop` into `screenshots/` at the family’s request.** Original filenames, image bytes, dimensions, and image metadata are unchanged. `manifest.json` records each original filename, byte count, SHA-256 digest, and index number. Desktop copies were removed as part of the move; the archived originals are retained here.
 
 The screenshots show the introduction, all **nine numbered sections**, lesson summary, reading checks and activities, **Read & Do: Changes in Europe Spur Exploration**, and **Explore: The Columbian Exchange**. They are now the primary classroom scope reference for the app’s existing Social Studies unit. The earlier published outline was missing the separately numbered Underwater Archaeology section in this edition. Exact coverage of the next classroom quiz is still unconfirmed.

@@ -1,5 +1,7 @@
 # Matter and Energy in Plants — November 5, 2026
 
+> **Images moved (2026-11-19):** the original photos and screenshots for this folder are kept in the private `whitejs/website-references` repository (`decimaldrop/` folder), unchanged. Image links on this page work only there. The manifest here still records every file's byte count and SHA-256 hash.
+
 The initial five original photos were copied unchanged from `~/Downloads/2026_11_05-science_photos`. Downloads originals remain in place. [manifest.json](manifest.json) records filenames, byte counts and SHA-256 hashes. Normal app play does not load these images.
 
 | # | Original | Coverage |

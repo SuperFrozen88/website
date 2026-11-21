@@ -1,5 +1,7 @@
 # Grade 5 classroom planning reference
 
+> **Images moved (2026-11-19):** the original photos and screenshots for this folder are kept in the private `whitejs/website-references` repository (`decimaldrop/` folder), unchanged. Image links on this page work only there. The manifest here still records every file's byte count and SHA-256 hash.
+
 [Original family-provided Social Studies and Science year-plan photo](grade-5-social-studies-science-year-plan.png), supplied October 21, 2026. Preserve the photo unchanged. It guides future unit planning; dates are copied as printed/annotated and are not asserted to match the current calendar. The image contains a schedule, not full lessons or assessment questions.
 
 ## Lesson 4 classroom materials
